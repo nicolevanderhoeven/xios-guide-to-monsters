@@ -2,7 +2,7 @@
 name: Ravenala
 size: Large
 type: Plant
-environment: 
+environment: forests
 hp: 126
 ac: 15
 initiative: 0

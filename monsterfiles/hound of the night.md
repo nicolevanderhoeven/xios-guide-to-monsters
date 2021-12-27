@@ -1,8 +1,8 @@
 ---
-name: hound of the night
+name: Hound of the Night
 size: Large
 type: Monstrosity
-environment: 
+environment: hills,plains,ruins,underground
 hp: 112
 ac: 16
 initiative: 3

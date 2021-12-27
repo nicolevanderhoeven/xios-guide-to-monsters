@@ -1,12 +1,12 @@
 ---
-name: Mummy - venomous
+name: Mummy - Venomous
 size: Medium
 type: Undead
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: desert,ruins,underground
+hp: 58
+ac: 11
+initiative: -1
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 

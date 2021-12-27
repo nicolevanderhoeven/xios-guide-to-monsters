@@ -1,8 +1,8 @@
 ---
-name: Sarcophagus SLime
+name: Sarcophagus Slime
 size: Medium
 type: Undead
-environment: 
+environment: ruins,underground
 hp: 105
 ac: 11
 initiative: 1

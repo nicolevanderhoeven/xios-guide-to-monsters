@@ -1,8 +1,8 @@
 ---
-name: miremal
+name: Miremal
 size: Small
 type: Fey
-environment: 
+environment: marshes
 hp: 22
 ac: 13
 initiative: 3

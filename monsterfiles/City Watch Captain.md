@@ -2,7 +2,7 @@
 name: City Watch Captain
 size: Medium
 type: Humanoid
-environment: 
+environment: urban
 hp: 91
 ac: 17
 initiative: 3

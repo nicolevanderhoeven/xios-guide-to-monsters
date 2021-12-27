@@ -1,8 +1,8 @@
 ---
-name: kobold chieftain
+name: Kobold Chieftain
 size: Small
 type: Humanoid
-environment: 
+environment: ruins,underground,urban
 hp: 82
 ac: 17
 initiative: 3

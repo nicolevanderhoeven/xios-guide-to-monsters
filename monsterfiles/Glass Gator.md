@@ -2,7 +2,7 @@
 name: Glass Gator
 size: Large
 type: Beast
-environment: 
+environment: aquatic,marshes
 hp: 45
 ac: 15
 initiative: 2

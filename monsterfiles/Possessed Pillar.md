@@ -2,7 +2,7 @@
 name: Possessed Pillar
 size: Large
 type: Construct
-environment: 
+environment: desert,urban
 hp: 95
 ac: 14
 initiative: -1

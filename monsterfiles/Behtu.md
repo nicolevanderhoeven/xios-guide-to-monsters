@@ -2,7 +2,7 @@
 name: Behtu
 size: Small
 type: Humanoid
-environment: 
+environment: forests
 hp: 52
 ac: 14
 initiative: 3

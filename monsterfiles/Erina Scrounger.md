@@ -2,7 +2,7 @@
 name: Erina Scrounger
 size: Small
 type: Humanoid
-environment: 
+environment: forests,hills,plains
 hp: 22
 ac: 12
 initiative: 1

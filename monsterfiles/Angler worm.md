@@ -1,8 +1,8 @@
 ---
-name: Angler worm
+name: Angler Worm
 size: Huge
 type: Monstrosity
-environment: 
+environment: ruins,underground
 hp: 133
 ac: 14
 initiative: -3

@@ -2,7 +2,7 @@
 name: Map Mimic
 size: Tiny
 type: Aberration
-environment: 
+environment: ruins,underground
 hp: 32
 ac: 14
 initiative: 2

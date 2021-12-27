@@ -2,7 +2,7 @@
 name: Bereginyas
 size: Tiny
 type: Fey
-environment: 
+environment: mountains
 hp: 70
 ac: 15
 initiative: 5

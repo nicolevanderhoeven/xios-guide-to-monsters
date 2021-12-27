@@ -1,8 +1,8 @@
 ---
-name: dune mimic
+name: Dune Mimic
 size: Huge
 type: Monstrosity
-environment: 
+environment: desert,plains
 hp: 168
 ac: 13
 initiative: -1

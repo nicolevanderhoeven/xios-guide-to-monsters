@@ -2,7 +2,7 @@
 name: Mngwa
 size: Medium
 type: Aberration
-environment: 
+environment: badlands,forests,plains
 hp: 91
 ac: 16
 initiative: 3

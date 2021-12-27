@@ -2,7 +2,7 @@
 name: Death Butterfly Swarm
 size: Large Swarm
 type: Beast
-environment: 
+environment: forests,plains
 hp: 60
 ac: 15
 initiative: 1

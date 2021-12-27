@@ -2,7 +2,7 @@
 name: Bukavac
 size: Large
 type: Monstrosity
-environment: 
+environment: forests,marshes
 hp: 199
 ac: 16
 initiative: 3

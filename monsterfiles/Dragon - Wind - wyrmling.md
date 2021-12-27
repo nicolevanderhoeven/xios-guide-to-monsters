@@ -1,12 +1,12 @@
 ---
-name: Dragon - Wind - wyrmling
+name: Dragon - Wind - Wyrmling
 size: Medium
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: hills,mountains,plains
+hp: 45
+ac: 14
+initiative: 4
+alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 

@@ -1,8 +1,8 @@
 ---
-name: nkosi pridelord
+name: Nkosi Pridelord
 size: Medium
 type: Humanoid
-environment: 
+environment: plains
 hp: 93
 ac: 16
 initiative: 4

@@ -2,7 +2,7 @@
 name: Sand Silhouette
 size: Medium
 type: Undead
-environment: 
+environment: desert
 hp: 105
 ac: 15
 initiative: 2

@@ -2,11 +2,11 @@
 name: Ghoul - Iron
 size: Medium
 type: Undead
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: ruins,underground
+hp: 143
+ac: 16
+initiative: 3
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 

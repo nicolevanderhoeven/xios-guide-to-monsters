@@ -2,13 +2,13 @@
 name: Dragon - Wind - Adult
 size: Huge
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
-legendary: 
-lair: 
+environment: mountains, plains
+hp: 237
+ac: 19
+initiative: 4
+alignment: chaotic neutral
+legendary: legendary
+lair: lair
 unique: 
 cr: 17
 tags: 

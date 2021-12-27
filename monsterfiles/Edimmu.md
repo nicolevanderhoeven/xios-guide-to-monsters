@@ -2,7 +2,7 @@
 name: Edimmu
 size: Medium
 type: Undead
-environment: 
+environment: desert
 hp: 75
 ac: 15
 initiative: 4

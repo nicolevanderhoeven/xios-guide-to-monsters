@@ -2,7 +2,7 @@
 name: Mamura
 size: Small
 type: Aberration
-environment: 
+environment: badlands,ruins,underground
 hp: 97
 ac: 16
 initiative: 4

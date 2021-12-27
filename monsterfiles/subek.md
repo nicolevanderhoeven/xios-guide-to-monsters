@@ -1,8 +1,8 @@
 ---
-name: subek
+name: Subek
 size: Large
 type: Humanoid
-environment: 
+environment: aquatic
 hp: 76
 ac: 17
 initiative: 0

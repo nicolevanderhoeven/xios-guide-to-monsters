@@ -1,8 +1,8 @@
 ---
-name: Library automaton
+name: Library Automaton
 size: Small
 type: Construct
-environment: 
+environment: urban
 hp: 7
 ac: 13
 initiative: 1

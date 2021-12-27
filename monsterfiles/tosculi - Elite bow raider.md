@@ -1,12 +1,12 @@
 ---
-name: tosculi - Elite bow raider
+name: Tosculi - Elite bow raider
 size: Medium
 type: Monstrosity
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: desert,hills,plains
+hp: 97
+ac: 16
+initiative: 4
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

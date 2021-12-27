@@ -2,7 +2,7 @@
 name: Dau
 size: Small
 type: Fey
-environment: 
+environment: desert
 hp: 49
 ac: 13
 initiative: 3

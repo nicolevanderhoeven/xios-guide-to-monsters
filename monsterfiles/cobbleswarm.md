@@ -1,8 +1,8 @@
 ---
-name: cobbleswarm
+name: Cobbleswarm
 size: Medium swarm
 type: Monstrosity
-environment: 
+environment: ruins,underground,urban
 hp: 36
 ac: 15
 initiative: 0

@@ -2,7 +2,7 @@
 name: Frostveil
 size: Medium
 type: Plant
-environment: 
+environment: hills,plains
 hp: 67
 ac: 16
 initiative: 5

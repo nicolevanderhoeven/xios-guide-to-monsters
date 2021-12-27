@@ -2,7 +2,7 @@
 name: Clockwork Watchman
 size: Medium
 type: Construct
-environment: 
+environment: urban
 hp: 55
 ac: 14
 initiative: 1

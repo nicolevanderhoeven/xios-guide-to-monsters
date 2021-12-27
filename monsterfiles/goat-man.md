@@ -1,8 +1,8 @@
 ---
-name: goat-man
+name: Goat-Man
 size: Medium
 type: Monstrosity
-environment: 
+environment: badlands,forests,hills
 hp: 65
 ac: 14
 initiative: 2

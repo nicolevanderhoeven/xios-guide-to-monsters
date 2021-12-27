@@ -2,7 +2,7 @@
 name: Bearfolk
 size: Medium
 type: Humanoid
-environment: 
+environment: forests
 hp: 45
 ac: 14
 initiative: 2

@@ -1,8 +1,8 @@
 ---
-name: roachling skirmisher
+name: Roachling Skirmisher
 size: Small
 type: Humanoid
-environment: 
+environment: ruins,underground,urban
 hp: 7
 ac: 13
 initiative: 2

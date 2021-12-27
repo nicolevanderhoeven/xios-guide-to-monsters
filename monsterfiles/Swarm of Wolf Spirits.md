@@ -2,7 +2,7 @@
 name: Swarm of Wolf Spirits
 size: Large Swarm
 type: Undead
-environment: 
+environment: forests,plains
 hp: 
 ac: 
 initiative: 

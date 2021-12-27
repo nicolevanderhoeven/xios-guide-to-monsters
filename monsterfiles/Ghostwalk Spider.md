@@ -2,7 +2,7 @@
 name: Ghostwalk Spider
 size: Large
 type: Monstrosity
-environment: 
+environment: badlands, forests
 hp: 119
 ac: 15
 initiative: 5

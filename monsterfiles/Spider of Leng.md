@@ -2,7 +2,7 @@
 name: Spider of Leng
 size: Large
 type: Aberration
-environment: 
+environment: hills,mountains
 hp: 144
 ac: 15
 initiative: 3

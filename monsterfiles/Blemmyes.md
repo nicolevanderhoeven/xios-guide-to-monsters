@@ -2,7 +2,7 @@
 name: Blemmyes
 size: Large
 type: Monstrosity
-environment: 
+environment: hills,mountains
 hp: 168
 ac: 15
 initiative: 1

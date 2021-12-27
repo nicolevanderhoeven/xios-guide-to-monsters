@@ -2,7 +2,7 @@
 name: Bear King
 size: Medium
 type: Fey
-environment: 
+environment: forests, hills
 hp: 133
 ac: 18
 initiative: 0

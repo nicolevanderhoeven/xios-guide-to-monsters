@@ -2,11 +2,11 @@
 name: Drake - Elder Shadow
 size: Large
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: forests
+hp: 114
+ac: 16
+initiative: 1
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 

@@ -2,7 +2,7 @@
 name: War Ostrich
 size: Large
 type: Beast
-environment: 
+environment: desert,plains
 hp: 42
 ac: 11
 initiative: 1

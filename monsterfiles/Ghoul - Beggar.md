@@ -2,11 +2,11 @@
 name: Ghoul - Beggar
 size: Medium
 type: Undead
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: ruins,underground,urban
+hp: 13
+ac: 12
+initiative: 2
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 

@@ -1,8 +1,8 @@
 ---
-name: mirager
+name: Mirager
 size: Medium
 type: Fey
-environment: 
+environment: badlands,desert
 hp: 78
 ac: 13
 initiative: 3

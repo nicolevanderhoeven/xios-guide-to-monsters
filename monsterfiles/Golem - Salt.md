@@ -2,7 +2,7 @@
 name: Golem - Salt
 size: Large
 type: Construct
-environment: 
+environment: aquatic,desert
 hp: 
 ac: 
 initiative: 

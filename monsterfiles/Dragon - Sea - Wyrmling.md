@@ -2,11 +2,11 @@
 name: Dragon - Sea - Wyrmling
 size: Medium
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: aquatic
+hp: 52
+ac: 17
+initiative: 0
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

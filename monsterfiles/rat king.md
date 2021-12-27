@@ -1,8 +1,8 @@
 ---
-name: rat king
+name: Rat King
 size: Medium
 type: Monstrosity
-environment: 
+environment: ruins,underground,urban
 hp: 76
 ac: 14
 initiative: 3

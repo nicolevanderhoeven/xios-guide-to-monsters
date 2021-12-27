@@ -2,7 +2,7 @@
 name: Ravenfolk Scout
 size: Medium
 type: Humanoid
-environment: 
+environment: forests,hills,urban
 hp: 21
 ac: 14
 initiative: 2

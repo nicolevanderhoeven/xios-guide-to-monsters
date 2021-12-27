@@ -1,8 +1,8 @@
 ---
-name: nkosi
+name: Nkosi
 size: Medium
 type: Humanoid
-environment: 
+environment: plains
 hp: 11
 ac: 15
 initiative: 3

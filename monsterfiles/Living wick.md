@@ -1,8 +1,8 @@
 ---
-name: Living wick
+name: Living Wick
 size: Small
 type: Construct
-environment: 
+environment: ruins,underground,urban
 hp: 28
 ac: 13
 initiative: 0

@@ -12,5 +12,5 @@ lair:
 unique: 
 cr: 15
 tags: 
-source: "Tome of Beasts II: 155"
+source: "Tome of Beasts 2: 155"
 ---

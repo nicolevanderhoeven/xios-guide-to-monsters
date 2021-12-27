@@ -1,8 +1,8 @@
 ---
-name: Stygian Fat-Tailed scorpion
+name: Stygian Fat-Tailed Scorpion
 size: Tiny
 type: Beast
-environment: 
+environment: desert,forests,plains,ruins,underground
 hp: 10
 ac: 14
 initiative: 3

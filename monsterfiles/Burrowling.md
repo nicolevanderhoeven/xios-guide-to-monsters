@@ -2,7 +2,7 @@
 name: Burrowling
 size: Small
 type: Fey
-environment: 
+environment: plains
 hp: 27
 ac: 13
 initiative: 3

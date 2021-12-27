@@ -1,8 +1,8 @@
 ---
-name: millitaur
+name: Millitaur
 size: Large
 type: Monstrosity
-environment: 
+environment: forests
 hp: 85
 ac: 14
 initiative: 2

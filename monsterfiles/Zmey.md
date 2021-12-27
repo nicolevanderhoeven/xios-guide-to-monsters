@@ -2,7 +2,7 @@
 name: Zmey
 size: Huge
 type: Dragon
-environment: 
+environment: forests
 hp: 189
 ac: 18
 initiative: 1

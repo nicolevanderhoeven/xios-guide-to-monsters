@@ -2,7 +2,7 @@
 name: Erina Defender
 size: Small
 type: Humanoid
-environment: 
+environment: forests,hills,plains
 hp: 44
 ac: 15
 initiative: 2

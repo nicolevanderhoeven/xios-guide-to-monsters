@@ -1,8 +1,8 @@
 ---
-name: loxoda
+name: Loxoda
 size: Huge
 type: Monstrosity
-environment: 
+environment: forests,plains
 hp: 147
 ac: 13
 initiative: 1

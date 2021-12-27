@@ -2,7 +2,7 @@
 name: Clockwork Hound
 size: Medium
 type: Construct
-environment: 
+environment: forests,urban
 hp: 71
 ac: 12
 initiative: 2

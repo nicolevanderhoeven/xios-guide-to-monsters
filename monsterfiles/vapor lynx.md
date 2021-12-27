@@ -1,8 +1,8 @@
 ---
-name: vapor lynx
+name: Vapor Lynx
 size: Large
 type: Monstrosity
-environment: 
+environment: marshes,plains
 hp: 127
 ac: 14
 initiative: 4

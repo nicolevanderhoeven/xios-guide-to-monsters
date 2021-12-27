@@ -2,7 +2,7 @@
 name: Skitterhaunt
 size: Large
 type: Ooze
-environment: 
+environment: badlands,desert,ruins,underground
 hp: 95
 ac: 14
 initiative: 0

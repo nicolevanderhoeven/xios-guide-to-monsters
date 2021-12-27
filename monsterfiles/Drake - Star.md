@@ -2,12 +2,12 @@
 name: Drake - Star
 size: Large
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
-legendary: 
+environment: hills
+hp: 189
+ac: 19
+initiative: 3
+alignment: neutral
+legendary: legendary
 lair: 
 unique: 
 cr: 15

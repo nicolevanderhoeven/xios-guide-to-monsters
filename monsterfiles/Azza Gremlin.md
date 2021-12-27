@@ -2,7 +2,7 @@
 name: Azza Gremlin
 size: Small
 type: Fey
-environment: 
+environment: mountains,urban
 hp: 7
 ac: 14
 initiative: 4

@@ -1,5 +1,5 @@
 ---
-name: Drake - pact
+name: Drake - Pact
 size: Small
 type: Dragon
 environment: 

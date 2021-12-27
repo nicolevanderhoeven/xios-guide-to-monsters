@@ -1,8 +1,8 @@
 ---
-name: scorpion cultist
+name: Scorpion Cultist
 size: Medium
 type: Humanoid
-environment: 
+environment: desert
 hp: 19
 ac: 13
 initiative: 2

@@ -2,7 +2,7 @@
 name: Sandwyrm
 size: Large
 type: Dragon
-environment: 
+environment: desert
 hp: 142
 ac: 15
 initiative: 1

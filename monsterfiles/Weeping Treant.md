@@ -2,7 +2,7 @@
 name: Weeping Treant
 size: Huge
 type: Plant
-environment: 
+environment: forests
 hp: 105
 ac: 17
 initiative: -1

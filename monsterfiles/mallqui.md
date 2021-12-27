@@ -1,5 +1,5 @@
 ---
-name: mallqui
+name: Mallqui
 size: Medium
 type: Undead
 environment: 

@@ -1,5 +1,5 @@
 ---
-name: vile barber
+name: Vile barber
 size: Small
 type: Fey
 environment: 

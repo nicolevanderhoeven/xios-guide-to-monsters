@@ -2,7 +2,7 @@
 name: Mordant Snare
 size: Gargantuan
 type: Aberration
-environment: 
+environment: ruins,underground
 hp: 264
 ac: 18
 initiative: 3

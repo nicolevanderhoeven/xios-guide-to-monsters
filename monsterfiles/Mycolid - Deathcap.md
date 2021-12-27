@@ -2,11 +2,11 @@
 name: Mycolid - Deathcap
 size: Medium
 type: Plant
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: forests,ruins,underground
+hp: 90
+ac: 15
+initiative: 0
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

@@ -2,7 +2,7 @@
 name: Ratatosk
 size: Tiny
 type: Celestial
-environment: 
+environment: forests
 hp: 42
 ac: 14
 initiative: 4

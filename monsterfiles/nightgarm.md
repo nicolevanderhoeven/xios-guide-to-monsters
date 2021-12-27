@@ -1,5 +1,5 @@
 ---
-name: nightgarm
+name: Nightgarm
 size: Large
 type: Monstrosity
 environment: 

@@ -2,11 +2,11 @@
 name: Dragon - Void - Young
 size: Large
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: mountains
+hp: 157
+ac: 18
+initiative: 0
+alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 

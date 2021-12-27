@@ -2,7 +2,7 @@
 name: Jaculus
 size: Small
 type: Dragon
-environment: 
+environment: forests
 hp: 65
 ac: 18
 initiative: 4

@@ -1,8 +1,8 @@
 ---
-name: ramag
+name: Ramag
 size: Medium
 type: Humanoid
-environment: 
+environment: plains,urban
 hp: 27
 ac: 13
 initiative: 2

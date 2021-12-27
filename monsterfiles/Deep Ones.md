@@ -2,7 +2,7 @@
 name: Deep Ones
 size: Medium
 type: Humanoid
-environment: 
+environment: aquatic
 hp: 
 ac: 
 initiative: 

@@ -2,7 +2,7 @@
 name: River King
 size: Medium
 type: Fey
-environment: 
+environment: aquatic
 hp: 152
 ac: 18
 initiative: 3

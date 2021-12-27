@@ -1,8 +1,8 @@
 ---
-name: white ape
+name: White Ape
 size: Large
 type: Monstrosity
-environment: 
+environment: forests
 hp: 114
 ac: 14
 initiative: 3

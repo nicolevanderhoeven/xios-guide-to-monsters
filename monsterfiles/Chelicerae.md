@@ -2,7 +2,7 @@
 name: Chelicerae
 size: Large
 type: Aberration
-environment: 
+environment: badlands
 hp: 153
 ac: 16
 initiative: 3

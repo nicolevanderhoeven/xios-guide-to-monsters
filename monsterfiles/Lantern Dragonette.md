@@ -2,7 +2,7 @@
 name: Lantern Dragonette
 size: Tiny
 type: Dragon
-environment: 
+environment: forests
 hp: 28
 ac: 13
 initiative: 1

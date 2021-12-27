@@ -2,11 +2,11 @@
 name: Drake - Crimson
 size: Tiny
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: forests
+hp: 54
+ac: 14
+initiative: 2
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 

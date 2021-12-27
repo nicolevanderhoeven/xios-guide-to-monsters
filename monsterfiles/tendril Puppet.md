@@ -1,8 +1,8 @@
 ---
-name: tendril Puppet
+name: Tendril Puppet
 size: Medium
 type: Plant
-environment: 
+environment: forests
 hp: 34
 ac: 13
 initiative: 1

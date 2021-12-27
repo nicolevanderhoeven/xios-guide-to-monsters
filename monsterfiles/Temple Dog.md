@@ -2,7 +2,7 @@
 name: Temple Dog
 size: Medium
 type: Celestial
-environment: 
+environment: urban
 hp: 97
 ac: 15
 initiative: 2

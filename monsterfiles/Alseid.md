@@ -2,7 +2,7 @@
 name: Alseid
 size: Medium
 type: Monstrosity
-environment: 
+environment: forests
 hp: 49
 ac: 14
 initiative: 3

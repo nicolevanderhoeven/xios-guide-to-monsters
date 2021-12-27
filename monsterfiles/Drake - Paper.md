@@ -2,11 +2,11 @@
 name: Drake - Paper
 size: Small
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: urban
+hp: 78
+ac: 13
+initiative: 3
+alignment: neutral
 legendary: 
 lair: 
 unique: 

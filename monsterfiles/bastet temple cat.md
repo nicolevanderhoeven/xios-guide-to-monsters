@@ -1,8 +1,8 @@
 ---
-name: bastet temple cat
+name: Bastet Temple Cat
 size: Small
 type: Monstrosity
-environment: 
+environment: urban
 hp: 40
 ac: 14
 initiative: 4

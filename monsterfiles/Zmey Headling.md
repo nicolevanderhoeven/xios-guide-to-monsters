@@ -2,7 +2,7 @@
 name: Zmey Headling
 size: Medium
 type: Dragon
-environment: 
+environment: forests,marshes
 hp: 105
 ac: 16
 initiative: 0

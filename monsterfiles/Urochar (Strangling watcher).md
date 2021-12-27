@@ -2,7 +2,7 @@
 name: Urochar (Strangling watcher)
 size: Huge
 type: Aberration
-environment: 
+environment: ruins,underground
 hp: 256
 ac: 19
 initiative: 2

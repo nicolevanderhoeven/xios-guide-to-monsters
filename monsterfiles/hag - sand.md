@@ -1,8 +1,8 @@
 ---
-name: hag - sand
+name: Hag - Sand
 size: Medium
 type: Monstrosity
-environment: 
+environment: desert
 hp: 
 ac: 
 initiative: 

@@ -2,7 +2,7 @@
 name: Dipsa
 size: Tiny
 type: Ooze
-environment: 
+environment: marshes
 hp: 27
 ac: 15
 initiative: 3

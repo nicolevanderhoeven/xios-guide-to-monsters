@@ -2,7 +2,7 @@
 name: Oozasis
 size: Gargantuan
 type: Ooze
-environment: 
+environment: desert,marshes
 hp: 217
 ac: 7
 initiative: -3

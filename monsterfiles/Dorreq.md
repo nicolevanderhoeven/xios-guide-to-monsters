@@ -2,7 +2,7 @@
 name: Dorreq
 size: Medium
 type: Aberration
-environment: 
+environment: badlands
 hp: 93
 ac: 15
 initiative: 4

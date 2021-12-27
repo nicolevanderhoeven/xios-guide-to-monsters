@@ -2,7 +2,7 @@
 name: Accursed Defiler
 size: Medium
 type: Undead
-environment: 
+environment: badlands, desert
 hp: 75
 ac: 12
 initiative: 2

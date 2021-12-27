@@ -2,7 +2,7 @@
 name: Eel Hound
 size: Medium
 type: Fey
-environment: 
+environment: aquatic
 hp: 77
 ac: 14
 initiative: 3

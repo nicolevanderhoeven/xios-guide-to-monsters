@@ -2,7 +2,7 @@
 name: Clockwork Weaving Spider
 size: Tiny
 type: Construct
-environment: 
+environment: urban
 hp: 25
 ac: 15
 initiative: 3

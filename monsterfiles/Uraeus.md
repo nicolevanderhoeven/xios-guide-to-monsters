@@ -2,7 +2,7 @@
 name: Uraeus
 size: Tiny
 type: Celestial
-environment: 
+environment: ruins,underground
 hp: 40
 ac: 14
 initiative: 2

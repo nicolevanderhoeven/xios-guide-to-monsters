@@ -1,8 +1,8 @@
 ---
-name: leshy
+name: Leshy
 size: Medium
 type: Monstrosity
-environment: 
+environment: forests
 hp: 84
 ac: 14
 initiative: 1

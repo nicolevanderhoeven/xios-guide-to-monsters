@@ -2,7 +2,7 @@
 name: Dragon Eel
 size: Huge
 type: Dragon
-environment: 
+environment: aquatic,ruins,underground
 hp: 230
 ac: 18
 initiative: 1

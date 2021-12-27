@@ -1,8 +1,8 @@
 ---
-name: kobold alchemist
+name: Kobold Alchemist
 size: Small
 type: Humanoid
-environment: 
+environment: ruins,underground,urban
 hp: 44
 ac: 15
 initiative: 3

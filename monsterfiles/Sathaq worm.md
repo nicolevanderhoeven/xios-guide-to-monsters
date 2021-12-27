@@ -1,8 +1,8 @@
 ---
-name: Sathaq worm
+name: Sathaq Worm
 size: Huge
 type: Elemental
-environment: 
+environment: desert,marshes,ruins,underground
 hp: 172
 ac: 16
 initiative: -2

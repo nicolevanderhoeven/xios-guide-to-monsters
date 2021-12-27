@@ -2,7 +2,7 @@
 name: Cavelight Moss
 size: Large
 type: Plant
-environment: 
+environment: ruins,underground
 hp: 95
 ac: 15
 initiative: 0

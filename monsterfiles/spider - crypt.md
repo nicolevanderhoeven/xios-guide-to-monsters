@@ -1,5 +1,5 @@
 ---
-name: spider - crypt
+name: Spider - Crypt
 size: Medium
 type: Beast
 environment: 

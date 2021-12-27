@@ -2,7 +2,7 @@
 name: Lemurfolk (Kaguani)
 size: Small
 type: Humanoid
-environment: 
+environment: forests
 hp: 
 ac: 
 initiative: 

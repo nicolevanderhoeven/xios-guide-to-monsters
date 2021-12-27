@@ -2,7 +2,7 @@
 name: Dogmole Juggernaut
 size: Large
 type: Monstrosity
-environment: 
+environment: hills,mountains,ruins,underground
 hp: 126
 ac: 15
 initiative: 2

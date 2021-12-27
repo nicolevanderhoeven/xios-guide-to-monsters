@@ -2,7 +2,7 @@
 name: Ravenfolk Warrior
 size: Medium
 type: Humanoid
-environment: 
+environment: forests,hills,urban
 hp: 78
 ac: 15
 initiative: 3

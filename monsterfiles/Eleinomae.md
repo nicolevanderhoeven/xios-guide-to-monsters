@@ -2,7 +2,7 @@
 name: Eleinomae
 size: Medium
 type: Fey
-environment: 
+environment: marshes
 hp: 112
 ac: 18
 initiative: 4

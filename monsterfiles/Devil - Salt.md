@@ -2,7 +2,7 @@
 name: Devil - Salt
 size: Medium
 type: Fiend
-environment: 
+environment: desert
 hp: 
 ac: 
 initiative: 

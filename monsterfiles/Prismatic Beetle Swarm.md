@@ -2,7 +2,7 @@
 name: Prismatic Beetle Swarm
 size: Medium
 type: Beast
-environment: 
+environment: forests
 hp: 38
 ac: 13
 initiative: 3

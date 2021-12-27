@@ -1,5 +1,5 @@
 ---
-name: malphas
+name: Malphas
 size: Medium
 type: Fey
 environment: 

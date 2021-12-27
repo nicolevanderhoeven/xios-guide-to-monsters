@@ -1,8 +1,8 @@
 ---
-name: horakh
+name: Horakh
 size: Medium
 type: Monstrosity
-environment: 
+environment: desert,plains,ruins,underground
 hp: 161
 ac: 17
 initiative: 4

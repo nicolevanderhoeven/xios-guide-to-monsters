@@ -2,7 +2,7 @@
 name: Sap Demon
 size: Small
 type: Ooze
-environment: 
+environment: forests
 hp: 67
 ac: 13
 initiative: -2

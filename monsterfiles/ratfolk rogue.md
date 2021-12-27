@@ -1,8 +1,8 @@
 ---
-name: ratfolk rogue
+name: Ratfolk rogue
 size: Small
 type: Humanoid
-environment: 
+environment: ruins,underground,urban
 hp: 18
 ac: 15
 initiative: 3

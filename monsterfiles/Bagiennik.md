@@ -2,7 +2,7 @@
 name: Bagiennik
 size: Medium
 type: Aberration
-environment: 
+environment: forests,marshes
 hp: 75
 ac: 15
 initiative: 4

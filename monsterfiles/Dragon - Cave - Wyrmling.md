@@ -2,11 +2,11 @@
 name: Dragon - Cave - Wyrmling
 size: Medium
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: ruins,underground
+hp: 75
+ac: 16
+initiative: 1
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

@@ -1,8 +1,8 @@
 ---
-name: wampus cat
+name: Wampus Cat
 size: Medium
 type: Monstrosity
-environment: 
+environment: forests,hills
 hp: 58
 ac: 14
 initiative: 4

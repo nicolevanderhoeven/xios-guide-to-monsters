@@ -2,7 +2,7 @@
 name: Deep One Priest
 size: Medium
 type: Humanoid
-environment: 
+environment: aquatic
 hp: 
 ac: 
 initiative: 

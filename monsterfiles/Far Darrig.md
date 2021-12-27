@@ -2,7 +2,7 @@
 name: Far Darrig
 size: Small
 type: Fey
-environment: 
+environment: forests,plains
 hp: 104
 ac: 14
 initiative: 3

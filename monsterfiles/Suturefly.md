@@ -2,7 +2,7 @@
 name: Suturefly
 size: Tiny
 type: Beast
-environment: 
+environment: forests,marshes
 hp: 7
 ac: 14
 initiative: 4

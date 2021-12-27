@@ -2,7 +2,7 @@
 name: Shabti
 size: Medium
 type: Construct
-environment: 
+environment: marshes,ruins,underground
 hp: 102
 ac: 17
 initiative: 5

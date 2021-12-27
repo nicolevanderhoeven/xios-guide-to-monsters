@@ -2,7 +2,7 @@
 name: Derro - Shadow Antipaladin
 size: Small
 type: Humanoid
-environment: 
+environment: ruins,underground
 hp: 
 ac: 
 initiative: 

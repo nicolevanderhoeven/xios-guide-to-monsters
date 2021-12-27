@@ -1,5 +1,5 @@
 ---
-name: Void giant
+name: Void Giant
 size: huge
 type: Giant
 environment: 

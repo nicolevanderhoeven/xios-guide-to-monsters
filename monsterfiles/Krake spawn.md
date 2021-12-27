@@ -2,7 +2,7 @@
 name: Krake spawn
 size: Huge
 type: Monstrosity
-environment: 
+environment: aquatic
 hp: 150
 ac: 16
 initiative: 1

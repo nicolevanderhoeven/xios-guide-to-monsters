@@ -1,8 +1,8 @@
 ---
-name: lorelei
+name: Lorelei
 size: Medium
 type: Fey
-environment: 
+environment: aquatic
 hp: 76
 ac: 15
 initiative: 5

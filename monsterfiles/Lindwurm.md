@@ -2,7 +2,7 @@
 name: Lindwurm
 size: Large
 type: Dragon
-environment: 
+environment: forests, hills
 hp: 136
 ac: 15
 initiative: 5

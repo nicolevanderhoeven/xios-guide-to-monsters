@@ -2,7 +2,7 @@
 name: Boloti
 size: Tiny
 type: Fey
-environment: 
+environment: marshes
 hp: 63
 ac: 15
 initiative: 5

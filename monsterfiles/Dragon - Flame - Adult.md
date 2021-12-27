@@ -2,13 +2,13 @@
 name: Dragon - Flame - Adult
 size: Huge
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
-legendary: 
-lair: 
+environment: mountains
+hp: 212
+ac: 19
+initiative: 2
+alignment: chaotic evil
+legendary: legendary
+lair: lair
 unique: 
 cr: 16
 tags: 

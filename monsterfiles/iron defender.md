@@ -1,5 +1,5 @@
 ---
-name: iron defender
+name: Iron Defender
 size: Medium
 type: Construct
 environment: 

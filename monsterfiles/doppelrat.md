@@ -1,8 +1,8 @@
 ---
-name: doppelrat
+name: Doppelrat
 size: Tiny
 type: Monstrosity
-environment: 
+environment: ruins,underground,urban
 hp: 22
 ac: 13
 initiative: 3

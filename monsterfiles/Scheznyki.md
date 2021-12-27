@@ -2,7 +2,7 @@
 name: Scheznyki
 size: Small
 type: Fey
-environment: 
+environment: hills,ruins,underground
 hp: 153
 ac: 16
 initiative: 2

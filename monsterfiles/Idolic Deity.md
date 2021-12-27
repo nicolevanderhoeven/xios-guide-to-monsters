@@ -2,7 +2,7 @@
 name: Idolic Deity
 size: Small
 type: Construct
-environment: 
+environment: ruins,underground
 hp: 90
 ac: 17
 initiative: 5

@@ -1,8 +1,8 @@
 ---
-name: mahoru
+name: Mahoru
 size: Large
 type: Monstrosity
-environment: 
+environment: aquatic
 hp: 91
 ac: 15
 initiative: 4

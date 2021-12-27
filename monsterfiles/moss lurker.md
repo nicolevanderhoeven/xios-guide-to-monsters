@@ -1,8 +1,8 @@
 ---
-name: moss lurker
+name: Moss Lurker
 size: Small
 type: Humanoid
-environment: 
+environment: forests,marshes,ruins,underground
 hp: 45
 ac: 15
 initiative: 2

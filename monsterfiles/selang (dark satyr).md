@@ -1,8 +1,8 @@
 ---
-name: selang (dark satyr)
+name: Selang (dark satyr)
 size: Medium
 type: Fey
-environment: 
+environment: badlands
 hp: 
 ac: 
 initiative: 

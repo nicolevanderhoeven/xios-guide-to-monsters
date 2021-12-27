@@ -2,7 +2,7 @@
 name: Manabane Scarab Swarm
 size: Medium
 type: Beast
-environment: 
+environment: desert
 hp: 75
 ac: 15
 initiative: 3

@@ -2,7 +2,7 @@
 name: Asanbosam
 size: Large
 type: Aberration
-environment: 
+environment: forests
 hp: 102
 ac: 14
 initiative: 1

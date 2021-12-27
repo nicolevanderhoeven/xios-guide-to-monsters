@@ -2,7 +2,7 @@
 name: Ink Devil
 size: Small
 type: Fiend
-environment: 
+environment: ruins,underground,urban
 hp: 54
 ac: 14
 initiative: 4

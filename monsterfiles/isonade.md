@@ -2,7 +2,7 @@
 name: isonade
 size: Gargantuan
 type: Monstrosity
-environment: 
+environment: aquatic
 hp: 222
 ac: 18
 initiative: 2

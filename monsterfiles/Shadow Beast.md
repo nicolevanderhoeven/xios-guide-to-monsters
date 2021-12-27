@@ -2,7 +2,7 @@
 name: Shadow Beast
 size: Medium
 type: Fey
-environment: 
+environment: badlands,forests,ruins,underground
 hp: 135
 ac: 14
 initiative: 4

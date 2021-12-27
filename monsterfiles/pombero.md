@@ -1,8 +1,8 @@
 ---
-name: pombero
+name: Pombero
 size: Medium
 type: Fey
-environment: 
+environment: forests
 hp: 90
 ac: 15
 initiative: 3

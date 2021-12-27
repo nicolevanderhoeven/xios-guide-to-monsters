@@ -2,11 +2,11 @@
 name: Dragon - Mithral - Young
 size: Medium
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: mountains
+hp: 92
+ac: 16
+initiative: 6
+alignment: neutral
 legendary: 
 lair: 
 unique: 

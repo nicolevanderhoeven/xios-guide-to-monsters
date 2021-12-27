@@ -1,8 +1,8 @@
 ---
-name: roachling lord
+name: Roachling Lord
 size: Small
 type: Humanoid
-environment: 
+environment: ruins,underground,urban
 hp: 63
 ac: 15
 initiative: 3

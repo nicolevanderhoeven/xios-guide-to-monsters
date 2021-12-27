@@ -1,12 +1,12 @@
 ---
-name: Gnoll - havoc runner
+name: Gnoll - Havoc Runner
 size: Medium
 type: Humanoid
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: desert,plains
+hp: 58
+ac: 15
+initiative: 2
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 

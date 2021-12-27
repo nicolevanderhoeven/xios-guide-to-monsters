@@ -2,7 +2,7 @@
 name: Titanoboa
 size: Gargantuan
 type: Beast
-environment: 
+environment: forests
 hp: 232
 ac: 14
 initiative: 0

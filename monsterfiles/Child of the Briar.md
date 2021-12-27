@@ -2,7 +2,7 @@
 name: Child of the Briar
 size: Tiny
 type: Plant
-environment: 
+environment: forests
 hp: 50
 ac: 13
 initiative: 3

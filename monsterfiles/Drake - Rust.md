@@ -2,11 +2,11 @@
 name: Drake - Rust
 size: Medium
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: ruins,underground,urban
+hp: 161
+ac: 17
+initiative: 2
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 

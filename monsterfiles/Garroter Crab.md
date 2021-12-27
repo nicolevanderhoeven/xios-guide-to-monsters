@@ -2,7 +2,7 @@
 name: Garroter Crab
 size: Tiny
 type: Beast
-environment: 
+environment: aquatic
 hp: 18
 ac: 13
 initiative: 2

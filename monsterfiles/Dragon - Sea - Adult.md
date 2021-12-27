@@ -2,13 +2,13 @@
 name: Dragon - Sea - Adult
 size: Huge
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
-legendary: 
-lair: 
+environment: aquatic
+hp: 225
+ac: 19
+initiative: 0
+alignment: neutral evil
+legendary: legendary
+lair: lair
 unique: 
 cr: 16
 tags: 

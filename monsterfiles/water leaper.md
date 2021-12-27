@@ -1,8 +1,8 @@
 ---
-name: water leaper
+name: Water Leaper
 size: Large
 type: Monstrosity
-environment: 
+environment: aquatic
 hp: 96
 ac: 14
 initiative: 2

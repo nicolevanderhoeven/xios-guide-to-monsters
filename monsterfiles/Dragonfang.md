@@ -2,7 +2,7 @@
 name: Dragonfang
 size: Medium
 type: Humanoid
-environment: dungeon, urban
+environment: dungeon,urban
 hp: 78
 ac: 15
 initiative: 3

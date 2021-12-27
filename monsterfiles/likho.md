@@ -1,8 +1,8 @@
 ---
-name: likho
+name: Likho
 size: Medium
 type: Monstrosity
-environment: 
+environment: forests
 hp: 90
 ac: 15
 initiative: 4

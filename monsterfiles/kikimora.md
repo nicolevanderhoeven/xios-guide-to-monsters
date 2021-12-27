@@ -1,8 +1,8 @@
 ---
-name: kikimora
+name: Kikimora
 size: Medium
 type: Fey
-environment: 
+environment: urban
 hp: 65
 ac: 15
 initiative: 4

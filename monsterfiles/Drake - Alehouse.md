@@ -2,11 +2,11 @@
 name: Drake - Alehouse
 size: Tiny
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: urban
+hp: 65
+ac: 13
+initiative: 3
+alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 

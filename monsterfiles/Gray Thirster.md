@@ -2,7 +2,7 @@
 name: Gray Thirster
 size: Medium
 type: Undead
-environment: 
+environment: desert
 hp: 39
 ac: 13
 initiative: 3

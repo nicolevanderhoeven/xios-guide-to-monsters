@@ -2,7 +2,7 @@
 name: Vesiculosa
 size: Gargantuan
 type: Plant
-environment: 
+environment: badlands,desert
 hp: 203
 ac: 15
 initiative: 0

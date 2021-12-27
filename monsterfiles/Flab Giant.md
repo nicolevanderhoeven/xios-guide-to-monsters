@@ -2,7 +2,7 @@
 name: Flab Giant
 size: Large
 type: Giant
-environment: 
+environment: hills,mountains
 hp: 110
 ac: 14
 initiative: -2

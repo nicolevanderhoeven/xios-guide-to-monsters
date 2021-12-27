@@ -2,11 +2,11 @@
 name: Dragon - Cave - Young
 size: Large
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: ruins,underground
+hp: 157
+ac: 17
+initiative: 1
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

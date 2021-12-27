@@ -1,8 +1,8 @@
 ---
-name: lemurfolk - greyfur
+name: Lemurfolk - Greyfur
 size: Small
 type: Humanoid
-environment: 
+environment: forests
 hp: 
 ac: 
 initiative: 

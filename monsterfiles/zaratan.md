@@ -1,8 +1,8 @@
 ---
-name: zaratan
+name: Zaratan
 size: Gargantuan
 type: Monstrosity
-environment: 
+environment: aquatic
 hp: 507
 ac: 25
 initiative: -4

@@ -2,7 +2,7 @@
 name: Gerridae
 size: Large
 type: Fey
-environment: 
+environment: aquatic
 hp: 77
 ac: 14
 initiative: 2

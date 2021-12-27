@@ -1,8 +1,8 @@
 ---
-name: kot Bayun
+name: Kot Bayun
 size: Medium
 type: Monstrosity
-environment: 
+environment: hills,mountains,ruins,underground
 hp: 44
 ac: 15
 initiative: 3

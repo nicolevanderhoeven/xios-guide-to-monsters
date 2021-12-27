@@ -1,5 +1,5 @@
 ---
-name: vila
+name: Vila
 size: Medium
 type: Fey
 environment: 

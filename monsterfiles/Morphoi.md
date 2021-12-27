@@ -2,7 +2,7 @@
 name: Morphoi
 size: Medium
 type: Plant
-environment: 
+environment: aquatic
 hp: 33
 ac: 13
 initiative: 3

@@ -2,7 +2,7 @@
 name: Serpopard
 size: Large
 type: Beast
-environment: 
+environment: marshes
 hp: 85
 ac: 15
 initiative: 3

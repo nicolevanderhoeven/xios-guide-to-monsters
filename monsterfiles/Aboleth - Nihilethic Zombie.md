@@ -2,7 +2,7 @@
 name: Aboleth - Nihilethic Zombie
 size: Medium
 type: Undead
-environment: 
+environment: aquatic,ruins,underground
 hp: 
 ac: 
 initiative: 

@@ -1,5 +1,5 @@
 ---
-name: cats of Ulthar
+name: Cats of Ulthar
 size: Huge swarm
 type: Beast
 environment: 

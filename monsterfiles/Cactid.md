@@ -2,7 +2,7 @@
 name: Cactid
 size: Large
 type: Plant
-environment: 
+environment: desert
 hp: 76
 ac: 14
 initiative: -1

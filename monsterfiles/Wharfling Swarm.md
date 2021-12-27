@@ -2,7 +2,7 @@
 name: Wharfling Swarm
 size: Large Swarm
 type: Beast
-environment: 
+environment: aquatic
 hp: 63
 ac: 14
 initiative: 3

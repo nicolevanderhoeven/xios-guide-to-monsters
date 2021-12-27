@@ -2,7 +2,7 @@
 name: Shellycoat
 size: Medium
 type: Fey
-environment: 
+environment: ruins,underground
 hp: 75
 ac: 14
 initiative: 2

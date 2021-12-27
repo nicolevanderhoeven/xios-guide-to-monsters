@@ -1,5 +1,5 @@
 ---
-name: giant mongoose
+name: Giant Mongoose
 size: Medium
 type: Beast
 environment: 
@@ -12,5 +12,5 @@ lair:
 unique: 
 cr: 1/4
 tags: 
-source: "Tome of Beasts II: 393"
+source: "Tome of Beasts 2: 393"
 ---

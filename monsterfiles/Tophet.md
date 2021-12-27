@@ -2,7 +2,7 @@
 name: Tophet
 size: Huge
 type: Construct
-environment: 
+environment: urban
 hp: 184
 ac: 16
 initiative: 0

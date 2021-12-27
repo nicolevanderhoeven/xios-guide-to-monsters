@@ -2,7 +2,7 @@
 name: Amphiptere
 size: Medium
 type: Beast
-environment: 
+environment: forests
 hp: 60
 ac: 15
 initiative: 4

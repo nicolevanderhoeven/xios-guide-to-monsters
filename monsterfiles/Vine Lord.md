@@ -2,7 +2,7 @@
 name: Vine Lord
 size: Medium
 type: Plant
-environment: 
+environment: forests
 hp: 105
 ac: 16
 initiative: 5

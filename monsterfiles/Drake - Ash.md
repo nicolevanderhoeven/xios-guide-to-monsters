@@ -2,11 +2,11 @@
 name: Drake - Ash
 size: Small
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: mountains,urban
+hp: 117
+ac: 16
+initiative: 2
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

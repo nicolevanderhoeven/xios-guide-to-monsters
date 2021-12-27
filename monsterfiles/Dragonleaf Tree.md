@@ -2,7 +2,7 @@
 name: Dragonleaf Tree
 size: Large
 type: Plant
-environment: 
+environment: forests,urban
 hp: 152
 ac: 16
 initiative: 0

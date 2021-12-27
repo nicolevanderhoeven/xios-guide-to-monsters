@@ -12,5 +12,5 @@ lair:
 unique: 
 cr: 1
 tags: 
-source: "Tome of Beasts II: 374"
+source: "Tome of Beasts 2: 374"
 ---

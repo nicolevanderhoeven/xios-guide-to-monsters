@@ -2,11 +2,11 @@
 name: Dragon - Void - Wyrmling
 size: Medium
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: mountains
+hp: 45
+ac: 17
+initiative: 0
+alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 

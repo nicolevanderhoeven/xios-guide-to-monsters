@@ -2,7 +2,7 @@
 name: Aboleth - Nihileth
 size: Large
 type: Undead
-environment: 
+environment: any
 hp: 
 ac: 
 initiative: 

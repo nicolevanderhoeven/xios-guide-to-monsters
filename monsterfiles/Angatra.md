@@ -2,7 +2,7 @@
 name: Angatra
 size: Medium
 type: Undead
-environment: 
+environment: forests
 hp: 85
 ac: 17
 initiative: 5

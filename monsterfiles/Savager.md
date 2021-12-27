@@ -2,7 +2,7 @@
 name: Savager
 size: Large
 type: Beast
-environment: 
+environment: forests,plains
 hp: 115
 ac: 17
 initiative: 2

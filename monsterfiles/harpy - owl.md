@@ -1,8 +1,8 @@
 ---
-name: harpy - owl
+name: Harpy - Owl
 size: Medium
 type: Monstrosity
-environment: 
+environment: desert,forests,urban
 hp: 
 ac: 
 initiative: 

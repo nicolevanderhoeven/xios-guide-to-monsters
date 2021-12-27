@@ -2,7 +2,7 @@
 name: Troll - Lake
 size: Large
 type: Giant
-environment: 
+environment: aquatic
 hp: 
 ac: 
 initiative: 

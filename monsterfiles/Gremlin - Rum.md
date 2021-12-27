@@ -2,7 +2,7 @@
 name: Gremlin - Rum
 size: Tiny
 type: Fey
-environment: 
+environment: aquatic
 hp: 
 ac: 
 initiative: 

@@ -2,7 +2,7 @@
 name: Dream Eater
 size: Medium
 type: Fiend
-environment: 
+environment: ruins,underground,urban
 hp: 133
 ac: 17
 initiative: 5

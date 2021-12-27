@@ -2,7 +2,7 @@
 name: Derro Fetal Savant
 size: Tiny
 type: Humanoid
-environment: 
+environment: ruins,underground
 hp: 2
 ac: 15
 initiative: -5

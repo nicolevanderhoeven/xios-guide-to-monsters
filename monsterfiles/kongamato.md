@@ -2,7 +2,7 @@
 name: kongamato
 size: Large
 type: Beast
-environment: 
+environment: marshes,plains
 hp: 112
 ac: 16
 initiative: 4

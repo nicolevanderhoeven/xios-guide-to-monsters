@@ -2,11 +2,11 @@
 name: Dragon - Sea - Young
 size: Large
 type: Dragon
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: aquatic,mountains
+hp: 152
+ac: 18
+initiative: 0
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

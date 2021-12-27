@@ -1,8 +1,8 @@
 ---
-name: ratfolk
+name: Ratfolk
 size: Small
 type: Humanoid
-environment: 
+environment: ruins,underground,urban
 hp: 7
 ac: 14
 initiative: 2

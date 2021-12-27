@@ -2,7 +2,7 @@
 name: Clockwork Huntsman
 size: Medium
 type: Construct
-environment: 
+environment: forests,urban
 hp: 110
 ac: 14
 initiative: 2

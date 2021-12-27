@@ -2,7 +2,7 @@
 name: Bone Crab
 size: Small
 type: Beast
-environment: 
+environment: aquatic
 hp: 33
 ac: 13
 initiative: 2

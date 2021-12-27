@@ -2,7 +2,7 @@
 name: Gbahali
 size: Huge
 type: Beast
-environment: 
+environment: plains
 hp: 126
 ac: 15
 initiative: 2

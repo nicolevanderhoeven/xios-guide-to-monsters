@@ -2,7 +2,7 @@
 name: Tusked Skyfish
 size: Large
 type: Aberration
-environment: 
+environment: hills,plains
 hp: 102
 ac: 14
 initiative: 1

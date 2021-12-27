@@ -2,7 +2,7 @@
 name: Ushabti
 size: Large
 type: Construct
-environment: 
+environment: ruins,underground
 hp: 105
 ac: 18
 initiative: 3

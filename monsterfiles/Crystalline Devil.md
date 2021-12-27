@@ -2,7 +2,7 @@
 name: Crystalline Devil
 size: Medium
 type: Fiend
-environment: 
+environment: ruins,underground,urban
 hp: 102
 ac: 15
 initiative: 1

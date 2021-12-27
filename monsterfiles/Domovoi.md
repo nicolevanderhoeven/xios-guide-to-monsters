@@ -2,7 +2,7 @@
 name: Domovoi
 size: Medium
 type: Fey
-environment: 
+environment: desert,forests
 hp: 93
 ac: 15
 initiative: 1

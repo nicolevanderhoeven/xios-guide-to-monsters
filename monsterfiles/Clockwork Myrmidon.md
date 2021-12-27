@@ -2,7 +2,7 @@
 name: Clockwork Myrmidon
 size: Large
 type: Construct
-environment: 
+environment: forests,plains,urban
 hp: 153
 ac: 16
 initiative: 2

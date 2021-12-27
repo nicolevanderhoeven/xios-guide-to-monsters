@@ -2,7 +2,7 @@
 name: Ostinato
 size: Medium
 type: Aberration
-environment: 
+environment: ruins,underground
 hp: 39
 ac: 15
 initiative: 5

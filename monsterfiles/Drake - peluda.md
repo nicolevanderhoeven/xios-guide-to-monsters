@@ -1,5 +1,5 @@
 ---
-name: Drake - peluda
+name: Drake - Peluda
 size: Large
 type: Dragon
 environment: 

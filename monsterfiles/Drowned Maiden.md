@@ -2,7 +2,7 @@
 name: Drowned Maiden
 size: Medium
 type: Undead
-environment: 
+environment: aquatic
 hp: 90
 ac: 15
 initiative: 3

@@ -1,8 +1,8 @@
 ---
-name: stryx
+name: Stryx
 size: Tiny
 type: Monstrosity
-environment: 
+environment: forests,urban
 hp: 10
 ac: 13
 initiative: 3

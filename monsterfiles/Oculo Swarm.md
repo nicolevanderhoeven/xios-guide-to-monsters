@@ -2,7 +2,7 @@
 name: Oculo Swarm
 size: Large Swarm
 type: Aberration
-environment: 
+environment: ruins,underground
 hp: 130
 ac: 15
 initiative: 5

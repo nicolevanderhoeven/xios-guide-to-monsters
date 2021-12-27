@@ -2,7 +2,7 @@
 name: J'Ba Fofi Spider
 size: Large
 type: Beast
-environment: 
+environment: forests
 hp: 75
 ac: 18
 initiative: 3

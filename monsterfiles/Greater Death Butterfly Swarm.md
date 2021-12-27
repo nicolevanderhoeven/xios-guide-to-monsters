@@ -2,7 +2,7 @@
 name: Greater Death Butterfly Swarm
 size: Huge Swarm
 type: Beast
-environment: 
+environment: forests,plains
 hp: 84
 ac: 15
 initiative: 3

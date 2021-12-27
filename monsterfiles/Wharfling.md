@@ -2,7 +2,7 @@
 name: Wharfling
 size: Tiny
 type: Beast
-environment: 
+environment: aquatic
 hp: 6
 ac: 13
 initiative: 3

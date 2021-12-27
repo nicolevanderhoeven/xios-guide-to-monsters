@@ -2,7 +2,7 @@
 name: Sand Spider
 size: Large
 type: Beast
-environment: 
+environment: desert,plains
 hp: 105
 ac: 15
 initiative: 3

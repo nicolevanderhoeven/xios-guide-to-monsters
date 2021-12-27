@@ -2,7 +2,7 @@
 name: Treacle
 size: Tiny
 type: Ooze
-environment: 
+environment: forests,plains,urban
 hp: 22
 ac: 13
 initiative: -2

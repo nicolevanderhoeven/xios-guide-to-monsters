@@ -2,7 +2,7 @@
 name: Gug
 size: Huge
 type: Giant
-environment: 
+environment: ruins,underground
 hp: 270
 ac: 17
 initiative: 0

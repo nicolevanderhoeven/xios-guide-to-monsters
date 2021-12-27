@@ -2,7 +2,7 @@
 name: Ychen Bannog
 size: Gargantuan
 type: Beast
-environment: 
+environment: forests,hills,mountains
 hp: 231
 ac: 17
 initiative: 0

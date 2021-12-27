@@ -2,7 +2,7 @@
 name: Emperor of the Ghouls
 size: Medium
 type: Undead
-environment: 
+environment: ruins,underground,urban
 hp: 204
 ac: 20
 initiative: 2

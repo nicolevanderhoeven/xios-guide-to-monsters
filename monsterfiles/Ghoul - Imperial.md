@@ -2,11 +2,11 @@
 name: Ghoul - Imperial
 size: Medium
 type: Undead
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: ruins,underground
+hp: 93
+ac: 16
+initiative: 2
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 

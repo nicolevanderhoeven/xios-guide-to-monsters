@@ -2,7 +2,7 @@
 name: Dogmole
 size: Medium
 type: Beast
-environment: 
+environment: forests, hills,mountains
 hp: 71
 ac: 14
 initiative: 3

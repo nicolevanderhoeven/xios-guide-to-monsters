@@ -2,7 +2,7 @@
 name: Rusalka
 size: Medium
 type: Fey
-environment: 
+environment: aquatic
 hp: 97
 ac: 17
 initiative: 4

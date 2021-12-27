@@ -2,7 +2,7 @@
 name: Cambium
 size: Large
 type: Fiend
-environment: 
+environment: urban
 hp: 264
 ac: 19
 initiative: 3

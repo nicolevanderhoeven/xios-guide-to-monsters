@@ -2,7 +2,7 @@
 name: Putrid Haunt
 size: Medium
 type: Undead
-environment: 
+environment: marshes
 hp: 44
 ac: 13
 initiative: -1

@@ -2,7 +2,7 @@
 name: Dryad - Duskthorn
 size: Medium
 type: Fey
-environment: 
+environment: forests
 hp: 
 ac: 
 initiative: 

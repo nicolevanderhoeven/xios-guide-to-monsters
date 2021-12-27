@@ -2,7 +2,7 @@
 name: Degenerate Titan
 size: Huge
 type: Giant
-environment: 
+environment: plains,ruins,underground
 hp: 161
 ac: 12
 initiative: -2

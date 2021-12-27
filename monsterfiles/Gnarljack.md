@@ -2,7 +2,7 @@
 name: Gnarljack
 size: Small
 type: Construct
-environment: 
+environment: ruins,underground,urban
 hp: 
 ac: 
 initiative: 

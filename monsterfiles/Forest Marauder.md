@@ -2,7 +2,7 @@
 name: Forest Marauder
 size: Large
 type: Giant
-environment: 
+environment: badlands,forests
 hp: 114
 ac: 15
 initiative: 0

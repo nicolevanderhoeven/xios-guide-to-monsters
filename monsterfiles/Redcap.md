@@ -2,7 +2,7 @@
 name: Redcap
 size: Medium
 type: Fey
-environment: forest, grassland, swamp
+environment: forest, grassland, swamp,hills
 hp: 105
 ac: 15
 initiative: 0

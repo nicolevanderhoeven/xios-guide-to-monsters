@@ -1,5 +1,5 @@
 ---
-name: giant frilled lizard
+name: Giant Frilled Lizard
 size: Large
 type: Beast
 environment: 
@@ -12,5 +12,5 @@ lair:
 unique: 
 cr: 5
 tags: 
-source: "Tome of Beasts II: 392"
+source: "Tome of Beasts 2: 392"
 ---

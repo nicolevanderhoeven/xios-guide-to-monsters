@@ -2,7 +2,7 @@
 name: Chernomoi
 size: Tiny
 type: Fey
-environment: 
+environment: urban
 hp: 32
 ac: 13
 initiative: 4

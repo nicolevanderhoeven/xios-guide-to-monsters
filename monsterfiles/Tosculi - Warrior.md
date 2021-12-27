@@ -2,11 +2,11 @@
 name: Tosculi - Warrior
 size: Small
 type: Monstrosity
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: desert,hills,plains
+hp: 58
+ac: 15
+initiative: 5
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
