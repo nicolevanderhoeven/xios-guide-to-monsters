@@ -1,0 +1,16 @@
+---
+name: Titanoboa
+size: Gargantuan
+type: Beast
+environment: 
+hp: 232
+ac: 14
+initiative: 0
+alignment: unaligned
+legendary: 
+lair: 
+unique: 
+cr: 12
+tags: 
+source: "Tome of Beasts: 382"
+---

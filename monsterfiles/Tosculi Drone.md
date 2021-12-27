@@ -1,0 +1,16 @@
+---
+name: Tosculi Drone
+size: Small
+type: Monstrosity
+environment: 
+hp: 22
+ac: 13
+initiative: 3
+alignment: lawful evil
+legendary: 
+lair: 
+unique: 
+cr: 1/2
+tags: 
+source: "Tome of Beasts: 386"
+---

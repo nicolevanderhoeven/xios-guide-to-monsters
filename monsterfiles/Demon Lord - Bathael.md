@@ -1,0 +1,16 @@
+---
+name: Demon Lord - Bathael
+size: Huge
+type: Fiend
+environment: 
+hp: 
+ac: 
+initiative: 
+alignment: 
+legendary: 
+lair: 
+unique: 
+cr: 16
+tags: 
+source: "Tome of Beasts II: 87"
+---

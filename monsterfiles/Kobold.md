@@ -1,0 +1,16 @@
+---
+name: Kobold
+size: Small
+type: Humanoid
+environment: cave, dungeon, mountain, underground
+hp: 5
+ac: 12
+initiative: 2
+alignment: lawful evil
+legendary: 
+lair: 
+unique: 
+cr: 1/8
+tags: 
+source: "Basic Rules v1: 34, HotDQ supplement: 13, Monster Manual: 195"
+---

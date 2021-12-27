@@ -1,0 +1,16 @@
+---
+name: Giant Fire Beetle
+size: Small
+type: Beast
+environment: cave, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground
+hp: 4
+ac: 13
+initiative: 0
+alignment: unaligned
+legendary: 
+lair: 
+unique: 
+cr: 0
+tags: 
+source: "Basic Rules v1: 25, Monster Manual: 325"
+---

@@ -1,0 +1,16 @@
+---
+name: Nalusa Falaya
+size: Medium
+type: Aberration
+environment: 
+hp: 
+ac: 
+initiative: 
+alignment: 
+legendary: 
+lair: 
+unique: 
+cr: 1/2
+tags: 
+source: "Creature Codex: 274"
+---

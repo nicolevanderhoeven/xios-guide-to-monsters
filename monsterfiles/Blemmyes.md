@@ -1,0 +1,16 @@
+---
+name: Blemmyes
+size: Large
+type: Monstrosity
+environment: 
+hp: 168
+ac: 15
+initiative: 1
+alignment: chaotic evil
+legendary: 
+lair: 
+unique: 
+cr: 8
+tags: 
+source: "Tome of Beasts: 37"
+---

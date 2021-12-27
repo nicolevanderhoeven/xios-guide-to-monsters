@@ -1,0 +1,16 @@
+---
+name: Duergar Spore Servant
+size: Medium
+type: Plant
+environment: 
+hp: 26
+ac: 16
+initiative: 0
+alignment: unaligned
+legendary: 
+lair: 
+unique: 
+cr: 1/2
+tags: 
+source: "Out of the Abyss: 229"
+---

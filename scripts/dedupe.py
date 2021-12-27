@@ -3,17 +3,6 @@ import csv
 # Open file
 filename='/Users/nic/git/xios-guide-to-monsters/monsters.csv'
 output_filename = '/Users/nic/git/xios-guide-to-monsters/monsters.csv'
-# try:
-#     fhand = open(filename)
-# except:
-#     print('File cannot be opened.')
-#     exit()
-
-# Iterate over lines in File
-# for line in fhand:
-#      reader = csv.reader(line, skipinitialspace=True)
-#      for row in reader:
-#          print(row)
 
 fields = []
 rows = []
@@ -24,8 +13,8 @@ with open(filename, 'r') as csvfile:
     fields = next(csvreader)
 
     for row in csvreader:
-
-        if name.lower() == row[0].lower(): # If this monster is a duplicate of the previous one, take non-empty values
+        # If this monster is a duplicate of the previous one, take non-empty values
+        if name.lower() == row[0].lower():
             if size == '':
                 size = row[1]
             if type == '':
@@ -74,13 +63,6 @@ with open(filename, 'r') as csvfile:
             rows.append(row)
 
     with open(output_filename, 'w') as output_file:
-        # fields = ['name', 'size', 'type', 'environment', 'hp', 'ac', 'initiative', 'alignment', 'legendary', 'lair', 'unique', 'cr', 'tags', 'source']
         writer = csv.writer(output_file)
         output_file.write(",".join(fields) + '\n')
         writer.writerows(rows)
-
-    # # get total number of rows
-    # print("Total no. of rows: %d"%(csvreader.line_num))
-    #
-    # # printing the field names
-    # print('Field names are:' + ', '.join(field for field in fields))
