@@ -11,6 +11,6 @@ legendary:
 lair: 
 unique: 
 cr: 1/8
-tags: 
+tags: kobold
 source: "Basic Rules v1: 34, HotDQ supplement: 13, Monster Manual: 195"
 ---

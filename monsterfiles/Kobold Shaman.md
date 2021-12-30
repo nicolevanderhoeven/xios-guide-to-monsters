@@ -11,6 +11,6 @@ legendary:
 lair: 
 unique: 
 cr: 2
-tags: 
+tags: kobold
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kfc3r/day_25_kobold_shaman/"
 ---

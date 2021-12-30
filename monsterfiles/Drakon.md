@@ -11,6 +11,6 @@ legendary:
 lair: 
 unique: 
 cr: 5
-tags: 
+tags: dragon
 source: "Tome of Beasts: 157"
 ---

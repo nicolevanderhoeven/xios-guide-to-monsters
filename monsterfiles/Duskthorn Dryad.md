@@ -11,6 +11,6 @@ legendary:
 lair: 
 unique: 
 cr: 3
-tags: 
+tags: dryad
 source: "Tome of Beasts: 160"
 ---

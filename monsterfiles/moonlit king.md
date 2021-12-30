@@ -1,5 +1,5 @@
 ---
-name: moonlit king
+name: Moonlit King
 size: Medium
 type: Fey
 environment: 

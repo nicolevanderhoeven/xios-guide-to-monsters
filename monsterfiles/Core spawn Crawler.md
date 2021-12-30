@@ -1,5 +1,5 @@
 ---
-name: Core spawn Crawler
+name: Core Spawn Crawler
 size: Small
 type: Aberration
 environment: 

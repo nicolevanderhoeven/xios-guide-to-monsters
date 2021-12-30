@@ -11,6 +11,6 @@ legendary: legendary
 lair: 
 unique: 
 cr: 4
-tags: 
+tags: kobold
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kkb95/day_26_kobold_hero/"
 ---

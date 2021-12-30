@@ -1,5 +1,5 @@
 ---
-name: jiangshi
+name: Jiangshi
 size: Medium
 type: Undead
 environment: 

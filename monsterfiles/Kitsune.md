@@ -1,16 +1,16 @@
 ---
 name: Kitsune
-size: Small
-type: Fey
+size: Medium
+type: Humanoid (Kitsune, shapechanger)
 environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+hp: 91
+ac: 13
+initiative: 3
+alignment: neutral
 legendary: 
 lair: 
 unique: 
-cr: 2
-tags: 
-source: "Creature Codex: 236"
+cr: 1
+tags: shapechanger, Japanese
+source: "Asian Monsters: 60"
 ---

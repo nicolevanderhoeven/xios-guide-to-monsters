@@ -11,6 +11,6 @@ legendary:
 lair: 
 unique: 
 cr: 1
-tags: 
+tags: kobold
 source: "Volo's Guide to Monsters: 167"
 ---

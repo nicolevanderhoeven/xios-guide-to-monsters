@@ -1,5 +1,5 @@
 ---
-name: chronalmental
+name: Chronalmental
 size: Large
 type: Elemental
 environment: 

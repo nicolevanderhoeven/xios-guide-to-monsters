@@ -1,5 +1,5 @@
 ---
-name: isonade
+name: Isonade
 size: Gargantuan
 type: Monstrosity
 environment: aquatic

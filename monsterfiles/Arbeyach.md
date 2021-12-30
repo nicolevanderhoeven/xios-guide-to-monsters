@@ -11,6 +11,6 @@ legendary: legendary
 lair: 
 unique: unique
 cr: 21
-tags: 
+tags: demon
 source: "Tome of Beasts: 95"
 ---

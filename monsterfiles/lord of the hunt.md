@@ -1,5 +1,5 @@
 ---
-name: lord of the hunt
+name: Lord of the Hunt
 size: Medium
 type: Fey
 environment: 

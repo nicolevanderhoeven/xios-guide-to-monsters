@@ -12,5 +12,5 @@ lair:
 unique: 
 cr: 10
 tags: Asian, Filipino
-source: " The Islands of Sina Una: 242"
+source: "The Islands of Sina Una: 242"
 ---

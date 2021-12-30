@@ -26,14 +26,25 @@ Adult Blue Dracolich,Huge,Undead,"desert, dungeon",225,19,0,lawful evil,legendar
 Adult Blue Dragon,Huge,Dragon,desert,225,19,0,lawful evil,legendary,lair,,16,,"HotDQ supplement: 4, Monster Manual: 91"
 Adult Brass Dragon,Huge,Dragon,"cave, underground",172,18,0,chaotic good,legendary,lair,,13,,Monster Manual: 105
 Adult Bronze Dragon,Huge,Dragon,coast,212,19,0,lawful good,legendary,lair,,15,,"Monster Manual: 108, Princes of the Apocalypse Online Supplement v1.0: 7"
+Adult Cave Dragon,Huge,Dragon,"ruins,underground",243,18,1,neutral evil,legendary,lair,,16,dragon,Tome of Beasts: 125
 Adult Copper Dragon,Huge,Dragon,"cave, desert, grassland",184,18,1,chaotic good,legendary,lair,,14,,Monster Manual: 112
+Adult Flame Dragon,Huge,Dragon,mountains,212,19,2,chaotic evil,legendary,lair,,16,dragon,Tome of Beasts: 129
 Adult Gold Dragon,Huge,Dragon,"mountain, ruins",256,19,2,lawful good,legendary,lair,,17,,Monster Manual: 114
 Adult Green Dragon,Huge,Dragon,forest,207,19,1,lawful evil,legendary,lair,,15,,Monster Manual: 94
+Adult Imperial Forest Dragon,Huge,Dragon,forests,262,19,0,chaotic evil,legendary,lair,,19,"dragon, Chinese",Asian Monsters: 21
+Adult Imperial Sea Dragon,Huge,Dragon,"aquatic, coastal",279,19,0,chaotic good,legendary,lair,,,"dragon, Chinese",Asian Monsters: 23
+Adult Imperial Sky Dragon,Huge,Dragon,,212,18,1,lawful good,legendary,lair,,16,"dragon, Chinese",Asian Monsters: 25
+Adult Imperial Sovereign Dragon,Huge,Dragon,,279,19,1,neutral evil,legendary,lair,,20,"dragon, Chinese",Asian Monsters: 27
+Adult Imperial Underworld Dragon,Huge,Dragon,"underground, volcano, cave",256,19,-2,lawful evil,legendary,lair,,19,"dragon, Chinese",Asian Monsters: 29
 Adult Leucrotta,Large,Monstrosity,forest,39,14,2,chaotic evil,,,,2,,Fifth Edition Foes: 164
+Adult Mithral Dragon,Huge,Dragon,mountains,184,18,4,neutral,legendary,,,14,dragon,Tome of Beasts: 133
 Adult Red Dragon,Huge,Dragon,mountain,256,19,0,chaotic evil,legendary,lair,,17,,"Basic Rules v1: 8, Monster Manual: 98"
 Adult Rime Worm,Large,Elemental,,105,15,2,neutral,,,,6,,Tome of Beasts: 327
+Adult Sea Dragon,Huge,Dragon,aquatic,225,19,0,neutral evil,legendary,lair,,16,dragon,Tome of Beasts: 135
 Adult Silver Dragon,Huge,Dragon,"arctic, mountain",243,19,0,lawful good,legendary,lair,,16,,Monster Manual: 117
+Adult Void Dragon,Huge,Dragon,"badlands,mountains",229,19,0,chaotic neutral,legendary,lair,,14,dragon,Tome of Beasts: 139
 Adult White Dragon,Huge,Dragon,"arctic, cave, underground",200,18,0,chaotic evil,legendary,lair,,13,,"HotDQ supplement: 5, Monster Manual: 101"
+Adult Wind Dragon,Huge,Dragon,"mountains, plains",237,19,4,chaotic neutral,legendary,lair,,17,dragon,Tome of Beasts: 143
 Aeorian Absorber,Large,Monstrosity,,,,,,,,,10,,Explorer's Guide to Wildemount: 283
 Aeorian Nullifier,Large,Monstrosity,,,,,,,,,12,,Explorer's Guide to Wildemount: 283
 Aeorian Reverser,Large,Monstrosity,,,,,,,,,8,,Explorer's Guide to Wildemount: 284
@@ -50,13 +61,14 @@ Ahuizotl,Small,Monstrosity,,,,,,,,,2,,Creature Codex: 10
 Air Elemental,Large,Elemental,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",90,15,5,neutral,,,,5,,"Basic Rules v1: 9, HotDQ supplement: 5, Monster Manual: 124"
 Air Elemental Myrmidon,Medium,Elemental,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",117,18,2,neutral,,,,7,,Princes of the Apocalypse: 212
 Akaasit,Medium,Construct,,,,,,,,,6,,Tome of Beasts 2: 11
-"Akyishigal, Demon Lord of Cockroaches",Large,Fiend,,138,18,3,chaotic evil,legendary,,unique,12,,Tome of Beasts: 82
+"Akyishigal, Demon Lord of Cockroaches",Large,Fiend,,138,18,3,chaotic evil,legendary,,unique,12,demon,Tome of Beasts: 82
 Al-Aeshma,Large,Elemental,,172,17,2,chaotic evil,,,,9,,Tome of Beasts: 211
 Ala,Medium,Fey,,127,17,3,chaotic evil,,,,8,,Tome of Beasts: 13
 Alabaster Tree,Huge,Celestial,,,,,,,,,7,,Creature Codex: 302
 Alawig,Tiny,Elemental,"plains,forests",10,17,7,,,,,1/2,"Asian, Filipino",The Islands of Sina Una: 237
 Alchemical Skunk,Small,Monstrosity,,,,,,,,,4,,Tome of Beasts 2: 13
 Alchemy Apprentice Ooze,Small,Ooze,,,,,,,,,1,,Creature Codex: 281
+Alehouse Drake,Tiny,Dragon,urban,65,13,3,chaotic neutral,,,,1/2,dragon,Tome of Beasts: 148
 Algoid,Medium,Plant,swamp,52,14,0,neutral,,,,3,,Fifth Edition Foes: 8
 Algorith,Medium,Construct,,136,18,2,lawful neutral,,,,10,,Tome of Beasts: 14
 Alhoon,Medium,Undead,underground,120,15,1,any evil,,,,10,,Volo's Guide to Monsters: 172
@@ -67,7 +79,7 @@ Alliumite,Sall,Plant,,,,,,,,,1/4,,Creature Codex: 13
 Allosaurus,Large,Beast,"coast, grassland, swamp",51,13,1,unaligned,,,,2,,"Basic Rules v1: 9, Monster Manual: 79"
 Alp,Small,Fey,,,,,,,,,1,,Creature Codex: 14
 Alpha Fish,Large,Beast,,,,,,,,,3,,Tome of Beasts 2: 14
-"Alquam, Demon Lord of Night",Huge,Fiend,,350,20,4,chaotic evil,legendary,lair,unique,21,,Tome of Beasts: 84
+"Alquam, Demon Lord of Night",Huge,Fiend,,350,20,4,chaotic evil,legendary,lair,unique,21,demon,Tome of Beasts: 84
 Alseid,Medium,Monstrosity,forests,49,14,3,chaotic neutral,,,,1/2,,Tome of Beasts: 15
 Alseid Grovekeeper,Medium,Monstrosity,,71,15,3,chaotic neutral,,,,3,,Tome of Beasts: 15
 Amber Ooze,Large,Ooze,,,,,,,,,4,,Tome of Beasts 2: 277
@@ -82,12 +94,17 @@ Ancient Brass Dragon,Gargantuan,Dragon,"cave, underground",297,20,0,chaotic good
 Ancient Bronze Dragon,Gargantuan,Dragon,coast,444,22,0,lawful good,legendary,lair,,22,,Monster Manual: 107
 Ancient Chronomancer,Medium,Construct,,67,16,2,neutral,,,,7,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3rdrry/day_79_chronomancers/
 Ancient Copper Dragon,Gargantuan,Dragon,"cave, desert, grassland",350,21,1,chaotic good,legendary,lair,,21,,Monster Manual: 110
+Ancient Flame Dragon,Gargantuan,Dragon,mountains,481,22,2,chaotic evil,legendary,lair,,24,dragon,Tome of Beasts: 128
 Ancient Gold Dragon,Gargantuan,Dragon,"mountain, ruins",546,22,2,lawful good,legendary,lair,,24,,Monster Manual: 113
 Ancient Green Dragon,Gargantuan,Dragon,forest,385,21,1,lawful evil,legendary,lair,,22,,Monster Manual: 93
+Ancient Mithral Dragon,Gargantuan,Dragon,mountains,297,20,3,neutral,legendary,,,18,dragon,Tome of Beasts: 132
 Ancient Red Dragon,Gargantuan,Dragon,mountain,546,22,0,chaotic evil,legendary,lair,,24,,Monster Manual: 97
+Ancient Sea Dragon,Gargantuan,Dragon,aquatic,481,22,0,neutral evil,legendary,lair,,22,dragon,Tome of Beasts: 135
 Ancient Silver Dragon,Gargantuan,Dragon,"arctic, mountain",487,22,0,lawful good,legendary,lair,,23,,Monster Manual: 116
 Ancient Titan,Gargantuan,Celestial,,198,15,1,neutral good,,,,12,,Tome of Beasts: 380
+Ancient Void Dragon,Gargantuan,Dragon,"badlands,mountains",448,22,0,chaotic neutral,legendary,lair,,24,dragon,Tome of Beasts: 138
 Ancient White Dragon,Gargantuan,Dragon,"arctic, cave, underground",333,20,0,chaotic evil,legendary,lair,,20,,Monster Manual: 100
+Ancient Wind Dragon,Gargantuan,Dragon,"mountains,plains",425,20,4,chaotic neutral,legendary,lair,,22,dragon,Tome of Beasts: 142
 Andrenjinyi,Gargantuan,Celestial,,228,18,3,neutral,,,,15,,Tome of Beasts: 18
 Androsphinx,Large,Monstrosity,"dungeon, ruins",199,17,0,lawful neutral,legendary,lair,,17,,Monster Manual: 281
 Angatra,Medium,Undead,forests,85,17,5,neutral evil,,,,6,,Tome of Beasts: 19
@@ -120,12 +137,13 @@ Anophiloi,Small,Monstrosity,,,,,,,,,1,,Creature Codex: 39
 Ant Lion,Large,Beast,desert,93,15,0,unaligned,,,,4,,Fifth Edition Foes: 11
 Anubian,Medium,Elemental,,44,13,3,chaotic evil,,,,2,,Tome of Beasts: 24
 Anzu,Large,Monstrosity,,,,,,,,,9,,Tome of Beasts 2: 26
-Apau Perape,Large,Fiend,,95,16,4,chaotic evil,,,,6,,Tome of Beasts: 75
+Aoandon,Medium,Undead,,210,19,5,neutral evil,,,,11,Japanese,Asian Monsters: 5
+Apau Perape,Large,Fiend,,95,16,4,chaotic evil,,,,6,demon,Tome of Beasts: 75
 Apaxrusl,Medium,Construct,,,,,,,,,3,,Tome of Beasts 2: 27
 Ape,Medium,Beast,forest,19,12,2,unaligned,,,,1/2,,"Basic Rules v1: 10, Monster Manual: 317"
 Apprentice Wizard,Medium,Humanoid,urban,9,10,0,any,,,,1/4,,Volo's Guide to Monsters: 209
 Aran,Gargantuan,Giant,,297,17,7,,legendary,,unique,17,"Asian, Filipino",The Islands of Sina Una: 262
-Arbeyach,Large,Fiend,,275,17,5,lawful evil,legendary,,unique,21,,Tome of Beasts: 95
+Arbeyach,Large,Fiend,,275,17,5,lawful evil,legendary,,unique,21,demon,Tome of Beasts: 95
 "Arbeyach's Herald, Ia'affrat",Large Swarm,Elemental,,,,,,,,,15,,Tome of Beasts: 98
 Arborcyte,Large,Plant,,,,,,,,,8,,Creature Codex: 40
 Arboreal Grappler,Medium,Aberration,forests,90,14,3,neutral evil,,,,3,,Tome of Beasts: 25
@@ -138,8 +156,6 @@ Arcanoplasm,Large,Monstrosity,underground,103,12,-2,neutral,,,,4,,Fifth Edition 
 "Arch Devil, Poena, Duke of Retribution",Large,Fiend,,,,,,,,,19,,Tome of Beasts 2: 99
 "Arch Devil, The Curator",Large,Fiend,,,,,,,,,24,,Tome of Beasts 2: 100
 Arch-Devil Arbeyach,Large,Fiend,,,,,,,,,21,,Tome of Beasts: 95
-Arch-Devil Mammon,Huge,Fiend,,,,,,,,,25,,Tome of Beasts: 99
-Arch-Devil Totivillius,Medium,Fiend,,,,,,,,,24,,Tome of Beasts: 101
 "Arch-Devil, Belphegor",Huge,Fiend,,,,,,,,,22,,Creature Codex: 100
 "Arch-Devil, Parzelon",Huge,Fiend,,,,,,,,,25,,Creature Codex: 101
 Archdruid,Medium,Humanoid,"forest, mountain, swamp, aquatic",132,16,2,any,,,,12,,Volo's Guide to Monsters: 210
@@ -154,6 +170,7 @@ Armour Sliver,Large,Monstrosity,,52,16,2,neutral evil,,,,3,,Monster-A-Day: https
 Artificer of Yothri,Medium,Aberration,,66,16,2,chaotic evil,,,,5,,Fifth Edition Foes: 15
 Asanbosam,Large,Aberration,forests,102,14,1,chaotic evil,,,,5,,Tome of Beasts: 27
 Ascomoid,Large,Plant,underground,76,12,1,unaligned,,,,3,,Fifth Edition Foes: 16
+Ash Drake,Small,Dragon,"mountains,urban",117,16,2,neutral evil,,,,4,dragon,Tome of Beasts: 149
 Ash Phoenix,Large,Undead,,,,,,,,,9,,Tome of Beasts 2: 28
 Ashen Custodian,Medium,Fey,,,,,,,,,6,,Tome of Beasts 2: 29
 Aspect of Desire,Medium,Celestial,,178,19,3,,,,unique,,"Asian, Filipino",The Islands of Sina Una: 305
@@ -166,15 +183,21 @@ Astral Moth,Large,Monstrosity,forest,32,12,2,neutral,,,,1/8,,Fifth Edition Foes:
 Astral Shark,Large,Fiend,planar,102,14,2,neutral,,,,5,,Fifth Edition Foes: 19
 Astral Snapper,Medium,Aberration,,,,,,,,,3,,Creature Codex: 43
 Astri,Small,Celestial,,,,,,,,,8,,Tome of Beasts 2: 31
+"Asura, Aghasura",Huge,Fiend,,202,18,3,lawful evil,,,,13,,Asian Monsters: 8
+"Asura, Tripurasura",Tiny,Fiend,,52,13,2,lawful evil,,,,3,shapechanger,Asian Monsters: 9
+"Asura, Upasunda",Medium,Fiend,,229,17,8,lawful evil,,,,11,,Asian Monsters: 10
 "Aswang, Balbal",Large,Aswang,,68,13,2,,,,,3,"Asian, Filipino",The Islands of Sina Una: 240
-"Aswang, Berbalang",Medium,Aswang,,170,17,5,,,,,10,"Asian, Filipino", The Islands of Sina Una: 242
+"Aswang, Balbal",Medium,"Monstrosity, Aswang",,102,15,2,chaotic evil,,,,6,Filipino,Asian Monsters: 11
+"Aswang, Berbalang",Medium,Aswang,,170,17,5,,,,,10,"Asian, Filipino",The Islands of Sina Una: 242
 "Aswang, Boroka",Medium,Aswang,,27,13,3,,,,,1,"Asian, Filipino",The Islands of Sina Una: 243
 "Aswang, Gabunan",Medium,Aswang,,178,18,6,,legendary,,,15,"Asian, Filipino",The Islands of Sina Una: 245
 "Aswang, Malakat",Medium,Aswang,,52,12,3,,,,,2,"Asian, Filipino",The Islands of Sina Una: 246
 "Aswang, Manananggal",Medium,Aswang,,82,16,4,,,,,9,"Asian, Filipino",The Islands of Sina Una: 247
 "Aswang, Mandurugo",Medium,Aswang,,52,15,3,,,,,5,"Asian, Filipino",The Islands of Sina Una: 249
 "Aswang, Mangkukulam",Medium,Aswang,,60,15,3,,,,,6,"Asian, Filipino",The Islands of Sina Una: 250
+"Aswang, Wakwak",Small,"Monstrosity, Aswang",,65,14,4,chaotic evil,,,,4,Filipino,Asian Monsters: 12
 Attercroppe,Tiny,Fey,,,,,,,,,1/2,,Tome of Beasts 2: 32
+Atuikakura,Gargantuan,Monstrosity,"aquatic, coastal",247,18,7,unaligned,,,,14,Japanese,Asian Monsters: 13
 August Rooster,Medium,Monstrosity,,,,,,,,,4,,Tome of Beasts 2: 33
 Aurelia,Medium,Celestial,,,,,,,,,23,,Guildmasters' Guide to Ravnica: 230
 Aurochs,Large,Beast,"grassland, mountain",38,11,0,unaligned,,,,2,,Volo's Guide to Monsters: 207
@@ -199,13 +222,15 @@ Azza Gremlin,Small,Fey,"mountains,urban",7,14,4,neutral,,,,1/4,,Tome of Beasts: 
 Baba Lysaga,Medium,Humanoid,,120,15,0,chaotic evil,,,unique,11,,Curse of Strahd: 228
 Baba Lysaga's Creeping Hut,Gargantuan,Construct,,263,16,-2,unaligned,,,unique,11,,Curse of Strahd: 226
 baba Yaga,medium,Fey,,,,,,,,,20,,Creature Codex: 46
-Baba Yaga's Horsemen,Medium,Fey,,,,,,,,,11,,Tome of Beasts: 30
-Baba Yagas Horsemen,Medium,Fey,,171,20,0,lawful neutral,,,,11,,Tome of Beasts: 29
+Baba Yaga's Horsemen - Black Night,Medium,Fey,,171,20,0,lawful neutral,,,,11,,Tome of Beasts: 29
+Baba Yaga's Horsemen - Bright Day,Medium,Fey,,171,20,0,lawful neutral,,,,11,,Tome of Beasts: 29
+Baba Yaga's Horsemen - Red Sun,Medium,Fey,,171,20,0,lawful neutral,,,,11,,Tome of Beasts: 29
 Babau,Medium,Fiend,"underground, urban",82,16,3,chaotic evil,,,,4,,Volo's Guide to Monsters: 136
 Baboon,Small,Beast,"forest, grassland",3,12,2,unaligned,,,,0,,"Basic Rules v1: 11, Monster Manual: 318"
 Badger,Tiny,Beast,forest,3,10,0,unaligned,,,,0,,"Basic Rules v1: 11, Monster Manual: 318"
 Bagiennik,Medium,Aberration,"forests,marshes",75,15,4,chaotic neutral,,,,3,,Tome of Beasts: 31
-balloon spider,Medium,Beast,,,,,,,,,1,,Tome of Beasts 2: 387
+Bakekujira,Gargantuan,Undead,"coastal, aquatic",325,19,0,neutral evil,legendary,,,21,Japanese,Asian Monsters: 14
+Balloon Spider,Medium,Beast,,,,,,,,,1,,Tome of Beasts 2: 387
 Balor,Huge,Fiend,"dungeon, planar",262,19,2,chaotic evil,,,,19,,Monster Manual: 55
 Banderhobb,Large,Monstrosity,urban,84,15,1,neutral evil,,,,5,,Volo's Guide to Monsters: 122
 Bandit,Medium,Humanoid,"arctic, coast, desert, forest, grassland, mountain, ruins, urban",11,12,1,non-lawful,,,,1/8,,"Basic Rules v1: 53, HotDQ supplement: 6, Monster Manual: 343"
@@ -254,9 +279,10 @@ Belashyrra,Medium,Aberration,,,,,,,,,22,,Wayfinder's Guide to Eberron: 286
 Beli,Small,Fey,,45,15,3,neutral evil,,,,2,,Tome of Beasts: 35
 Bereginyas,Tiny,Fey,mountains,70,15,5,neutral evil,,,,4,,Tome of Beasts: 36
 Berserker,Medium,Humanoid,"arctic, cave, desert, forest, grassland, mountain, swamp, urban",67,13,1,any chaotic,,,,2,,"Basic Rules v1: 53, HotDQ supplement: 6, Monster Manual: 344"
-Berstuc,Large,Fiend,,157,18,0,chaotic evil,,,,11,,Tome of Beasts: 76
+Berstuc,Large,Fiend,,157,18,0,chaotic evil,,,,11,demon,Tome of Beasts: 76
 Bewailer,Medium,Undead,"dungeon, forest, ruins, swamp",78,13,3,chaotic evil,,,,7,,Monster Module: 14
 Bheur Hag,Medium,Fey,arctic,91,17,3,chaotic evil,,,,7,,Volo's Guide to Monsters: 160
+Bhuta,Medium,Undead,,255,13,8,neutral evil,,,,13,shapechanger,Asian Monsters: 15
 Biclops,Huge,Giant,mountain,115,13,1,neutral,,,,6,,Fifth Edition Foes: 26
 Bilwis,Medium,Elemental,,,,,,,,,1,,Creature Codex: 53
 Binturong,Small,Beast,,9,13,3,,,,,,"Asian, Filipino",The Islands of Sina Una: 313
@@ -316,7 +342,7 @@ Bonesucker,Large,Aberration,underground,68,15,1,neutral evil,,,,4,,Fifth Edition
 Bookkeeper,Tiny,Construct,,,,,,,,,1/8,,Creature Codex: 55
 Boot Grabber,Small,Aberration,,,,,,,,,1/2,,Creature Codex: 56
 Borborygmos,Huge,Giant,,,,,,,,,18,,Guildmasters' Guide to Ravnica: 238
-boreas,Medium,Elemental,,168,20,6,chaotic evil,legendary,,unique,17,,Tome of Beasts: 42
+Boreas,Medium,Elemental,,168,20,6,chaotic evil,legendary,,unique,17,,Tome of Beasts: 42
 Boreas' Chosen,Medium,Humanoid,,,,,,,,,7,,Tome of Beasts 2: 48
 Borsin (Ape Centaur),Large,Monstrosity,,60,12,2,chaotic evil,,,,3,,Fifth Edition Foes: 36
 Bouda,Medium,Fiend,,93,15,2,neutral evil,,,,5,,Tome of Beasts: 44
@@ -350,6 +376,7 @@ Bugbear Chief,Medium,Humanoid,"cave, dungeon, forest, mountain, ruins, urban",65
 Bukavac,Large,Monstrosity,"forests,marshes",199,16,3,neutral evil,,,,9,,Tome of Beasts: 47
 Bulbous Violet,Medium,Plant,,,,,,,,,1,,Tome of Beasts 2: 53
 Bulette,Large,Monstrosity,"cave, desert, grassland, mountain, underground",94,17,0,unaligned,,,,5,,"Monster Manual: 34, Princes of the Apocalypse Online Supplement v1.0: 10"
+Bulgasari,Huge,Monstrosity (Bul),"forests, urban",95,14,2,chaotic neutral,,,,5,Korean,Asian Monsters: 16
 Bullywug,Medium,Humanoid,"coast, swamp",11,15,1,neutral evil,,,,1/4,,"HotDQ supplement: 7, Monster Manual: 35"
 Bullywug Chief,Medium,Humanoid,"coast, swamp",82,16,1,neutral evil,,,,3,,Monster Module: 22
 Bullywug Hunter,Medium,Humanoid,"coast, swamp",33,14,3,neutral evil,,,,1/2,,Monster Module: 22
@@ -398,6 +425,7 @@ Cave giant,Huge,Giant,,,,,,,,,10,,Creature Codex: 182
 cave goat,Small,Beast,,,,,,,,,1/4,,Tome of Beasts 2: 389
 Cave Leech,Large,Beast,underground,102,10,2,chaotic evil,,,,6,,Fifth Edition Foes: 51
 Cave Shamman,Huge,Giant,,,,,,,,,14,,Tome of Beasts 2: 171
+Cave Wyrmling Dragon,Medium,Dragon,"ruins,underground",75,16,1,neutral evil,,,,2,dragon,Tome of Beasts: 127
 Cavelight Moss,Large,Plant,"ruins,underground",95,15,0,neutral,,,,4,,Tome of Beasts: 50
 Centaur,Large,Monstrosity,"coast, desert, grassland",45,12,2,neutral good,,,,2,,"Basic Rules v1: 14, Monster Manual: 38"
 Centaur Chieftain,Large,Monstrosity,,,,,,,,,5,,Creature Codex: 60
@@ -412,6 +440,7 @@ Chamaelean,Small,Humanoid,,10,14,2,neutral,,,,1/2,,Monster-A-Day: https://www.re
 Chamberlain of Zuggtmoy,Large,Plant,,45,13,-2,chaotic evil,,,,2,,Out of the Abyss: 230
 Champion,Medium,Humanoid,"desert, urban",143,18,2,any,,,,9,,"Volo's Guide to Monsters: 212, Tales from the Yawning Portal: 231"
 Chamrosh,Medium,Celestial,,,,,,,,,1,,Tome of Beasts 2: 59
+Chang Nam,Tiny,Monstrosity,"forests, coastal",39,15,-1,unaligned,,,,2,Thai,Asian Monsters: 17
 Changeling,Medium,Humanoid,,,,,,,,,1/2,,Wayfinder's Guide to Eberron: 317
 Chaos Knight,Medium,Fiend,,78,16,2,chaotic evil,,,,3,,Fifth Edition Foes: 55
 Chasme,Large,Fiend,"dungeon, planar",84,15,2,chaotic evil,,,,6,,Monster Manual: 57
@@ -427,8 +456,9 @@ Chimeric Phantom,Medium,Undead,,,,,,,,,2,,Tome of Beasts 2: 62
 Chitine,Small,Monstrosity,underground,18,14,2,chaotic evil,,,,1/2,,Volo's Guide to Monsters: 131
 Choker,Small,Aberration,,13,16,2,chaotic evil,,,,1,,Tales from the Yawning Portal: 232
 Choldrith,Medium,Monstrosity,underground,66,15,3,chaotic evil,,,,3,,Volo's Guide to Monsters: 132
+Chort Devil,Medium,Fiend,,187,18,5,lawful evil,,,,12,devil,Tome of Beasts: 104
 Chosen Cultist,Medium,Humanoid,,39,12,1,chaotic neutral,,,,3,,Primeval Thule Campaign Setting: 238
-chronalmental,Large,Elemental,,152,17,5,unaligned,,,,8,,Tome of Beasts: 57
+Chronalmental,Large,Elemental,,152,17,5,unaligned,,,,8,,Tome of Beasts: 57
 Chronomatic Enchancer,Large,Construct,,,,,,,,,12,,Tome of Beasts 2: 64
 Chuhaister,Large,Giant,,,,,,,,,7,,Creature Codex: 62
 Chupacabra,Small,Monstrosity,"forest, urban",27,12,2,chaotic neutral,,,,1/2,,Creature Codex: 63
@@ -447,8 +477,8 @@ Cloaker,Large,Aberration,"cave, dungeon, underground",78,14,2,chaotic neutral,,,
 Clockwork Abomination,Large,Construct,,76,16,1,lawful evil,,,,5,,Tome of Beasts: 59
 Clockwork Archon,Gargantuan,Construct,,,,,,,,,13,,Tome of Beasts 2: 65
 Clockwork Assassin,Medium,Construct,,,,,,,,,6,,Creature Codex: 64
-clockwork Beetle,Tiny,Construct,,15,14,3,unaligned,,,,1/2,,Tome of Beasts: 60
-Clockwork Beetle swarm,Large Swarm,Construct,,52,14,3,neutral,,,,3,,Tome of Beasts: 61
+Clockwork Beetle,Tiny,Construct,,15,14,3,unaligned,,,,1/2,,Tome of Beasts: 60
+Clockwork Beetle Swarm,Large Swarm,Construct,,52,14,3,neutral,,,,3,,Tome of Beasts: 61
 Clockwork Dragon,Large,Construct,,184,18,0,unaligned,legendary,,,8/14 (3-headed),,Creature Codex: 111
 Clockwork Hound,Medium,Construct,"forests,urban",71,12,2,unaligned,,,,2,,Tome of Beasts: 62
 Clockwork Huntsman,Medium,Construct,"forests,urban",110,14,2,unaligned,,,,3,,Tome of Beasts: 63
@@ -469,8 +499,9 @@ Cobra Flower,Large,Plant,forest,51,11,1,unaligned,,,,2,,Fifth Edition Foes: 63
 Cockatrice,Small,Monstrosity,"forest, grassland, swamp",27,11,1,unaligned,,,,1/2,,"Basic Rules v1: 15, Monster Manual: 42"
 Coconut Crab,Small,Beast,"coastal, sea",14,15,1,,,,,,"Asian, Filipino",The Islands of Sina Una: 313
 Coffer Corpse,Medium,Undead,underground,45,12,1,chaotic evil,,,,2,,Fifth Edition Foes: 64
-Cohort Devil,Medium,Fiend,,187,18,5,lawful evil,,,,12,,Tome of Beasts: 104
 Collais,Large,Monstrosity,,,,,,,,,10,,Tome of Beasts 2: 69
+Colossal Ape,Gargantuan,Beast,forests,297,15,2,unaligned,,,,15,,Asian Monsters: 5
+Colossal King Ape,Gargantuan,Beast (titan),forests,594,19,7,unaligned,legendary,,,27,,Asian Monsters: 5
 Commander of Horn and Gold,Medium,Fey,,,,,,,,,15,,Tome of Beasts 2: 144
 Commoner,Medium,Humanoid,urban,4,10,0,any,,,,0,,"Basic Rules v1: 54, HotDQ supplement: 7, Monster Manual: 345"
 Conclave Dryad,Medium,Fey,,,,,,,,,9,,Guildmasters' Guide to Ravnica: 194
@@ -479,7 +510,8 @@ Conjurer,Medium,Humanoid,urban,40,12,2,any,,,,6,,"Volo's Guide to Monsters: 212,
 Constrictor Snake,Large,Beast,"forest, swamp",13,12,2,unaligned,,,,1/4,,"Basic Rules v1: 15, Monster Manual: 320, Player's Handbook: 305"
 Cooshee,Medium,Monstrosity,forest,13,13,3,neutral good,,,,1,,Fifth Edition Foes: 65
 Copper Dragon Wyrmling,Medium,Dragon,"cave, desert, grassland",22,16,1,chaotic good,,,,1,,Monster Manual: 111
-Core spawn Crawler,Small,Aberration,,,,,,,,,1,,Explorer's Guide to Wildemount: 286
+Coral Drake,Medium,Dragon,aquatic,127,16,3,neutral evil,,,,7,dragon,Tome of Beasts: 150
+Core Spawn Crawler,Small,Aberration,,,,,,,,,1,,Explorer's Guide to Wildemount: 286
 Core Spawn Emissary,Medium,Aberration,,,,,,,,,6,,Explorer's Guide to Wildemount: 286
 Core Spawn Seer,Medium,Aberration,,,,,,,,,13,,Explorer's Guide to Wildemount: 286
 Core Spawn Worm,Gargantuan,Aberration,,,,,,,,,15,,Explorer's Guide to Wildemount: 287
@@ -505,6 +537,7 @@ Cranium Rat,Tiny,Beast,"underground, urban",2,12,2,lawful evil,,,,0,,Volo's Guid
 Crawling Claw,Tiny,Undead,"dungeon, ruins, swamp",2,12,2,neutral evil,,,,0,,"Monster Manual: 44, Princes of the Apocalypse Online Supplement v1.0: 12"
 Crested Eagle,Medium,Beast,,18,12,2,unaligned,,,,1,,Primeval Thule Campaign Setting: 220
 Crimson Basilisk,Medium,Monstrosity,underground,60,13,0,unaligned,,,,3,,Fifth Edition Foes: 21
+Crimson Drake,Tiny,Dragon,forests,54,14,2,chaotic evil,,,,1,dragon,Tome of Beasts: 151
 Crimson Mist,Medium,Undead,"swamp, underground",127,17,4,neutral evil,,,,6,,Creature Codex: 67
 Crimson Shambler,Medium,Plant,,,,,,,,,1/2,,Tome of Beasts 2: 73
 Crinaea,Medium,Fey,,,,,,,,,2,,Tome of Beasts 2: 74
@@ -517,7 +550,7 @@ Crushing Wave Reaver,Medium,Humanoid,"aquatic, cave, coast, grassland, swamp, un
 Cryoceros,Large,Monstrosity,,,,,,,,,6,,Tome of Beasts 2: 76
 Crypt Thing,Medium,Undead,underground,52,15,2,neutral,,,,3,,Fifth Edition Foes: 72
 Crystal Elemental,Medium,Elemental,,57,15,1,neutral,,,,3,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3ssksc/day_90_crystal_elemental/
-Crystalline Devil,Medium,Fiend,"ruins,underground,urban",102,15,1,lawful evil,,,,6,,Tome of Beasts: 105
+Crystalline Devil,Medium,Fiend,"ruins,underground,urban",102,15,1,lawful evil,,,,6,devil,Tome of Beasts: 105
 Crystalline Dragon,Huge,Dragon,,270,20,2,any chaotic,legendary,,,18,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3tlb1z/day_96_crystalline_dragon/
 Crystalline Monolith,Huge,Aberration,,,,,,,,,7,,Tome of Beasts 2: 77
 Crystalline Sliver,Large,Monstrosity,,75,14,2,neutral evil,,,,4,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3jic37/day_18_crystalline_and_spitting_slivers/
@@ -529,11 +562,13 @@ Cult Fanatic,Medium,Humanoid,"dungeon, urban",33,13,2,non-good,,,,2,,"Monster Ma
 Cult Priest,Medium,Humanoid,,76,17,2,chaotic neutral,,,,7,,Primeval Thule Campaign Setting: 239
 Cultist,Medium,Humanoid,"dungeon, urban",9,12,1,non-good,,,,1/8,,"Basic Rules v1: 54, HotDQ supplement: 7, Monster Manual: 345"
 Cyclops,Huge,Giant,"cave, coast, grassland, mountain, ruins, swamp",138,14,0,chaotic neutral,,,,6,,"Basic Rules v1: 16, Monster Manual: 45"
+"Cyclops, Kabandha",Large,Giant,,231,17,3,lawful neutral,,,,11,,Asian Monsters: 18
 Dagon,Large,Fiend,"aquatic, planar",287,19,4,chaotic evil,legendary,,,20,,Fifth Edition Foes: 73
 "Dakini, simhamukkha",Huge,Celestial,,,,,,,,,8,,Creature Codex: 70
 Danag,Large,Celestial,,168,19,4,,,,,11,"Asian, Filipino",The Islands of Sina Una: 290
 Dancing Foliage,Medium,Plant,,,,,,,,,4,,Tome of Beasts 2: 79
 Dao,Large,Elemental,"cave, dungeon, mountain, planar, underground",187,18,1,neutral evil,,,,11,,"Monster Manual: 143, Princes of the Apocalypse Online Supplement v1.0: 13"
+Darakhul,Medium,Undead,"ruins,underground",78,16,3,neutral evil,,,,3,ghoul,Tome of Beasts: 216
 Darakhul Priestess,Medium,Undead,,,,,,,,,9,,Creature Codex: 172
 Darakhul Shadowmancer,Medium,Undead,,,,,,,,,4,,Creature Codex: 173
 Dark Creeper,Small,Humanoid,underground,16,15,3,chaotic neutral,,,,1/4,,Fifth Edition Foes: 74
@@ -565,21 +600,21 @@ Deathlock Wight,Medium,Undead,,37,12,2,neutral evil,,,,3,,Tales from the Yawning
 Deathpact Angel,Medium,Celestial,,,,,,,,,14,,Guildmasters' Guide to Ravnica: 191
 Deathspeaker,Medium,Undead,,,,,,,,,4,,Tome of Beasts 2: 82
 Deathweaver,Huge,Monstrosity,,,,,,,,,5,,Tome of Beasts 2: 83
-Deathwisdp,Medium,Undead,,,,,,,,,7,,Tome of Beasts: 72
 Deathwisp,Medium,Undead,,82,15,5,neutral evil,,,,7,,Tome of Beasts: 72
 Decapus,Medium,Aberration,"forest, ruins, underground",44,12,1,chaotic evil,,,,2,,Fifth Edition Foes: 79
+Deep Drake,Large,Dragon,"ruins,underground",150,17,4,chaotic evil,,,,9,dragon,Tome of Beasts: 152
 Deep Gnome (Svirfneblin),Small,Humanoid,"cave, dungeon, planar, underground",16,15,2,neutral good,,,,1/2,,"Monster Manual: 164, Princes of the Apocalypse Online Supplement v1.0: 13"
 Deep Hunter Sea Serpent,Gargantuan,Dragon,aquatic,232,18,2,lawful neutral,legendary,,,14,,Fifth Edition Foes: 200
 Deep One,Medium,Humanoid,,91,13,1,chaotic evil,,,,2,,Tome of Beasts: 73
-Deep One Archimandrite,Large,Humanoid,,153,15,2,chaotic evil,,,,8,,Tome of Beasts: 74
+Deep One Archimandrite,Large,Humanoid,aquatic,153,15,2,chaotic evil,,,,8,,Tome of Beasts: 74
 Deep One Halfbreed,Medium,Aberration,,60,16,1,neutral evil,,,,3,,Primeval Thule Campaign Setting: 239
 Deep One Hybrid Priest,Medium,Humanoid,,120,14,2,chaotic evil,,,,4,,Tome of Beasts: 73
 Deep One Priest,Medium,Humanoid,aquatic,,,,,,,,4,,Tome of Beasts: 73
-"Deep One, Archimandrite",Large,Humanoid,aquatic,,,,,,,,8,,Tome of Beasts: 74
 Deep Ones,Medium,Humanoid,aquatic,,,,,,,,2,,Tome of Beasts: 73
 Deep Scion,Medium,Humanoid,"coast, aquatic",67,11,1,neutral evil,,,,3,,Volo's Guide to Monsters: 135
 Deep Troll,Large,Giant,,,,,,,,,4,,Tome of Beasts 2: 352
 Deer,Medium,Beast,"forest, grassland",4,13,3,unaligned,,,,0,,"Basic Rules v1: 16, HotDQ supplement: 7, Monster Manual: 321"
+Defiled Naga,Large,Monstrosity,,263,18,4,chaotic evil,,,,13,,Asian Monsters: 68
 Degenerate Titan,Huge,Giant,"plains,ruins,underground",161,12,-2,chaotic evil,,,,8,,Tome of Beasts: 381
 Degmadu,Gargantuan,Monstrosity,,,,,,,,,28,,Tome of Beasts 2: 84
 Deinonychus,Medium,Beast,"forest, grassland",26,13,2,unaligned,,,,1,,Volo's Guide to Monsters: 139
@@ -590,33 +625,23 @@ Demilich (in lair),Tiny,Undead,dungeon,80,20,5,neutral evil,legendary,lair,,20,,
 Demogorgon,Huge,Fiend,,496,22,2,chaotic evil,legendary,,unique,26,,Out of the Abyss: 236
 Demon Lord Rhopalocerex,Large,Fiend,,,,,,,,,20,,Tome of Beasts 2: 90
 "Demon Lord, Akyishigal",Large,Fiend,,,,,,,,,12,,Tome of Beasts: 82
-"Demon Lord, alquam",Huge,Fiend,,,,,,,,,21,,Tome of Beasts: 84
 "Demon Lord, Alsikaya, screeching mother of volcanoes",Huge,Fiend,,,,,,,,,28,,Tome of Beasts 2: 85
 "Demon Lord, Bathael",Huge,Fiend,,,,,,,,,16,,Tome of Beasts 2: 87
-"Demon Lord, camazotz",Large,Fiend,,,,,,,,,22,,Tome of Beasts: 85
 "Demon Lord, Chemosh",Huge,Fiend,,,,,,,,,19,,Creature Codex: 75
 "Demon Lord, Chitter'k'k",Medium,Fiend,,,,,,,,,13,,Creature Codex: 76
 "Demon Lord, Hriggala, Jaws of Vardesain",Huge,Fiend,,,,,,,,,23,,Tome of Beasts 2: 88
-"Demon Lord, Mechuiti",Gargantuan,Fiend,,,,,,,,,27,,Tome of Beasts: 88
-"Demon Lord, Qorgeth",Gargantuan,Fiend,,,,,,,,,23,,Tome of Beasts: 90
 "Demon Lord, Rangda",Large,Fiend,,,,,,,,,17,,Creature Codex: 79
 "Demon Lord, Typhon",Gargantuan,Fiend,,,,,,,,,22,,Creature Codex: 81
 "Demon, Alnaar",Large,Fiend,,,,,,,,,9,,Creature Codex: 82
-"Demon, Apau Perape",Large,Fiend,,,,,,,,,6,,Tome of Beasts: 75
 "Demon, baliri",Medium,Fiend,,,,,,,,,14,,Tome of Beasts 2: 93
-"Demon, Berstuc",Large,Fiend,,,,,,,,,11,,Tome of Beasts: 76
 "Demon, Cipactli",Medium,Fiend,,,,,,,,,5,,Creature Codex: 83
 "Demon, Culicoid",Large,Fiend,,,,,,,,,12,,Tome of Beasts 2: 94
 "Demon, Echo",Medium,Fiend,,,,,,,,,6,,Creature Codex: 84
 "Demon, Fulad-zereh",Huge,Fiend,,,,,,,,,9,,Creature Codex: 85
-"Demon, Kishi",Medium,Fiend,,,,,,,,,8,,Tome of Beasts: 77
-"Demon, Malkbel",Medium,Fiend,,,,,,,,,9,,Tome of Beasts: 78
 "Demon, Neophron",Medium,Fiend,,,,,,,,,8,,Creature Codex: 87
 "Demon, Pishacha",Medium,Fiend,,,,,,,,,3,,Creature Codex: 88
 "Demon, Plaresh",Medium Swarm,Fiend,,,,,,,,,3,,Creature Codex: 89
-"Demon, Psoglav",Large,Fiend,,,,,,,,,7,,Tome of Beasts: 79
 "Demon, Rattok",Small,Fiend,,,,,,,,,4,,Creature Codex: 90
-"Demon, Rubezahl",Medium,Fiend,,,,,,,,,10,,Tome of Beasts: 80
 "Demon, Spawn of Alquam",Large,Fiend,,,,,,,,,6,,Tome of Beasts 2: 95
 "Demon, Spawn of Hriggala",Huge,Fiend,,,,,,,,,10,,Tome of Beasts 2: 89
 "Demon, Spawn of Rhopalocerex",Large,Fiend,,,,,,,,,6,,Tome of Beasts 2: 92
@@ -632,9 +657,8 @@ Derro,Small,Humanoid,underground,13,13,2,chaotic evil,,,,1/4,,Out of the Abyss: 
 Derro Explorer,Small,Humanoid,,,,,,,,,2,,Tome of Beasts 2: 97
 Derro Fetal Savant,Tiny,Humanoid,"ruins,underground",2,15,-5,chaotic evil,,,,4,,Tome of Beasts: 92
 Derro Guard,Small,Humanoid,,,,,,,,,1/2,,Tome of Beasts 2: 97
-Derro Shadow Antipaladin,Small,Humanoid,,82,18,4,chaotic evil,,,,5,,Tome of Beasts: 93
+Derro Shadow Antipaladin,Small,Humanoid,"ruins, underground",82,18,4,chaotic evil,,,,5,,Tome of Beasts: 93
 Derro Shadowseeker,Small,Humanoid,,,,,,,,,6,,Tome of Beasts 2: 98
-"Derro, Shadow Antipaladin",Small,Humanoid,"ruins,underground",,,,,,,,5,,Tome of Beasts: 93
 "Derro, Speaker to the Darkness",Small,Humanoid,,,,,,,,,5,,Creature Codex: 96
 "Derro, Witch Queen",Small,Humanoid,,,,,,,,,5,,Creature Codex: 97
 Desert Giant,Huge,Giant,,175,17,0,neutral,,,,9,,Tome of Beasts: 222
@@ -643,19 +667,10 @@ Deva,Medium,Celestial,planar,136,17,4,lawful good,,,,10,,Monster Manual: 16
 Devil Bough,Huge,Fiend,,,,,,,,,6,,Creature Codex: 302
 Devil Shark,Gargantuan,Monstrosity,,,,,,,,,13,,Creature Codex: 98
 "Devil, Arachnocrat",Medium,Fiend,,,,,,,,,5,,Tome of Beasts 2: 102
-"Devil, Automata",Large,Fiend,,,,,,,,,10,,Tome of Beasts: 102
 "Devil, Blood Imp",Tiny,Fiend,,,,,,,,,1/2,,Tome of Beasts 2: 103
-"Devil, Chort",Medium,Fiend,,,,,,,,,12,,Tome of Beasts: 104
-"Devil, Crystalline",Medium,Fiend,,,,,,,,,6,,Tome of Beasts: 105
 "Devil, Fire Imp",Tiny,Fiend,,,,,,,,,1/2,,Creature Codex: 103
-"Devil, Gilded",Medium,Fiend,,,,,,,,,7,,Tome of Beasts: 106
 "Devil, infernal Knight",Medium,Fiend,,,,,,,,,16,,Creature Codex: 104
-"Devil, Ink",Small,Fiend,,,,,,,,,2,,Tome of Beasts: 107
-"Devil, Koralk (Harvester Devil)",Large,Fiend,,,,,,,,,11,,Tome of Beasts: 108
-"Devil, Lunar",Large,Fiend,,,,,,,,,8,,Tome of Beasts: 110
 "Devil, Nephirron",Huge,Fiend,,,,,,,,,16,,Tome of Beasts 2: 104
-"devil, orobas",Large,Fiend,,,,,,,,,13,,Tome of Beasts: 111
-"Devil, Salt",Medium,Fiend,desert,,,,,,,,6,,Tome of Beasts: 113
 "Devil, Scribe",Medium,Fiend,,,,,,,,,5,,Tome of Beasts 2: 105
 "Devil, Tzepharion",Large,Fiend,,,,,,,,,8,,Tome of Beasts 2: 106
 "Devil, Wind's Harp",Medium,Fiend,,,,,,,,,4,,Creature Codex: 105
@@ -669,10 +684,6 @@ Dimensional Shambler,Large,Aberration,,,,,,,,,9,,Tome of Beasts 2: 107
 Dimetrodon,Medium,Beast,swamp,19,12,0,unaligned,,,,1/4,,Volo's Guide to Monsters: 139
 "Dinosaur, Compsognathus",Tiny,Beast,,,,,,,,,1/8,,Tome of Beasts 2: 108
 "Dinosaur, Comsognathus swarm",Medium Swarm,Beast,,,,,,,,,1,,Tome of Beasts 2: 108
-"Dinosaur, Mbielu",Huge,Beast,"aquatic,marshes,plains",95,15,2,unaligned,,,,3,,Tome of Beasts: 114
-"Dinosaur, Ngobou",Large,Beast,plains,85,15,-1,unaligned,,,,5,,Tome of Beasts: 115
-"Dinosaur, Spinosaurus",Gargantuan,Beast,"forests,marshes",231,15,-1,unaligned,,,,13,,Tome of Beasts: 116
-"Dinosaur, Spinosaurus Young",Huge,Beast,"forests,marshes",105,14,0,unaligned,,,,5,,Tome of Beasts: 117
 "Dinosaur, Tricenatorus",Huge,Monstrosity,,,,,,,,,13,,Tome of Beasts 2: 109
 Dipsa,Tiny,Ooze,marshes,27,15,3,unaligned,,,,1/4,,Tome of Beasts: 118
 Dire Anglerfish,Huge,Beast,,105,13,2,unaligned,,,,5,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3t1u2d/day_92_dire_anglerfish/
@@ -684,6 +695,7 @@ Dissimortuum,Medium,Undead,,112,15,0,chaotic evil,,,,7,,Tome of Beasts: 119
 Diviner,Medium,Humanoid,urban,67,12,2,any,,,,8,,Volo's Guide to Monsters: 213
 Diwata,Large,Fey,"forests, coastal, mountains, caves",171,19,3,,,,,12,"Asian, Filipino",The Islands of Sina Una: 293
 Djinni,Large,Elemental,"arctic, coast, dungeon, grassland, planar",161,17,2,chaotic good,,,,11,,"Monster Manual: 144, Princes of the Apocalypse Online Supplement v1.0: 14"
+Doc Cu'o'c,Medium,Fey,,97,15,1,neutral evil,,,,6,Vietnamese,Asian Monsters: 19
 Dogmole,Medium,Beast,"forests, hills,mountains",71,14,3,neutral,,,,1,,Tome of Beasts: 120
 Dogmole Juggernaut,Large,Monstrosity,"hills,mountains,ruins,underground",126,15,2,neutral,,,,5,,Tome of Beasts: 121
 Dolgaunt,Medium,Aberration,,,,,,,,,3,,Wayfinder's Guide to Eberron: 290
@@ -705,13 +717,6 @@ Dragon Turtle,Gargantuan,Dragon,aquatic,341,20,0,neutral,,,,17,,"Monster Manual:
 "Dragon, Boreal Ancient",Gargantuan,Dragon,,,,,,,,,24,,Tome of Beasts 2: 110
 "Dragon, Boreal Wyrmling",Medium,Dragon,,,,,,,,,2,,Tome of Beasts 2: 113
 "Dragon, Boreal Young",Large,Dragon,,,,,,,,,8,,Tome of Beasts 2: 112
-"Dragon, Cave, Adult",Huge,Dragon,"ruins,underground",243,18,1,neutral evil,legendary,lair,,16,,Tome of Beasts: 125
-"Dragon, Cave, Wyrmling",Medium,Dragon,"ruins,underground",75,16,1,neutral evil,,,,2,,Tome of Beasts: 127
-"Dragon, Cave, Young",Large,Dragon,"ruins,underground",157,17,1,neutral evil,,,,8,,Tome of Beasts: 127
-"Dragon, Flame, Adult",Huge,Dragon,mountains,212,19,2,chaotic evil,legendary,lair,,16,,Tome of Beasts: 129
-"Dragon, Flame, Ancient",Gargantuan,Dragon,mountains,481,22,2,chaotic evil,legendary,lair,,24,,Tome of Beasts: 128
-"Dragon, Flame, Wymling",Medium,Dragon,mountains,52,17,2,chaotic evil,,,,3,,Tome of Beasts: 131
-"Dragon, Flame, Young",Large,Dragon,mountains,161,18,2,chaotic evil,,,,9,,Tome of Beasts: 130
 "Dragon, Imperial Adult",Huge,Dragon,,,,,,,,,20,,Tome of Beasts 2: 115
 "Dragon, Imperial Ancient",Gargantuan,Dragon,,,,,,,,,26,,Tome of Beasts 2: 115
 "Dragon, Imperial Wyrmling",Medium,Dragon,,,,,,,,,3,,Tome of Beasts 2: 117
@@ -720,25 +725,10 @@ Dragon Turtle,Gargantuan,Dragon,aquatic,341,20,0,neutral,,,,17,,"Monster Manual:
 "Dragon, Light, Ancient",Gargantuan,Dragon,,,,,,,,,22,,Creature Codex: 116
 "Dragon, Light, Wyrmling",Medium,Dragon,,,,,,,,,2,,Creature Codex: 113
 "Dragon, Light, Young",Large,Dragon,,,,,,,,,7,,Creature Codex: 114
-"Dragon, Mithral, Adult",Huge,Dragon,mountains,184,18,4,neutral,legendary,,,14,,Tome of Beasts: 133
-"Dragon, Mithral, Ancient",Gargantuan,Dragon,mountains,297,20,3,neutral,legendary,,,18,,Tome of Beasts: 132
-"Dragon, Mithral, Young",Medium,Dragon,mountains,92,16,6,neutral,,,,6,,Tome of Beasts: 134
-"Dragon, Sea, Adult",Huge,Dragon,aquatic,225,19,0,neutral evil,legendary,lair,,16,,Tome of Beasts: 135
-"Dragon, Sea, Ancient",Gargantuan,Dragon,aquatic,481,22,0,neutral evil,legendary,lair,,22,,Tome of Beasts: 135
-"Dragon, Sea, Wyrmling",Medium,Dragon,aquatic,52,17,0,neutral evil,,,,2,,Tome of Beasts: 136
-"Dragon, Sea, Young",Large,Dragon,"aquatic,mountains",152,18,0,neutral evil,,,,9,,Tome of Beasts: 136
-"Dragon, Void, Adult",Huge,Dragon,"badlands,mountains",229,19,0,chaotic neutral,legendary,lair,,14,,Tome of Beasts: 139
-"Dragon, Void, Ancient",Gargantuan,Dragon,"badlands,mountains",448,22,0,chaotic neutral,legendary,lair,,24,,Tome of Beasts: 138
-"Dragon, Void, Wyrmling",Medium,Dragon,mountains,45,17,0,chaotic neutral,,,,2,,Tome of Beasts: 140
-"Dragon, Void, Young",Large,Dragon,mountains,157,18,0,chaotic neutral,,,,9,,Tome of Beasts: 140
 "Dragon, Wasteland, Adult",Huge,Dragon,,,,,,,,,17,,Creature Codex: 118
 "Dragon, Wasteland, Ancient",Gargantuan,Dragon,,,,,,,,,23,,Creature Codex: 120
 "Dragon, Wasteland, Wyrmling",Medium,Dragon,,,,,,,,,3,,Creature Codex: 118
 "Dragon, Wasteland, Young",Large,Dragon,,,,,,,,,9,,Creature Codex: 118
-"Dragon, Wind, Adult",Huge,Dragon,"mountains, plains",237,19,4,chaotic neutral,legendary,lair,,17,,Tome of Beasts: 143
-"Dragon, Wind, Ancient",Gargantuan,Dragon,"mountains,plains",425,20,4,chaotic neutral,legendary,lair,,22,,Tome of Beasts: 142
-"Dragon, Wind, Wyrmling",Medium,Dragon,"hills,mountains,plains",45,14,4,chaotic neutral,,,,1,,Tome of Beasts: 145
-"Dragon, Wind, Young",Large,Dragon,"mountains,plains",150,17,4,chaotic neutral,,,,6,,Tome of Beasts: 144
 Dragonborn Edjet,Medium,Humanoid,,,,,,,,,3,,Creature Codex: 121
 Dragonborn Elementalist,Medium,Humanoid,,,,,,,,,2,,Creature Codex: 121
 Dragonborn Hvy Cav,Medium,Humanoid,,,,,,,,,2,,Creature Codex: 123
@@ -750,16 +740,10 @@ Dragonfang,Medium,Humanoid,"dungeon,urban",78,15,3,neutral evil,,,,5,,Rise of Ti
 Dragonleaf Tree,Large,Plant,"forests,urban",152,16,0,unaligned,,,,8,,Tome of Beasts: 147
 Dragonsoul,Medium,Humanoid,"dungeon, urban",110,16,4,neutral evil,,,,7,,Rise of Tiamat: 89
 Dragonwing,Medium,Humanoid,"dungeon, urban",32,14,3,neutral evil,,,,2,,Hoard of the Dragon Queen: 89
-"Drake, Alehouse",Tiny,Dragon,urban,65,13,3,chaotic neutral,,,,1/2,,Tome of Beasts: 148
-"Drake, Ash",Small,Dragon,"mountains,urban",117,16,2,neutral evil,,,,4,,Tome of Beasts: 149
 "Drake, Bathhouse",Medium,Dragon,,,,,,,,,3,,Creature Codex: 126
 "Drake, Cave",Large,Dragon,,,,,,,,,3,,Tome of Beasts 2: 119
-"Drake, Coral",Medium,Dragon,aquatic,127,16,3,neutral evil,,,,7,,Tome of Beasts: 150
 "Drake, Crater",Small,Dragon,,,,,,,,,11,,Tome of Beasts 2: 120
-"Drake, Crimson",Tiny,Dragon,forests,54,14,2,chaotic evil,,,,1,,Tome of Beasts: 151
-"Drake, Deep",Large,Dragon,"ruins,underground",150,17,4,chaotic evil,,,,9,,Tome of Beasts: 152
 "Drake, Diminution",Medium,Dragon,,,,,,,,,5,,Tome of Beasts 2: 121
-"Drake, Elder Shadow",Large,Dragon,forests,114,16,1,chaotic evil,,,,7,,Tome of Beasts: 153
 "Drake, Fey",Small,Dragon,,,,,,,,,6,,Creature Codex: 127
 "Drake, Forest",Small,Dragon,,,,,,,,,2,,Creature Codex: 128
 "Drake, Hoard",Large,Dragon,,,,,,,,,8,,Tome of Beasts 2: 122
@@ -769,15 +753,12 @@ Dragonwing,Medium,Humanoid,"dungeon, urban",32,14,3,neutral evil,,,,2,,Hoard of 
 "Drake, Liminal",Large,Dragon,,,,,,,,,14,,Tome of Beasts 2: 126
 "Drake, Moon",Medium,Dragon,,,,,,,,,5,,Creature Codex: 129
 "Drake, Pact",Small,Dragon,,,,,,,,,1,,Creature Codex: 130
-"Drake, Paper",Small,Dragon,urban,78,13,3,neutral,,,,2,,Tome of Beasts: 154
 "Drake, Peluda",Large,Dragon,,,,,,,,,3,,Creature Codex: 131
-"Drake, Rust",Medium,Dragon,"ruins,underground,urban",161,17,2,chaotic evil,,,,8,,Tome of Beasts: 155
 "Drake, Sanddrift",Large,Dragon,,,,,,,,,6,,Tome of Beasts 2: 127
 "Drake, Skull",Medium,Dragon,,,,,,,,,3,,Creature Codex: 132
 "Drake, Spider",Large,Dragon,,,,,,,,,9,,Creature Codex: 133
-"Drake, Star",Large,Dragon,hills,189,19,3,neutral,legendary,,,15,,Tome of Beasts: 156
 "Drake, Vine",Medium,Dragon,,,,,,,,,7,,Tome of Beasts 2: 128
-Drakon,Large,Beast,,105,16,4,unaligned,,,,5,,Tome of Beasts: 157
+Drakon,Large,Beast,,105,16,4,unaligned,,,,5,dragon,Tome of Beasts: 157
 Dralmorrer Borngray,Medium,Humanoid,,52,16,2,neutral evil,,,unique,3,,Hoard of the Dragon Queen: 90
 Drannin Splithelm,Medium,Elemental,,93,18,0,neutral evil,,,unique,7,,Princes of the Apocalypse: 210
 Dread Walker Excavator,Large,Construct,,,,,,,,,5,,Tome of Beasts 2: 129
@@ -798,9 +779,7 @@ Drowned Maiden,Medium,Undead,aquatic,90,15,3,neutral evil,,,,5,,Tome of Beasts: 
 Druid,Medium,Humanoid,"arctic, cave, coast, desert, forest, grassland, mountain, swamp, underground",27,11,1,any,,,,2,,"Monster Manual: 346, Princes of the Apocalypse Online Supplement v1.0: 15"
 Druid of the Old Ways,Medium,Humanoid,,,,,,,,,7,,Guildmasters' Guide to Ravnica: 239
 Dryad,Medium,Fey,forest,22,11 (16 with barkskin),1,neutral,,,,1,,Monster Manual: 121
-"Dryad, Duskthorn",Medium,Fey,forests,,,,,,,,3,,Tome of Beasts: 160
 "Dryad, Mountain",Huge,Fey,,,,,,,,,11,,Tome of Beasts 2: 130
-Duelist,Medium,Humanoid,,117,17,5,lawful evil,,,,6,,Tome of Beasts: 171
 Duergar,Medium,Humanoid,"dungeon, underground",26,16,0,lawful evil,,,,1,,"Monster Manual: 122, Princes of the Apocalypse Online Supplement v1.0: 16"
 Duergar Soulblade,Medium,Humanoid,,18,14,3,lawful evil,,,,1,,Out of the Abyss: 227
 Duergar Spore Servant,Medium,Plant,,26,16,0,unaligned,,,,1/2,,Out of the Abyss: 229
@@ -811,8 +790,9 @@ Dullahan,Large,Fey,,178,17,4,lawful evil,,,,11,,Tome of Beasts: 161
 Dune Mimic,Huge,Monstrosity,"desert,plains",168,13,-1,neutral,,,,8,,Tome of Beasts: 162
 Duodrone,Medium,Construct,planar,11,15,1,lawful neutral,,,,1/4,,Monster Manual: 225
 Dusk Hag,Medium,Fey,,,,,,,,,6,,Wayfinder's Guide to Eberron: 292
-Duskthorn Dryad,Medium,Fey,,77,17,5,any chaotic,,,,3,,Tome of Beasts: 160
+Duskthorn Dryad,Medium,Fey,,77,17,5,any chaotic,,,,3,dryad,Tome of Beasts: 160
 Dust Digger,Large,Aberration,desert,38,13,0,unaligned,,,,3,,Fifth Edition Foes: 88
+Dust Goblin,Small,Humanoid,"badlands,desert,ruins,underground",5,14,3,neutral evil,,,,1/4,,Tome of Beasts: 232
 Dust Goblin Chieftain,Small,Humanoid,,,,,,,,,3,,Creature Codex: 136
 Dust Mephit,Small,Elemental,"dungeon, planar, ruins, urban",17,12,2,neutral evil,,,,1/2,,"Monster Manual: 215, Princes of the Apocalypse Online Supplement v1.0: 16"
 Dvarapala,Huge,Giant,,,,,,,,,5,,Creature Codex: 137
@@ -826,7 +806,6 @@ Eagle,Small,Beast,"arctic, grassland, mountain",3,12,2,unaligned,,,,0,,"Basic Ru
 Eala,Small,Monstrosity,,40,15,3,unaligned,,,,2,,Tome of Beasts: 163
 Earth Elemental,Large,Elemental,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",126,17,-1,neutral,,,,5,,"Basic Rules v1: 17, Monster Manual: 124"
 Earth Elemental Myrmidon,Medium,Elemental,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",127,18,0,neutral,,,,7,,Princes of the Apocalypse: 212
-Eater of Dust,Medium,Aberration,,,,,,,,,9,,Tome of Beasts: 164
 Eater of Dust (Yakat-Shi),Medium,Aberration,,114,17,2,neutral evil,,,,9,,Tome of Beasts: 164
 Eblis,Medium,Monstrosity,swamp,22,12,2,neutral evil,,,,1/2,,Fifth Edition Foes: 89
 Ecstatic Bloom,Huge,Celestial,,,,,,,,,11,,Creature Codex: 303
@@ -835,13 +814,14 @@ Edimmu,Medium,Undead,desert,75,15,4,chaotic evil,,,,4,,Tome of Beasts: 165
 Edjet Initiate,Medium,Humanoid,,,,,,,,,1/4,,Tome of Beasts 2: 131
 Eel Hound,Medium,Fey,aquatic,77,14,3,neutral,,,,2,,Tome of Beasts: 166
 Efreeti,Large,Elemental,"desert, dungeon, mountain, planar",200,17,1,lawful evil,,,,11,,"Monster Manual: 145, Princes of the Apocalypse Online Supplement v1.0: 16"
-einheriar,Medium,Humanoid,,,,,,,,,7,,Tome of Beasts: 167
 Einherjar,Medium,Humanoid,,119,18,3,chaotic neutral,,,,7,,Tome of Beasts: 167
+Einsaung Nat,Small,Fey,,14,14,3,chaotic good,,,,1,Myanmar,Asian Monsters: 74
 Elder Brain,Large,Aberration,underground,210,10,0,lawful evil,,,,14,,Volo's Guide to Monsters: 173
+Elder Shadow Drake,Large,Dragon,forests,114,16,1,chaotic evil,,,,7,dragon,Tome of Beasts: 153
 Eldrazi Scion,Large,Aberration,,45,12,2,chaotic evil,,,,1,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3mpzye/day_43_eldrazi_scion/
 Eldritch Ooze,Large,Ooze,,,,,,,,,5,,Tome of Beasts 2: 278
 Eleinomae,Medium,Fey,marshes,112,18,4,chaotic evil,,,,5,,Tome of Beasts: 168
-elemental locus,Gargantuan,Elemental,,290,16,-5,neutral,,,,17,,Tome of Beasts: 169
+Elemental Locus,Gargantuan,Elemental,,290,16,-5,neutral,,,,17,,Tome of Beasts: 169
 "Elemental, Blood",Large,Elemental,,,,,,,,,5,,Creature Codex: 138
 "Elemental, Fire-infused water",Huge,Elemental,,,,,,,,,7,,Tome of Beasts 2: 132
 "Elemental, Ice",Large,Elemental,,,,,,,,,5,,Tome of Beasts 2: 133
@@ -852,12 +832,7 @@ Elephant,Huge,Beast,grassland,76,12,-1,unaligned,,,,4,,"Basic Rules v1: 18, Mons
 "Elf, Alchemist Archer",Medium,Humanoid,,,,,,,,,10,,Creature Codex: 141
 "Elf, Deathsworn",Medium,Humanoid,,,,,,,,,6,,Creature Codex: 142
 "Elf, Enchanter",Medium,Humanoid,,,,,,,,,7,,Creature Codex: 143
-"Elf, Servant of VIne",Medium,Humanoid,,,,,,,,,6,,Creature Codex: 144
-"elf, shadow fey",Medium,Humanoid,,,,,,,,,1/4,,Tome of Beasts: 171
-"elf, shadow fey duelist",Medium,Humanoid,,,,,,,,,6,,Tome of Beasts: 171
-"elf, shadow fey enchantress",Medium,Humanoid,,,,,,,,,7,,Tome of Beasts: 172
-"elf, shadow fey forest hunter",Medium,Humanoid,,,,,,,,,5,,Tome of Beasts: 173
-"elf, shadow fey guardian",Large,Humanoid,,,,,,,,,4,,Tome of Beasts: 174
+"Elf, Servant of Vine",Medium,Humanoid,,,,,,,,,6,,Creature Codex: 144
 Elizar Dryflagon,Medium,Humanoid,,71,14,2,chaotic evil,,,unique,5,,Princes of the Apocalypse: 202
 Elk,Large,Beast,"forest, grassland",13,10,0,unaligned,,,,1/4,,"Basic Rules v1: 18, HotDQ supplement: 8, Monster Manual: 322"
 Elophar,Large,Undead,,,,,,,,,4,,Creature Codex: 149
@@ -866,14 +841,13 @@ Elven Veteran Archer,Medium,Humanoid,,,,,,,,,3,,Tome of Beasts: 422
 Elvish Veteran Archer,Medium,Humanoid,,77,15,3,chaotic good or chaotic neutral,,,,3,,Tome of Beasts: 422
 Emerald Eye,Tiny,Construct,,54,14,2,chaotic evil,,,,1,,Tome of Beasts: 175
 Emerald Order Cult Leader,Mwsium,Humanoid,,117,14,0,lawful neutral or lawful evil,,,,8,,Tome of Beasts: 421
-Emperor of the Ghouls,Medium,Undead,"ruins,underground,urban",204,20,2,neutral evil,legendary,lair,unique,20,,Tome of Beasts: 219
+Emperor of the Ghouls,Medium,Undead,"ruins,underground,urban",204,20,2,neutral evil,legendary,lair,unique,20,ghoul,Tome of Beasts: 219
 Emperor's Hyena,Medium,Undead,,,,,,,,,4,,Tome of Beasts 2: 135
 Empty Cloak,Medium,Construct,,45,13,2,unaligned,,,,1/2,,Tome of Beasts: 176
 Empusa,Medium,Monstrosity,,,,,,,,,5,,Tome of Beasts 2: 136
 Empyrean,Huge,Celestial,planar,313,22,5,chaotic good (75%) or neutral evil (25%),legendary,,,23,,Monster Manual: 130
 Encephalon Gorger (Psilian),Medium,Aberration,,65,13,3,chaotic evil,,,,4,,Fifth Edition Foes: 94
 Enchanter,Medium,Humanoid,urban,40,12,2,any,,,,5,,"Volo's Guide to Monsters: 213, Tales from the Yawning Portal: 234"
-Enchantress,Medium,Humanoid,,123,16,2,lawful evil,,,,7,,Tome of Beasts: 172
 Eonic Drifter,Medium,Humanoid,,65,13,2,neutral evil,,,,1,,Tome of Beasts: 177
 Eonic Savant,Medium,Humanoid,,,,,,,,,7,,Tome of Beasts 2: 137
 Erina Defender,Small,Humanoid,"forests,hills,plains",44,15,2,neutral,,,,1,,Tome of Beasts: 178
@@ -914,8 +888,7 @@ Fate Eater,Medium,Aberration,,182,16,1,neutral,,,,6,,Tome of Beasts: 180
 Fathomer,Medium,Humanoid,"aquatic, cave, coast, grassland, swamp, underground",52,10,0,neutral evil,,,,2,,Princes of the Apocalypse: 207
 Fear Guard,Medium,Undead,underground,51,17,2,chaotic evil,,,,3,,Fifth Edition Foes: 98
 Fear Liath,Large,Undead,,,,,,,,,2,,Creature Codex: 152
-Fear Smith (FiarsÃ­dhe),Medium,Fey,,123,17,3,chaotic neutral,,,,10,,Tome of Beasts: 181
-Fear Smith (Fiarsidhe),Medium,Fey,,,,,,,,,10,,Tome of Beasts: 181
+Fear Smith (Fiarsídhe),Medium,Fey,,123,17,3,chaotic neutral,,,,10,,Tome of Beasts: 181
 Feathergale knight,Medium,Humanoid,"arctic, cave, coast, desert, dungeon, grassland, mountain, ruins",33,16,2,lawful evil,,,,1,,Princes of the Apocalypse: 189
 Felid Dragon,Huge,Dragon,,,,,,,,,19,,Tome of Beasts 2: 143
 Felidar,Large,Celestial,,,,,,,,,5,,Guildmasters' Guide to Ravnica: 199
@@ -927,7 +900,6 @@ Fern Lizard,Small,Beast,,14,12,2,unaligned,,,,1/2,,Monster-A-Day: https://www.re
 Fetch,Medium,Undead,"grassland, mountain",16,13,2,lawful evil,,,,1,,Fifth Edition Foes: 100
 Fext,Medium,Undead,,60,17,3,any,,,,6,,Tome of Beasts: 183
 "Fey Lady, Berchta",Medium,Fey,,,,,,,,,16,,Creature Codex: 154
-"Fey Lady, Snow Queen",Medium,Fey,,,,,,,,,16,,Tome of Beasts: 198
 "Fey Lord, Reynard",Medium,Fey,,,,,,,,,12,,Creature Codex: 156
 Fey Revenant,Large,Fey,,,,,,,,,7,,Tome of Beasts 2: 150
 Feyote,Medium,Fey,,11,12,2,neutral,,,,1/4,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3r3co3/day_77_feyote/
@@ -941,6 +913,8 @@ Fire Elemental,Large,Elemental,"cave, coast, desert, dungeon, grassland, mountai
 Fire Elemental Myrmidon,Medium,Elemental,"cave, coast, desert, dungeon, grassland, mountain, planar, ruins, swamp, underground, urban",117,18,4,neutral,,,,7,,Princes of the Apocalypse: 213
 Fire Giant,Huge,Giant,"mountain, planar",162,18,-1,lawful evil,,,,9,,"Basic Rules v1: 19, Monster Manual: 154"
 Fire Giant Dreadnought,Huge,Giant,"mountain, underground",187,21,-1,lawful evil,,,,14,,Volo's Guide to Monsters: 147
+Fire Kyeryong,Small,Monstrosity,mountains,9,12,2,unaligned,,,,1/4,Korean,Asian Monsters: 63
+Fire Monkey,Small,Monstrosity,forests,72,15,3,chaotic neutral,,,,3,,Asian Monsters: 31
 Fire Snake,Medium,Elemental,"forest, planar",22,14,2,neutral evil,,,,1,,"Monster Manual: 265, Princes of the Apocalypse Online Supplement v1.0: 17"
 Fire Spire Initiate,Medium,Humanoid,,55,15,3,any lawful,,,,3,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3icp48/day_9_monks_of_the_five_spires/
 Firebird,Small,Celestial,,99,16,4,neutral good,,,,4,,Tome of Beasts: 201
@@ -953,6 +927,7 @@ Flab Giant,Large,Giant,"hills,mountains",110,14,-2,chaotic evil,,,,4,,Tome of Be
 Flag Giant,Large,Giant,,,,,,,,,4,,Tome of Beasts: 222
 Flagstone Golem,Large,Construct,,114,15,-1,unaligned,,,,7,,Fifth Edition Foes: 126
 Flail Snail,Large,Monstrosity,"ruins, underground",38,16,-1,unaligned,,,,3,,Fifth Edition Foes: 103
+Flame Naga,Large,Monstrosity,"forests, coastal, rivers",59,17,0,neutral evil,,,,5,"fire, Laotian",Asian Monsters: 69
 Flame-Scourged Scion,Huge,Aberration,,,,,,,,,9,,Creature Codex: 159
 Flameskull,Tiny,Undead,"dungeon, ruins",40,13,3,neutral evil,,,,4,,"Basic Rules v1: 19, Monster Manual: 134"
 Flamewrath,Medium,Humanoid,"cave, desert, dungeon, forest, grassland, mountain, ruins, underground",105,12,2,chaotic evil,,,,6,,Princes of the Apocalypse: 201
@@ -982,7 +957,6 @@ Fomorian,Huge,Giant,"cave, underground",149,14,0,chaotic evil,,,,8,,Monster Manu
 Foo Dog,Medium,Monstrosity,planar,52,13,2,chaotic good,,,,3,,Fifth Edition Foes: 105
 Forest Emperor,Huge,Aberration,,,,,,,,,15,,Tome of Beasts 2: 155
 forest falcon,Medium,Beast,,,,,,,,,1/4,,Tome of Beasts 2: 390
-Forest Hunter,Medium,Humanoid,,104,15,4,lawful evil,,,,5,,Tome of Beasts: 173
 Forest Marauder,Large,Giant,"badlands,forests",114,15,0,chaotic evil,,,,4,,Tome of Beasts: 205
 Forester's Bane,Large,Plant,grassland,103,10,0,unaligned,,,,5,,Fifth Edition Foes: 106
 Four-Armed Gargoyle,Medium,Monstrosity,"aquatic, underground",55,15,2,chaotic evil,,,,4,,Fifth Edition Foes: 113
@@ -1021,6 +995,9 @@ Fungus Gargoyle,Medium,Plant,,52,14,2,neutral evil,,,,1,,Fifth Edition Foes: 114
 Furnace Golem,Large,Construct,,152,16,-1,unaligned,,,,9,,Fifth Edition Foes: 127
 Fusion Elemental,Huge,Elemental,,250,17,0,neutral,legendary,,,15,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3iqsbv/day_12_fusion_elemental/
 Fyr,Small,Fey,"forest, mountain",9,11,1,neutral,,,,1/4,,Fifth Edition Foes: 110
+"Gaki, Jikki-Nikki-Gaki",Medium,Undead,,22,12,2,chaotic evil,,,,1,"shapechanger, Japanese",Asian Monsters: 32
+"Gaki, Shikki-Gaki",Medium,Undead,"caves, forests, urban",36,13,3,chaotic evil,,,,2,"regeneration, shapechanger, Japanese",Asian Monsters: 33
+"Gaki, Shinen-Gaki",Medium,Undead,,55,14,3,chaotic evil,,,,3,"regeneration, Japanese",Asian Monsters: 33
 Galeb Duhr,Medium,Elemental,"cave, dungeon, mountain, planar, underground",85,16,2,neutral,,,,6,,"Monster Manual: 139, Princes of the Apocalypse Online Supplement v1.0: 17"
 Galidroo,Huge,Monstrosity,,,,,,,,,12,,Tome of Beasts 2: 161
 Gallows Tree,Huge,Plant,"forest, grassland, swamp",225,15,0,unaligned,,,,13,,Fifth Edition Foes: 111
@@ -1032,7 +1009,10 @@ Gargoctopus,Large,Monstrosity,,,,,,,,,5,,Creature Codex: 167
 Gargoyle,Medium,Elemental,"dungeon, urban",52,15,0,chaotic evil,,,,2,,"Basic Rules v1: 21, HotDQ supplement: 9, Monster Manual: 140"
 Garlicle,Small,Plant,,,,,,,,,1,,Tome of Beasts 2: 162
 Garroter Crab,Tiny,Beast,aquatic,18,13,2,unaligned,,,,1/4,,Tome of Beasts: 208
+Garuda,Medium,Celestial,hills,228,17,5,chaotic good,,,,11,,Asian Monsters: 34
+"Garudi, Jyoti",Medium,Celestial,,152,17,5,neutral evil,,,,9,regeneration,Asian Monsters: 35
 Gas Spore,Large,Plant,"cave, dungeon, underground",1,5,-5,unaligned,,,,1/2,,Monster Manual: 138
+Gashadokuro,Huge,Undead,plains,310,18,0,neutral evil,,,,16,Japanese,Asian Monsters: 35
 Gaunt One,Medium,Aberration,,,,,,,,,3,,Tome of Beasts 2: 163
 Gauth,Medium,Aberration,underground,67,15,2,lawful evil,,,,6,,Volo's Guide to Monsters: 125
 Gavanice weird,Medium,Elemental,,,,,,,,,1,,Guildmasters' Guide to Ravnica: 209
@@ -1044,7 +1024,6 @@ Gear mage,Medium,Humanoid,,,,,,,,,4,,Creature Codex: 401
 Gearforged Templar,Medium,Construct,,71,18,-1,lawful neutral,,,,6,,Tome of Beasts: 210
 Gearkeeper Construct,Large,Construct,,,,,,,,,10,,Explorer's Guide to Wildemount: 290
 Gelatinous Cube,Large,Ooze,dungeon,84,6,-4,unaligned,,,,2,,Monster Manual: 242
-"Genia, Al-Aeshma",Large,Elemental,,,,,,,,,9,,Tome of Beasts: 211
 Gerridae,Large,Fey,aquatic,77,14,2,neutral,,,,1,,Tome of Beasts: 212
 Ghald,Medium,Elemental,,102,15,3,lawful evil,,,unique,7,,Princes of the Apocalypse: 210
 Ghast,Medium,Undead,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",36,13,3,chaotic evil,,,,2,,"Monster Manual: 148, Princes of the Apocalypse Online Supplement v1.0: 18"
@@ -1064,11 +1043,9 @@ Ghoul Bat,Small,Undead,,,,,,,,,1/4,,Tome of Beasts 2: 391
 "Ghoul, Beggar",Medium,Undead,"ruins,underground,urban",13,12,2,chaotic evil,,,,1/2,,Tome of Beasts: 213
 "Ghoul, Bloated",Medium,Undead,,,,,,,,,6,,Tome of Beasts 2: 166
 "Ghoul, Bonepowder",Small,Undead,"ruins,underground",195,18,5,neutral evil,,,,12,,Tome of Beasts: 214
-"Ghoul, Darakhul",Medium,Undead,"ruins,underground",78,16,3,neutral evil,,,,3,,Tome of Beasts: 216
 "Ghoul, Darakhul Captain",Medium,Undead,,,,,,,,,9,,Tome of Beasts 2: 166
 "Ghoul, Darakhul Spy",Medium,Undead,,,,,,,,,5,,Tome of Beasts 2: 168
 "Ghoul, Imperial",Medium,Undead,"ruins,underground",93,16,2,lawful evil,,,,4,,Tome of Beasts: 220
-"Ghoul, Iron",Medium,Undead,"ruins,underground",143,16,3,lawful evil,,,,5,,Tome of Beasts: 221
 Ghoulsteed,Large,Undead,,,,,,,,,3,,Creature Codex: 177
 Ghul,Medium,Undead,,,,,,,,,5,,Tome of Beasts 2: 169
 Giant Ant,Large,Beast,,52,14,1,unaligned,,,,2,,Tome of Beasts: 23
@@ -1133,10 +1110,9 @@ Giant Water Beetle,Medium,Beast,aquatic,30,14,1,unaligned,,,,1/2,,Fifth Edition 
 Giant Water Scorpion,Large,Beast,,,,,,,,,4,,Tome of Beasts 2: 393
 Giant Weasel,Medium,Beast,"forest, grassland",9,13,3,unaligned,,,,1/8,,"Basic Rules v1: 29, Monster Manual: 329"
 Giant Wolf Spider,Medium,Beast,"cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",11,13,3,unaligned,,,,1/4,,"Basic Rules v1: 29, Monster Manual: 330"
-"Giant, Desert",Huge,desert,175,17,0,neutral,,,9,,Tome of Beasts: 222,,
 "Giant, Jotun",Gargantuan,Giant,"hills,mountains,plains",407,20,-1,chaotic neutral,legendary,,,22,,Tome of Beasts: 226
 Gibbering Mouther,Medium,Aberration,"cave, dungeon, planar, underground",67,9,-1,neutral,,,,2,,Monster Manual: 157
-Gilded Devil,Medium,Fiend,,112,16,2,lawful evil,,,,7,,Tome of Beasts: 106
+Gilded Devil,Medium,Fiend,,112,16,2,lawful evil,,,,7,devil,Tome of Beasts: 106
 Gill-man,Medium,Monstrosity,,102,16,3,neutral,,,,6,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3qf9kq/day_72_gillman/
 Gillmonkey,Small,Beast,aquatic,7,12,2,chaotic evil,,,,1/4,,Fifth Edition Foes: 121
 Ginormous Squirrel,Gargantuan,Beast,,248,20,3,unaligned,legendary,,,16,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3o41vx/day_54_ginormous_squirrel/
@@ -1179,7 +1155,6 @@ Goblin Alchemist,Small,Humanoid,,10,14,2,neutral evil,,,,1/2,,Monster-A-Day: htt
 Goblin Boss,Small,Humanoid,"cave, dungeon, forest, grassland, mountain, ruins, urban",21,17,2,neutral evil,,,,1,,Monster Manual: 166
 Goblin Ritualist,Small,Humanoid,,10,14,2,neutral evil,,,,1/2,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sasfq/day_86_goblin_alchemist_and_ritualist/
 "Goblin, Chaos-Spawn",Small,Humanoid,,,,,,,,,1/2,,Creature Codex: 190
-"Goblin, Dust",Small,Humanoid,"badlands,desert,ruins,underground",5,14,3,neutral evil,,,,1/4,,Tome of Beasts: 232
 "Goblin, Shadow",Small,Humanoid,,,,,,,,,1/2,,Creature Codex: 191
 Gohl,Large,Aberration,"ruins, underground",85,13,3,chaotic evil,,,,8,,Fifth Edition Foes: 124
 Gold Dragon Wyrmling,Medium,Dragon,"mountain, ruins",60,17,2,lawful good,,,,3,,Monster Manual: 115
@@ -1193,9 +1168,7 @@ Golden Cat,Tiny,Beast,,3,12,2,unaligned,,,,0,,Fifth Edition Foes: 125
 "Golem, Death Shroud",Large,Construct,,,,,,,,,5,,Tome of Beasts 2: 179
 "Golem, Doom",Large,Construct,,,,,,,,,10,,Creature Codex: 197
 "Golem, Dragonflesh",Large,Construct,,,,,,,,,10,,Tome of Beasts 2: 180
-"Golem, Eye",Large,Construct,,,,,,,,,11,,Tome of Beasts: 233
 "Golem, Fractal",Large,Construct,,,,,,,,,8,,Creature Codex: 198
-"Golem, Hoard",Huge,Construct,,,,,,,,,12,,Tome of Beasts: 234
 "Golem, Keg",Medium,Construct,,,,,,,,,3,,Creature Codex: 199
 "Golem, Lesser, Glass",Small,Construct,,,,,,,,,2,,Creature Codex: 200
 "Golem, Lesser, Hair",Small,Construct,,,,,,,,,1/4,,Creature Codex: 200
@@ -1205,9 +1178,6 @@ Golden Cat,Tiny,Beast,,3,12,2,unaligned,,,,0,,Fifth Edition Foes: 125
 "Golem, Manastrom",Medium,Construct,,,,,,,,,8,,Creature Codex: 203
 "Golem, Paper",Tiny,Construct,,,,,,,,,1/4,,Creature Codex: 204
 "Golem, Paper Swarm",Medium swarm,Construct,,,,,,,,,3,,Creature Codex: 204
-"Golem, Salt",Large,Construct,"aquatic,desert",,,,,,,,10,,Tome of Beasts: 235
-"Golem, Smargadine",Large,Construct,,,,,,,,,14,,Tome of Beasts: 236
-"Golem, Steam",Large,Construct,,,,,,,,,13,,Tome of Beasts: 237
 "Golem, Vine",Medium,Construct,,,,,,,,,3,,Tome of Beasts 2: 181
 "Golem, War Machine",Gargantuan,Construct,,,,,,,,,18,,Creature Codex: 205
 Golgari Shaman,Medium,Humanoid,,,,,,,,,5,,Guildmasters' Guide to Ravnica: 236
@@ -1241,7 +1211,6 @@ Green Hag (coven),Medium,Fey,"forest, swamp",82,17,1,neutral evil,,,,5,,Monster 
 Green Knight,Medium,Fey,,,,,,,,,6,,Creature Codex: 209
 Green Slaad,Large,Aberration,planar,127,16,2,chaotic neutral,,,,8,,Monster Manual: 277
 Grell,Medium,Aberration,"dungeon, underground",55,12,2,neutral evil,,,,3,,"Monster Manual: 172, Princes of the Apocalypse Online Supplement v1.0: 18"
-"Gremlin, Rum",Tiny,Fey,aquatic,,,,,,,,1/2,,Tome of Beasts: 239
 "Gremlin, Rum Lord",Small,Fey,,,,,,,,,4,,Tome of Beasts 2: 185
 Grick,Medium,Monstrosity,"cave, dungeon, underground",27,14,2,neutral,,,,2,,"Basic Rules v1: 30, Monster Manual: 173"
 Grick Alpha,Large,Monstrosity,"cave, dungeon, underground",75,18,3,neutral,,,,7,,Monster Manual: 173
@@ -1263,6 +1232,8 @@ Grung Wildling,Small,Humanoid,forest,27,13,3,lawful evil,,,,1,,Volo's Guide to M
 Guard,Medium,Humanoid,urban,11,16,1,any,,,,1/8,,"Basic Rules v1: 54, HotDQ supplement: 11, Monster Manual: 347"
 Guard Drake,Medium,Dragon,"dungeon, urban",52,14,0,unaligned,,,,2,,"Hoard of the Dragon Queen: 91, Rise of Tiamat: 90, Volo's Guide to Monsters: 158"
 Guardian,Large,Humanoid,,110,15,2,neutral evil,,,,4,,Tome of Beasts: 174
+"Guardian Creatures, Komainu",Medium,Celestial,,81,13,2,neutral good,,,,1,Japanese,Asian Monsters: 37
+"Guardian Creatures, Stone Lion",Large,Celestial,,110,13,2,neutral good,,,,2,Chinese,Asian Monsters: 37
 Guardian Giant,Huge,Giant,,,,,,,,,8,,Guildmasters' Guide to Ravnica: 201
 Guardian Naga,Large,Monstrosity,"cave, coast, forest, ruins",75,15,3,lawful good,,,,10,,Monster Manual: 234
 Guardian Portrait,Medium,Construct,,22,5,-5,unaligned,,,,1,,Curse of Strahd: 227
@@ -1272,12 +1243,12 @@ Gulon,Large,Monstrosity,,,,,,,,,6,,Creature Codex: 212
 Gulper Behemoth,Gargantuan,Monstrosity,,,,,,,,,9,,Tome of Beasts 2: 190
 Gulper Eel,Large,Beast,aquatic,60,14,2,unaligned,,,,3,,Fifth Edition Foes: 92
 Gumienniki,Small,Fiend,,,,,,,,,1,,Creature Codex: 213
+Gwishin,Medium,Undead,"forests, urban",9,11,1,chaotic evil,,,,1/2,Korean,Asian Monsters: 38
+"Gwishin, Bul",Medium,Undead (spirit),,26,13,0,chaotic evil,,,,2,"fire, Korean",Asian Monsters: 39
+"Gwishin, Dalgyal",Medium,Undead (spirit),,44,14,4,chaotic evil,,,,4,"ghost, Korean",Asian Monsters: 40
+"Gwishin, Mul",Medium,Undead (spirit),"coastal, aquatic",30,12,0,chaotic evil,,,,2,"ghost, Korean",Asian Monsters: 41
 Gynosphinx,Large,Monstrosity,"dungeon, ruins",136,17,2,lawful neutral,legendary,lair,,11,,Monster Manual: 282
 Hadrosaurus,Large,Beast,"grassland, swamp",19,11,0,unaligned,,,,1/4,,Volo's Guide to Monsters: 140
-"Hag, Blood",Medium,Fey,,,,,,,,,11,,Tome of Beasts: 242
-"Hag, Mirror",Medium,Fey,,,,,,,,,6,,Tome of Beasts: 243
-"Hag, Red",Medium,Fey,,,,,,,,,7,,Tome of Beasts: 244
-"Hag, Sand",Medium,Monstrosity,desert,,,,,,,,5,,Tome of Beasts: 245
 "Hag, Snow",Medium,Fey,,,,,,,,,3,,Creature Codex: 214
 Haleshi,Large,Fey,,,,,,,,,7,,Tome of Beasts 2: 191
 Half-Ogre,Large,Giant,"arctic, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",30,12,0,chaotic evil,,,,1,,"Monster Manual: 238, Princes of the Apocalypse Online Supplement v1.0: 19"
@@ -1289,6 +1260,8 @@ Hantu Penanggal,Medium,Fiend,,,,,,,,,8,,Tome of Beasts 2: 192
 Hanu-naga,Large,Monstrosity,"forest, mountain",39,14,2,chaotic evil,,,,2,,Fifth Edition Foes: 175
 Harbinger of Wrath,Gargantuan,Construct,,,,,,,,,20,,Tome of Beasts 2: 193
 Harefolk,Small,Humanoid,,,,,,,,,1/4,,Tome of Beasts 2: 194
+Harionago,Medium,Undead,,260,17,6,neutral evil,,,,13,"ghost, Japanese",Asian Monsters: 42
+Harionna,Medium,Fey,"forests, hills",82,17,4,chaotic evil,,,,3,"hag, Japanese",Asian Monsters: 43
 Harpy,Medium,Monstrosity,"coast, forest, mountain",38,11,1,chaotic evil,,,,1,,"Basic Rules v1: 31, Monster Manual: 181"
 "Harpy, Egret",Medium,Monstrosity,,,,,,,,,2,,Tome of Beasts 2: 195
 "Harpy, Owl",Medium,Monstrosity,"desert,forests,urban",,,,,,,,5,,Tome of Beasts: 246
@@ -1353,7 +1326,8 @@ Huli Jing,Medium,Fey,,,,,,,,,9,,Tome of Beasts 2: 204
 Hulking Crab,Huge,Beast,,76,17,-1,unaligned,,,,5,,Storm King's Thunder: 240
 Hulking whelp,Small / Huge,Fey,,94,15,0,chaotic neutral,,,,5,,Tome of Beasts: 252
 "Human, Elfmarked",Medium,Humanoid,,,,,,,,,1/2,,Creature Codex: 403
-Hundun,Large,Celestial,,153,18,1,chaotic good,,,,10,,Tome of Beasts: 253
+Hundun,Large,Celestial,,153,18,1,chaotic good,,,,10,Chinese,Tome of Beasts: 253
+Hundun,Large,Aberration,,420,19,7,chaotic evil,legendary,lair,,26,,Asian Monsters: 44
 "Hungry ghost, gaki",Medium,Undead,,,,,,,,,8,,Creature Codex: 222
 "Hungry GHost, Petra",Medium,Undead,,,,,,,,,3,,Creature Codex: 223
 Hunter Shark,Large,Beast,aquatic,45,12,1,unaligned,,,,2,,"Basic Rules v1: 33, Monster Manual: 330"
@@ -1363,6 +1337,7 @@ Husk Zombie,Medium,Undead,,,,,,,,,1,,Explorer's Guide to Wildemount: 293
 "Husk, Giant",Huge,Undead,,,,,,,,,7,,Tome of Beasts 2: 205
 Hverhuldra,Small,Fey,,,,,,,,,6,,Tome of Beasts 2: 206
 Hyaenodon,Large,Beast,grassland,44,13,2,unaligned,,,,1,,Fifth Edition Foes: 184
+Hyakume,Huge,Aberration,,228,17,3,neutral evil,,,,15,Japanese,Asian Monsters: 45
 Hybrid Brute,Medium,Humanoid,,,,,,,,,2,,Guildmasters' Guide to Ravnica: 217
 Hybrid Flier,Medium,Humanoid,,,,,,,,,2,,Guildmasters' Guide to Ravnica: 217
 Hybrid Poisoner,Medium,Humanoid,,,,,,,,,1,,Guildmasters' Guide to Ravnica: 217
@@ -1399,7 +1374,7 @@ Infernal Centaur,Medium,Fiend,,,,,,,,,4,,Tome of Beasts 2: 214
 Infernal Swarm,Huge Swarm,Fiend,,,,,,,,,12,,Tome of Beasts 2: 215
 Infestation Swarm,Medium,Aberration,,44,14,4,unaligned,,,,4,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3pn9gi/day_66_infestation_swarm/
 Initiate of the Elder Elementals,Small,Humanoid,,,,,,,,,2,,Tome of Beasts 2: 216
-Ink Devil,Small,Fiend,"ruins,underground,urban",54,14,4,lawful evil,,,,2,,Tome of Beasts: 107
+Ink Devil,Small,Fiend,"ruins,underground,urban",54,14,4,lawful evil,,,,2,devil,Tome of Beasts: 107
 Ink Guardian Ooze,Large,Ooze,,,,,,,,,4,,Creature Codex: 285
 Inkling,Tiny,Construct,,,,,,,,,1/4,,Creature Codex: 227
 Inspired,Medium,Humanoid,,,,,,,,,2,,Wayfinder's Guide to Eberron: 294
@@ -1407,10 +1382,11 @@ Intellect Devourer,Tiny,Aberration,"dungeon, underground",21,12,2,lawful evil,,,
 Invisible Stalker,Medium,Elemental,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground, urban",104,14,4,neutral,,,,6,,"Monster Manual: 192, Princes of the Apocalypse Online Supplement v1.0: 21"
 Irid,Tiny,Celestial,,,,,,,,,1,,Tome of Beasts 2: 217
 Iron Defender,Medium,Construct,,,,,,,,,1,,Wayfinder's Guide to Eberron: 293
+Iron Ghoul,Medium,Undead,"ruins,underground",143,16,3,lawful evil,,,,5,ghoul,Tome of Beasts: 221
 Iron Golem,Large,Construct,"dungeon, ruins, urban",210,20,-1,unaligned,,,,16,,Monster Manual: 170
 Iron Sphere,Small,Construct,,,,,,,,,5,,Creature Codex: 228
 Iron Teeth of Baba Yaga,Tiny,Fey,,,,,,,,,2,,Creature Codex: 47
-isonade,Gargantuan,Monstrosity,aquatic,222,18,2,chaotic neutral,,,,14,,Tome of Beasts: 257
+Isonade,Gargantuan,Monstrosity,aquatic,222,18,2,chaotic neutral,,,,14,,Tome of Beasts: 257
 Isperia,Gargantuan,Monstrosity,,,,,,,,,21,,Guildmasters' Guide to Ravnica: 227
 Ixitxachitl,Small,Aberration,,18,15,3,chaotic evil,,,,1/4,,Out of the Abyss: 225
 Iymrith the Dragon,Gargantuan,Dragon,,481,22,0,lawful evil,legendary,lair,unique,23,,Storm King's Thunder: 241
@@ -1426,13 +1402,17 @@ Jaculi,Medium,Monstrosity,,4,14,3,unaligned,,,,1/8,,Fifth Edition Foes: 150
 Jaculus,Small,Dragon,forests,65,18,4,neutral evil,,,,3,,Tome of Beasts: 258
 Jamna Gleamsilver,Small,Humanoid,,22,15,3,neutral,,,unique,1,,Hoard of the Dragon Queen: 91
 jarad vod savo,Medium,Undead,,,,,,,,,22,,Guildmasters' Guide to Ravnica: 235
-jiangshi,Medium,Undead,,,,,,,,,6,,Creature Codex: 230
+Jiangshi,Medium,Undead,,,,,,,,,6,,Creature Codex: 230
 Jimmenju,Huge,Plant,,,,,,,,,9,,Creature Codex: 232
+Jinmenju,Huge,Plant,"hills, forests",256,18,-1,neutral,,,,13,Japanese,Asian Monsters: 45
+Jorogumo,Medium,Monstrosity,"mountains, coastal",287,18,4,neutral evil,,,,15,shapechanger,Asian Monsters: 47
 Juggernaut,Large,Construct,,102,17,0,neutral,,,,6,,Fifth Edition Foes: 10
 Juiblex,Huge,Fiend,,350,18,0,chaotic evil,legendary,,unique,23,,Out of the Abyss: 243
 Jungle Ankheg,Large,Monstrosity,"coast, forest, grassland, underground",105,"15, 12 while prone",1,unaligned,,,,5,,Monster Module: 12
 Jupiter Bloodsucker,Medium,Plant,forest,26,8,-3,unaligned,,,,1,,Fifth Edition Foes: 152
 Kachilian,Huge,Aberration,,,,,,,,,8,,Tome of Beasts 2: 219
+"Kaiju, Masura",Gargantuan,Monstrosity,,546,20,2,neutral good,legendary,,,25,"siege, Japanese",Asian Monsters: 48
+"Kaiju, Mogaru",Gargantuan,Monstrosity (Titan),"forests, coastal",615,22,5,chaotic neutral,legendary,,unique,29,"regeneration, siege, Japanese",Asian Monsters: 50
 Kalanget,Small,Elemental,,52,17,-1,,,,,3,"Asian, Filipino",The Islands of Sina Una: 297
 Kalaraq quori,Medium,Aberration,,,,,,,,,19,,Wayfinder's Guide to Eberron: 306
 Kalashtar,Medium,Humanoid,,,,,,,,,1/4,,Wayfinder's Guide to Eberron: 317
@@ -1444,12 +1424,18 @@ Kamaitachi,Small,Monstrosity,,,,,,,,,5,,Tome of Beasts 2: 220
 "Kami, Gorao-ka",Tiny,Fey,,,,,,,,,1/8,,Tome of Beasts 2: 221
 "Kami, Hebi-Doku",Medium,Fey,,,,,,,,,8,,Tome of Beasts 2: 222
 "Kami, Naizu-Ha",Small,Fey,,,,,,,,,6,,Tome of Beasts 2: 223
+"Kami, Neak Ta",Small,Fey,urban,90,17,4,neutral good,,,,7,"regeneration, Cambodian, Japanese",Asian Monsters: 52
 "Kami, Sasori Fukurouwashi",Medium,Fey,,,,,,,,,9,,Tome of Beasts 2: 224
+"Kami, Toshigami",Medium,Fey,"forests, urban",189,18,6,neutral good,,,,15,"regeneration, Japanese",Asian Monsters: 53
+"Kami, Zuishin",Medium,Fey,,136,17,4,lawful good,,,,10,"regeneration, Japanese",Asian Monsters: 55
 Kampfult,Medium,Plant,underground,32,15,1,unaligned,,,,2,,Fifth Edition Foes: 154
 Kappa,Small,Fey,,,,,,,,,2,,Creature Codex: 234
+Kappa,Small,Humanoid (Kappa),coastal,54,13,2,chaotic neutral,,,,3,,Asian Monsters: 56
+Kapre,Huge,Plant,forests,241,17,2,chaotic neutral,,,,12,,Asian Monsters: 57
 Karakura,Medium,Fiend,,,,,,,,,5,,Creature Codex: 235
 Karrnathi undead soldier,Medium,Undead,,,,,,,,,3,,Wayfinder's Guide to Eberron: 295
 Kaveph,Huge,Aberration,,,,,,,,,6,,Tome of Beasts 2: 225
+Kawa Akago,Small,Plant,coastal,126,14,3,unaligned,,,,4,Japanese,Asian Monsters: 58
 Kech,Medium,Monstrosity,forest,27,13,2,neutral evil,,,,1/2,,Fifth Edition Foes: 155
 Keelbreaker crab,Huge,Monstrosity,,,,,,,,,9,,Tome of Beasts 2: 226
 Kelauklyth,Medium,Humanoid,,22,12,2,chaotic evil,,,unique,1,,Primeval Thule Campaign Setting: 252
@@ -1464,31 +1450,34 @@ Kibaan,Small,Fey,,22,15,3,,,,,15,"Asian, Filipino, shapechanger",The Islands of 
 Kikimora,Medium,Fey,urban,65,15,4,chaotic neutral,,,,5,,Tome of Beasts: 260
 Killer Whale,Huge,Beast,aquatic,90,12,0,unaligned,,,,3,,"Basic Rules v1: 34, Monster Manual: 331"
 Kirikari,Huge,Monstrosity,,,,,,,,,9,,Tome of Beasts 2: 230
-Kishi,Medium,Fiend,,119,18,5,chaotic evil,,,,8,,Tome of Beasts: 77
+Kirin,Large,Celestial,,123,16,6,lawful good,,,,8,Japanese,Asian Monsters: 59
+Kishi,Medium,Fiend,,119,18,5,chaotic evil,,,,8,demon,Tome of Beasts: 77
 Kitsune,Small,Fey,,,,,,,,,2,,Creature Codex: 236
+Kitsune,Medium,"Humanoid (Kitsune, shapechanger)",,91,13,3,neutral,,,,1,"shapechanger, Japanese",Asian Monsters: 60
+Kmoch Pray,Huge,Plant,forests,178,17,3,neutral evil,,,,12,Cambodian,Asian Monsters: 61
 Knight,Medium,Humanoid,urban,52,18,0,any,,,,3,,"Basic Rules v1: 54, HotDQ supplement: 12, Monster Manual: 347"
 Knight Ab-errant,Large,Humanoid,,,,,,,,,5,,Tome of Beasts 2: 231
-Kobold,Small,Humanoid,"cave, dungeon, mountain, underground",5,12,2,lawful evil,,,,1/8,,"Basic Rules v1: 34, HotDQ supplement: 13, Monster Manual: 195"
-Kobold Alchemist,Small,Humanoid,"ruins,underground,urban",44,15,3,lawful neutral,,,,2,,Tome of Beasts: 261
-Kobold Bully,Small,Humanoid,,21,14,2,lawful evil,,,,1,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3k9k4n/day_24_kobold_bully/
-Kobold Chieftain,Small,Humanoid,"ruins,underground,urban",82,17,3,lawful evil,,,,4,,Tome of Beasts: 263
-Kobold Commander,Small,Humanoid,,11,18,1,lawful evil,,,,1/2,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sl0ij/updated_day_25_kobold_bully_with_bonus_monster_by/
-Kobold Dragonshield,Small,Humanoid,"forest, grassland, mountain, underground, urban",44,15,2,lawful evil,,,,1,,Volo's Guide to Monsters: 165
-Kobold Hero,Small,Humanoid,,54,18,2,lawful evil,legendary,,,4,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kkb95/day_26_kobold_hero/
-Kobold Inventor,Small,Humanoid,"forest, grassland, mountain, underground, urban",13,12,2,lawful evil,,,,1/4,,Volo's Guide to Monsters: 166
-Kobold Scale Sorcerer,Small,Humanoid,"forest, grassland, mountain, underground, urban",27,15,2,lawful evil,,,,1,,Volo's Guide to Monsters: 167
-Kobold Shaman,Small,Humanoid,,27,13,2,lawful evil,,,,2,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kfc3r/day_25_kobold_shaman/
-Kobold Soldier,Small,Humanoid,,7,15,2,lawful evil,,,,1/4,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sl07f/updated_day_25_kobold_shaman_with_bonus_monster/
-Kobold Spellclerk,Small,Humanoid,,,,,,,,,1/2,,Tome of Beasts 2: 232
-Kobold Trapsmith,Small,Humanoid,"ruins,underground,urban",36,14,3,lawful neutral,,,,1,,Tome of Beasts: 264
-Kobold War Machine,Large,Construct,,,,,,,,,9,,Tome of Beasts 2: 233
-"Kobold, Elite",Small,Humanoid,,,,,,,,,1,,Creature Codex: 237
-"Kobold, Junk Shaman",Small,Humanoid,,,,,,,,,2,,Creature Codex: 238
-"Kobold, King",Small,Humanoid,,,,,,,,,6,,Creature Codex: 239
-"Kobold, Swolbold",Medium,Humanoid,,,,,,,,,3,,Creature Codex: 240
-"Kobold, Wizard",Small,Humanoid,,,,,,,,,5,,Creature Codex: 241
+Kobold,Small,Humanoid,"cave, dungeon, mountain, underground",5,12,2,lawful evil,,,,1/8,kobold,"Basic Rules v1: 34, HotDQ supplement: 13, Monster Manual: 195"
+Kobold Alchemist,Small,Humanoid,"ruins,underground,urban",44,15,3,lawful neutral,,,,2,kobold,Tome of Beasts: 261
+Kobold Bully,Small,Humanoid,,21,14,2,lawful evil,,,,1,kobold,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3k9k4n/day_24_kobold_bully/
+Kobold Chieftain,Small,Humanoid,"ruins,underground,urban",82,17,3,lawful evil,,,,4,kobold,Tome of Beasts: 263
+Kobold Commander,Small,Humanoid,,11,18,1,lawful evil,,,,1/2,kobold,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sl0ij/updated_day_25_kobold_bully_with_bonus_monster_by/
+Kobold Dragonshield,Small,Humanoid,"forest, grassland, mountain, underground, urban",44,15,2,lawful evil,,,,1,kobold,Volo's Guide to Monsters: 165
+Kobold Hero,Small,Humanoid,,54,18,2,lawful evil,legendary,,,4,kobold,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kkb95/day_26_kobold_hero/
+Kobold Inventor,Small,Humanoid,"forest, grassland, mountain, underground, urban",13,12,2,lawful evil,,,,1/4,kobold,Volo's Guide to Monsters: 166
+Kobold Scale Sorcerer,Small,Humanoid,"forest, grassland, mountain, underground, urban",27,15,2,lawful evil,,,,1,kobold,Volo's Guide to Monsters: 167
+Kobold Shaman,Small,Humanoid,,27,13,2,lawful evil,,,,2,kobold,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kfc3r/day_25_kobold_shaman/
+Kobold Soldier,Small,Humanoid,,7,15,2,lawful evil,,,,1/4,kobold,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sl07f/updated_day_25_kobold_shaman_with_bonus_monster/
+Kobold Spellclerk,Small,Humanoid,,,,,,,,,1/2,kobold,Tome of Beasts 2: 232
+Kobold Trapsmith,Small,Humanoid,"ruins,underground,urban",36,14,3,lawful neutral,,,,1,kobold,Tome of Beasts: 264
+Kobold War Machine,Large,Construct,,,,,,,,,9,kobold,Tome of Beasts 2: 233
+"Kobold, Elite",Small,Humanoid,,,,,,,,,1,kobold,Creature Codex: 237
+"Kobold, Junk Shaman",Small,Humanoid,,,,,,,,,2,kobold,Creature Codex: 238
+"Kobold, King",Small,Humanoid,,,,,,,,,6,kobold,Creature Codex: 239
+"Kobold, Swolbold",Medium,Humanoid,,,,,,,,,3,kobold,Creature Codex: 240
+"Kobold, Wizard",Small,Humanoid,,,,,,,,,5,kobold,Creature Codex: 241
 kongamato,Large,Beast,"marshes,plains",112,16,4,unaligned,,,,5,,Tome of Beasts: 265
-Koralk (Harvester Devil),Large,Fiend,,136,15,1,lawful evil,,,,11,,Tome of Beasts: 108
+Koralk (Harvester Devil),Large,Fiend,,136,15,1,lawful evil,,,,11,devil,Tome of Beasts: 108
 Korred,Small,Fey,forest,27,13,2,chaotic neutral,,,,1,,Fifth Edition Foes: 158
 Korrigan,Small,Fey,,,,,,,,,3,,Creature Codex: 242
 Koschei,Medium,Fiend,,135,18,1,neutral evil,legendary,lair,unique,17,,Tome of Beasts: 266
@@ -1500,6 +1489,7 @@ Kraken Priest,Medium,Humanoid,"coast, aquatic",75,10,0,any,,,,5,,Volo's Guide to
 Kraul Death Priest,Medium,Humanoid,,,,,,,,,4,,Guildmasters' Guide to Ravnica: 214
 Kraul Warrior,Medium,Humanoid,,,,,,,,,1/2,,Guildmasters' Guide to Ravnica: 213
 Kryt,Medium,Humanoid,,,,,,,,,5,,Creature Codex: 243
+Kting Voar,Large,Beast,"forests, plains",73,13,1,unaligned,,,,2,Vietnamese,Asian Monsters: 62
 Kulmking,Large,Undead,,,,,,,,,9,,Creature Codex: 244
 Kumakatok,Large trio of Medium fiends,Fiend,,45,14,4,,,,,3,"Asian, Filipino",The Islands of Sina Una: 298
 Kuo-toa,Medium,Humanoid,"aquatic, coast",18,13,0,neutral evil,,,,1/4,,"Monster Manual: 199, Princes of the Apocalypse Online Supplement v1.0: 22"
@@ -1571,12 +1561,13 @@ Lizardfolk Monk,Medium,Humanoid,,33,17,3,neutral,,,,2,,Monster-A-Day: https://ww
 Lizardfolk Shaman,Medium,Humanoid,"coast, dungeon, forest, grassland, swamp",27,13,0,neutral,,,,2,,"Monster Manual: 205, Princes of the Apocalypse Online Supplement v1.0: 24"
 Locksmith,Medium,Construct,,,,,,,,,8,,Tome of Beasts 2: 240
 Lord of the Azer,Medium,Elemental,"planar, underground",130,18,0,lawful evil,legendary,,unique,8,,Nerzugal's Extended Bestiary: 18
-lord of the hunt,Medium,Fey,,229,18,4,lawful neutral,legendary,lair,unique,18,,Tome of Beasts: 188
+Lord of the Hunt,Medium,Fey,,229,18,4,lawful neutral,legendary,lair,unique,18,,Tome of Beasts: 188
 Lord of Vultures,Large,Fey,,,,,,,,,12,,Creature Codex: 26
 Lorelei,Medium,Fey,aquatic,76,15,5,chaotic evil,,,,5,,Tome of Beasts: 279
 Lorthnu'un of the Golden Chalice,Huge,Aberration,,348,18,1,chaotic evil,legendary,,unique,22,,Primeval Thule Campaign Setting: 250
 Lou Carcolh,Medium,Monstrosity,,,,,,,,,2,,Creature Codex: 257
 Loxoda,Huge,Monstrosity,"forests,plains",147,13,1,neutral evil,,,,6,,Tome of Beasts: 280
+Lu Nat,Medium,Fey,,47,14,1,chaotic evil,,,,4,Myanmar,Asian Monsters: 75
 Luck Dragon,Tiny,Dragon,,7,12,2,unaligned,,,,1/4,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3jv169/day_21_luck_dragon/
 Luck Leech,Medium,Fey,,,,,,,,,10,,Tome of Beasts 2: 241
 Lumawig,Large,Celestial,"mountains, forests, sea, coastal",250,21,7,,legendary,,unique,20,"Asian, Filipino",The Islands of Sina Una: 302
@@ -1605,7 +1596,7 @@ Magmin,Small,Elemental,"dungeon, planar, ruins, urban",9,14,2,chaotic neutral,,,
 Magmoid,Large,Elemental,planar,75,16,2,unaligned,,,,4,,Fifth Edition Foes: 166
 Mahoru,Large,Monstrosity,aquatic,91,15,4,unaligned,,,,3,,Tome of Beasts: 281
 Maiden of Ice,Huge,Giant,"arctic, mountain, planar",175,16,3,neutral good,,,,9,,Nerzugal's Extended Bestiary: 62
-Malakbel,Medium,Fiend,,102,14,3,chaotic evil,,,,9,,Tome of Beasts: 78
+Malakbel,Medium,Fiend,,102,14,3,chaotic evil,,,,9,demon,Tome of Beasts: 78
 Male Steeder,Medium,Beast,,13,12,1,unaligned,,,,1/4,,Out of the Abyss: 231
 Malformed Kraken,Huge,Monstrosity,,172,17,0,chaotic evil,,,unique,10,,Tales from the Yawning Portal: 239
 "Malleable, Major",Huge,Aberration,,,,,,,,,10,,Tome of Beasts 2: 254
@@ -1617,11 +1608,12 @@ Malphas,Medium,Fey,,120,16,4,neutral evil,,,,6,,Tome of Beasts: 283
 Mambabarang,Medium,Humanoid,,65,12,-1,,,,,5,"Asian, Filipino",The Islands of Sina Una: 273
 Mameleu,Huge,Dragon,"coastal, sea",184,18,-1,,legendary,,,13,"Asian, Filipino",The Islands of Sina Una: 274
 Mameleu Hatchling,Large,Dragon,"coastal, sea",142,16,0,,,,,8,"Asian, Filipino",The Islands of Sina Una: 275
-Mammon,Huge,Fiend,,378,20,1,lawful evil,legendary,lair,unique,25,,Tome of Beasts: 99
+Mammon - Archduke of Greed,Huge,Fiend,,378,20,1,lawful evil,legendary,lair,unique,25,devil,Tome of Beasts: 99
 Mammoth,Huge,Beast,arctic,126,13,-1,unaligned,,,,6,,"Basic Rules v1: 35, Monster Manual: 332"
 Mammoth Beetle,Huge,Beast,"cave, underground",116,20,-2,unaligned,,,,5,,Nerzugal's Extended Bestiary: 64
 Mamura,Small,Aberration,"badlands,ruins,underground",97,16,4,neutral evil,,,,6,,Tome of Beasts: 284
 Manabane Scarab Swarm,Medium,Beast,desert,75,15,3,unaligned,,,,4,,Tome of Beasts: 374
+Manananggal,Medium,Undead,,187,16,3,chaotic evil,,,,8,,Asian Monsters: 65
 Mandarangkal,Medium,Monstrosity,urban,90,17,3,,,,,4,"Asian, Filipino",The Islands of Sina Una: 276
 Mandragora,Small,Plant,forest,4,11,1,neutral evil,,,,1/8,,Fifth Edition Foes: 167
 Mandrake,Tiny,Plant,,,,,,,,,1/2,,Creature Codex: 260
@@ -1659,9 +1651,12 @@ Mastodon,Huge,Beast,"forest, grassland",105,13,-1,unaligned,,,,4,,Fifth Edition 
 Matriarch Serpentine Lamia,Large,Monstrosity,,,,,,,,,5,,Creature Codex: 249
 Mavka,Medium,Undead,,170,17,2,chaotic evil,,,,12,,Tome of Beasts: 286
 Maw Demon,Medium,Fiend,underground,33,13,-1,chaotic evil,,,,1,,Volo's Guide to Monsters: 137
+Mbielu,Huge,Beast,"aquatic,marshes,plains",95,15,2,unaligned,,,,3,dinosaur,Tome of Beasts: 114
 "Mechuiti, Demon Lord of Apes",Gargantuan,Fiend,,370,19,4,chaotic evil,legendary,lair,unique,27,,Tome of Beasts: 88
 Medusa,Medium,Monstrosity,"cave, dungeon, mountain, ruins, urban",127,15,2,lawful evil,,,,6,,"Basic Rules v1: 36, Monster Manual: 214"
 Meenlock,Small,Fey,"forest, swamp, urban",31,15,2,neutral evil,,,,2,,Volo's Guide to Monsters: 170
+"Megafauna, Megalania",Huge,Beast,"mountains, plains, forests",189,16,1,unaligned,,,,8,,Asian Monsters: 66
+"Megafauna, Moa",Large,Beast,"mountains, plains, forests",112,13,3,unaligned,,,,3,Australian,Asian Monsters: 66
 megaloceros,Huge,Beast,,,,,,,,,4,,Tome of Beasts 2: 396
 Megapede,Large,Monstrosity,,,,,,,,,3,,Creature Codex: 266
 Mei Jiao Shou,Gargantuan,Beast,,,,,,,,,7,,Tome of Beasts 2: 259
@@ -1714,7 +1709,7 @@ Monstrous Crayfish,Large,Beast,aquatic,45,14,0,unaligned,,,,2,,Fifth Edition Foe
 Moon Nymph,Medium,Aberration,,,,,,,,,8,,Creature Codex: 269
 Moon-Beast,Large,Aberration,,126,16,0,chaotic evil,,,,8,,Primeval Thule Campaign Setting: 245
 Moonkite,Large,Celestial,,,,,,,,,5,,Tome of Beasts 2: 260
-moonlit king,Medium,Fey,,170,17,5,neutral good,legendary,lair,unique,17,,Tome of Beasts: 190
+Moonlit King,Medium,Fey,,170,17,5,neutral good,legendary,lair,unique,17,,Tome of Beasts: 190
 Moorbounder,Large,Beast,,,,,,,,,1,,Explorer's Guide to Wildemount: 295
 Mordakhesh,Medium,Fiend,,,,,,,,,15,,Wayfinder's Guide to Eberron: 301
 Mordant Snare,Gargantuan,Aberration,"ruins,underground",264,18,3,chaotic evil,,,,15,,Tome of Beasts: 296
@@ -1725,12 +1720,14 @@ Morphoi,Medium,Plant,aquatic,33,13,3,chaotic evil,,,,1/2,,Tome of Beasts: 297
 Mosasaur,Huge,Beast,,145,13,0,unaligned,,,,7,,Primeval Thule Campaign Setting: 221
 Moss Lurker,Small,Humanoid,"forests,marshes,ruins,underground",45,15,2,chaotic neutral,,,,1,,Tome of Beasts: 298
 Mountain giant,Gargatuan,Giant,,,,,,,,,21,,Creature Codex: 185
+Mountain Kyeryong,Small,Monstrosity,mountains,15,13,2,unaligned,,,,1/4,Korean,Asian Monsters: 64
 Mountain Strider,Large,Monstrosity,,,,,,,,,1,,Tome of Beasts 2: 261
 Mouse King,Small,Fey,,,,,,,,,11,,Creature Codex: 29
 Mousedeer,Small,Beast,,2,14,4,,,,,,"Asian, Filipino",The Islands of Sina Una: 317
 Mouth of Grolantor,Huge,Giant,grassland,105,14,0,chaotic evil,,,,6,,Volo's Guide to Monsters: 149
 Mud Mephit,Small,Elemental,"coast, dungeon, forest, planar, swamp, urban",27,11,1,neutral evil,,,,1/4,,"Monster Manual: 216, Princes of the Apocalypse Online Supplement v1.0: 26"
 Mule,Medium,Beast,urban,11,10,0,unaligned,,,,1/8,,"Basic Rules v1: 37, Monster Manual: 333, Player's Handbook: 307"
+Mulyong,Medium,Beast (Mul),aquatic,23,13,3,chaotic neutral,,,,1/2,Korean,Asian Monsters: 67
 Mummy,Medium,Undead,"desert, dungeon",58,11,-1,lawful evil,,,,3,,"Basic Rules v1: 37, Monster Manual: 228"
 Mummy Lord,Medium,Undead,"desert, dungeon",97,17,0,lawful evil,legendary,lair,,15,,Monster Manual: 229
 Mummy of the Deep,Medium,Undead,aquatic,33,11,0,neutral evil,,,,2,,Fifth Edition Foes: 173
@@ -1755,6 +1752,8 @@ Nachzehrer,Medium,Undead,,,,,,,,,8,,Creature Codex: 272
 Naergoth Bladelord,Medium,Undead,dungeon,135,18,1,neutral evil,,,,11,,Rise of Tiamat: 90
 "Naga, Moonchild",Large,Monstrosity,,,,,,,,,6,,Creature Codex: 273
 "Naga, Swamp",Large,Monstrosity,,,,,,,,,6,,Tome of Beasts 2: 265
+Nagaji Monk,Medium,Humanoid,,3,17,52,lawful evil,,,,3,,Asian Monsters: 73
+Nagaji Warrior,Medium,Humanoid,coastal,26,13,0,chaotic neutral,,,,1/2,,Asian Monsters: 72
 Naina,Large,Dragon,,231,17,3,lawful evil,,,,11,,Tome of Beasts: 302
 Nalfeshnee,Large,Fiend,"dungeon, planar",184,18,0,chaotic evil,,,,13,,Monster Manual: 62
 Nalusa Falaya,Medium,Aberration,,,,,,,,,1/2,,Creature Codex: 274
@@ -1776,8 +1775,10 @@ Nergalid (Devil Toad),Large,Fiend,,,,,,,,,3,,Explorer's Guide to Wildemount: 296
 Neronvain,Medium,Humanoid,,117,17,3,neutral evil,,,,9,,Rise of Tiamat: 91
 Nessk Champion,Large,Monstrosity,,126,17,2,neutral evil,,,,7,,Primeval Thule Campaign Setting: 236
 Nessk Charmer,Medium,Monstrosity,,102,19,3,neutral evil,,,,9,,Primeval Thule Campaign Setting: 237
+Ngobou,Large,Beast,plains,85,15,-1,unaligned,,,,5,dinosaur,Tome of Beasts: 115
 Nharyth,Huge,Aberration,,,,,,,,,9,,Tome of Beasts 2: 269
-Nian,Large,Monstrosity,,,,,,,,,4,,Creature Codex: 276
+Nian,Large,Monstrosity,,,,,,,,,4,Chinese,Creature Codex: 276
+Nian,Huge,Monstrosity,"coastal, mountains",161,15,1,chaotic evil,,,,7,,Asian Monsters: 76
 nichny,Medium,Fey,,112,17,4,neutral evil,,,,6,,Tome of Beasts: 303
 "Nicnevin, Queen of Witches",Medium,Fey,,123,18,0,neutral,legendary,lair,unique,17,,Tome of Beasts: 194
 Night Hag,Medium,Fiend,"planar, underground",112,17,2,neutral evil,,,,5,,Monster Manual: 178
@@ -1827,11 +1828,16 @@ Olive Slime,Large,Plant,underground,14,11,1,unaligned,,,,0,,Fifth Edition Foes: 
 Olive Slime Zombie,Medium,Plant,underground,26,9,-1,neutral evil,,,,1/2,,Fifth Edition Foes: 177
 One-Eyed Shiver,Medium,Humanoid,"aquatic, cave, coast, grassland, swamp, underground",49,12,2,chaotic evil,,,,3,,Princes of the Apocalypse: 207
 Oni,Large,Giant,"dungeon, grassland, ruins, urban",110,16,0,lawful evil,,,,7,,"Monster Manual: 239, Princes of the Apocalypse Online Supplement v1.0: 27"
+Oni Magus,Large,Giant (shapechanger),,153,17,1,lawful evil,,,,10,"shapechanger, Japanese",Asian Monsters: 80
+"Oni, Bakeneko",Small,Fiend (shapechanger),,36,14,4,chaotic evil,,,,2,"shapechanger, Japanese",Asian Monsters: 78
+"Oni, Go-zu",Large,Giant (shapechanger),,144,17,1,lawful neutral,,,,9,"shapechanger, Japanese",Asian Monsters: 79
+"Oni, Yeren",Large,Giant (shapechanger),"forests, mountains",90,16,1,neutral evil,,,,5,"regeneration, shapechanger, Japanese",Asian Monsters: 81
 Onyx Magistrate,Large,Construct,,,,,,,,,8,,Tome of Beasts 2: 276
 Oozasis,Gargantuan,Ooze,"desert,marshes",217,7,-3,unaligned,,,,9,,Tome of Beasts: 310
 Ooze Master,Huge,Undead,,138,9,-5,lawful evil,,,unique,10,,Tales from the Yawning Portal: 241
 Ophidiotaur,Large,Monstrosity,,,,,,,,,5,,Tome of Beasts 2: 282
 Ophinix,Large,Monstrosity,,,,,,,,,2,,Tome of Beasts 2: 283
+Orang-Pendak,Small,Humanoid (Sasquatch),"mountains, forests",88,13,1,neutral,,,,1,,Asian Monsters: 82
 Orc,Medium,Humanoid,"arctic, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",15,13,1,chaotic evil,,,,1/2,,"Basic Rules v1: 39, HotDQ supplement: 14, Monster Manual: 246"
 Orc Berserker,Medium,Humanoid,,30,14,1,chaotic evil,,,,1,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sk53c/day_88_orc_berserker/
 Orc Blade of Ilneval,Medium,Humanoid,"forest, grassland, mountain, underground",60,18,0,chaotic evil,,,,4,,Volo's Guide to Monsters: 183
@@ -1873,12 +1879,15 @@ Pale Hand Reaver,Medium,Humanoid,,127,16,1,lawful evil,,,,10,,Primeval Thule Gam
 Pale Screamer,Medium,Aberration,,,,,,,,,3,,Tome of Beasts 2: 290
 Pamahandi,Small,Fey,,82,16,2,,,,,,"Asian, Filipino",The Islands of Sina Una: 307
 Panther,Medium,Beast,forest,13,12,2,unaligned,,,,1/4,,"Basic Rules v1: 39, Monster Manual: 333, Player's Handbook: 308"
+Paper Drake,Small,Dragon,urban,78,13,3,neutral,,,,2,dragon,Tome of Beasts: 154
+Papinijuwari,Huge,Giant,,310,19,4,neutral evil,,,,16,Australian,Asian Monsters: 83
 Parzz'val,Large,Aberration,,,,,,,,,8,,Tome of Beasts 2: 292
 Peat Mammoth,Huge,Plant,,,,,,,,,10,,Tome of Beasts 2: 293
 Pech,Small,Elemental,"planar, underground",18,11,1,neutral good,,,,2,,Creature Codex: 294
 "Pech, Lithlord",Small,Elemental,,,,,,,,,7,,Creature Codex: 295
 "Pech, Stonemaster",Small,Elemental,,,,,,,,,4,,Creature Codex: 295
 Pegasus,Large,Celestial,mountain,59,12,2,chaotic good,,,,2,,"Basic Rules v1: 40, Monster Manual: 250"
+Penanggalen,Medium,Undead,,121,16,3,neutral evil,,,,8,"vampire, Malaysian",Asian Monsters: 84
 Pentadrone,Large,Construct,planar,32,16,2,lawful neutral,,,,2,,Monster Manual: 226
 Peryton,Large,Monstrosity,mountain,33,13,1,chaotic evil,,,,2,,"HotDQ supplement: 15, Monster Manual: 251, Princes of the Apocalypse Online Supplement v1.0: 28"
 Pestie,Small,Fey,underground,7,12,2,lawful evil,,,,1/4,,Fifth Edition Foes: 172
@@ -1899,8 +1908,10 @@ Pidlewick II,Small,Construct,,10,14,2,neutral evil,,,unique,1/4,,Curse of Strahd
 Piercer,Medium,Monstrosity,"cave, underground",22,15,1,unaligned,,,,1/2,,"Monster Manual: 252, Princes of the Apocalypse Online Supplement v1.0: 28"
 Pillar of Lost Magocracy,Huge,Construct,,,,,,,,,4,,Creature Codex: 299
 Pine Doom,Huge,Plant,,,,,,,,,9,,Tome of Beasts 2: 295
+Pipefox,Tiny,Monstrosity,,60,15,3,neutral,,,,3,Japanese,Asian Monsters: 85
 Pirate Axe Thrower,Medium,Humanoid,,55,13,2,non-lawful,,,,2,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3t6n4i/day_93_grim_sea_pirates/
 Pirate Chain Swinger,Medium,Humanoid,,66,15,3,non-lawful,,,,3,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3t6n4i/day_93_grim_sea_pirates/
+Pisacha,Medium,Fiend,,142,15,2,chaotic evil,,,,5,,Asian Monsters: 86
 Pit Fiend,Large,Fiend,"dungeon, planar",300,19,2,lawful evil,,,,20,,Monster Manual: 77
 Pixie,Tiny,Fey,"coast, forest, grassland, swamp",1,15,5,neutral good,,,,1/4,,Monster Manual: 253
 Pixiu,Large,Monstrosity,,,,,,,,,6,,Creature Codex: 300
@@ -1912,6 +1923,7 @@ Poisonous Fire Snake,Small,Fiend,planar,13,13,3,unaligned,,,,1/2,,Fifth Edition 
 Poisonous Snake,Tiny,Beast,"desert, forest, grassland, swamp",2,13,3,unaligned,,,,1/8,,"Basic Rules v1: 40, Monster Manual: 334, Player's Handbook: 308"
 Polar Bear,Large,Beast,"arctic, cave",42,12,0,unaligned,,,,2,,"Basic Rules v1: 41, Monster Manual: 334"
 Polar Eidolon,Huge,Elemental,,250,20,4,neutral evil,,,,14,,Primeval Thule Campaign Setting: 231
+Polong,Medium,Undead,,209,17,4,neutral evil,,,,10,Malaysian,Asian Monsters: 87
 Poltergeist,Medium,Undead,"dungeon, ruins, urban",22,12,2,chaotic evil,,,,2,,Monster Manual: 279
 Pombero,Medium,Fey,forests,90,15,3,chaotic neutral,,,,3,,Tome of Beasts: 313
 Pony,Medium,Beast,grassland,11,10,0,unaligned,,,,1/8,,"Basic Rules v1: 41, Monster Manual: 335"
@@ -1923,7 +1935,7 @@ Primal Oozer,Medium,Aberration,,,,,,,,,6,,Tome of Beasts 2: 297
 Prince of the Pale Hand,Medium,Humanoid,,127,15,2,lawful evil,,,,13,,Primeval Thule Gamemaster's Companion: 17
 Prismatic Beetle Swarm,Medium,Beast,forests,38,13,3,unaligned,,,,3,,Tome of Beasts: 375
 Pseudodragon,Tiny,Dragon,urban,7,13,2,neutral good,,,,1/4,,"Monster Manual: 254, Player's Handbook: 308"
-Psoglav,Large,Fiend,,115,17,6,chaotic evil,,,,7,,Tome of Beasts: 79
+Psoglav,Large,Fiend,,115,17,6,chaotic evil,,,,7,demon,Tome of Beasts: 79
 Pteranodon,Medium,Beast,mountain,13,13,2,unaligned,,,,1/4,,"Basic Rules v1: 41, Monster Manual: 80"
 Pumpkin King,Huge,Fey,,225,17,0,unaligned,legendary,,,10,,Tome of Beasts 2: 298
 Purple Slime,Large,Ooze,,,,,,,,,3,,Creature Codex: 307
@@ -1946,10 +1958,7 @@ Quaggoth Thonot,Medium,Humanoid,"dungeon, urban",45,13,1,chaotic neutral,,,,3,,M
 Quasit,Tiny,Fiend,"dungeon, planar",7,13,3,chaotic evil,,,,1,,"Monster Manual: 63, Player's Handbook: 309"
 Queen of Birds,Large,Fey,,,,,,,,,14,,Creature Codex: 31
 Queen of Cats,Large,Fey,,,,,,,,,15,,Creature Codex: 31
-queen of night and magic,Medium,Fey,,,,,,,,,21,,Tome of Beasts: 192
-Queen of Scorpions,Medium,Fey,,,,,,,,,13,,Tome of Beasts 2: 20
 Queen of Serpents,Medium,Fey,,,,,,,,,12,,Creature Codex: 34
-Queen of witches,Large,Fey,,,,,,,,,17,,Tome of Beasts: 194
 Quetzalcoatlus,Huge,Beast,"coast, grassland, mountain",30,13,1,unaligned,,,,2,,Volo's Guide to Monsters: 140
 Quickling,Tiny,Fey,forest,10,16,6,chaotic evil,,,,1,,Volo's Guide to Monsters: 187
 quickserpent,Large,Beast,,,,,,,,,4,,Tome of Beasts 2: 303
@@ -1958,6 +1967,7 @@ Quickwood,Huge,Plant,"forest, mountain",149,14,2,neutral,,,,8,,Fifth Edition Foe
 Quiet Soul,Medium,Undead,,,,,,,,,6,,Creature Codex: 309
 Quipper,Tiny,Beast,aquatic,1,13,3,unaligned,,,,0,,"Basic Rules v1: 41, Monster Manual: 335"
 Quoreq,Medium,Aberration,,,,,,,,,5,,Tome of Beasts 2: 304
+Quyrua,Large,Monstrosity,"rivers, coastal",105,16,-2,neutral,,,,5,Vietnamese,Asian Monsters: 88
 Qwyllion,Medium,Aberration,,110,16,5,neutral evil,,,,8,,Tome of Beasts: 316
 Radiant Idol,Large,Celestial,,,,,,,,,11,,Wayfinder's Guide to Eberron: 308
 Radiant Spark Swarm,Medium Swarm,Elemental,,,,,,,,,3,,Tome of Beasts 2: 305
@@ -1969,11 +1979,14 @@ Rakdos,Huge,Fiend,,,,,,,,,24,,Guildmasters' Guide to Ravnica: 247
 rakdos Lampooner,Medium,Humanoid,,,,,,,,,2,,Guildmasters' Guide to Ravnica: 248
 Rakdos Performer,Medium,Humanoid,,,,,,,,,1,,Guildmasters' Guide to Ravnica: 249
 Rakshasa,Medium,Fiend,"planar, urban",110,16,3,lawful evil,,,,13,,Monster Manual: 257
+Rakshasa Ambari,Huge,Undead,forests,187,16,1,chaotic evil,,,,8,,Asian Monsters: 89
 Rakshasa Honor Guard,Medium,Fiend,,76,18,2,neutral evil,,,,8,,Primeval Thule Campaign Setting: 234
 Rakshasa Infiltrator,Medium,Fiend,,93,19,5,neutral evil,,,,10,,Primeval Thule Campaign Setting: 234
 Rakshasa Raja,Medium,Fiend,,102,19,4,neutral evil,,,,12,,Primeval Thule Campaign Setting: 235
 Rakshasa Swordspirit,Medium,Fiend,,27,13,4,neutral evil,,,,2,,Primeval Thule Campaign Setting: 235
 "Rakshasa, Greater",Medium,Fiend,,,,,,,,,15,,Creature Codex: 312
+"Rakshasa, Maharaja",Medium,Fiend (Shapechanger),,594,19,9,lawful evil,legendary,lair,,30,shapechanger,Asian Monsters: 90
+"Rakshasa, Raktavarna",Tiny,Fiend (Shapechanger),,108,13,3,lawful evil,,,,3,shapechanger,Asian Monsters: 91
 Ramag,Medium,Humanoid,"plains,urban",27,13,2,neutral,,,,1/4,,Tome of Beasts: 317
 Ramag Portal Master,Medium,Humanoid,,,,,,,,,5,,Creature Codex: 313
 Rat,Tiny,Beast,"arctic, cave, coast, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",1,10,0,unaligned,,,,0,,"Basic Rules v1: 41, Monster Manual: 335, Player's Handbook: 309"
@@ -2018,12 +2031,14 @@ Rime Worm Grub,Medium,Elemental,,45,13,1,neutral,,,,1,,Tome of Beasts: 327
 Ring Servant,Large,Construct,,,,,,,,,8,,Creature Codex: 318
 Risen Reaver,Large,Undead,,168,15,3,chaotic evil,,,,7,,Tome of Beasts: 328
 River King,Medium,Fey,aquatic,152,18,3,chaotic neutral,legendary,lair,unique,16,,Tome of Beasts: 196
+River Naga,Large,Monstrosity,"rivers, coastal",255,18,4,neutral,,,,13,rejuvenation,Asian Monsters: 70
 Roachling Lord,Small,Humanoid,"ruins,underground,urban",63,15,3,chaotic neutral,,,,2,,Tome of Beasts: 329
 Roachling Scout,Small,Humanoid,,,,,,,,,2,,Creature Codex: 319
 Roachling Skirmisher,Small,Humanoid,"ruins,underground,urban",7,13,2,chaotic neutral,,,,1/4,,Tome of Beasts: 329
 Roc,Gargantuan,Monstrosity,"coast, desert, mountain",248,15,0,unaligned,,,,11,,Monster Manual: 260
 rock roach,Medium,Beast,,,,,,,,,2,,Tome of Beasts 2: 308
 Roggenwolf,Medium,Monstrosity,,,,,,,,,2,,Creature Codex: 320
+Rokurokubi,Medium,Monstrosity,,273,19,6,lawful evil,,,,14,Japanese,Asian Monsters: 93
 Ronus,Medium,Monstrosity,forest,16,14,3,unaligned,,,,1/4,,Fifth Edition Foes: 193
 Roper,Large,Monstrosity,"cave, underground",93,20,-1,neutral evil,,,,5,,"HotDQ supplement: 15, Monster Manual: 261, Princes of the Apocalypse Online Supplement v1.0: 30"
 Rothe,Medium,Beast,"grassland, underground",13,10,0,unaligned,,,,1/4,,Volo's Guide to Monsters: 208
@@ -2031,13 +2046,14 @@ Rotsam,Tiny,Ooze,,,,,,,,,2,,Tome of Beasts 2: 309
 Rotsam Swarm,Large swarm,Ooze,,,,,,,,,6,,Tome of Beasts 2: 309
 Rotting Wind,Large,Undead,,82,15,5,neutral evil,,,,6,,Tome of Beasts: 330
 Rubblebelt Stalker,Medium,Humanoid,,,,,,,,,1/2,,Guildmasters' Guide to Ravnica: 239
-Rubezahl,Medium,Fiend,,110,15,2,chaotic evil,,,,10,,Tome of Beasts: 80
+Rubezahl,Medium,Fiend,,110,15,2,chaotic evil,,,,10,demon,Tome of Beasts: 80
 Ruby ooze,Medium,Ooze,,,,,,,,,6,,Creature Codex: 286
 Rug of Smothering,Large,Construct,"dungeon, ruins, urban",33,12,2,unaligned,,,,2,,"HotDQ supplement: 16, Monster Manual: 20"
 Rum Gremlin,Tiny,Fey,,22,13,3,chaotic evil,,,,1/2,,Tome of Beasts: 239
 Runeswarm,Large swarm,Construct,,,,,,,,,10,,Tome of Beasts 2: 310
 Rusalka,Medium,Fey,aquatic,97,17,4,neutral evil,,,,4,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3p4fvb/day_62_rusalka/
 Russet Mold,Medium,Plant,underground,9,8,2,unaligned,,,,1/2,,Fifth Edition Foes: 194
+Rust Drake,Medium,Dragon,"ruins,underground,urban",161,17,2,chaotic evil,,,,8,dragon,Tome of Beasts: 155
 Rust Monster,Medium,Monstrosity,"dungeon, underground",27,14,1,unaligned,,,,1/2,,"Monster Manual: 262, Princes of the Apocalypse Online Supplement v1.0: 30"
 Ruuk Nath,Medium,Humanoid,,157,15,3,chaotic neutral,,,unique,7,,Primeval Thule Campaign Setting: 255
 Ryven,Medium,Humanoid,forest,19,13,2,neutral,,,,1,,Fifth Edition Foes: 195
@@ -2095,6 +2111,7 @@ Sea Hag (coven),Medium,Fey,"aquatic, coast, underground",52,14,1,chaotic evil,,,
 Sea Horse,Tiny,Beast,aquatic,1,11,1,unaligned,,,,0,,"Basic Rules v1: 43, Monster Manual: 337"
 Sea Lion,Large,Monstrosity,,90,15,2,unaligned,,,,5,,Tales from the Yawning Portal: 242
 Sea Spawn,Medium,Humanoid,"coast, aquatic",32,11,-1,neutral evil,,,,1,,Volo's Guide to Monsters: 189
+Sea Wyrmling Dragon,Medium,Dragon,aquatic,52,17,0,neutral evil,,,,2,dragon,Tome of Beasts: 136
 Selachian,Large,Humanoid,,133,15,0,any chaotic,,,,8,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3hqoeo/day_4_selachian/
 Selang,Medium,Fey,,76,15,2,chaotic evil,,,,4,,Tome of Beasts: 341
 Selang (dark satyr),Medium,Fey,badlands,,,,,,,,4,,Tome of Beasts: 341
@@ -2117,9 +2134,12 @@ Shadow Beast,Medium,Fey,"badlands,forests,ruins,underground",135,14,4,chaotic ev
 Shadow blight,Small,Plant,,,,,,,,,1,,Creature Codex: 326
 Shadow Boxer,Small,Fey,,,,,,,,,3,,Tome of Beasts 2: 322
 Shadow Demon,Medium,Fiend,"dungeon, planar",66,13,3,chaotic evil,,,,4,,"Monster Manual: 64, Princes of the Apocalypse Online Supplement v1.0: 32"
-Shadow Fey,Medium,Humanoid,,31,15,2,lawful evil,,,,1/4,,Tome of Beasts: 171
+Shadow Elf Duelist,Medium,Humanoid,,117,17,5,lawful evil,,,,6,,Tome of Beasts: 171
+Shadow Elf Enchantress,Medium,Humanoid,,123,16,2,lawful evil,,,,7,elf,Tome of Beasts: 172
+Shadow Elf Forest Hunter,Medium,Humanoid,,104,15,4,lawful evil,,,,5,elf,Tome of Beasts: 173
 Shadow Fey Ambassador,Medium,Humanoid,,,,,,,,,9,,Creature Codex: 145
 Shadow Fey Dancer,Medium,Humanoid,,,,,,,,,2,,Creature Codex: 147
+Shadow Fey Elf,Medium,Humanoid,,31,15,2,lawful evil,,,,1/4,,Tome of Beasts: 171
 Shadow Fey Knight,Medium,Humanoid,,,,,,,,,5,,Creature Codex: 146
 Shadow Fey poisoner,Medium,Humanoid,,,,,,,,,11,,Creature Codex: 148
 Shadow giant,Huge,Giant,,,,,,,,,15,,Tome of Beasts 2: 173
@@ -2140,6 +2160,7 @@ Shellycoat,Medium,Fey,"ruins,underground",75,14,2,neutral evil,,,,2,,Tome of Bea
 Shield Guardian,Large,Construct,"dungeon, ruins, urban",142,17,-1,unaligned,,,,7,,"Monster Manual: 271, Princes of the Apocalypse Online Supplement v1.0: 32"
 Shifter,Medium,Humanoid,,,,,,,,,1/2,,Wayfinder's Guide to Eberron: 319
 shimmer seal,Medium,Beast,,,,,,,,,5,,Tome of Beasts 2: 324
+Shinigami,Large,Celestial,,432,19,5,lawful neutral,,,,21,,Asian Monsters: 94
 Shipbreaker Sea Serpent,Gargantuan,Dragon,aquatic,310,19,1,chaotic neutral,legendary,,,20,,Fifth Edition Foes: 202
 Shoalar Quanderil,Medium,Humanoid,,60,10,1,chaotic evil,,,unique,4,,Princes of the Apocalypse: 208
 Shoggoth,Huge,Aberration,,280,8,-2,chaotic evil,,,,19,,Tome of Beasts: 347
@@ -2209,6 +2230,7 @@ Snake with a Hundred Mage Hands,Small,Monstrosity,,,,,,,,,3,,Tome of Beasts 2: 3
 "Snake, Zanskaran Viper",Large,Beast,marshes,38,14,0,unaligned,,,,1,,Tome of Beasts: 354
 Snow cat,Medium,Beast,,,,,,,,,1/4,,Creature Codex: 346
 Snow giant,Huge,Giant,,,,,,,,,5,,Tome of Beasts 2: 174
+Snow Kyeryong,Small,Monstrosity,,9,12,2,unaligned,,,,1/4,"fire, Korean",Asian Monsters: 64
 Snow Leopard,Medium,Beast,"arctic, forest, mountain",16,12,2,unaligned,,,,1/4,,Fifth Edition Foes: 163
 Snow Queen,Medium,Fey,,123,17,4,neutral evil,legendary,lair,unique,16,,Tome of Beasts: 198
 Snow Spider,Large,Beast,,65,13,2,unaligned,,,,3,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3ogkel/day_57_snow_spider/
@@ -2226,6 +2248,7 @@ Spawn of Arbeyach,Medium,Fiend,,78,17,2,lawful evil,,,,5,,Tome of Beasts: 97
 Spawn of Chernobog,Large,Fiend,,,,,,,,,4,,Creature Codex: 347
 Spawn of Kyuss,Medium,Undead,"desert, underground",76,10,0,chaotic evil,,,,5,,Volo's Guide to Monsters: 192
 Spawn of Parzelon,Medium,Fiend,,,,,,,,,5,,Creature Codex: 102
+Spawned Yaoguai,Huge,Monstrosity,,185,16,0,unaligned,,,,8,,Asian Monsters: 106
 Spectator,Medium,Aberration,"cave, dungeon, ruins, underground, urban",39,14,2,lawful neutral,,,,3,,"Basic Rules v1: 44, Monster Manual: 30"
 Specter,Medium,Undead,"dungeon, ruins, urban",22,12,2,chaotic evil,,,,1,,"HotDQ supplement: 17, Monster Manual: 279, Princes of the Apocalypse Online Supplement v1.0: 33"
 Spectral Guardian,Medium,Undead,,110,14,4,neutral evil,,,,6,,Tome of Beasts: 358
@@ -2239,6 +2262,8 @@ Spider Skull,Tiny,Undead,,13,13,3,neutral evil,,,,1/2,,Monster-A-Day: https://ww
 Spider thief,Small,Construct,,54,13,1,unaligned,,,,2,,Tome of Beasts: 366
 "Spider, Crypt",Medium,Beast,,,,,,,,,2,,Creature Codex: 348
 Spined Devil,Small,Fiend,"dungeon, planar",22,13,2,lawful evil,,,,2,,Monster Manual: 78
+Spinosaurus,Gargantuan,Beast,"forests,marshes",231,15,-1,unaligned,,,,13,spinosaurus,Tome of Beasts: 116
+Spinosaurus Young,Huge,Beast,"forests,marshes",105,14,0,unaligned,,,,5,dinosaurus,Tome of Beasts: 117
 Spire Walker,Tiny,Fey,,38,16,4,chaotic neutral,,,,3,,Tome of Beasts: 367
 Spirit,Medium,Undead,,16,11,1,any,,,,1/2,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3koi6v/day_27_spirit/
 Spirit Lamp,Medium,Undead,,,,,,,,,7,,Creature Codex: 349
@@ -2249,7 +2274,9 @@ sporous crab,Small,Beast,,,,,,,,,1,,Tome of Beasts 2: 398
 Sprite,Tiny,Fey,"forest, grassland, swamp",2,15,4,neutral good,,,,1/4,,"Monster Manual: 283, Player's Handbook: 310, Princes of the Apocalypse Online Supplement v1.0: 33"
 spurred water skate,Large,Beast,,,,,,,,,1,,Tome of Beasts 2: 399
 Spy,Medium,Humanoid,"arctic, cave, coast, desert, forest, grassland, mountain, ruins, swamp, urban",27,12,2,any,,,,1,,"HotDQ supplement: 17, Monster Manual: 349, Princes of the Apocalypse Online Supplement v1.0: 33"
+Srin-Po,Medium,Undead,,170,16,3,lawful evil,,,,7,Tibetan,Asian Monsters: 95
 Ssadar,Medium,Humanoid,,,,,,,,,3,,Tome of Beasts 2: 337
+Star Drake,Large,Dragon,hills,189,19,3,neutral,legendary,,,15,dragon,Tome of Beasts: 156
 Star-Spawn of Cthulhu,Large,Aberration,,187,17,2,chaotic evil,,,,15,,Tome of Beasts: 368
 Star-Thing of Nheb,Large,Aberration,,133,17,0,neutral evil,,,,9,,Primeval Thule Campaign Setting: 247
 Steam Golem,Large,Construct,,171,18,1,unaligned,,,,13,,Tome of Beasts: 237
@@ -2315,6 +2342,7 @@ Talis the White,Medium,Humanoid,,58,18,1,lawful evil,,,unique,5,,Hoard of the Dr
 Tamawo,Medium,Fey,,112,14,4,,,,,,"Asian, Filipino",The Islands of Sina Una: 311
 Tanarukk,Medium,Fiend,"grassland, mountain, underground",95,14,1,chaotic evil,,,,5,,Volo's Guide to Monsters: 186
 Tangtal,Medium,Monstrosity,"forest, grassland",19,13,3,neutral evil,,,,1,,Fifth Edition Foes: 221
+Tanuki,Medium,"Humanoid (Tanuki, Shapechanger)",,133,15,4,chaotic neutral,,,,5,"shapechanger, Japanese",Asian Monsters: 96
 Tar Ghoul,Medium,Undead,,,,,,,,,4,,Creature Codex: 176
 Tar Ooze,Large,Ooze,,,,,,,,,6,,Tome of Beasts 2: 280
 Tarkanan Assassin,Medium,Humanoid,,,,,,,,,2,,Wayfinder's Guide to Eberron: 320
@@ -2338,6 +2366,8 @@ Tendril Puppet,Medium,Plant,forests,34,13,1,lawful neutral,,,,2,,Tome of Beasts:
 Tentacled Horror,Huge,Aberration,underground,171,17,-1,chaotic evil,legendary,,,11,,Fifth Edition Foes: 225
 Tentaghoul,Large,Undead,,76,13,-1,chaotic evil,,,,3,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3nctcd/day_48_tentaghoul/
 Teratashia,Large,Fiend,planar,161,18,4,chaotic evil,,,,15,,Fifth Edition Foes: 80
+Terra-Cotta Rider,Large,Construct,,135,16,2,unaligned,,,,8,Chinese,Asian Monsters: 98
+Terra-Cotta Soldier,Medium,Construct,,112,15,3,unaligned,,,,7,Chinese,Asian Monsters: 97
 Terror Beast,Small,Aberration,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",88,16,3,chaotic evil,,,,10,,Nerzugal's Extended Bestiary: 88
 terror bird,Large,Beast,,,,,,,,,2,,Creature Codex: 352
 Tetomatli,Large,Construct,,,,,,,,,8,,Tome of Beasts 2: 345
@@ -2370,11 +2400,12 @@ Thulean Elk,Large,Beast,,51,12,2,unaligned,,,,3,,Primeval Thule Campaign Setting
 Thulean Manticore,Large,Monstrosity,,152,17,4,neutral evil,,,,9,,Primeval Thule Gamemaster's Companion: 15
 Thulean Musk Ox,Large,Beast,,42,11,-1,unaligned,,,,2,,Primeval Thule Campaign Setting: 223
 Thurl Merosska,Medium,Humanoid,,71,16,2,lawful evil,,,unique,3,,Princes of the Apocalypse: 192
-Thursir,Large,Giant,,,,,,,,,3,,Tome of Beasts: 227
 Thursir Giant,Large,Giant,,114,13,0,neutral evil or lawful evil,,,,3,,Tome of Beasts: 227
 Tiamat,Gargantuan,Fiend,,615,25,0,chaotic evil,legendary,,unique,30,,Rise of Tiamat: 92
+Tiberolith,Huge,Construct,"coastal, mountains",162,17,0,neutral evil,,,,12,Tibetan,Asian Monsters: 99
 Tiburones,Huge,Monstrosity,"sea, coastal",150,16,1,,,,,7,"Asian, Filipino",The Islands of Sina Una: 285
 Tiburones Pup,Large,Monstrosity,"sea, coastal",68,14,1,,,,,3,"Asian, Filipino",The Islands of Sina Una: 285
+Tiddalik,Medium,Mosntrosity,"coastal, aquatic",138,15,2,chaotic neutral,,,,5,Australian,Asian Monsters: 100
 Tidehunter,Huge,Monstrosity,,,,,,,,,6,,Tome of Beasts 2: 348
 Tigbalan,Large,Fey,,102,14,1,,,,,6,"Asian, Filipino",The Islands of Sina Una: 286
 Tiger,Large,Beast,"forest, grassland",37,12,2,unaligned,,,,1,,"Basic Rules v1: 47, Monster Manual: 339, Player's Handbook: 311"
@@ -2394,7 +2425,7 @@ Tortoise,Medium,Beast,aquatic,25,16,-3,unaligned,,,,1/2,,Nerzugal's Extended Bes
 "Tosculi, Hive-Queen",Large,Monstrosity,"desert,hills,plains",157,17,7,lawful evil,legendary,lair,,12,,Tome of Beasts: 385
 "Tosculi, Jeweled Drone",Small,Humanoid,,,,,,,,,4,,Creature Codex: 355
 "Tosculi, Warrior",Small,Monstrosity,"desert,hills,plains",58,15,5,lawful evil,,,,2,,Tome of Beasts: 386
-"Totivillus, Scribe of Hell",Medium,Fiend,,299,19,4,lawful evil,legendary,,unique,24,,Tome of Beasts: 101
+"Totivillus, Scribe of Hell",Medium,Fiend,,299,19,4,lawful evil,legendary,,unique,24,devil,Tome of Beasts: 101
 Transmuter,Medium,Humanoid,urban,40,12,2,any,,,,5,,"Volo's Guide to Monsters: 218, Tales from the Yawning Portal: 247"
 Trapper,Large,Monstrosity,underground,85,13,0,unaligned,,,,3,,Volo's Guide to Monsters: 194
 Treacle,Tiny,Ooze,"forests,plains,urban",22,13,-2,unaligned,,,,1/4,,Tome of Beasts: 387
@@ -2419,6 +2450,7 @@ Trollkin Shaman,Medium,Humanoid,,,,,,,,,4,,Creature Codex: 357
 Trostani,Large,Fey,,,,,,,,,18,,Guildmasters' Guide to Ravnica: 252
 Truesong Dancer,Medium,Humanoid,,44,14,3,chaotic neutral,,,,3,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3l2bm1/day_30_truesong_bards/
 Truesong Dirge,Medium,Humanoid,,91,16,1,chaotic neutral,,,,5,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3l2bm1/day_30_truesong_bards/
+Tsuchigumo,Large,Monstrosity,,39,14,3,chaotic evil,,,,3,"shapechanger, Japanese",Asian Monsters: 101
 Tsucora quori,Medium,Aberration,,,,,,,,,7,,Wayfinder's Guide to Eberron: 307
 Tulpa,Medium,Undead,,,,,,,,,4,,Creature Codex: 358
 Tunnel Prawn,Small,Beast,underground,7,14,2,unaligned,,,,1/8,,Fifth Edition Foes: 236
@@ -2438,6 +2470,7 @@ Ulnorya,Large,Aberration,,,,,,,,,7,,Tome of Beasts 2: 354
 Ultraloth,Medium,Fiend,"dungeon, planar",153,19,3,neutral evil,,,,13,,Monster Manual: 314
 Umber Hulk,Large,Monstrosity,"cave, underground",93,18,1,chaotic evil,,,,5,,"Monster Manual: 292, Princes of the Apocalypse Online Supplement v1.0: 35"
 Umbral Vampire,Medium,Fiend,,84,14,4,chaotic evil,,,,7,,Tome of Beasts: 397
+Umibozu,Gargantuan,Undead,aquatic,280,19,9,neutral evil,,,,19,Japanese,Asian Monsters: 102
 Undead Pheonix,Huge,Undead,,,,,,,,,12,,Creature Codex: 361
 Undercity Medusa,Medium,Monstrosity,,,,,,,,,6,,Guildmasters' Guide to Ravnica: 222
 Undine,Medium,Fey,,,,,,,,,5,,Creature Codex: 362
@@ -2463,6 +2496,7 @@ Vampire Spawn,Medium,Undead,"dungeon, ruins, urban",82,15,3,neutral evil,,,,5,,"
 Vampire Spellcaster,Medium,Undead,"dungeon, ruins, urban",144,16,4,lawful evil,legendary,lair,,15,,Monster Manual: 298
 Vampire Warlock,Medium,Undead,,144,16,4,lawful evil,legendary,lair,,13,,Tome of Beasts: 425
 Vampire Warrior,Medium,Undead,"dungeon, ruins, urban",144,18,4,lawful evil,legendary,lair,,15,,Monster Manual: 298
+"Vampire, Jiang-Shi",Medium,Undead,,110,15,5,lawful evil,,,,7,Chinese,Asian Monsters: 103
 "Vampire, Patrician",Medium,Undead,,,,,,,,,10,,Creature Codex: 365
 "Vampire, Priestess",Medium,Undead,,,,,,,,,8,,Creature Codex: 367
 "Vampire, Psychic",Medium,Undead,,,,,,,,,13,,Tome of Beasts 2: 357
@@ -2501,6 +2535,7 @@ Vodyanoy,Medium,Monstrosity,,119,16,3,chaotic neutral,,,,5,,Monster-A-Day: https
 Void Cultist,Medium,Humanoid,,,,,,,,,1/2,,Creature Codex: 407
 Void Giant,huge,Giant,,,,,,,,,11,,Creature Codex: 187
 Void Speaker,Medium,Humanoid,,,,,,,,,7,,Creature Codex: 408
+Void Wyrmling Dragon,Medium,Dragon,mountains,45,17,0,chaotic neutral,,,,2,dragon,Tome of Beasts: 140
 Voidling,Large,Aberration,,110,16,6,neutral evil,,,,11,,Tome of Beasts: 404
 Voidpool,Large,Ooze,,,,,,,,,5,,Tome of Beasts 2: 362
 Voidwracked Mage,Medium,Humanoid,,,,,,,,,8,,Creature Codex: 409
@@ -2516,6 +2551,7 @@ War Chaplain,Medium,Humanoid,,,,,,,,,3,,Creature Codex: 410
 War Ostrich,Large,Beast,"desert,plains",42,11,1,unaligned,,,,1/2,,Tome of Beasts: 307
 War Priest,Medium,Humanoid,"desert, urban",117,18,0,any,,,,8,,Creature Codex: 411
 War Titan,Huge,Fiend,,207,18,0,any chaotic,legendary,,,16,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3px4wr/day_68_war_titan/
+Warden Naga,Large,Monstrosity,,285,18,5,lawful good,,,,15,rejuvenation,Asian Monsters: 71
 Wardu,Medium,Aberration,,,,,,,,,6,,Tome of Beasts 2: 365
 warforged colossus,Gargantuan,Construct,,,,,,,,,25,,Wayfinder's Guide to Eberron: 314
 Warforged Soldier,Medium,Humanoid,,,,,,,,,1,,Wayfinder's Guide to Eberron: 320
@@ -2570,6 +2606,7 @@ Will-o'-Wisp,Tiny,Undead,swamp,22,19,9,chaotic evil,,,,2,,"HotDQ supplement: 22,
 Willowhaunt,Huge,Undead,,,,,,,,,5,,Tome of Beasts 2: 369
 Wind Drake,Medium,Dragon,mountain,45,14,1,unaligned,,,,2,,Nerzugal's Extended Bestiary: 38
 Wind Eater,Medium,Undead,,,,,,,,,2,,Creature Codex: 381
+Wind Wyrmling Dragon,Medium,Dragon,"hills,mountains,plains",45,14,4,chaotic neutral,,,,1,dragon,Tome of Beasts: 145
 Windharrow,Medium,Humanoid,,55,15,3,neutral evil,,,unique,3,,Princes of the Apocalypse: 192
 Windy Wailer,Large,Undead,,,,,,,,,5,,Tome of Beasts 2: 370
 Winged Ape,Medium,Monstrosity,,39,13,2,neutral,,,,2,,Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3qzcso/day_76_winged_ape/
@@ -2603,6 +2640,7 @@ Wormhearted Suffragan,Medium,Undead,,97,12,2,chaotic evil,,,,5,,Tome of Beasts: 
 Wraith,Medium,Undead,"dungeon, ruins, swamp, urban",67,13,3,neutral evil,,,,5,,Monster Manual: 302
 Wraith bear,Large,Undead,,,,,,,,,9,,Tome of Beasts 2: 375
 Wurm,Huge,Monstrosity,,,,,,,,,14,,Guildmasters' Guide to Ravnica: 225
+Wyrmling Flame Dragon,Medium,Dragon,mountains,52,17,2,chaotic evil,,,,3,dragon,Tome of Beasts: 131
 Wyvern,Large,Dragon,"arctic, coast, grassland",110,13,0,unaligned,,,,6,,"Basic Rules v1: 51, HotDQ supplement: 23, Monster Manual: 303"
 Wyvern Knight,Medium,Humanoid,,,,,,,,,5,,Creature Codex: 385
 "Wyvern, War",Large,Dragon,,,,,,,,,7,,Creature Codex: 386
@@ -2619,6 +2657,7 @@ Yaga Goo,Small,Ooze,,,,,,,,,5,,Creature Codex: 389
 Yakfolk Priest,Large,Monstrosity,,52,12,0,neutral evil,,,,4,,Storm King's Thunder: 245
 Yakfolk Warrior,Large,Monstrosity,,60,11,0,neutral evil,,,,3,,Storm King's Thunder: 244
 Yakirian,Medium,Humanoid,,,,,,,,,2,,Creature Codex: 390
+Yamata-no-Orochi,Gargantuan,Dragon (Titan),"aquatic, coastal",717,19,-2,neutral evil,legendary,lair,unique,30,"dragon, Japanese",Asian Monsters: 104
 Yan-C-Bin,Huge,Elemental,,283,22,7,neutral evil,legendary,lair,unique,18,,Princes of the Apocalypse: 221
 Yann-An-Oed,Huge,Aberration,,,,,,,,,2,,Creature Codex: 391
 Yaojing,Medium,Celestial,,,,,,,,,15,,Tome of Beasts 2: 377
@@ -2638,16 +2677,22 @@ Young Black Dragon,Large,Dragon,swamp,127,18,2,chaotic evil,,,,7,,Monster Manual
 Young Blue Dragon,Large,Dragon,desert,152,18,0,lawful evil,,,,9,,Monster Manual: 91
 Young Brass Dragon,Large,Dragon,"cave, underground",110,17,0,chaotic good,,,,6,,Monster Manual: 105
 Young Bronze Dragon,Large,Dragon,coast,142,18,0,lawful good,,,,8,,Monster Manual: 108
+Young Cave Dragon,Large,Dragon,"ruins,underground",157,17,1,neutral evil,,,,8,dragon,Tome of Beasts: 127
 Young Copper Dragon,Large,Dragon,"cave, desert, grassland",119,17,1,chaotic good,,,,7,,Monster Manual: 112
+Young Flame Dragon,Large,Dragon,mountains,161,18,2,chaotic evil,,,,9,dragon,Tome of Beasts: 130
 Young Gold Dragon,Large,Dragon,"mountain, ruins",178,18,2,lawful good,,,,10,,Monster Manual: 115
 Young Green Dragon,Large,Dragon,forest,136,18,1,lawful evil,,,,8,,"Basic Rules v1: 52, Monster Manual: 94"
 Young Hellhound,Medium,Fiend,"dungeon, planar, urban",26,13,1,lawful evil,,,,1,,Nerzugal's Extended Bestiary: 53
 Young Leucrotta,Medium,Monstrosity,forest,10,13,2,chaotic evil,,,,1/4,,Fifth Edition Foes: 164
+Young Mithral Dragon,Medium,Dragon,mountains,92,16,6,neutral,,,,6,dragon,Tome of Beasts: 134
 Young Red Dragon,Large,Dragon,mountain,178,18,0,chaotic evil,,,,10,,"Monster Manual: 98, Princes of the Apocalypse Online Supplement v1.0: 38"
 Young Red Shadow Dragon,Large,Dragon,planar,178,18,0,chaotic evil,,,,13,,Monster Manual: 85
 Young Remorhaz,Large,Monstrosity,"arctic, cave",93,14,1,unaligned,,,,5,,Monster Manual: 258
+Young Sea Dragon,Large,Dragon,"aquatic,mountains",152,18,0,neutral evil,,,,9,dragon,Tome of Beasts: 136
 Young Silver Dragon,Large,Dragon,"arctic, mountain",168,18,0,lawful good,,,,9,,Monster Manual: 118
+Young Void Dragon,Large,Dragon,mountains,157,18,0,chaotic neutral,,,,9,dragon,Tome of Beasts: 140
 Young White Dragon,Large,Dragon,"arctic, cave, underground",133,17,0,chaotic evil,,,,6,,Monster Manual: 101
+Young Wind Dragon,Large,Dragon,"mountains,plains",150,17,4,chaotic neutral,,,,6,dragon,Tome of Beasts: 144
 Yowler,Tiny,Undead,,,,,,,,,1/2,,Tome of Beasts 2: 380
 Yuan-ti Abomination,Large,Monstrosity,"desert, forest, mountain, ruins, swamp",127,15,3,neutral evil,,,,7,,Monster Manual: 308
 Yuan-ti Anathema,Huge,Monstrosity,"desert, forest, underground",189,16,1,neutral evil,,,,12,,Volo's Guide to Monsters: 202
@@ -2657,7 +2702,9 @@ Yuan-ti Mind Whisperer,Medium,Monstrosity,"desert, forest, underground",71,14,2,
 Yuan-ti Nightmare Speaker,Medium,Monstrosity,"desert, forest, underground",71,14,2,neutral evil,,,,4,,Volo's Guide to Monsters: 205
 Yuan-ti Pit Master,Medium,Monstrosity,"desert, forest, underground",88,14,2,neutral evil,,,,5,,Volo's Guide to Monsters: 206
 Yuan-ti Pureblood,Medium,Monstrosity,"desert, forest, mountain, ruins, swamp",40,11,1,neutral evil,,,,1,,"HotDQ supplement: 24, Monster Manual: 310"
+Yuki-onna,Medium,Undead,,104,17,4,lawful evil,,,,10,"ghost, shapechanger, Japanese",Asian Monsters: 107
 Yumerai,Medium,Fey,,,,,,,,,2,,Tome of Beasts 2: 381
+Yurei,Medium,Undead,,110,18,3,neutral evil,,,,12,"ghost, shapechanger, Japanese",Asian Monsters: 108
 Yusdrayl,Small,Humanoid,,16,12,2,lawful evil,,,unique,1,,Tales from the Yawning Portal: 248
 Zakya Rakshasa,Medium,Fiend,,,,,,,,,5,,Wayfinder's Guide to Eberron: 309
 Zalikum,Huge,Construct,,,,,,,,,7,,Tome of Beasts 2: 382

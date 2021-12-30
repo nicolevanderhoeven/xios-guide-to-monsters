@@ -1,5 +1,5 @@
 ---
-name: balloon spider
+name: Balloon Spider
 size: Medium
 type: Beast
 environment: 

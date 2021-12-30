@@ -1,5 +1,5 @@
 ---
-name: clockwork Beetle
+name: Clockwork Beetle
 size: Tiny
 type: Construct
 environment: 

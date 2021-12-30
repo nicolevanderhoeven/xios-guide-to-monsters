@@ -1,16 +1,16 @@
 ---
 name: Aswang - Balbal
-size: Large
-type: Aswang
+size: Medium
+type: Monstrosity, Aswang
 environment: 
-hp: 68
-ac: 13
+hp: 102
+ac: 15
 initiative: 2
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 3
-tags: Asian, Filipino
-source: "The Islands of Sina Una: 240"
+cr: 6
+tags: Filipino
+source: "Asian Monsters: 11"
 ---

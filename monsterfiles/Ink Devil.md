@@ -11,6 +11,6 @@ legendary:
 lair: 
 unique: 
 cr: 2
-tags: 
+tags: devil
 source: "Tome of Beasts: 107"
 ---

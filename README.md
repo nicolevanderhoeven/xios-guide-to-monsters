@@ -80,8 +80,8 @@ The goal is to have everything from the core books and all of the most popular t
 - [Monster-A-Day](https://www.reddit.com/r/monsteraday/) (Reddit)
 - Nerzugal Role Playing: [Nerzugal's Extended Bestiary](https://www.drivethrurpg.com/product/205000/Nerzugals-Extended-Bestiary)
 - Sasquatch Game Studio
-  - [Primeval Thule 5e Campaign Setting](https://www.drivethrurpg.com/product/168149/Primeval-Thule-5e-Campaign-Setting?src=hottest_filtered)
-  - [Primeval Thule 5e GM Companion](https://www.drivethrurpg.com/product/168153/Primeval-Thule-5e-GM-Companion?src=hottest_filtered)
+  - [Primeval Thule 5e Campaign Setting](https://www.drivethrurpg.com/product/168149/Primeval-Thule-5e-Campaign-Setting)
+  - [Primeval Thule 5e GM Companion](https://www.drivethrurpg.com/product/168153/Primeval-Thule-5e-GM-Companion)
 - Hit Point Press: [The Islands of Sina Una](https://hitpointpress.com/the-islands-of-sina-una-campaign-pdf/)
 
 ### Compilations

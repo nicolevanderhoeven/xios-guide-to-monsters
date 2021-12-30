@@ -1,5 +1,5 @@
 ---
-name: boreas
+name: Boreas
 size: Medium
 type: Elemental
 environment: 

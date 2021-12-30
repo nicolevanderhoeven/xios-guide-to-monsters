@@ -1,5 +1,5 @@
 ---
-name: Elf - Servant of VIne
+name: Elf - Servant of Vine
 size: Medium
 type: Humanoid
 environment: 

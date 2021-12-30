@@ -2,7 +2,7 @@
 name: Deep One Archimandrite
 size: Large
 type: Humanoid
-environment: 
+environment: aquatic
 hp: 153
 ac: 15
 initiative: 2

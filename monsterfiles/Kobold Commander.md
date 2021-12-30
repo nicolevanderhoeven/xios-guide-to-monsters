@@ -11,6 +11,6 @@ legendary:
 lair: 
 unique: 
 cr: 1/2
-tags: 
+tags: kobold
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sl0ij/updated_day_25_kobold_bully_with_bonus_monster_by/"
 ---

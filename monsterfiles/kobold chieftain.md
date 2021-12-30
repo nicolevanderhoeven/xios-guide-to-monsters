@@ -11,6 +11,6 @@ legendary:
 lair: 
 unique: 
 cr: 4
-tags: 
+tags: kobold
 source: "Tome of Beasts: 263"
 ---

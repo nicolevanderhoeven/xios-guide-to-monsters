@@ -1,5 +1,5 @@
 ---
-name: Clockwork Beetle swarm
+name: Clockwork Beetle Swarm
 size: Large Swarm
 type: Construct
 environment: 

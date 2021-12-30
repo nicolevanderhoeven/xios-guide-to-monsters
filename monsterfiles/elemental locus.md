@@ -1,5 +1,5 @@
 ---
-name: elemental locus
+name: Elemental Locus
 size: Gargantuan
 type: Elemental
 environment: 

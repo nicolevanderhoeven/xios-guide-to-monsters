@@ -1,16 +1,16 @@
 ---
 name: Nian
-size: Large
+size: Huge
 type: Monstrosity
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: coastal, mountains
+hp: 161
+ac: 15
+initiative: 1
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 4
+cr: 7
 tags: 
-source: "Creature Codex: 276"
+source: "Asian Monsters: 76"
 ---

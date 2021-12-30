@@ -11,6 +11,6 @@ legendary: legendary
 lair: lair
 unique: unique
 cr: 20
-tags: 
+tags: ghoul
 source: "Tome of Beasts: 219"
 ---
