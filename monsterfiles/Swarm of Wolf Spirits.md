@@ -3,10 +3,10 @@ name: Swarm of Wolf Spirits
 size: Large Swarm
 type: Undead
 environment: forests,plains
-hp: 
-ac: 
-initiative: 
-alignment: 
+hp: 97
+ac: 16
+initiative: 3
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

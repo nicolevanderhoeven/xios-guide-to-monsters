@@ -1,16 +1,16 @@
 ---
-name: Rusalka
+name: Darnoc
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 52
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 2
 tags: 
-source: "Tome of Beasts: 331"
+source: "Fifth Edition Foes: 76"
 ---

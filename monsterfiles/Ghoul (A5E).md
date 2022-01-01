@@ -1,16 +1,16 @@
 ---
-name: Rusalka
+name: Ghoul (A5E)
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 1
 tags: 
-source: "Tome of Beasts: 331"
+source: "Monstrous Menagerie: 229"
 ---

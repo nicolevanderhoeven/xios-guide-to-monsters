@@ -1,5 +1,5 @@
 ---
-name: megaloceros
+name: Megaloceros
 size: Huge
 type: Beast
 environment: 

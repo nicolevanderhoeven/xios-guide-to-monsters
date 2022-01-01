@@ -1,6 +1,6 @@
 ---
 name: Sluagh Swarm
-size: Medium
+size: Medium Swarm
 type: Fey
 environment: 
 hp: 54

@@ -1,16 +1,16 @@
 ---
-name: Rusalka
+name: Ghost (A5E)
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 58
+ac: 11
+initiative: 1
 alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 4
 tags: 
-source: "Tome of Beasts: 331"
+source: "Monstrous Menagerie: 226"
 ---
