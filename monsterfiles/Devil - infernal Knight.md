@@ -1,5 +1,5 @@
 ---
-name: Devil - infernal Knight
+name: Devil - Infernal Knight
 size: Medium
 type: Fiend
 environment: 
