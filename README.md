@@ -83,6 +83,7 @@ The goal is to have everything from the core books and all of the most popular t
   - [Primeval Thule 5e Campaign Setting](https://www.drivethrurpg.com/product/168149/Primeval-Thule-5e-Campaign-Setting)
   - [Primeval Thule 5e GM Companion](https://www.drivethrurpg.com/product/168153/Primeval-Thule-5e-GM-Companion)
 - Hit Point Press: [The Islands of Sina Una](https://hitpointpress.com/the-islands-of-sina-una-campaign-pdf/)
+- Level Up: [Monstrous Menagerie (A5E)](https://enpublishingrpg.com/collections/level-up-advanced-5th-edition-a5e/products/level-up-monstrous-menagerie-a5e)
 
 ### Compilations
 
