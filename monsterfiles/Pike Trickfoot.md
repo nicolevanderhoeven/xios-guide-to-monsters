@@ -12,5 +12,5 @@ lair:
 unique: unique
 cr: 17
 tags: 
-source: "Tal'Dorei Campaign Setting Reborn"
+source: "Tal'Dorei Campaign Setting Reborn: 269"
 ---

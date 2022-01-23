@@ -12,5 +12,5 @@ lair:
 unique: 
 cr: 7
 tags: druid
-source: "Tal'Dorei Campaign Setting Reborn"
+source: "Tal'Dorei Campaign Setting Reborn: 229"
 ---
