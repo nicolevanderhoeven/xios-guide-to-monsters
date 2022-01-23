@@ -273,7 +273,7 @@ Befouled Weird,Medium,Elemental,,,,,,,,,5,,Tome of Beasts 2: 41
 Behir,Huge,Monstrosity,"cave, mountain, underground",168,17,3,neutral evil,,,,11,,Monster Manual: 25
 Beholder,Large,Aberration,"cave, dungeon, underground",180,18,2,lawful evil,legendary,,,13,,Monster Manual: 28
 Beholder (in lair),Large,Aberration,"cave, dungeon, underground",180,18,2,lawful evil,legendary,lair,,14,,Monster Manual: 28
-Beholder Zombie,Large,Undead,"cave, dungeon, underground",93,15,-1,neutral evil,,,,5,,Monster Manual: 316
+Beholder Zombie,Large,Undead,"cave, dungeon, underground",93,15,3,neutral evil,,,,5,,Monster Manual: 316
 Behtu,Small,Humanoid,forests,52,14,3,chaotic evil,,,,2,,Tome of Beasts: 34
 Belashyrra,Medium,Aberration,,,,,,,,,22,,Wayfinder's Guide to Eberron: 286
 Beli,Small,Fey,,45,15,3,neutral evil,,,,2,,Tome of Beasts: 35
@@ -759,7 +759,7 @@ Dragonwing,Medium,Humanoid,"dungeon, urban",32,14,3,neutral evil,,,,2,,Hoard of 
 "Drake, Light",Tiny,Dragon,,,,,,,,,1/2,,Tome of Beasts 2: 125
 "Drake, Liminal",Large,Dragon,,,,,,,,,14,,Tome of Beasts 2: 126
 "Drake, Moon",Medium,Dragon,,,,,,,,,5,,Creature Codex: 129
-"Drake, Pact",Small,Dragon,,,,,,,,,1,,Creature Codex: 130
+Pact Drake,Small,Dragon,,,,,,,,,1,,Creature Codex: 130
 "Drake, Peluda",Large,Dragon,,,,,,,,,3,,Creature Codex: 131
 "Drake, Sanddrift",Large,Dragon,,,,,,,,,6,,Tome of Beasts 2: 127
 "Drake, Skull",Medium,Dragon,,,,,,,,,3,,Creature Codex: 132
@@ -829,7 +829,7 @@ Eldrazi Scion,Large,Aberration,,45,12,2,chaotic evil,,,,1,,Monster-A-Day: https:
 Eldritch Ooze,Large,Ooze,,,,,,,,,5,,Tome of Beasts 2: 278
 Eleinomae,Medium,Fey,marshes,112,18,4,chaotic evil,,,,5,,Tome of Beasts: 168
 Elemental Locus,Gargantuan,Elemental,,290,16,-5,neutral,,,,17,,Tome of Beasts: 169
-"Elemental, Blood",Large,Elemental,,,,,,,,,5,,Creature Codex: 138
+Blood Elemental,Large,Elemental,,,,,,,,,5,,Creature Codex: 138
 "Elemental, Fire-infused water",Huge,Elemental,,,,,,,,,7,,Tome of Beasts 2: 132
 "Elemental, Ice",Large,Elemental,,,,,,,,,5,,Tome of Beasts 2: 133
 "Elemental, Magnetic",Large,Elemental,,,,,,,,,6,,Tome of Beasts 2: 134
@@ -1176,15 +1176,15 @@ Golden Cat,Tiny,Beast,,3,12,2,unaligned,,,,0,,Fifth Edition Foes: 125
 "Golem, Dragonflesh",Large,Construct,,,,,,,,,10,,Tome of Beasts 2: 180
 "Golem, Fractal",Large,Construct,,,,,,,,,8,,Creature Codex: 198
 "Golem, Keg",Medium,Construct,,,,,,,,,3,,Creature Codex: 199
-"Golem, Lesser, Glass",Small,Construct,,,,,,,,,2,,Creature Codex: 200
-"Golem, Lesser, Hair",Small,Construct,,,,,,,,,1/4,,Creature Codex: 200
-"Golem, Lesser, Mud",Small,Construct,,,,,,,,,1,,Creature Codex: 201
-"Golem, Lesser, Wood",Medium,Construct,,,,,,,,,3,,Creature Codex: 201
+Lesser Glass Golem,Small,Construct,,,,,,,,,2,,Creature Codex: 200
+Lesser Hair Golem,Small,Construct,,,,,,,,,1/4,,Creature Codex: 200
+Lesser Mud Golem,Small,Construct,,,,,,,,,1,,Creature Codex: 201
+Lesser Wood Golem,Medium,Construct,,,,,,,,,3,,Creature Codex: 201
 "Golem, Lotus",Large,Construct,,,,,,,,,9,,Creature Codex: 202
 "Golem, Manastrom",Medium,Construct,,,,,,,,,8,,Creature Codex: 203
 "Golem, Paper",Tiny,Construct,,,,,,,,,1/4,,Creature Codex: 204
 "Golem, Paper Swarm",Medium swarm,Construct,,,,,,,,,3,,Creature Codex: 204
-"Golem, Vine",Medium,Construct,,,,,,,,,3,,Tome of Beasts 2: 181
+Vine Golem,Medium,Construct,,,,,,,,,3,,Tome of Beasts 2: 181
 "Golem, War Machine",Gargantuan,Construct,,,,,,,,,18,,Creature Codex: 205
 Golgari Shaman,Medium,Humanoid,,,,,,,,,5,,Guildmasters' Guide to Ravnica: 236
 Goliath Longlegs,Gargantuan,Monstrosity,,,,,,,,,7,,Creature Codex: 206
@@ -2578,7 +2578,7 @@ Water Horse,Medium,Fey,,,,,,,,,4,,Creature Codex: 373
 Water Leaper,Large,Monstrosity,aquatic,96,14,2,unaligned,,,,4,,Tome of Beasts: 406
 Water Weird,Large,Elemental,"cave, coast, forest, mountain, planar, swamp, underground",58,13,3,neutral,,,,3,,"Monster Manual: 299, Princes of the Apocalypse Online Supplement v1.0: 36"
 Weasel,Tiny,Beast,grassland,1,13,3,unaligned,,,,0,,"Basic Rules v1: 49, Monster Manual: 340"
-"weasel, albino death",Large,Beast,,,,,,,,,1,,Creature Codex: 374
+Albino Death Weasel,Large,Beast,,,,,,,,,1,,Creature Codex: 374
 "Weasel, Wind",Medium,Fey,,,,,,,,,2,,Creature Codex: 375
 Weeping Treant,Huge,Plant,forests,105,17,-1,neutral,,,,6,,Tome of Beasts: 388
 Weirding Scroll,Tiny,Construct,,,,,,,,,1/2,,Creature Codex: 376
@@ -3011,3 +3011,49 @@ Amphoron of Yothri (Worker),Small,Construct,,13,17,0,,,,,1/2,,Fifth Edition Foes
 Amphoron of Yothri (Warrior),Medium,Construct,,33,17,0,,,,,2,,Fifth Edition Foes:10
 Amphoron of Yothri (Juggernaut),Medium,Construct,,102,17,0,,,,,6,,Fifth Edition Foes:10
 Darnoc,Medium,Undead,,52,12,2,,,,,2,,Fifth Edition Foes: 76
+Giant Honey Bee,Small,Beast,,9,12,2,,,,,2,,Tome of Beasts 2: 392
+Leonino,Tiny,Beast,,13,13,3,,,,,1/8,,Creature Codex: 250
+Adranach,Huge,Construct,,170,17,3,,,,,12,,Tal'Dorei Campaign Setting Reborn
+Master Adranach,Gargantuan,Construct,,290,19,3,,,,,21,,Tal'Dorei Campaign Setting Reborn
+Ashari Firetamer,Medium ,Humanoid,,92,17,2,,,,,7,druid,Tal'Dorei Campaign Setting Reborn
+Ashari Skydancer,Medium,Humanoid,,63,14,4,,,,,5,druid,Tal'Dorei Campaign Setting Reborn
+Ashari Stoneguard,Medium,Humanoid,,152,15,0,,,,,7,druid,Tal'Dorei Campaign Setting Reborn
+Ashari Waverider,Medium,Humanoid,,77,14,2,,,,,5,druid,Tal'Dorei Campaign Setting Reborn
+Cinderslag Elemental,Large,Elemental,,102,15,1,,,,,8,,Tal'Dorei Campaign Setting Reborn
+Clasp Cutthroat,Medium,Humanoid,,44,15,4,,,,,3,,Tal'Dorei Campaign Setting Reborn
+Clasp Enforcer,Medium,Humanoid,,102,16,1,,,,,5,,Tal'Dorei Campaign Setting Reborn
+Cold Snap Spirit,Medium,Elemental,,78,18,5,,,,,5,,Tal'Dorei Campaign Setting Reborn
+Cyclops Stormcaller,Large,Giant,,114,18,0,,,,,10,,Tal'Dorei Campaign Setting Reborn
+Demonfeed Spider,Large,Fiend,,75,16,4,,,,,8,,Tal'Dorei Campaign Setting Reborn
+Demonfeed Spiderling,Medium,Fiend,,16,13,1,,,,,1,,Tal'Dorei Campaign Setting Reborn
+Ember Roc,Gargantuan,Monstrosity,,232,14,0,,,,,14,,Tal'Dorei Campaign Setting Reborn
+Cobalt Golem,Huge,Construct,,300,21,-1,,,,,18,,Tal'Dorei Campaign Setting Reborn
+Forge Guardian,Gargantuan,Construct,,420,24,1,,,,,27,,Tal'Dorei Campaign Setting Reborn
+Mage Hunter Golem,Large,Construct,,243,20,-1,,,,,15,,Tal'Dorei Campaign Setting Reborn
+Platinum Golem,Large,Construct,,189,21,0,,,,,16,,Tal'Dorei Campaign Setting Reborn
+"Jourrael, the Caedogeist",Medium,Fiend (drow),,152,19,7,,,,,15,,Tal'Dorei Campaign Setting Reborn
+Kraghammer Goat-Knight,Medium,Humanoid (dwarf),,52,20,-1,,,,unique,3,,Tal'Dorei Campaign Setting Reborn
+Magma Landshark,Huge,Elemental,,150,18,0,,,,,14,,Tal'Dorei Campaign Setting Reborn
+Young Magma Landshark,Large,Elemental,,105,16,0,,,,,9,,Tal'Dorei Campaign Setting Reborn
+Plainscow,Large,Beast,,42,13,-1,,,,,2,,Tal'Dorei Campaign Setting Reborn
+Ravager Slaughter Lord,Large,Humanoid,,157,17,2,,,,,9,,Tal'Dorei Campaign Setting Reborn
+Ravager Stabby-Stabber,Small,Humanoid (any),,36,15,3,,,,,3,,Tal'Dorei Campaign Setting Reborn
+Remnant Chosen,Medium,Humanoid (any),,117,12,2,,,,,12,,Tal'Dorei Campaign Setting Reborn
+Remnant Cultist,Medium,Humanoid (any),,60,13,3,,,,,7,,Tal'Dorei Campaign Setting Reborn
+Rivermaw Brawler,Medium,Humanoid (any),,65,15,2,,,,,4,,Tal'Dorei Campaign Setting Reborn
+Rivermaw Stormborn,Medium,Humanoid (any),,102,13,5,,,,,5,,Tal'Dorei Campaign Setting Reborn
+Centaur Skeleton,Large,Undead,,45,12,2,,,,,2,,Tal'Dorei Campaign Setting Reborn
+Flaming Skeleton,Medium,Undead,,19,12,2,,,,,1/2,,Tal'Dorei Campaign Setting Reborn
+Vos'skyriss Serpentfolk,Large,Monstrosity,,60,14,2,,,,,3,,Tal'Dorei Campaign Setting Reborn
+Vos'skyriss Serpentfolk Ghost,Large,Undead,,55,13,3,,,,,4,,Tal'Dorei Campaign Setting Reborn
+Wraithroot Tree,Huge,Plant,,270,16,-1,,,,,14,ghost,Tal'Dorei Campaign Setting Reborn
+Grog Strongjaw,Medium,Humanoid (half-giant),,290,19,2,,,,unique,18,,Tal'Dorei Campaign Setting Reborn
+"Keyleth, Voice of the Tempest",Medium,Humanoid (half-elf),,150,17,2,,,,unique,18,,Tal'Dorei Campaign Setting Reborn
+Percival de Rolo,Medium,Humanoid (human),,190,18,6,,,,unique,18,,Tal'Dorei Campaign Setting Reborn
+Trinket,Large,Beast (brown bear),,61,18,5,,,,unique,5,,Tal'Dorei Campaign Setting Reborn
+Vex'ahlia,Medium,Humanoid (half-elf),,130,21,5,,,,unique,18,,Tal'Dorei Campaign Setting Reborn
+Pike Trickfoot,Small,Humanoid (gnome),,170,23,1,,,,unique,17,,Tal'Dorei Campaign Setting Reborn
+Taryon Darrington,Medium,Humanoid (human),,127,15,0,,,,unique,9,,Tal'Dorei Campaign Setting Reborn
+Champion of Ravens,Medium,Celestial,,150,20,5,,,,unique,21,,Tal'Dorei Campaign Setting Reborn
+Scanlan Shorthalt,Small,Humanoid (gnome),,190,16,0,,,,unique,15,,Tal'Dorei Campaign Setting Reborn
+Doty X,Medium,Construct,,78,17,1,,,,unique,6,,Tal'Dorei Campaign Setting Reborn

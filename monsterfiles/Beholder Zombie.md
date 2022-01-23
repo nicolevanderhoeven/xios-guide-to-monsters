@@ -5,7 +5,7 @@ type: Undead
 environment: cave, dungeon, underground
 hp: 93
 ac: 15
-initiative: -1
+initiative: 3
 alignment: neutral evil
 legendary: 
 lair: 
