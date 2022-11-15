@@ -76,6 +76,7 @@ The goal is to have everything from the core books and all of the most popular t
   - [Creature Codex for 5th Edition](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
   - [Tome of Beasts](https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition/)
   - [Tome of Beasts 2 for 5th Edition](https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/)
+  - [Tome of Beasts 3 for 5th Edition](https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/)
 - Frog God Games: [Fifth Edition Foes](https://www.froggodgames.com/product/fifth-edition-foes/)
 - [Monster-A-Day](https://www.reddit.com/r/monsteraday/) (Reddit)
 - Nerzugal Role Playing: [Nerzugal's Extended Bestiary](https://www.drivethrurpg.com/product/205000/Nerzugals-Extended-Bestiary)
@@ -92,6 +93,8 @@ I got the initial data for these monsters from other people's work:
 
 - [blacktiger994 on Reddit](https://www.reddit.com/r/DnD/comments/m596w4/a_completely_organized_list_of_all_monsters_from/)
 - [Asmor of the now-offline Kobold Fight Club](https://github.com/Asmor/5e-monsters)
+
+Thanks to [Mike Shea (Sly Flourish)](https://slyflourish.com/) for contributing the Tome of Beasts 3 monsters!
 
 ## Make a contribution
 
