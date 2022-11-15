@@ -1,10 +1,10 @@
 ---
-name: Death worm
+name: Alabroza
 size: S
 type: Monstrosity
-environment: badlands, desert, mountains
-hp: 44
-ac: 13
+environment: farmland
+hp: 45
+ac: 12
 initiative: 2
 alignment: unaligned
 legendary: 
@@ -12,5 +12,5 @@ lair:
 unique: 
 cr: 1
 tags: 
-source: "Tome of Beasts 3: 106"
+source: "Tome of Beasts 3: 13"
 ---
