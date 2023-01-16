@@ -10,7 +10,7 @@ alignment: neutral evil
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "Monster Manual: 217, Princes of the Apocalypse Online Supplement v1.0: 34"
 ---

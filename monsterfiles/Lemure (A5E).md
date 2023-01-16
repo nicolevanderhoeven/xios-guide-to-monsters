@@ -10,7 +10,7 @@ alignment:
 legendary: 
 lair: 
 unique: 
-cr: 1/8
+cr: 0.125
 tags: devil
 source: "Monstrous Menagerie: 86"
 ---

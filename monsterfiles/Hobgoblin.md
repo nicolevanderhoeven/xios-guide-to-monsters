@@ -10,7 +10,7 @@ alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Basic Rules v1: 32, HotDQ supplement: 12, Monster Manual: 186"
 ---

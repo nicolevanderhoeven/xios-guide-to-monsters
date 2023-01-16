@@ -10,7 +10,7 @@ alignment: lawful good
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "Basic Rules v1: 12, Monster Manual: 318"
 ---

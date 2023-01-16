@@ -10,7 +10,7 @@ alignment: neutral evil
 legendary: 
 lair: 
 unique: 
-cr: 1/8
+cr: 0.125
 tags: 
 source: "Princes of the Apocalypse: 190"
 ---

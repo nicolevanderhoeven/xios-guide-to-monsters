@@ -5,7 +5,7 @@ type: Beast
 environment: 
 hp: 13
 ac: 13
-initiative: 1/8
+initiative: 0.125
 alignment: 
 legendary: 
 lair: 

@@ -10,7 +10,7 @@ alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "HotDQ supplement: 19, Monster Manual: 290, Princes of the Apocalypse Online Supplement v1.0: 34"
 ---

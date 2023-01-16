@@ -10,7 +10,7 @@ alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: dragon
 source: "Tome of Beasts: 148"
 ---

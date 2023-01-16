@@ -10,7 +10,7 @@ alignment: unaligned
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Out of the Abyss: 229"
 ---

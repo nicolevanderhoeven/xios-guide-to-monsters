@@ -10,7 +10,7 @@ alignment: unaligned
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: Korean
 source: "Asian Monsters: 64"
 ---

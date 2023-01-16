@@ -10,7 +10,7 @@ alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3ksvec/day_28_baneling/"
 ---

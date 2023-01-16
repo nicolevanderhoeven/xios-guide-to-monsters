@@ -10,7 +10,7 @@ alignment: non-good
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Basic Rules v1: 55, Monster Manual: 350"
 ---

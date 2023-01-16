@@ -10,7 +10,7 @@ alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: kobold
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sl07f/updated_day_25_kobold_shaman_with_bonus_monster/"
 ---

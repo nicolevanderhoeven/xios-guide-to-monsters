@@ -10,7 +10,7 @@ alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "Nerzugal's Extended Bestiary: 84"
 ---

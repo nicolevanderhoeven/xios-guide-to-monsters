@@ -10,7 +10,7 @@ alignment: neutral evil
 legendary: 
 lair: 
 unique: unique
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Tales from the Yawning Portal: 243"
 ---

@@ -10,7 +10,7 @@ alignment:
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: Asian, Filipino
 source: "The Islands of Sina Una: 287"
 ---

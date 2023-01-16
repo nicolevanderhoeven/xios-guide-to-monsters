@@ -10,7 +10,7 @@ alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "Primeval Thule Campaign Setting: 224"
 ---

@@ -10,7 +10,7 @@ alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Monster Manual: 263"
 ---

@@ -10,7 +10,7 @@ alignment: any
 legendary: 
 lair: 
 unique: 
-cr: 1/8
+cr: 0.125
 tags: 
 source: "Monster Manual: 350, Princes of the Apocalypse Online Supplement v1.0: 34"
 ---

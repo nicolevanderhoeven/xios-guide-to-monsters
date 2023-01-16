@@ -10,7 +10,7 @@ alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Basic Rules v1: 39, HotDQ supplement: 14, Monster Manual: 246"
 ---

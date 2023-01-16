@@ -10,7 +10,7 @@ alignment: neutral evil
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3nur5w/day_52_spider_skull/"
 ---

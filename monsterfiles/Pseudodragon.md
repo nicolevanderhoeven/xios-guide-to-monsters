@@ -10,7 +10,7 @@ alignment: neutral good
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "Monster Manual: 254, Player's Handbook: 308"
 ---

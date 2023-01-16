@@ -10,7 +10,7 @@ alignment: any
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "Curse of Strahd: 234"
 ---

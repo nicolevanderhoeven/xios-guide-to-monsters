@@ -10,7 +10,7 @@ alignment: unaligned
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "HotDQ supplement: 21, Monster Manual: 138, Princes of the Apocalypse Online Supplement v1.0: 36"
 ---

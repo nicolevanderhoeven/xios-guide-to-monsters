@@ -10,7 +10,7 @@ alignment: any
 legendary: 
 lair: 
 unique: 
-cr: 1/4
+cr: 0.25
 tags: 
 source: "Basic Rules v1: 53, HotDQ supplement: 4, Monster Manual: 342"
 ---

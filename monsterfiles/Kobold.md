@@ -10,7 +10,7 @@ alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 1/8
+cr: 0.125
 tags: kobold
 source: "Basic Rules v1: 34, HotDQ supplement: 13, Monster Manual: 195"
 ---

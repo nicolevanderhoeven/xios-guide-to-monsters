@@ -10,7 +10,7 @@ alignment:
 legendary: 
 lair: 
 unique: 
-cr: 1/2
+cr: 0.5
 tags: 
 source: "Wayfinder's Guide to Eberron: 317"
 ---

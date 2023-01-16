@@ -10,7 +10,7 @@ alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 1/8
+cr: 0.125
 tags: 
 source: "Out of the Abyss: 230"
 ---
