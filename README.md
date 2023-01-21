@@ -1,6 +1,6 @@
 # Xio's Guide to Monsters
 
-If you're a DM like me, and you have multiple sources of D&D 5e monsters that include WotC as well as third-party suppliers, you may have struggled with how to actually make use of it all. The problem is that they're not in one place, so it's difficult to search across multiple books.
+If you're a GM like me, and you have multiple sources of D&D 5e monsters from third-party suppliers, you may have struggled with how to actually make use of it all. The problem is that they're not in one place, so it's difficult to search across multiple books.
 
 This is my attempt to create a single repository that includes:
 - all monster data in one CSV
@@ -81,3 +81,5 @@ I got the initial data for these monsters from other people's work:
 ## Make a contribution
 
 If you have other sources that you'd like to add monsters from, or if you spot typos or other errors in the existing data, feel free to add them to `monsters.csv` and create a pull request!
+
+If you want to say thanks, [here's my Ko-fi link](https://ko-fi.com/nicolevdh). Thanks!
