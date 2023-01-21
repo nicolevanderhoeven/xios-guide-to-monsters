@@ -93,8 +93,7 @@ I got the initial data for these monsters from other people's work:
 
 - [blacktiger994 on Reddit](https://www.reddit.com/r/DnD/comments/m596w4/a_completely_organized_list_of_all_monsters_from/)
 - [Asmor of the now-offline Kobold Fight Club](https://github.com/Asmor/5e-monsters)
-
-Thanks to [Mike Shea (Sly Flourish)](https://slyflourish.com/) for contributing the Tome of Beasts 3 monsters!
+- [Mike Shea (Sly Flourish)](https://slyflourish.com/) for the Tome of Beasts 3 monsters
 
 ## Make a contribution
 
