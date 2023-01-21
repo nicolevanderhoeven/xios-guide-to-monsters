@@ -2,15 +2,16 @@
 name: Cultist
 size: Medium
 type: Humanoid
-environment: dungeon, urban
+environment: Desert, Forest, Hills, Jungle, Ruin, Settlement, Sewer, Temple
 hp: 9
 ac: 12
-initiative: 1
-alignment: non-good
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 54, HotDQ supplement: 7, Monster Manual: 345"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1849"
 ---

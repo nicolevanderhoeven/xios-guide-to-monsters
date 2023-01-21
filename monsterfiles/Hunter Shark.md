@@ -2,15 +2,16 @@
 name: Hunter Shark
 size: Large
 type: Beast
-environment: aquatic
+environment: Water
 hp: 45
 ac: 12
 initiative: 1
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Basic Rules v1: 33, Monster Manual: 330"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1967"
 ---

@@ -2,15 +2,16 @@
 name: Dragon Turtle
 size: Gargantuan
 type: Dragon
-environment: aquatic
-hp: 341
-ac: 20
+environment: Plane of Water, Water
+hp: 264
+ac: 21
 initiative: 0
-alignment: neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 17
 tags: 
-source: "Monster Manual: 119, Princes of the Apocalypse Online Supplement v1.0: 14"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1480"
 ---

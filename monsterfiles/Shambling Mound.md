@@ -2,15 +2,16 @@
 name: Shambling Mound
 size: Large
 type: Plant
-environment: forest, swamp
-hp: 136
+environment: Feywild, Forest, Jungle, Swamp
+hp: 123
 ac: 15
-initiative: -1
-alignment: unaligned
+initiative: 0
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 6
 tags: 
-source: "HotDQ supplement: 16, Monster Manual: 270"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1789"
 ---

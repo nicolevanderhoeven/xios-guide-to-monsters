@@ -2,15 +2,16 @@
 name: Invisible Stalker
 size: Medium
 type: Elemental
-environment: arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground, urban
+environment: Grassland, Laboratory, Plane of Air, Settlement, Swamp, Temple
 hp: 104
 ac: 14
 initiative: 4
-alignment: neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 6
 tags: 
-source: "Monster Manual: 192, Princes of the Apocalypse Online Supplement v1.0: 21"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1696"
 ---

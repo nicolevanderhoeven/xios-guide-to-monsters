@@ -2,15 +2,16 @@
 name: Giant Octopus
 size: Large
 type: Beast
-environment: aquatic
-hp: 52
+environment: Water
+hp: 32
 ac: 11
 initiative: 1
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 26, Monster Manual: 326"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1950"
 ---

@@ -13,4 +13,5 @@ unique:
 cr: 3
 tags: hag, Japanese
 source: "Asian Monsters: 43"
+url: ""
 ---

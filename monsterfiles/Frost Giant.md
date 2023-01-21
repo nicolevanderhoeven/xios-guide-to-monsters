@@ -2,15 +2,16 @@
 name: Frost Giant
 size: Huge
 type: Giant
-environment: arctic, mountain, planar
+environment: Mountains, Shadowfell, Tundra
 hp: 138
 ac: 15
 initiative: -1
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 8
+cr: 9
 tags: 
-source: "Basic Rules v1: 21, Monster Manual: 155"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1637"
 ---

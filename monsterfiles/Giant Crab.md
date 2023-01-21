@@ -2,15 +2,16 @@
 name: Giant Crab
 size: Medium
 type: Beast
-environment: aquatic, coast
-hp: 13
+environment: Water
+hp: 9
 ac: 15
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 24, Monster Manual: 324"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1941"
 ---

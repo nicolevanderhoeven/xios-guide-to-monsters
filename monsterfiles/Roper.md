@@ -2,15 +2,16 @@
 name: Roper
 size: Large
 type: Monstrosity
-environment: cave, underground
+environment: Caverns
 hp: 93
 ac: 20
 initiative: -1
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "HotDQ supplement: 15, Monster Manual: 261, Princes of the Apocalypse Online Supplement v1.0: 30"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1774"
 ---

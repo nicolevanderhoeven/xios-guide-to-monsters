@@ -2,15 +2,16 @@
 name: Pony
 size: Medium
 type: Beast
-environment: grassland
+environment: Mountains, Settlement
 hp: 11
 ac: 10
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 41, Monster Manual: 335"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1985"
 ---

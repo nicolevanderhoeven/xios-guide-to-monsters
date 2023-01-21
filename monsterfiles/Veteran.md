@@ -2,15 +2,16 @@
 name: Veteran
 size: Medium
 type: Humanoid
-environment: urban
+environment: Desert, Forest, Grassland, Hills, Mountains, Settlement
 hp: 58
-ac: 17
+ac: 16
 initiative: 1
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "HotDQ supplement: 21, Monster Manual: 350, Princes of the Apocalypse Online Supplement v1.0: 35"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1891"
 ---

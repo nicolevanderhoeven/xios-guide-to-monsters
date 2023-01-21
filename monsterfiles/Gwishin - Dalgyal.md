@@ -13,4 +13,5 @@ unique:
 cr: 4
 tags: ghost, Korean
 source: "Asian Monsters: 40"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Giant Bat
 size: Large
 type: Beast
-environment: cave, dungeon, forest, ruins, swamp, underground
-hp: 22
+environment: Caverns
+hp: 16
 ac: 13
 initiative: 3
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 23, Monster Manual: 323"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1937"
 ---

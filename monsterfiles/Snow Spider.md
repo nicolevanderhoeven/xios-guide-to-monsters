@@ -13,4 +13,5 @@ unique:
 cr: 3
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3ogkel/day_57_snow_spider/"
+url: ""
 ---

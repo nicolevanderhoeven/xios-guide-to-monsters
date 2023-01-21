@@ -2,15 +2,16 @@
 name: Pegasus
 size: Large
 type: Celestial
-environment: mountain
-hp: 59
-ac: 12
-initiative: 2
-alignment: chaotic good
+environment: Astral Plane, Feywild, Forest, Hills, Mountains
+hp: 57
+ac: 13
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Basic Rules v1: 40, Monster Manual: 250"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1761"
 ---

@@ -2,15 +2,16 @@
 name: Wererat
 size: Medium
 type: Humanoid
-environment: cave, dungeon, ruins, swamp, underground, urban
+environment: Caverns, Feywild, Forest, Ruin, Settlement, Sewer, Shadowfell
 hp: 33
 ac: 12
 initiative: 2
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 209"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1718"
 ---

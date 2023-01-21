@@ -2,15 +2,16 @@
 name: Goblin Alchemist
 size: Small
 type: Humanoid
-environment: 
+environment: Caverns, Desert, Feywild, Forest, Grassland, Hills, Jungle, Mountains, Ruin, Settlement, Sewer, Swamp, Tundra
 hp: 10
-ac: 14
-initiative: 2
-alignment: neutral evil
+ac: 13
+initiative: 1
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sasfq/day_86_goblin_alchemist_and_ritualist/"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1651"
 ---

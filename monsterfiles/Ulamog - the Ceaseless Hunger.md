@@ -13,4 +13,5 @@ unique:
 cr: 30
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3n8wqq/day_47_ulamog_the_ceaseless_hunger/"
+url: ""
 ---

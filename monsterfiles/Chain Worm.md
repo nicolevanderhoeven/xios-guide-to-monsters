@@ -13,4 +13,5 @@ unique:
 cr: 12
 tags: 
 source: "Fifth Edition Foes: 54"
+url: ""
 ---

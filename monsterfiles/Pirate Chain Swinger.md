@@ -13,4 +13,5 @@ unique:
 cr: 3
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3t6n4i/day_93_grim_sea_pirates/"
+url: ""
 ---

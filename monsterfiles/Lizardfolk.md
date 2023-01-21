@@ -2,15 +2,16 @@
 name: Lizardfolk
 size: Medium
 type: Humanoid
-environment: coast, dungeon, forest, grassland, swamp
+environment: Jungle, Swamp
 hp: 22
-ac: 15
-initiative: 0
-alignment: neutral
+ac: 14
+initiative: 1
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Basic Rules v1: 35, HotDQ supplement: 13, Monster Manual: 204"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1714"
 ---

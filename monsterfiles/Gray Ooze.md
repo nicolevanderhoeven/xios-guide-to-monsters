@@ -2,15 +2,16 @@
 name: Gray Ooze
 size: Medium
 type: Ooze
-environment: dungeon
+environment: Caverns, Mountains, Plane of Earth, Ruin, Sewer, Water
 hp: 22
 ac: 8
 initiative: -2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "HotDQ supplement: 11, Monster Manual: 243"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1754"
 ---

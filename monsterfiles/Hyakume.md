@@ -13,4 +13,5 @@ unique:
 cr: 15
 tags: Japanese
 source: "Asian Monsters: 45"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Axe Beak
 size: Large
 type: Beast
-environment: grassland
-hp: 19
+environment: Forest, Grassland, Swamp
+hp: 16
 ac: 11
 initiative: 1
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 11, Monster Manual: 317"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1910"
 ---

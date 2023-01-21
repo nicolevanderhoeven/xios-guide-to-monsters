@@ -13,4 +13,5 @@ unique:
 cr: 15
 tags: rejuvenation
 source: "Asian Monsters: 71"
+url: ""
 ---

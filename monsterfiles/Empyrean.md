@@ -1,16 +1,17 @@
 ---
 name: Empyrean
-size: Huge
+size: Gargantuan
 type: Celestial
-environment: planar
-hp: 313
-ac: 22
-initiative: 5
-alignment: chaotic good (75%) or neutral evil (25%)
+environment: Astral Plane, Caverns, Ethereal Plane, Feywild, Plane of Air, Plane of Earth, Plane of Fire, Plane of Water, Ruin, Shadowfell, Temple
+hp: 328
+ac: 21
+initiative: 7
+alignment: 
 legendary: legendary
 lair: 
 unique: 
-cr: 23
+cr: 22
 tags: 
-source: "Monster Manual: 130"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1800"
 ---

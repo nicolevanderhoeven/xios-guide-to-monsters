@@ -2,15 +2,16 @@
 name: Noble
 size: Medium
 type: Humanoid
-environment: urban
-hp: 9
+environment: Grassland, Hills, Settlement
+hp: 13
 ac: 15
 initiative: 1
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 0.125
+cr: 0.25
 tags: 
-source: "HotDQ supplement: 13, Monster Manual: 348, Princes of the Apocalypse Online Supplement v1.0: 26"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1869"
 ---

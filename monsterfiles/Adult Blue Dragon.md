@@ -2,15 +2,16 @@
 name: Adult Blue Dragon
 size: Huge
 type: Dragon
-environment: desert
-hp: 225
+environment: Desert
+hp: 275
 ac: 19
 initiative: 0
-alignment: lawful evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 16
+cr: 19
 tags: 
-source: "HotDQ supplement: 4, Monster Manual: 91"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1532"
 ---

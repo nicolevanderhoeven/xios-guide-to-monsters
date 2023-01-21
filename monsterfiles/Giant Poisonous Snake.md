@@ -2,15 +2,16 @@
 name: Giant Poisonous Snake
 size: Medium
 type: Beast
-environment: forest, grassland, swamp
+environment: Caverns, Desert, Forest, Grassland, Hills, Jungle, Mountains, Ruin, Sewer, Swamp, Tomb, Water
 hp: 11
-ac: 14
-initiative: 4
-alignment: unaligned
+ac: 13
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 27, Monster Manual: 327"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1952"
 ---

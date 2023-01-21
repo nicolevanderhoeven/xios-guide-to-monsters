@@ -2,15 +2,16 @@
 name: Gibbering Mouther
 size: Medium
 type: Aberration
-environment: cave, dungeon, planar, underground
+environment: Astral Plane, Caverns, Laboratory, Sewer
 hp: 67
 ac: 9
 initiative: -1
-alignment: neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 157"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1645"
 ---

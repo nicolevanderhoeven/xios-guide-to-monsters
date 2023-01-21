@@ -2,15 +2,16 @@
 name: Black Pudding
 size: Large
 type: Ooze
-environment: dungeon
+environment: Caverns, Ruin, Sewer, Water
 hp: 85
 ac: 7
 initiative: -3
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monster Manual: 241, Princes of the Apocalypse Online Supplement v1.0: 10"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1752"
 ---

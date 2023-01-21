@@ -13,4 +13,5 @@ unique:
 cr: 20
 tags: 
 source: "Tome of Beasts 2: 90"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Lion
 size: Large
 type: Beast
-environment: grassland
-hp: 26
+environment: Desert, Forest, Grassland
+hp: 30
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 34, Monster Manual: 331, Player's Handbook: 307"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1972"
 ---

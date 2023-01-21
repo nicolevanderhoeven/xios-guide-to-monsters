@@ -13,4 +13,5 @@ unique:
 cr: 2
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sfio5/day_87_lizardfolk_monk/"
+url: ""
 ---

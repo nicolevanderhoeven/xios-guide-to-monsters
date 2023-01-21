@@ -2,15 +2,16 @@
 name: Elk
 size: Large
 type: Beast
-environment: forest, grassland
-hp: 13
+environment: Forest, Tundra
+hp: 15
 ac: 10
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 18, HotDQ supplement: 8, Monster Manual: 322"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1932"
 ---

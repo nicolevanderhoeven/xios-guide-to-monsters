@@ -13,4 +13,5 @@ unique:
 cr: 0.5
 tags: 
 source: "Primeval Thule Gamemaster's Companion: 20"
+url: ""
 ---

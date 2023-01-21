@@ -2,15 +2,16 @@
 name: Ancient Bronze Dragon
 size: Gargantuan
 type: Dragon
-environment: coast
-hp: 444
-ac: 22
+environment: Water
+hp: 425
+ac: 21
 initiative: 0
-alignment: lawful good
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 22
+cr: 24
 tags: 
-source: "Monster Manual: 107"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1578"
 ---

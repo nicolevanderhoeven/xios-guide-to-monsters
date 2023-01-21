@@ -45,32 +45,15 @@ Then, [install Python3](https://www.python.org/downloads/).
 
 Modify `/scripts/create-md.py` to change the `dir` variable with the filepath you'd like the files to be created under.
 
+`cd` into the `/scripts` directory.
+
 Run `python3 create-md.py`. All monsters in `monsters.csv` should now have a `.md` file with their parameters filled out.
 
 ## Sources
 
-The goal is to have everything from the core books and all of the most popular third-party content. Here's what's included now.
+The goal is to have everything from the most popular third-party content. I recently removed all WotC content due to their recent actions regarding the OGL. Here's what's included now.
 
-### Sourcebooks included
-
-#### Official
-
-- Basic Rules
-- Monster Manual
-- Hoard of the Dragon Queen, plus supplement
-- Player's Handbook
-- Curse of Strahd
-- Explorer's Guide to Wildemount
-- Guildmasters' Guide to Ravnica
-- Princes of the Apocalypse , plus supplement
-- Out of the Abyss
-- Rise of Tiamat
-- Storm King's Thunder
-- Tales from the Yawning Portal
-- Volo's Guide to Monsters
-- Wayfinder's Guide to Eberron
-
-#### Third-party
+### Third-Party Sourcebooks included
 
 - Kobold Press
   - [Creature Codex for 5th Edition](https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/)
@@ -93,7 +76,7 @@ I got the initial data for these monsters from other people's work:
 
 - [blacktiger994 on Reddit](https://www.reddit.com/r/DnD/comments/m596w4/a_completely_organized_list_of_all_monsters_from/)
 - [Asmor of the now-offline Kobold Fight Club](https://github.com/Asmor/5e-monsters)
-- [Mike Shea (Sly Flourish)](https://slyflourish.com/) for the Tome of Beasts 3 monsters
+- [Mike Shea (Sly Flourish)](https://slyflourish.com/) for the Tome of Beasts 3 and Advanced 5E monsters
 
 ## Make a contribution
 

@@ -13,4 +13,5 @@ unique:
 cr: 7
 tags: regeneration, Cambodian, Japanese
 source: "Asian Monsters: 52"
+url: ""
 ---

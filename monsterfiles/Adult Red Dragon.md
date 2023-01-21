@@ -2,15 +2,16 @@
 name: Adult Red Dragon
 size: Huge
 type: Dragon
-environment: mountain
-hp: 256
+environment: Mountains
+hp: 310
 ac: 19
 initiative: 0
-alignment: chaotic evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 17
+cr: 20
 tags: 
-source: "Basic Rules v1: 8, Monster Manual: 98"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1542"
 ---

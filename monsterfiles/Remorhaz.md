@@ -2,15 +2,16 @@
 name: Remorhaz
 size: Huge
 type: Monstrosity
-environment: arctic
+environment: Mountains, Tundra
 hp: 195
 ac: 17
 initiative: 1
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 11
+cr: 12
 tags: 
-source: "Monster Manual: 258"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1770"
 ---

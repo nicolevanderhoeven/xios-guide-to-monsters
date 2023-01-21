@@ -13,4 +13,5 @@ unique:
 cr: 12
 tags: ghost, shapechanger, Japanese
 source: "Asian Monsters: 108"
+url: ""
 ---

@@ -13,4 +13,5 @@ unique:
 cr: 16
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3px4wr/day_68_war_titan/"
+url: ""
 ---

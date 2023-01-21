@@ -13,4 +13,5 @@ unique:
 cr: 9
 tags: regeneration
 source: "Asian Monsters: 35"
+url: ""
 ---

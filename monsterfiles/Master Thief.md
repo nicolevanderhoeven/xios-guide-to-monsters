@@ -2,15 +2,16 @@
 name: Master Thief
 size: Medium
 type: Humanoid
-environment: urban
-hp: 84
-ac: 16
-initiative: 4
-alignment: any
+environment: Settlement, Sewer
+hp: 143
+ac: 18
+initiative: 5
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 17
 tags: 
-source: "Volo's Guide to Monsters: 216"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1841"
 ---

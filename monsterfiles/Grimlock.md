@@ -2,15 +2,16 @@
 name: Grimlock
 size: Medium
 type: Humanoid
-environment: cave, dungeon, underground
-hp: 11
-ac: 11
-initiative: 1
-alignment: neutral evil
+environment: Caverns, Plane of Earth, Ruin, Sewer, Shadowfell, Tomb
+hp: 13
+ac: 12
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monster Manual: 175"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1665"
 ---

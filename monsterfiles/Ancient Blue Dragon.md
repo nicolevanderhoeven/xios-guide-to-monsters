@@ -2,15 +2,16 @@
 name: Ancient Blue Dragon
 size: Gargantuan
 type: Dragon
-environment: desert
-hp: 481
+environment: Desert
+hp: 407
 ac: 22
 initiative: 0
-alignment: lawful evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 23
+cr: 25
 tags: 
-source: "Monster Manual: 90"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1530"
 ---

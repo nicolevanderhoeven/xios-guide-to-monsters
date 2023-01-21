@@ -13,4 +13,5 @@ unique:
 cr: 24
 tags: dragon
 source: "Tome of Beasts: 128"
+url: ""
 ---

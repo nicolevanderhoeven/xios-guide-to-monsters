@@ -13,4 +13,5 @@ unique:
 cr: 9
 tags: shapechanger, Japanese
 source: "Asian Monsters: 79"
+url: ""
 ---

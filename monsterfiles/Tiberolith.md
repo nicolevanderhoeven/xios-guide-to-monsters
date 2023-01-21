@@ -13,4 +13,5 @@ unique:
 cr: 12
 tags: Tibetan
 source: "Asian Monsters: 99"
+url: ""
 ---

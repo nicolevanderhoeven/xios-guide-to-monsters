@@ -13,4 +13,5 @@ unique:
 cr: 2
 tags: Thai
 source: "Asian Monsters: 17"
+url: ""
 ---

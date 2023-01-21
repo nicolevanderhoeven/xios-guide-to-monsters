@@ -13,4 +13,5 @@ unique:
 cr: 0.5
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sasfq/day_86_goblin_alchemist_and_ritualist/"
+url: ""
 ---

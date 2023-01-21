@@ -13,4 +13,5 @@ unique:
 cr: 7
 tags: druid
 source: "Tal'Dorei Campaign Setting Reborn: 229"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Swarm of Insects
 size: Medium
 type: Beast
-environment: cave, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban
+environment: Jungle, Swamp
 hp: 22
 ac: 12
-initiative: 1
-alignment: unaligned
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Basic Rules v1: 45, HotDQ supplement: 18, Monster Manual: 338"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1999"
 ---

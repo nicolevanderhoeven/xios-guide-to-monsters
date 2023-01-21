@@ -2,15 +2,16 @@
 name: Gelatinous Cube
 size: Large
 type: Ooze
-environment: dungeon
-hp: 84
+environment: Caverns, Plane of Water, Ruin, Sewer, Water
+hp: 76
 ac: 6
 initiative: -4
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 242"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1753"
 ---

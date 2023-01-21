@@ -13,4 +13,5 @@ unique:
 cr: 0.25
 tags: Korean
 source: "Asian Monsters: 63"
+url: ""
 ---

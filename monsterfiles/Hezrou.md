@@ -2,15 +2,16 @@
 name: Hezrou
 size: Large
 type: Fiend
-environment: dungeon, planar
+environment: Abyss
 hp: 136
 ac: 16
 initiative: 3
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 8
+cr: 10
 tags: 
-source: "Monster Manual: 60, Princes of the Apocalypse Online Supplement v1.0: 19"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1502"
 ---

@@ -2,15 +2,16 @@
 name: Planetar
 size: Large
 type: Celestial
-environment: planar
-hp: 200
+environment: Astral Plane, Temple
+hp: 250
 ac: 19
-initiative: 5
-alignment: lawful good
+initiative: 6
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 16
 tags: 
-source: "Monster Manual: 17"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1437"
 ---

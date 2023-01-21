@@ -13,4 +13,5 @@ unique:
 cr: 6
 tags: Vietnamese
 source: "Asian Monsters: 19"
+url: ""
 ---

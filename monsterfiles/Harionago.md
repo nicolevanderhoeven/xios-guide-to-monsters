@@ -13,4 +13,5 @@ unique:
 cr: 13
 tags: ghost, Japanese
 source: "Asian Monsters: 42"
+url: ""
 ---

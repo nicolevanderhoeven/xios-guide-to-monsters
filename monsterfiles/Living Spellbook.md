@@ -13,4 +13,5 @@ unique:
 cr: 10
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3psbbl/day_67_living_spellbook/"
+url: ""
 ---

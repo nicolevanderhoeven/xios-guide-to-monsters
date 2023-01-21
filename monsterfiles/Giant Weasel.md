@@ -2,15 +2,16 @@
 name: Giant Weasel
 size: Medium
 type: Beast
-environment: forest, grassland
+environment: Feywild, Forest
 hp: 9
-ac: 13
-initiative: 3
-alignment: unaligned
+ac: 12
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 29, Monster Manual: 329"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1962"
 ---

@@ -2,15 +2,16 @@
 name: Chain Devil
 size: Medium
 type: Fiend
-environment: dungeon, planar
-hp: 85
-ac: 16
+environment: Hell
+hp: 127
+ac: 17
 initiative: 2
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 8
+cr: 9
 tags: 
-source: "Monster Manual: 72"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1514"
 ---

@@ -2,15 +2,16 @@
 name: Giant Eagle
 size: Large
 type: Beast
-environment: grassland, mountain
+environment: Feywild, Hills, Mountains
 hp: 26
-ac: 13
-initiative: 3
-alignment: neutral good
+ac: 12
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 24, Monster Manual: 324, Player's Handbook: 306"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1943"
 ---

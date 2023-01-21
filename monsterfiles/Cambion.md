@@ -2,15 +2,16 @@
 name: Cambion
 size: Medium
 type: Fiend
-environment: dungeon, planar, urban
-hp: 82
-ac: 19
+environment: Abyss, Desert, Hell, Hills, Ruin, Settlement, Temple
+hp: 93
+ac: 16
 initiative: 4
-alignment: any evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Monster Manual: 36"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1475"
 ---

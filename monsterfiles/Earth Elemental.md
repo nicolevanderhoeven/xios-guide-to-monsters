@@ -2,15 +2,16 @@
 name: Earth Elemental
 size: Large
 type: Elemental
-environment: arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground
-hp: 126
+environment: Laboratory, Plane of Earth
+hp: 114
 ac: 17
-initiative: -1
-alignment: neutral
+initiative: 0
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Basic Rules v1: 17, Monster Manual: 124"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1596"
 ---

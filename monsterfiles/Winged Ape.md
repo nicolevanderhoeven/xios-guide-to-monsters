@@ -13,4 +13,5 @@ unique:
 cr: 2
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3qzcso/day_76_winged_ape/"
+url: ""
 ---

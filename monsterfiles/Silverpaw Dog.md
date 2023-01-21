@@ -13,4 +13,5 @@ unique:
 cr: 1
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3m7l6o/day_39_silverpaw_paladin_and_dog/"
+url: ""
 ---

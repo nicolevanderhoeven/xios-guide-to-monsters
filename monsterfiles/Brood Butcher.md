@@ -13,4 +13,5 @@ unique:
 cr: 9
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3mza7d/day_45_brood_butcher/"
+url: ""
 ---

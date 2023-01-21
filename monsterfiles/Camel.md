@@ -2,15 +2,16 @@
 name: Camel
 size: Large
 type: Beast
-environment: desert
+environment: Desert, Settlement
 hp: 15
-ac: 9
-initiative: -1
-alignment: unaligned
+ac: 10
+initiative: 0
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 14, Monster Manual: 320"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1920"
 ---

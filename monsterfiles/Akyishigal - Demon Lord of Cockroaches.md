@@ -13,4 +13,5 @@ unique: unique
 cr: 12
 tags: demon
 source: "Tome of Beasts: 82"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Guard
 size: Medium
 type: Humanoid
-environment: urban
+environment: Desert, Forest, Grassland, Hills, Mountains, Settlement
 hp: 11
-ac: 16
+ac: 15
 initiative: 1
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 54, HotDQ supplement: 11, Monster Manual: 347"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1884"
 ---

@@ -13,4 +13,5 @@ unique:
 cr: 1
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3olui8/day_58_winter_sprite/"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Killer Whale
 size: Huge
 type: Beast
-environment: aquatic
-hp: 90
+environment: Water
+hp: 75
 ac: 12
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Basic Rules v1: 34, Monster Manual: 331"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1971"
 ---

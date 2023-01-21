@@ -1,16 +1,17 @@
 ---
 name: Piercer
-size: Medium
+size: Small
 type: Monstrosity
-environment: cave, underground
-hp: 22
-ac: 15
-initiative: 1
-alignment: unaligned
+environment: Caverns
+hp: 9
+ac: 17
+initiative: 0
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 0.5
+cr: 0.25
 tags: 
-source: "Monster Manual: 252, Princes of the Apocalypse Online Supplement v1.0: 28"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1773"
 ---

@@ -13,4 +13,5 @@ unique:
 cr: 7
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3pi58x/day_65_azure_sorcerers/"
+url: ""
 ---

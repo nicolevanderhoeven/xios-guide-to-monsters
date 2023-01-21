@@ -13,4 +13,5 @@ unique:
 cr: 13
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3jmqxr/day_19_sliver_queen/"
+url: ""
 ---

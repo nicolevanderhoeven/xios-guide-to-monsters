@@ -13,4 +13,5 @@ unique:
 cr: 52
 tags: dragon
 source: "Monstrous Menagerie: 117"
+url: ""
 ---

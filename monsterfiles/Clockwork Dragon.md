@@ -13,4 +13,5 @@ unique:
 cr: 8/14 (3-headed)
 tags: 
 source: "Creature Codex: 111"
+url: ""
 ---

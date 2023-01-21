@@ -2,15 +2,16 @@
 name: Vampire Warrior
 size: Medium
 type: Undead
-environment: dungeon, ruins, urban
-hp: 144
+environment: Forest, Hills, Mountains, Ruin, Settlement, Shadowfell, Tomb
+hp: 142
 ac: 18
 initiative: 4
-alignment: lawful evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 15
+cr: 12
 tags: 
-source: "Monster Manual: 298"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1817"
 ---

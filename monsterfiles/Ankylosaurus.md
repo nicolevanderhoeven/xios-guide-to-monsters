@@ -2,15 +2,16 @@
 name: Ankylosaurus
 size: Huge
 type: Beast
-environment: grassland
-hp: 68
-ac: 15
+environment: Grassland, Jungle, Mountains, Swamp
+hp: 63
+ac: 16
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Basic Rules v1: 10, Monster Manual: 79"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1489"
 ---

@@ -13,4 +13,5 @@ unique: unique
 cr: 5
 tags: 
 source: "Curse of Strahd: 238"
+url: ""
 ---

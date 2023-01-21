@@ -2,15 +2,16 @@
 name: Gold Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: mountain, ruins
-hp: 60
+environment: Astral Plane, Grassland, Ruin, Water
+hp: 75
 ac: 17
 initiative: 2
-alignment: lawful good
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 3
+cr: 4
 tags: 
-source: "Monster Manual: 115"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1590"
 ---

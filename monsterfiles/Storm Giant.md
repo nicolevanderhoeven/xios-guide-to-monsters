@@ -2,15 +2,16 @@
 name: Storm Giant
 size: Huge
 type: Giant
-environment: arctic, coast, desert, mountain, planar
+environment: Mountains, Plane of Air, Plane of Water, Water
 hp: 230
 ac: 16
 initiative: 2
-alignment: chaotic good
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 13
+cr: 14
 tags: 
-source: "Monster Manual: 156"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1643"
 ---

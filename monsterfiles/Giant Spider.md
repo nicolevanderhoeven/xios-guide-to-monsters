@@ -2,15 +2,16 @@
 name: Giant Spider
 size: Large
 type: Beast
-environment: cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban
+environment: Caverns, Feywild, Forest, Jungle, Ruin, Shadowfell, Swamp
 hp: 26
 ac: 14
 initiative: 3
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 28, HotDQ supplement: 10, Monster Manual: 328, Player's Handbook: 306"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1958"
 ---

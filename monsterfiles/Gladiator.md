@@ -2,15 +2,16 @@
 name: Gladiator
 size: Medium
 type: Humanoid
-environment: urban
-hp: 112
+environment: Settlement
+hp: 105
 ac: 16
 initiative: 2
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 6
 tags: 
-source: "Monster Manual: 346"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1853"
 ---

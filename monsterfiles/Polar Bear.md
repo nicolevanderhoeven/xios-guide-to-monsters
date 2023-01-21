@@ -2,15 +2,16 @@
 name: Polar Bear
 size: Large
 type: Beast
-environment: arctic, cave
+environment: Tundra
 hp: 42
 ac: 12
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Basic Rules v1: 41, Monster Manual: 334"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1982"
 ---

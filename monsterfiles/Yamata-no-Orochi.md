@@ -13,4 +13,5 @@ unique: unique
 cr: 30
 tags: dragon, Japanese
 source: "Asian Monsters: 104"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Ice Mephit
 size: Small
 type: Elemental
-environment: arctic, dungeon, planar, urban
+environment: Mountains, Plane of Air, Plane of Water, Tundra
 hp: 21
-ac: 11
-initiative: 1
-alignment: neutral evil
+ac: 12
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monster Manual: 215, Princes of the Apocalypse Online Supplement v1.0: 20"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1728"
 ---

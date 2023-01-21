@@ -13,4 +13,5 @@ unique:
 cr: 15
 tags: Asian, Filipino, shapechanger
 source: "The Islands of Sina Una: 272"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Blink Dog
 size: Medium
 type: Fey
-environment: forest, grassland
+environment: Feywild, Forest, Grassland, Jungle
 hp: 22
 ac: 13
 initiative: 3
-alignment: lawful good
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 12, Monster Manual: 318"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1915"
 ---

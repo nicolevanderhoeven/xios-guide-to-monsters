@@ -2,15 +2,16 @@
 name: Violet Fungus
 size: Medium
 type: Plant
-environment: cave, dungeon, underground
+environment: Caverns, Forest, Swamp
 hp: 18
 ac: 5
-initiative: -5
-alignment: unaligned
+initiative: -4
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "HotDQ supplement: 21, Monster Manual: 138, Princes of the Apocalypse Online Supplement v1.0: 36"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1616"
 ---

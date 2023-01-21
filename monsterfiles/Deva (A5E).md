@@ -13,4 +13,5 @@ unique:
 cr: 10
 tags: angel
 source: "Monstrous Menagerie: 19"
+url: ""
 ---

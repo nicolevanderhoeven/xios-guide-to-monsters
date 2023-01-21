@@ -13,4 +13,5 @@ unique:
 cr: 8
 tags: demon
 source: "Monstrous Menagerie: 69"
+url: ""
 ---

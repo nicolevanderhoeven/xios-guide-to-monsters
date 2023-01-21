@@ -2,15 +2,16 @@
 name: Flying Snake
 size: Tiny
 type: Beast
-environment: forest, swamp
-hp: 5
-ac: 14
-initiative: 4
-alignment: unaligned
+environment: Desert, Feywild, Jungle, Swamp
+hp: 7
+ac: 13
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 20, Monster Manual: 322"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1933"
 ---

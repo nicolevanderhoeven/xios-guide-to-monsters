@@ -2,15 +2,16 @@
 name: Erinyes
 size: Medium
 type: Fiend
-environment: dungeon, planar
-hp: 153
+environment: Hell
+hp: 161
 ac: 18
-initiative: 3
-alignment: lawful evil
+initiative: 4
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 12
 tags: 
-source: "Monster Manual: 73"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1515"
 ---

@@ -1,16 +1,17 @@
 ---
 name: Pteranodon
-size: Medium
+size: Large
 type: Beast
-environment: mountain
-hp: 13
+environment: Grassland, Jungle, Mountains, Swamp
+hp: 30
 ac: 13
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 0.25
+cr: 0.5
 tags: 
-source: "Basic Rules v1: 41, Monster Manual: 80"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1493"
 ---

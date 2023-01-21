@@ -2,15 +2,16 @@
 name: Chimera
 size: Large
 type: Monstrosity
-environment: mountain
+environment: Desert, Feywild, Forest, Grassland, Hills, Mountains, Sewer, Swamp, Tundra, Water
 hp: 114
-ac: 14
+ac: 13
 initiative: 0
-alignment: chaotic evil
-legendary: 
+alignment: 
+legendary: legendary
 lair: 
 unique: 
-cr: 6
+cr: 7
 tags: 
-source: "Basic Rules v1: 14, Monster Manual: 39"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1449"
 ---

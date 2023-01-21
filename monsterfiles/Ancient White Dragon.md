@@ -2,15 +2,16 @@
 name: Ancient White Dragon
 size: Gargantuan
 type: Dragon
-environment: arctic, cave, underground
-hp: 333
+environment: Tundra
+hp: 370
 ac: 20
-initiative: 0
-alignment: chaotic evil
+initiative: 1
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 20
+cr: 22
 tags: 
-source: "Monster Manual: 100"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1545"
 ---

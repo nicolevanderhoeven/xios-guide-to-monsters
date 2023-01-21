@@ -13,4 +13,5 @@ unique:
 cr: 19
 tags: 
 source: "Creature Codex: 75"
+url: ""
 ---

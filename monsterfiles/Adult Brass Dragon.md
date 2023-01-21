@@ -2,15 +2,16 @@
 name: Adult Brass Dragon
 size: Huge
 type: Dragon
-environment: cave, underground
-hp: 172
+environment: Desert
+hp: 161
 ac: 18
 initiative: 0
-alignment: chaotic good
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 13
+cr: 16
 tags: 
-source: "Monster Manual: 105"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1575"
 ---

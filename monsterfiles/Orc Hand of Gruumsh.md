@@ -13,4 +13,5 @@ unique:
 cr: 3
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3sonx0/day_89_orc_hand_of_gruumsh/"
+url: ""
 ---

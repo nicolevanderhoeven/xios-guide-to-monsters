@@ -2,15 +2,16 @@
 name: Duelist
 size: Medium
 type: Humanoid
-environment: 
-hp: 117
-ac: 17
-initiative: 5
-alignment: lawful evil
+environment: Settlement
+hp: 90
+ac: 16
+initiative: 4
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 5
 tags: 
-source: "Tome of Beasts: 171"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1899"
 ---

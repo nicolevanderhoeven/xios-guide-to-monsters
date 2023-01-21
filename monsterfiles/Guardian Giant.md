@@ -13,4 +13,5 @@ unique:
 cr: 8
 tags: 
 source: "Guildmasters' Guide to Ravnica: 201"
+url: ""
 ---

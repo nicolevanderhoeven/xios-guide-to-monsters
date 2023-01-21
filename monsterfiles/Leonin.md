@@ -13,4 +13,5 @@ unique:
 cr: 0.25
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3l6z5t/day_31_leonin/"
+url: ""
 ---

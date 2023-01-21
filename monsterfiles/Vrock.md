@@ -2,15 +2,16 @@
 name: Vrock
 size: Large
 type: Fiend
-environment: dungeon, planar
+environment: Abyss
 hp: 104
 ac: 15
-initiative: 2
-alignment: chaotic evil
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 6
 tags: 
-source: "Monster Manual: 64, Princes of the Apocalypse Online Supplement v1.0: 36"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1510"
 ---

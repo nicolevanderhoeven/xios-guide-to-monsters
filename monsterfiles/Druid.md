@@ -2,15 +2,16 @@
 name: Druid
 size: Medium
 type: Humanoid
-environment: arctic, cave, coast, desert, forest, grassland, mountain, swamp, underground
-hp: 27
+environment: Desert, Forest, Grassland, Hills, Jungle, Mountains, Swamp, Tundra
+hp: 39
 ac: 11
 initiative: 1
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 346, Princes of the Apocalypse Online Supplement v1.0: 15"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1852"
 ---

@@ -13,4 +13,5 @@ unique:
 cr: 5
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3m33t3/day_38_grove_guardian/"
+url: ""
 ---

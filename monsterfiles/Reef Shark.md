@@ -2,15 +2,16 @@
 name: Reef Shark
 size: Medium
 type: Beast
-environment: aquatic
+environment: Water
 hp: 22
 ac: 12
 initiative: 1
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Basic Rules v1: 42, Monster Manual: 336, Player's Handbook: 309"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1989"
 ---

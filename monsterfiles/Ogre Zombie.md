@@ -2,15 +2,16 @@
 name: Ogre Zombie
 size: Large
 type: Undead
-environment: dungeon, forest, mountain, swamp
-hp: 85
-ac: 8
+environment: Ruin, Shadowfell, Temple, Tomb
+hp: 59
+ac: 11
 initiative: -2
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 316"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1828"
 ---

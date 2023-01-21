@@ -2,15 +2,16 @@
 name: Revenant
 size: Medium
 type: Undead
-environment: arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban
-hp: 136
+environment: Caverns, Desert, Forest, Grassland, Hills, Jungle, Laboratory, Mountains, Ruin, Settlement, Sewer, Swamp, Temple, Tomb, Tundra, Water
+hp: 110
 ac: 13
-initiative: 2
-alignment: neutral
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Monster Manual: 259, Princes of the Apocalypse Online Supplement v1.0: 29"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1772"
 ---

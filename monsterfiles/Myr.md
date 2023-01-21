@@ -13,4 +13,5 @@ unique:
 cr: 0.25
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3ihkod/day_10_myr/"
+url: ""
 ---

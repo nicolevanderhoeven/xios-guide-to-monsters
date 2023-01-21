@@ -2,15 +2,16 @@
 name: Couatl
 size: Medium
 type: Celestial
-environment: planar
-hp: 97
-ac: 19
-initiative: 5
-alignment: lawful good
+environment: Astral Plane, Desert, Jungle
+hp: 85
+ac: 16
+initiative: 4
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monster Manual: 43"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1457"
 ---

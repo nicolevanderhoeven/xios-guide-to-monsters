@@ -13,4 +13,5 @@ unique: unique
 cr: 18
 tags: 
 source: "Tome of Beasts: 188"
+url: ""
 ---

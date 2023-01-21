@@ -13,4 +13,5 @@ unique:
 cr: 0.5
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3lol76/day_35_gazellean/"
+url: ""
 ---

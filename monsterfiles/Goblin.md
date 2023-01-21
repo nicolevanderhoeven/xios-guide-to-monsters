@@ -2,15 +2,16 @@
 name: Goblin
 size: Small
 type: Humanoid
-environment: cave, dungeon, forest, grassland, mountain, ruins, urban
-hp: 7
-ac: 15
-initiative: 2
-alignment: neutral evil
+environment: Caverns, Desert, Feywild, Forest, Grassland, Hills, Jungle, Mountains, Ruin, Settlement, Sewer, Swamp, Tundra
+hp: 10
+ac: 13
+initiative: 1
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 30, Monster Manual: 166"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1650"
 ---

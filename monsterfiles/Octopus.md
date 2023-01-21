@@ -1,16 +1,17 @@
 ---
 name: Octopus
-size: Small
+size: Tiny
 type: Beast
-environment: aquatic
+environment: Water
 hp: 3
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Basic Rules v1: 38, Monster Manual: 333"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1977"
 ---

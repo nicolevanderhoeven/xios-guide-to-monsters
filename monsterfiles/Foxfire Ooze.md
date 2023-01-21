@@ -13,4 +13,5 @@ unique:
 cr: 10
 tags: 
 source: "Creature Codex: 283"
+url: ""
 ---

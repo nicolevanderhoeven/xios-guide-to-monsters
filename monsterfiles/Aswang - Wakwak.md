@@ -13,4 +13,5 @@ unique:
 cr: 4
 tags: Filipino
 source: "Asian Monsters: 12"
+url: ""
 ---

@@ -13,4 +13,5 @@ unique:
 cr: 1
 tags: 
 source: "Primeval Thule Campaign Setting: 252"
+url: ""
 ---

@@ -13,4 +13,5 @@ unique: unique
 cr: 24
 tags: 
 source: "Out of the Abyss: 247"
+url: ""
 ---

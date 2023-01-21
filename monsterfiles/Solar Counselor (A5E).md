@@ -13,4 +13,5 @@ unique:
 cr: 21
 tags: planetar
 source: "Monstrous Menagerie: 21"
+url: ""
 ---

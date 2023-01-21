@@ -13,4 +13,5 @@ unique:
 cr: 8
 tags: vampire, Malaysian
 source: "Asian Monsters: 84"
+url: ""
 ---

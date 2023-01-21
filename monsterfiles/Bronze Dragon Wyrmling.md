@@ -2,15 +2,16 @@
 name: Bronze Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: coast
-hp: 32
-ac: 17
+environment: Water
+hp: 39
+ac: 16
 initiative: 0
-alignment: lawful good
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 2
+cr: 3
 tags: 
-source: "Monster Manual: 109"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1581"
 ---

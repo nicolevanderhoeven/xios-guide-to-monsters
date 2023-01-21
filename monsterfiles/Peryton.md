@@ -2,15 +2,16 @@
 name: Peryton
 size: Large
 type: Monstrosity
-environment: mountain
-hp: 33
+environment: Forest, Hills, Mountains, Settlement
+hp: 34
 ac: 13
-initiative: 1
-alignment: chaotic evil
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "HotDQ supplement: 15, Monster Manual: 251, Princes of the Apocalypse Online Supplement v1.0: 28"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1762"
 ---

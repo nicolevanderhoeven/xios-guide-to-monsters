@@ -2,15 +2,16 @@
 name: Marid
 size: Large
 type: Elemental
-environment: aquatic, coast, dungeon, planar, swamp
-hp: 229
+environment: Plane of Water, Water
+hp: 172
 ac: 17
-initiative: 1
-alignment: chaotic neutral
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 11
 tags: 
-source: "Monster Manual: 146"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1625"
 ---

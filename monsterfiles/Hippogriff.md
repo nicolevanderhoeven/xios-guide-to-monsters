@@ -2,15 +2,16 @@
 name: Hippogriff
 size: Large
 type: Monstrosity
-environment: mountain
-hp: 19
-ac: 11
-initiative: 1
-alignment: unaligned
+environment: Forest, Grassland, Hills, Mountains, Plane of Air
+hp: 39
+ac: 12
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 32, Monster Manual: 184"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1688"
 ---

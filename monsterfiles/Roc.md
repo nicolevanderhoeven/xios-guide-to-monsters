@@ -1,16 +1,17 @@
 ---
 name: Roc
 size: Gargantuan
-type: Monstrosity
-environment: coast, desert, mountain
-hp: 248
+type: Beast
+environment: Grassland, Hills, Mountains, Water
+hp: 232
 ac: 15
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 11
+cr: 13
 tags: 
-source: "Monster Manual: 260"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1992"
 ---

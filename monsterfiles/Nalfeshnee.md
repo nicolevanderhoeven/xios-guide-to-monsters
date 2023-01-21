@@ -2,15 +2,16 @@
 name: Nalfeshnee
 size: Large
 type: Fiend
-environment: dungeon, planar
+environment: Abyss
 hp: 184
 ac: 18
-initiative: 0
-alignment: chaotic evil
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 13
 tags: 
-source: "Monster Manual: 62"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1506"
 ---

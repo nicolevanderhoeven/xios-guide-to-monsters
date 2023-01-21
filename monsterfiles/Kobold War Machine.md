@@ -13,4 +13,5 @@ unique:
 cr: 9
 tags: kobold
 source: "Tome of Beasts 2: 233"
+url: ""
 ---

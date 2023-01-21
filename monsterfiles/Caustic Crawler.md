@@ -13,4 +13,5 @@ unique:
 cr: 4
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3q5njk/day_70_caustic_crawler/"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Scarecrow
 size: Medium
 type: Construct
-environment: grassland, urban
-hp: 36
-ac: 11
-initiative: 1
-alignment: chaotic evil
+environment: Grassland, Hills, Settlement, Shadowfell, Swamp
+hp: 31
+ac: 12
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Monster Manual: 268"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1782"
 ---

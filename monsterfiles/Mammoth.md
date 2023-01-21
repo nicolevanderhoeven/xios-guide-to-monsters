@@ -2,15 +2,16 @@
 name: Mammoth
 size: Huge
 type: Beast
-environment: arctic
-hp: 126
+environment: Tundra
+hp: 115
 ac: 13
 initiative: -1
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 6
 tags: 
-source: "Basic Rules v1: 35, Monster Manual: 332"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1974"
 ---

@@ -1,16 +1,17 @@
 ---
 name: Tarrasque
-size: Gargantuan
+size: Titanic
 type: Monstrosity
-environment: aquatic, arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground, urban
-hp: 676
+environment: Hills, Settlement
+hp: 1230
 ac: 25
-initiative: 0
-alignment: unaligned
+initiative: 1
+alignment: 
 legendary: legendary
 lair: 
 unique: 
 cr: 30
 tags: 
-source: "Monster Manual: 286"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1799"
 ---

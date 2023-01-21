@@ -2,15 +2,16 @@
 name: Ancient Green Dragon
 size: Gargantuan
 type: Dragon
-environment: forest
-hp: 385
+environment: Forest, Jungle
+hp: 420
 ac: 21
 initiative: 1
-alignment: lawful evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 22
+cr: 24
 tags: 
-source: "Monster Manual: 93"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1535"
 ---

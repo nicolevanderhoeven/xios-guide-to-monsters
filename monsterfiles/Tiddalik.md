@@ -13,4 +13,5 @@ unique:
 cr: 5
 tags: Australian
 source: "Asian Monsters: 100"
+url: ""
 ---

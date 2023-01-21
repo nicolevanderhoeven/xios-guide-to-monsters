@@ -2,15 +2,16 @@
 name: Griffon
 size: Large
 type: Monstrosity
-environment: arctic, coast, grassland, mountain
-hp: 59
+environment: Desert, Grassland, Hills, Mountains, Plane of Air
+hp: 57
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 2
+cr: 3
 tags: 
-source: "Basic Rules v1: 31, HotDQ supplement: 11, Monster Manual: 174"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1662"
 ---

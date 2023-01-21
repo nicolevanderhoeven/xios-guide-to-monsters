@@ -13,4 +13,5 @@ unique:
 cr: 2
 tags: kobold
 source: "Tome of Beasts: 261"
+url: ""
 ---

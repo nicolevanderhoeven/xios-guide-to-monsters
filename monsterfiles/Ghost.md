@@ -2,15 +2,16 @@
 name: Ghost
 size: Medium
 type: Undead
-environment: cave, dungeon, ruins, swamp, underground, urban
-hp: 45
+environment: Desert, Ethereal Plane, Forest, Grassland, Hills, Jungle, Mountains, Ruin, Settlement, Shadowfell, Swamp, Temple, Tomb, Tundra, Water
+hp: 58
 ac: 11
 initiative: 1
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Basic Rules v1: 22, Monster Manual: 147"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1627"
 ---

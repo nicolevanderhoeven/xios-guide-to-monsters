@@ -2,15 +2,16 @@
 name: Giant Rat
 size: Small
 type: Beast
-environment: cave, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban
+environment: Caverns, Forest, Ruin, Settlement, Sewer, Swamp
 hp: 7
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 27, Monster Manual: 327"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1953"
 ---

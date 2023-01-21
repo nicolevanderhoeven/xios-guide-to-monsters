@@ -2,15 +2,16 @@
 name: Mimic
 size: Medium
 type: Monstrosity
-environment: dungeon
-hp: 58
+environment: Caverns, Desert, Laboratory, Ruin
+hp: 52
 ac: 12
-initiative: 1
-alignment: neutral
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 220"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1736"
 ---

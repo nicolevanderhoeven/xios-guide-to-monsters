@@ -2,15 +2,16 @@
 name: Banshee
 size: Medium
 type: Undead
-environment: dungeon, forest, ruins, swamp
+environment: Ethereal Plane, Forest, Ruin, Shadowfell, Swamp, Tomb
 hp: 58
-ac: 12
-initiative: 2
-alignment: chaotic evil
+ac: 13
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Basic Rules v1: 11, Monster Manual: 23"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1440"
 ---

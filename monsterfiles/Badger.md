@@ -2,15 +2,16 @@
 name: Badger
 size: Tiny
 type: Beast
-environment: forest
+environment: Forest, Grassland
 hp: 3
 ac: 10
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Basic Rules v1: 11, Monster Manual: 318"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1912"
 ---

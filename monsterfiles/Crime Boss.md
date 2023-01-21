@@ -1,0 +1,17 @@
+---
+name: Crime Boss
+size: Medium
+type: Humanoid
+environment: Settlement
+hp: 127
+ac: 15
+initiative: 2
+alignment: 
+legendary: 
+lair: 
+unique: 
+cr: 6
+tags: 
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1895"
+---

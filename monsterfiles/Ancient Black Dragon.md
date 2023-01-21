@@ -2,15 +2,16 @@
 name: Ancient Black Dragon
 size: Gargantuan
 type: Dragon
-environment: swamp
+environment: Swamp
 hp: 367
 ac: 22
 initiative: 2
-alignment: chaotic evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 21
+cr: 23
 tags: 
-source: "Monster Manual: 87"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1525"
 ---

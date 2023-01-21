@@ -13,4 +13,5 @@ unique:
 cr: 16
 tags: 
 source: "Tal'Dorei Campaign Setting Reborn: 243"
+url: ""
 ---

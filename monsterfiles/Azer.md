@@ -2,15 +2,16 @@
 name: Azer
 size: Medium
 type: Elemental
-environment: planar, underground
+environment: Caverns, Plane of Fire
 hp: 39
-ac: 17
+ac: 16
 initiative: 1
-alignment: lawful neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 22, Princes of the Apocalypse Online Supplement v1.0: 9"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1433"
 ---

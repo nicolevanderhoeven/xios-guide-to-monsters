@@ -2,15 +2,16 @@
 name: Tiger
 size: Large
 type: Beast
-environment: forest, grassland
-hp: 37
+environment: Forest, Grassland, Jungle
+hp: 30
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 47, Monster Manual: 339, Player's Handbook: 311"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/2004"
 ---

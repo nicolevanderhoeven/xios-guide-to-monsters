@@ -2,15 +2,16 @@
 name: Bone Devil
 size: Large
 type: Fiend
-environment: dungeon, planar
+environment: Hell
 hp: 142
 ac: 19
 initiative: 3
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 9
 tags: 
-source: "Monster Manual: 71"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1513"
 ---

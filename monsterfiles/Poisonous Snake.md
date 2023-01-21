@@ -2,15 +2,16 @@
 name: Poisonous Snake
 size: Tiny
 type: Beast
-environment: desert, forest, grassland, swamp
+environment: Caverns, Desert, Forest, Grassland, Hills, Jungle, Mountains, Ruin, Sewer, Swamp, Tomb, Water
 hp: 2
-ac: 13
-initiative: 3
-alignment: unaligned
+ac: 12
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 40, Monster Manual: 334, Player's Handbook: 308"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1981"
 ---

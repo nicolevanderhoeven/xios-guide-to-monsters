@@ -2,15 +2,16 @@
 name: Kobold
 size: Small
 type: Humanoid
-environment: cave, dungeon, mountain, underground
-hp: 5
+environment: Caverns, Forest, Grassland, Hills, Jungle, Mountains, Plane of Earth, Ruin, Settlement, Swamp, Tundra
+hp: 7
 ac: 12
 initiative: 2
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
-tags: kobold
-source: "Basic Rules v1: 34, HotDQ supplement: 13, Monster Manual: 195"
+tags: 
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1702"
 ---

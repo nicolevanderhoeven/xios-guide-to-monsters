@@ -1,6 +1,6 @@
 ---
 name: Ashari Firetamer
-size: Medium 
+size: Medium
 type: Humanoid
 environment: 
 hp: 92
@@ -13,4 +13,5 @@ unique:
 cr: 7
 tags: druid
 source: "Tal'Dorei Campaign Setting Reborn: 226"
+url: ""
 ---

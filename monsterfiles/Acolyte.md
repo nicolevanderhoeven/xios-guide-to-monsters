@@ -2,15 +2,16 @@
 name: Acolyte
 size: Medium
 type: Humanoid
-environment: arctic, desert, dungeon, forest, grassland, mountain, swamp, underground, urban
-hp: 9
+environment: Desert, Hills, Settlement, Temple
+hp: 11
 ac: 10
 initiative: 0
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 53, HotDQ supplement: 4, Monster Manual: 342"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1871"
 ---

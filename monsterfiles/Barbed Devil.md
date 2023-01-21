@@ -2,15 +2,16 @@
 name: Barbed Devil
 size: Medium
 type: Fiend
-environment: dungeon, planar
-hp: 110
+environment: Hell
+hp: 102
 ac: 15
 initiative: 3
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Monster Manual: 70"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1511"
 ---

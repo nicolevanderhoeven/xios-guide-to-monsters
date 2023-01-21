@@ -13,4 +13,5 @@ unique:
 cr: 0.5
 tags: demon, shapechanger
 source: "Monstrous Menagerie: 73"
+url: ""
 ---

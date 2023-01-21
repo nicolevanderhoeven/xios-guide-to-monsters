@@ -2,15 +2,16 @@
 name: Thug
 size: Medium
 type: Humanoid
-environment: arctic, cave, coast, forest, grassland, urban
+environment: Settlement
 hp: 32
-ac: 11
-initiative: 0
-alignment: non-good
+ac: 14
+initiative: 1
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 0.5
+cr: 1
 tags: 
-source: "Basic Rules v1: 55, Monster Manual: 350"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1892"
 ---

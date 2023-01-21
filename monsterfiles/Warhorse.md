@@ -2,15 +2,16 @@
 name: Warhorse
 size: Large
 type: Beast
-environment: grassland, urban
-hp: 19
+environment: Settlement
+hp: 30
 ac: 11
 initiative: 1
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Basic Rules v1: 48, Monster Manual: 340, Player's Handbook: 311"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/2006"
 ---

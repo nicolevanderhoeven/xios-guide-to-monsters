@@ -13,4 +13,5 @@ unique:
 cr: 0.5
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3j3u2p/day_15_sliver/"
+url: ""
 ---

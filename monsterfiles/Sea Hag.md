@@ -2,15 +2,16 @@
 name: Sea Hag
 size: Medium
 type: Fey
-environment: aquatic, coast, underground
+environment: Feywild, Plane of Water, Water
 hp: 52
 ac: 14
 initiative: 1
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 179, Princes of the Apocalypse Online Supplement v1.0: 31"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1679"
 ---

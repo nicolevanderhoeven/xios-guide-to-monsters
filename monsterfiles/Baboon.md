@@ -2,15 +2,16 @@
 name: Baboon
 size: Small
 type: Beast
-environment: forest, grassland
+environment: Grassland, Jungle
 hp: 3
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Basic Rules v1: 11, Monster Manual: 318"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1911"
 ---

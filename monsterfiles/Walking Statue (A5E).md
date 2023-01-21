@@ -13,4 +13,5 @@ unique:
 cr: 3
 tags: animated objects
 source: "Monstrous Menagerie: 24"
+url: ""
 ---

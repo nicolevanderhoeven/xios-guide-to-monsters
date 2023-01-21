@@ -13,4 +13,5 @@ unique:
 cr: 25
 tags: siege, Japanese
 source: "Asian Monsters: 48"
+url: ""
 ---

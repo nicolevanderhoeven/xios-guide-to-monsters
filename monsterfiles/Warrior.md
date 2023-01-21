@@ -1,16 +1,17 @@
 ---
 name: Warrior
 size: Medium
-type: Construct
-environment: 
-hp: 33
-ac: 17
-initiative: 0
-alignment: neutral
+type: Humanoid
+environment: Caverns, Desert, Feywild, Forest, Grassland, Hills, Jungle, Mountains, Swamp, Tundra
+hp: 11
+ac: 13
+initiative: 1
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 2
+cr: 0.125
 tags: 
-source: "Fifth Edition Foes: 10"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1902"
 ---

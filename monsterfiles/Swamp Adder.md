@@ -13,4 +13,5 @@ unique:
 cr: 0.25
 tags: 
 source: "Tome of Beasts: 354"
+url: ""
 ---

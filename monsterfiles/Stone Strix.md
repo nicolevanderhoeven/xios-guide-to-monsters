@@ -13,4 +13,5 @@ unique:
 cr: 8
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3u3mkx/day_100_stone_strix/"
+url: ""
 ---

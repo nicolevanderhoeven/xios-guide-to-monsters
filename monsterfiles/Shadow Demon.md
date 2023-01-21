@@ -2,15 +2,16 @@
 name: Shadow Demon
 size: Medium
 type: Fiend
-environment: dungeon, planar
-hp: 66
+environment: Abyss
+hp: 45
 ac: 13
 initiative: 3
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monster Manual: 64, Princes of the Apocalypse Online Supplement v1.0: 32"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1509"
 ---

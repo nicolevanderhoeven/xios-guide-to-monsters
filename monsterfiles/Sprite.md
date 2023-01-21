@@ -2,15 +2,16 @@
 name: Sprite
 size: Tiny
 type: Fey
-environment: forest, grassland, swamp
+environment: Feywild, Forest, Swamp
 hp: 2
-ac: 15
+ac: 14
 initiative: 4
-alignment: neutral good
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monster Manual: 283, Player's Handbook: 310, Princes of the Apocalypse Online Supplement v1.0: 33"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1609"
 ---

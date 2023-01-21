@@ -13,4 +13,5 @@ unique:
 cr: 8
 tags: 
 source: "Tome of Beasts 3: 341"
+url: ""
 ---

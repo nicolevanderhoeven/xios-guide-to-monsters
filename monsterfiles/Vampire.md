@@ -2,15 +2,16 @@
 name: Vampire
 size: Medium
 type: Undead
-environment: dungeon, ruins, urban
-hp: 144
+environment: Forest, Hills, Mountains, Ruin, Settlement, Shadowfell, Tomb
+hp: 142
 ac: 16
 initiative: 4
-alignment: lawful evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 13
+cr: 11
 tags: 
-source: "HotDQ supplement: 20, Monster Manual: 297"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1813"
 ---

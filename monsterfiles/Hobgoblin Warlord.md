@@ -2,15 +2,16 @@
 name: Hobgoblin Warlord
 size: Medium
 type: Humanoid
-environment: arctic, coast, grassland, mountain, urban
-hp: 97
-ac: 20
+environment: Caverns, Desert, Forest, Grassland, Hills, Mountains
+hp: 104
+ac: 18
 initiative: 2
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 3
 tags: 
-source: "Monster Manual: 187"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1691"
 ---

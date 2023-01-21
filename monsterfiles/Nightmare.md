@@ -2,15 +2,16 @@
 name: Nightmare
 size: Large
 type: Fiend
-environment: planar, swamp
+environment: Abyss, Hell, Shadowfell
 hp: 68
 ac: 13
 initiative: 2
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monster Manual: 235"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1746"
 ---

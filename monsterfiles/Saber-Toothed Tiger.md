@@ -2,15 +2,16 @@
 name: Saber-Toothed Tiger
 size: Large
 type: Beast
-environment: forest, grassland
-hp: 52
+environment: Forest, Jungle, Mountains, Tundra
+hp: 45
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Basic Rules v1: 43, Monster Manual: 336"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1994"
 ---

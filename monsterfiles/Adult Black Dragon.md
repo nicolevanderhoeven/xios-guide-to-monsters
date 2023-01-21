@@ -2,15 +2,16 @@
 name: Adult Black Dragon
 size: Huge
 type: Dragon
-environment: swamp
-hp: 195
+environment: Swamp
+hp: 253
 ac: 19
 initiative: 2
-alignment: chaotic evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 14
+cr: 17
 tags: 
-source: "Monster Manual: 88, Princes of the Apocalypse Online Supplement v1.0: 7"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1527"
 ---

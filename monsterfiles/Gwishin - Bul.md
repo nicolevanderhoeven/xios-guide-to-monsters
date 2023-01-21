@@ -13,4 +13,5 @@ unique:
 cr: 2
 tags: fire, Korean
 source: "Asian Monsters: 39"
+url: ""
 ---

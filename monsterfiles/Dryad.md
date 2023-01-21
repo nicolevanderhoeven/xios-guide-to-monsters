@@ -2,15 +2,16 @@
 name: Dryad
 size: Medium
 type: Fey
-environment: forest
+environment: Forest, Jungle
 hp: 22
-ac: 11 (16 with barkskin)
+ac: 15
 initiative: 1
-alignment: neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 1
+cr: 0.5
 tags: 
-source: "Monster Manual: 121"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1486"
 ---

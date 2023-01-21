@@ -2,15 +2,16 @@
 name: Fire Elemental
 size: Large
 type: Elemental
-environment: cave, coast, desert, dungeon, grassland, mountain, planar, ruins, underground
-hp: 102
-ac: 13
-initiative: 3
-alignment: neutral
+environment: Laboratory, Plane of Fire
+hp: 90
+ac: 14
+initiative: 4
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Basic Rules v1: 18, Monster Manual: 125"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1597"
 ---

@@ -2,15 +2,16 @@
 name: Wereboar
 size: Medium
 type: Humanoid
-environment: forest, grassland, swamp, urban
+environment: Feywild, Forest, Hills, Settlement, Shadowfell
 hp: 78
-ac: 10 in humanoid form, 11 in boar and hybrid form
+ac: 12
 initiative: 0
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monster Manual: 209, Princes of the Apocalypse Online Supplement v1.0: 37"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1717"
 ---

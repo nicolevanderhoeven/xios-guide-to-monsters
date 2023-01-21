@@ -2,15 +2,16 @@
 name: Bandit Captain
 size: Medium
 type: Humanoid
-environment: arctic, coast, desert, forest, grassland, mountain, ruins, urban
+environment: Caverns, Desert, Forest, Grassland, Hills, Jungle, Laboratory, Mountains, Ruin, Settlement, Sewer, Swamp, Tundra
 hp: 65
 ac: 15
 initiative: 3
-alignment: non-lawful
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 2
+cr: 3
 tags: 
-source: "Monster Manual: 344, Princes of the Apocalypse Online Supplement v1.0: 9"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1844"
 ---

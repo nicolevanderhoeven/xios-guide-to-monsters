@@ -13,4 +13,5 @@ unique:
 cr: 5
 tags: 
 source: "Nerzugal's Extended Bestiary: 93"
+url: ""
 ---

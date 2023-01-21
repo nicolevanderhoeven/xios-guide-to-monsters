@@ -13,4 +13,5 @@ unique:
 cr: 0.5
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3o8i97/day_55_verdalin/"
+url: ""
 ---

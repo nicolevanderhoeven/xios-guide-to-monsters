@@ -2,15 +2,16 @@
 name: Animated Armor
 size: Medium
 type: Construct
-environment: dungeon, ruins, urban
-hp: 33
+environment: Laboratory, Ruin, Temple
+hp: 31
 ac: 18
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 9, Monster Manual: 19"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1428"
 ---

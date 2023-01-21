@@ -13,4 +13,5 @@ unique:
 cr: 5
 tags: regeneration, shapechanger, Japanese
 source: "Asian Monsters: 81"
+url: ""
 ---

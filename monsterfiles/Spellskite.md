@@ -13,4 +13,5 @@ unique:
 cr: 5
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3ltrtn/day_36_spellskite/"
+url: ""
 ---

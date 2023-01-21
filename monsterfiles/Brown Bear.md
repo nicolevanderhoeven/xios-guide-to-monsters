@@ -2,15 +2,16 @@
 name: Brown Bear
 size: Large
 type: Beast
-environment: cave, forest
+environment: Feywild, Forest, Mountains
 hp: 34
 ac: 11
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 13, Monster Manual: 319, Player's Handbook: 304"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1918"
 ---

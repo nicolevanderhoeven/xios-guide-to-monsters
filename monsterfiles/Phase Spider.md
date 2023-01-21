@@ -2,15 +2,16 @@
 name: Phase Spider
 size: Large
 type: Monstrosity
-environment: cave, coast, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground
-hp: 32
-ac: 13
+environment: Astral Plane, Caverns, Ethereal Plane, Feywild, Grassland, Mountains, Ruin, Shadowfell
+hp: 39
+ac: 14
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Basic Rules v1: 40, Monster Manual: 334"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1980"
 ---

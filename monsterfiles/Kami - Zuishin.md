@@ -13,4 +13,5 @@ unique:
 cr: 10
 tags: regeneration, Japanese
 source: "Asian Monsters: 55"
+url: ""
 ---

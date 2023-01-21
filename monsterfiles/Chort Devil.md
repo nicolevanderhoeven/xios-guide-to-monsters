@@ -13,4 +13,5 @@ unique:
 cr: 12
 tags: devil
 source: "Tome of Beasts: 104"
+url: ""
 ---

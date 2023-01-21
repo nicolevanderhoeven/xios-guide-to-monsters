@@ -2,15 +2,16 @@
 name: Scorpion
 size: Tiny
 type: Beast
-environment: cave, desert, grassland, mountain, swamp
+environment: Desert, Grassland
 hp: 1
 ac: 11
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Basic Rules v1: 43, Monster Manual: 337"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1995"
 ---

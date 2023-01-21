@@ -2,15 +2,16 @@
 name: Rakshasa
 size: Medium
 type: Fiend
-environment: planar, urban
-hp: 110
+environment: Abyss, Desert, Forest, Grassland, Hell, Hills, Jungle, Settlement, Swamp
+hp: 161
 ac: 16
 initiative: 3
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 13
 tags: 
-source: "Monster Manual: 257"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1769"
 ---

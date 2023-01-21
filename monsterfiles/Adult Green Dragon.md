@@ -2,15 +2,16 @@
 name: Adult Green Dragon
 size: Huge
 type: Dragon
-environment: forest
-hp: 207
-ac: 19
+environment: Forest, Jungle
+hp: 287
+ac: 18
 initiative: 1
-alignment: lawful evil
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 15
+cr: 18
 tags: 
-source: "Monster Manual: 94"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1537"
 ---

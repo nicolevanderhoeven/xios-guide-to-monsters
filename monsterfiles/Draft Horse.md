@@ -2,15 +2,16 @@
 name: Draft Horse
 size: Large
 type: Beast
-environment: urban
-hp: 19
+environment: Settlement
+hp: 22
 ac: 10
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 17, Monster Manual: 321"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1929"
 ---

@@ -2,15 +2,16 @@
 name: Adult Copper Dragon
 size: Huge
 type: Dragon
-environment: cave, desert, grassland
-hp: 184
+environment: Hills, Mountains
+hp: 253
 ac: 18
 initiative: 1
-alignment: chaotic good
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 14
+cr: 17
 tags: 
-source: "Monster Manual: 112"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1583"
 ---

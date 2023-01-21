@@ -2,15 +2,16 @@
 name: Troll
 size: Large
 type: Giant
-environment: cave, dungeon, forest, mountain, swamp
+environment: Caverns, Feywild, Forest, Grassland, Hills, Jungle, Mountains, Ruin, Swamp
 hp: 84
 ac: 15
 initiative: 1
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Basic Rules v1: 47, HotDQ supplement: 19, Monster Manual: 291"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1806"
 ---

@@ -2,15 +2,16 @@
 name: Swarm of Poisonous Snakes
 size: Medium
 type: Beast
-environment: desert, dungeon, forest, grassland, swamp
-hp: 36
+environment: Caverns, Desert, Forest, Grassland, Hills, Jungle, Mountains, Ruin, Sewer, Swamp, Tomb, Water
+hp: 45
 ac: 14
 initiative: 4
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Basic Rules v1: 46, Monster Manual: 338"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/2000"
 ---

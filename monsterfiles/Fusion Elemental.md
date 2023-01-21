@@ -13,4 +13,5 @@ unique:
 cr: 15
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3iqsbv/day_12_fusion_elemental/"
+url: ""
 ---

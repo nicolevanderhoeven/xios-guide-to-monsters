@@ -13,4 +13,5 @@ unique:
 cr: 5
 tags: ghoul
 source: "Tome of Beasts: 221"
+url: ""
 ---

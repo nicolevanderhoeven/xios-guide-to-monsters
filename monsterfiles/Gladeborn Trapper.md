@@ -13,4 +13,5 @@ unique:
 cr: 3
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3npsf8/day_51_gladeborn_rangers/"
+url: ""
 ---

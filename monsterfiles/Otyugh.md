@@ -2,15 +2,16 @@
 name: Otyugh
 size: Large
 type: Aberration
-environment: cave, dungeon, ruins, swamp, underground
-hp: 114
+environment: Caverns, Laboratory, Ruin, Sewer, Swamp
+hp: 110
 ac: 14
 initiative: 0
-alignment: neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 6
 tags: 
-source: "HotDQ supplement: 14, Monster Manual: 248"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1757"
 ---

@@ -2,15 +2,16 @@
 name: Mastiff
 size: Medium
 type: Beast
-environment: urban
-hp: 5
+environment: Settlement
+hp: 9
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Basic Rules v1: 35, Monster Manual: 332, Player's Handbook: 307"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1975"
 ---

@@ -2,15 +2,16 @@
 name: Flying Sword
 size: Small
 type: Construct
-environment: dungeon, ruins, urban
-hp: 17
+environment: Laboratory, Ruin
+hp: 10
 ac: 17
-initiative: 2
-alignment: unaligned
+initiative: 1
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 20, Monster Manual: 20"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1429"
 ---

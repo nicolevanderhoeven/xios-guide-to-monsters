@@ -2,15 +2,16 @@
 name: Lamia
 size: Large
 type: Monstrosity
-environment: desert, ruins
-hp: 97
+environment: Abyss, Desert, Grassland, Hills
+hp: 85
 ac: 13
-initiative: 1
-alignment: chaotic evil
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monster Manual: 201"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1710"
 ---

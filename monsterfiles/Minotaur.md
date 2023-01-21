@@ -2,15 +2,16 @@
 name: Minotaur
 size: Large
 type: Monstrosity
-environment: cave, dungeon, ruins, underground
+environment: Abyss, Caverns, Plane of Earth
 hp: 76
 ac: 14
 initiative: 0
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 3
+cr: 4
 tags: 
-source: "Basic Rules v1: 35, Monster Manual: 223"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1738"
 ---

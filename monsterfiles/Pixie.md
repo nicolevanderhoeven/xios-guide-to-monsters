@@ -2,15 +2,16 @@
 name: Pixie
 size: Tiny
 type: Fey
-environment: coast, forest, grassland, swamp
-hp: 1
+environment: Feywild, Forest, Swamp
+hp: 2
 ac: 15
 initiative: 5
-alignment: neutral good
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monster Manual: 253"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1608"
 ---

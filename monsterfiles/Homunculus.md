@@ -2,15 +2,16 @@
 name: Homunculus
 size: Tiny
 type: Construct
-environment: dungeon, urban
+environment: Laboratory
 hp: 5
 ac: 13
-initiative: 2
-alignment: neutral
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monster Manual: 188"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1692"
 ---

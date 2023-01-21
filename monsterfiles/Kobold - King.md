@@ -13,4 +13,5 @@ unique:
 cr: 6
 tags: kobold
 source: "Creature Codex: 239"
+url: ""
 ---

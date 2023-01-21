@@ -2,15 +2,16 @@
 name: Harpy
 size: Medium
 type: Monstrosity
-environment: coast, forest, mountain
+environment: Desert, Forest, Grassland, Hills, Jungle, Mountains, Swamp, Tundra
 hp: 38
 ac: 11
 initiative: 1
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 31, Monster Manual: 181"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1685"
 ---

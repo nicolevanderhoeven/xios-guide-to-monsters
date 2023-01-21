@@ -2,15 +2,16 @@
 name: Hawk
 size: Tiny
 type: Beast
-environment: grassland, mountain
+environment: Forest, Grassland, Mountains, Settlement
 hp: 1
 ac: 13
 initiative: 3
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Basic Rules v1: 31, Monster Manual: 330, Player's Handbook: 306"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1966"
 ---

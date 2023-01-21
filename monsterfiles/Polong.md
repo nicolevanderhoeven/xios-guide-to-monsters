@@ -13,4 +13,5 @@ unique:
 cr: 10
 tags: Malaysian
 source: "Asian Monsters: 87"
+url: ""
 ---

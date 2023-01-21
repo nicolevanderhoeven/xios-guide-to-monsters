@@ -13,4 +13,5 @@ unique:
 cr: 6
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3r8fmp/day_78_scorpikis/"
+url: ""
 ---

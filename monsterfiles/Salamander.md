@@ -2,15 +2,16 @@
 name: Salamander
 size: Large
 type: Elemental
-environment: forest, planar
+environment: Caverns, Plane of Fire
 hp: 90
 ac: 15
 initiative: 2
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 6
 tags: 
-source: "Monster Manual: 266, Princes of the Apocalypse Online Supplement v1.0: 30"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1778"
 ---

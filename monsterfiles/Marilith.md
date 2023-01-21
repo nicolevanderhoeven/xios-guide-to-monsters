@@ -2,15 +2,16 @@
 name: Marilith
 size: Large
 type: Fiend
-environment: dungeon, planar
-hp: 189
+environment: Abyss
+hp: 220
 ac: 18
-initiative: 5
-alignment: chaotic evil
+initiative: 6
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 16
 tags: 
-source: "Monster Manual: 61"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1505"
 ---

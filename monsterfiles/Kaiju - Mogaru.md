@@ -13,4 +13,5 @@ unique: unique
 cr: 29
 tags: regeneration, siege, Japanese
 source: "Asian Monsters: 50"
+url: ""
 ---

@@ -2,15 +2,16 @@
 name: Swarm of Bats
 size: Medium
 type: Beast
-environment: cave, dungeon, forest, ruins, swamp, underground, urban
-hp: 22
+environment: Caverns, Mountains, Shadowfell, Tomb
+hp: 18
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 45, Monster Manual: 337"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1998"
 ---

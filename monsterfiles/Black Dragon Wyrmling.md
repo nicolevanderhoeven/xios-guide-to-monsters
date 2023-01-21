@@ -2,15 +2,16 @@
 name: Black Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: swamp
-hp: 33
+environment: Swamp
+hp: 44
 ac: 17
-initiative: 2
-alignment: chaotic evil
+initiative: 3
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 88"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1529"
 ---

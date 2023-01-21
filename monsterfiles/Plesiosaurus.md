@@ -2,15 +2,16 @@
 name: Plesiosaurus
 size: Large
 type: Beast
-environment: aquatic
-hp: 68
+environment: Plane of Water, Water
+hp: 45
 ac: 13
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 2
+cr: 7
 tags: 
-source: "Basic Rules v1: 40, Monster Manual: 80"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1492"
 ---

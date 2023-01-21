@@ -2,15 +2,16 @@
 name: Rug of Smothering
 size: Large
 type: Construct
-environment: dungeon, ruins, urban
-hp: 33
+environment: Laboratory, Ruin
+hp: 45
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "HotDQ supplement: 16, Monster Manual: 20"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1430"
 ---

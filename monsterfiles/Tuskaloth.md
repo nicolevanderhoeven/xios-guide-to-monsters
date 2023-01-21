@@ -13,4 +13,5 @@ unique:
 cr: 10
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3lboj2/day_32_tuskaloth/"
+url: ""
 ---

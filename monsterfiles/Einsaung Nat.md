@@ -13,4 +13,5 @@ unique:
 cr: 1
 tags: Myanmar
 source: "Asian Monsters: 74"
+url: ""
 ---

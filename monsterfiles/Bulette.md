@@ -2,15 +2,16 @@
 name: Bulette
 size: Large
 type: Monstrosity
-environment: cave, desert, grassland, mountain, underground
-hp: 94
+environment: Desert, Forest, Grassland, Hills, Mountains, Plane of Earth, Ruin, Settlement
+hp: 95
 ac: 17
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 6
 tags: 
-source: "Monster Manual: 34, Princes of the Apocalypse Online Supplement v1.0: 10"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1447"
 ---

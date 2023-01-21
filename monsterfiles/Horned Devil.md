@@ -2,15 +2,16 @@
 name: Horned Devil
 size: Large
 type: Fiend
-environment: dungeon, planar
-hp: 178
+environment: Hell
+hp: 168
 ac: 18
 initiative: 3
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 11
 tags: 
-source: "Monster Manual: 74"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1516"
 ---

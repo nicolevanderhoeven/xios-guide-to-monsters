@@ -13,4 +13,5 @@ unique:
 cr: 14
 tags: ghost
 source: "Tal'Dorei Campaign Setting Reborn: 259"
+url: ""
 ---

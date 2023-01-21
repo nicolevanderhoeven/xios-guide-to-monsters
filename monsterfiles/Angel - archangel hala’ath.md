@@ -13,4 +13,5 @@ unique:
 cr: 22
 tags: 
 source: "Tome of Beasts 3: 22"
+url: ""
 ---

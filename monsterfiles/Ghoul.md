@@ -2,15 +2,16 @@
 name: Ghoul
 size: Medium
 type: Undead
-environment: arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban
+environment: Abyss, Caverns, Desert, Forest, Grassland, Hills, Mountains, Ruin, Sewer, Shadowfell, Swamp, Temple, Tomb, Tundra
 hp: 22
 ac: 12
 initiative: 2
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 22, Monster Manual: 148"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1629"
 ---

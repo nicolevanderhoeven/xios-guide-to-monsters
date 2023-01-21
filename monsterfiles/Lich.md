@@ -2,15 +2,16 @@
 name: Lich
 size: Medium
 type: Undead
-environment: dungeon, ruins, urban
-hp: 135
-ac: 17
+environment: Laboratory, Ruin, Shadowfell, Tomb
+hp: 170
+ac: 18
 initiative: 3
-alignment: any evil
+alignment: 
 legendary: legendary
 lair: 
 unique: 
 cr: 21
 tags: 
-source: "Monster Manual: 202, Princes of the Apocalypse Online Supplement v1.0: 23"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1713"
 ---

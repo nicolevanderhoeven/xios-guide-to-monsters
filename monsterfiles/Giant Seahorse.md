@@ -2,15 +2,16 @@
 name: Giant Seahorse
 size: Large
 type: Beast
-environment: aquatic
-hp: 26
-ac: 12
+environment: Plane of Water, Water
+hp: 22
+ac: 13
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Fifth Edition Foes: 205"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1956"
 ---

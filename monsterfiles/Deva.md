@@ -2,15 +2,16 @@
 name: Deva
 size: Medium
 type: Celestial
-environment: planar
-hp: 136
+environment: Astral Plane, Temple
+hp: 153
 ac: 17
 initiative: 4
-alignment: lawful good
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 10
 tags: 
-source: "Monster Manual: 16"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1436"
 ---

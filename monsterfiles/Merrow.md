@@ -2,15 +2,16 @@
 name: Merrow
 size: Large
 type: Monstrosity
-environment: aquatic
+environment: Swamp, Water
 hp: 45
 ac: 13
 initiative: 0
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 219, Princes of the Apocalypse Online Supplement v1.0: 25"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1734"
 ---

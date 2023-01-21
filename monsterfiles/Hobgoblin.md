@@ -2,15 +2,16 @@
 name: Hobgoblin
 size: Medium
 type: Humanoid
-environment: arctic, coast, grassland, mountain, urban
-hp: 11
-ac: 18
+environment: Caverns, Desert, Forest, Grassland, Hills, Mountains
+hp: 19
+ac: 16
 initiative: 1
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Basic Rules v1: 32, HotDQ supplement: 12, Monster Manual: 186"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1689"
 ---

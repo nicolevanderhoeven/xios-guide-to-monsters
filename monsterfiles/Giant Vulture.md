@@ -2,15 +2,16 @@
 name: Giant Vulture
 size: Large
 type: Beast
-environment: desert, grassland, ruins
+environment: Desert
 hp: 22
-ac: 10
-initiative: 13
-alignment: neutral evil
+ac: 12
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Basic Rules v1: 29, Monster Manual: 329"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1960"
 ---

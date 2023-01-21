@@ -2,15 +2,16 @@
 name: Swarm of Ravens
 size: Medium
 type: Beast
-environment: forest, grassland, mountain, ruins, urban
-hp: 24
+environment: Forest
+hp: 17
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 46, Monster Manual: 339"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/2003"
 ---

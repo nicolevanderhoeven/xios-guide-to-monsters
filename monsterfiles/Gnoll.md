@@ -2,15 +2,16 @@
 name: Gnoll
 size: Medium
 type: Humanoid
-environment: arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban
+environment: Abyss, Desert, Grassland, Hills, Jungle, Mountains, Settlement
 hp: 22
-ac: 15
+ac: 14
 initiative: 1
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Basic Rules v1: 30, Monster Manual: 163"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1647"
 ---

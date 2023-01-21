@@ -2,15 +2,16 @@
 name: Giant Elk
 size: Huge
 type: Beast
-environment: forest, grassland
+environment: Forest, Tundra
 hp: 42
-ac: 14
-initiative: 3
-alignment: unaligned
+ac: 13
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Basic Rules v1: 25, Monster Manual: 325"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1944"
 ---

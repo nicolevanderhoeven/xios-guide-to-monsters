@@ -2,15 +2,16 @@
 name: Panther
 size: Medium
 type: Beast
-environment: forest
+environment: Forest, Jungle
 hp: 13
 ac: 12
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 39, Monster Manual: 333, Player's Handbook: 308"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1979"
 ---

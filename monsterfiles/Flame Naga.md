@@ -13,4 +13,5 @@ unique:
 cr: 5
 tags: fire, Laotian
 source: "Asian Monsters: 69"
+url: ""
 ---

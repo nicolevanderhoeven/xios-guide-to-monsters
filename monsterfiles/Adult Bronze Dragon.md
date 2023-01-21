@@ -2,15 +2,16 @@
 name: Adult Bronze Dragon
 size: Huge
 type: Dragon
-environment: coast
-hp: 212
-ac: 19
+environment: Water
+hp: 287
+ac: 18
 initiative: 0
-alignment: lawful good
+alignment: 
 legendary: legendary
-lair: lair
+lair: 
 unique: 
-cr: 15
+cr: 18
 tags: 
-source: "Monster Manual: 108, Princes of the Apocalypse Online Supplement v1.0: 7"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1579"
 ---

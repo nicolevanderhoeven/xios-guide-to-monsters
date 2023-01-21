@@ -2,15 +2,16 @@
 name: Giant Crocodile
 size: Huge
 type: Beast
-environment: aquatic, coast, swamp
+environment: Swamp, Water
 hp: 85
 ac: 14
-initiative: -1
-alignment: unaligned
+initiative: 0
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Basic Rules v1: 24, Monster Manual: 324"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1942"
 ---

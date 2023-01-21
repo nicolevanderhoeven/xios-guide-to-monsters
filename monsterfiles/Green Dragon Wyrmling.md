@@ -1,16 +1,17 @@
 ---
 name: Green Dragon Wyrmling
-size: Medium
+size: Huge
 type: Dragon
-environment: forest
-hp: 38
-ac: 17
-initiative: 1
-alignment: lawful evil
+environment: Forest, Jungle
+hp: 55
+ac: 16
+initiative: 2
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 2
+cr: 3
 tags: 
-source: "Monster Manual: 95"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1539"
 ---

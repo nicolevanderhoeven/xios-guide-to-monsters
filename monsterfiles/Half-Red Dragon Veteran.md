@@ -2,15 +2,16 @@
 name: Half-Red Dragon Veteran
 size: Medium
 type: Humanoid
-environment: arctic, coast, desert, grassland, mountain, urban
-hp: 65
-ac: 18
+environment: Desert, Hills, Mountains, Plane of Fire, Ruin, Settlement
+hp: 58
+ac: 16
 initiative: 1
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 3
 tags: 
-source: "Monster Manual: 180"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1683"
 ---

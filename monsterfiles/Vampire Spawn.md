@@ -2,15 +2,16 @@
 name: Vampire Spawn
 size: Medium
 type: Undead
-environment: dungeon, ruins, urban
-hp: 82
+environment: Forest, Hills, Mountains, Ruin, Settlement, Shadowfell, Tomb
+hp: 76
 ac: 15
 initiative: 3
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 4
 tags: 
-source: "HotDQ supplement: 21, Monster Manual: 298, Princes of the Apocalypse Online Supplement v1.0: 35"
+source: "Monstrous Menagerie"
+url: "https://a5e.tools/node/1818"
 ---

@@ -13,4 +13,5 @@ unique:
 cr: 4
 tags: 
 source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3s0lep/day_84_chainer_geist/"
+url: ""
 ---
