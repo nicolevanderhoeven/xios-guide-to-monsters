@@ -27,6 +27,7 @@ with open(filename, 'r') as csvfile:
         cr = row[11]
         tags = row[12]
         source = row[13]
+        url = row[14]
         name = name.replace(',', ' -')
         name = name.replace('/', ' or ')
         print(name)
@@ -46,5 +47,6 @@ unique: {unique}
 cr: {cr}
 tags: {tags}
 source: "{source}"
+url: "{url}"
 ---'''
             output_file.write(string)
