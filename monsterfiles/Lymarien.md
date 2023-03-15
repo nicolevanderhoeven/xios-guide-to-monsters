@@ -3,9 +3,9 @@ name: Lymarien
 size: Tiny
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 5
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

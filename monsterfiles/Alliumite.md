@@ -3,9 +3,9 @@ name: Alliumite
 size: Sall
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 18
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

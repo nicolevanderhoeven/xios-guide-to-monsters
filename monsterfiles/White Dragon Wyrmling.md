@@ -2,15 +2,16 @@
 name: White Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: arctic, cave, underground
+environment: 
 hp: 32
 ac: 16
 initiative: 0
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 102"
+source: "5e SRD"
+url: "https://open5e.com/monsters/white-dragon-wyrmling"
 ---

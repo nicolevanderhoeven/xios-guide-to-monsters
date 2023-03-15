@@ -3,9 +3,9 @@ name: Lou Carcolh
 size: Medium
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 78
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

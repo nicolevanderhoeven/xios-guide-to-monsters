@@ -3,9 +3,9 @@ name: Grimmlet Swarm
 size: Large Swarm
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 152
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

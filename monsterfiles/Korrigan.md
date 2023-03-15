@@ -3,9 +3,9 @@ name: Korrigan
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 66
+ac: 14
+initiative: 3
 alignment: 
 legendary: 
 lair: 

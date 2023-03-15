@@ -3,9 +3,9 @@ name: Ratfolk Mercenary
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 15
+initiative: 4
 alignment: 
 legendary: 
 lair: 

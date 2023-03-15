@@ -3,9 +3,9 @@ name: Silenal
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 117
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

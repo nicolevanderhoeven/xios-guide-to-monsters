@@ -3,9 +3,9 @@ name: Tar Ghoul
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 66
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

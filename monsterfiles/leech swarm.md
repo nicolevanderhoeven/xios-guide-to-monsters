@@ -3,9 +3,9 @@ name: leech swarm
 size: Medium
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 32
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Aniwye
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 102
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

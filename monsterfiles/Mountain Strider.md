@@ -3,9 +3,9 @@ name: Mountain Strider
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 34
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

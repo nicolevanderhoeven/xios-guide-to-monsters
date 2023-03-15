@@ -3,9 +3,9 @@ name: Chill Haunt
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 39
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

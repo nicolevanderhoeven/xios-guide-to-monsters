@@ -3,9 +3,9 @@ name: Wraith bear
 size: Large
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 133
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Moon Nymph
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 110
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Gulper Behemoth
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 188
+ac: 16
+initiative: 0
 alignment: 
 legendary: 
 lair: 

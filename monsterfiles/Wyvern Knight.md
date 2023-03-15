@@ -3,9 +3,9 @@ name: Wyvern Knight
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 102
+ac: 20
+initiative: 0
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Pact Drake
 size: Small
 type: Dragon
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

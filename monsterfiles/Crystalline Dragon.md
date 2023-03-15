@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 18
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3tlb1z/day_96_crystalline_dragon/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteradaycomments/3tlb1z/day_96_crystalline_dragon/"
 ---

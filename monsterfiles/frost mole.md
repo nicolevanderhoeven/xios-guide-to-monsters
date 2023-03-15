@@ -3,9 +3,9 @@ name: frost mole
 size: Small
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 71
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

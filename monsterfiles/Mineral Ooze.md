@@ -3,9 +3,9 @@ name: Mineral Ooze
 size: Large
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 76
+ac: 9
+initiative: -1
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Helashruu
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 184
+ac: 18
+initiative: 2
 alignment: 
 legendary: 
 lair: 

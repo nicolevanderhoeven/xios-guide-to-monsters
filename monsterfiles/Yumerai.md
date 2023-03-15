@@ -3,9 +3,9 @@ name: Yumerai
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 65
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

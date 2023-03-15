@@ -3,9 +3,9 @@ name: Derro Explorer
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 44
+ac: 15
+initiative: 3
 alignment: 
 legendary: 
 lair: 

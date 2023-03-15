@@ -3,9 +3,9 @@ name: Quiet Soul
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 90
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

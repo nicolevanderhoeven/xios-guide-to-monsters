@@ -1,17 +1,17 @@
 ---
 name: Kech
 size: Medium
-type: Humanoid
-environment: Desert, Forest, Grassland, Hills, Jungle, Mountains, Swamp
-hp: 30
-ac: 12
+type: Monstrosity
+environment: forest
+hp: 27
+ac: 13
 initiative: 2
-alignment: 
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
-cr: 1
+cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
-url: "https://a5e.tools/node/1467"
+source: "Fifth Edition Foes: 155"
+url: ""
 ---

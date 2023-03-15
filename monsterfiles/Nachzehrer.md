@@ -3,9 +3,9 @@ name: Nachzehrer
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 136
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

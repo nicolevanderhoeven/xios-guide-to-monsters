@@ -3,9 +3,9 @@ name: Yaojing
 size: Medium
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 202
+ac: 15
+initiative: 6
 alignment: 
 legendary: 
 lair: 

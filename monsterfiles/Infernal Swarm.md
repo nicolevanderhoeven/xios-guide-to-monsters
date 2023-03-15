@@ -3,9 +3,9 @@ name: Infernal Swarm
 size: Huge Swarm
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 150
+ac: 16
+initiative: 3
 alignment: 
 legendary: 
 lair: 

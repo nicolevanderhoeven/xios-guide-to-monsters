@@ -3,9 +3,9 @@ name: Dark Father
 size: Large
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 65
+ac: 18
+initiative: 2
 alignment: 
 legendary: 
 lair: 

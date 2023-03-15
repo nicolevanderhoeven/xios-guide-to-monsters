@@ -3,9 +3,9 @@ name: Karakura
 size: Medium
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 76
+ac: 15
+initiative: 4
 alignment: 
 legendary: 
 lair: 

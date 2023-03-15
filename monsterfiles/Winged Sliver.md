@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 3
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3jdpx6/day_17_winged_and_virulent_slivers/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3jdpx6day_17_winged_and_virulent_slivers/"
 ---

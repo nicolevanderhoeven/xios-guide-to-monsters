@@ -3,9 +3,9 @@ name: Shadow River Lord
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 135
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Cauldronborn
 size: Small
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 13
+ac: 13
+initiative: -2
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Bloodstone Sentinel
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 114
+ac: 15
+initiative: -2
 alignment: 
 legendary: 
 lair: 

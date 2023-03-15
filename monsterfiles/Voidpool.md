@@ -3,9 +3,9 @@ name: Voidpool
 size: Large
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 112
+ac: 8
+initiative: -2
 alignment: 
 legendary: 
 lair: 

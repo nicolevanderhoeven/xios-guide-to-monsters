@@ -3,9 +3,9 @@ name: Far Wanderer
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 88
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

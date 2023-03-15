@@ -3,9 +3,9 @@ name: De Ogen
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 15
+initiative: 5
 alignment: 
 legendary: 
 lair: 

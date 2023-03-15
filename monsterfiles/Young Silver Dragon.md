@@ -2,15 +2,16 @@
 name: Young Silver Dragon
 size: Large
 type: Dragon
-environment: arctic, mountain
+environment: 
 hp: 168
 ac: 18
 initiative: 0
-alignment: lawful good
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 9
 tags: 
-source: "Monster Manual: 118"
+source: "5e SRD"
+url: "https://open5e.com/monsters/young-silver-dragon"
 ---

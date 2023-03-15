@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 4
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3pn9gi/day_66_infestation_swarm/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3pn9gi/day_66_infestation_swarm/"
 ---

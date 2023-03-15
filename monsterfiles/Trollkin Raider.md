@@ -3,9 +3,9 @@ name: Trollkin Raider
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 32
+ac: 14
+initiative: 1
 alignment: 
 legendary: 
 lair: 

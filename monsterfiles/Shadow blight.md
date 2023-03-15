@@ -3,9 +3,9 @@ name: Shadow blight
 size: Small
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 65
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

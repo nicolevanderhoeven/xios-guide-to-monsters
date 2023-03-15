@@ -3,9 +3,9 @@ name: Clockwork Assassin
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 99
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

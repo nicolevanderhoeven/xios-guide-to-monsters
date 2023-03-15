@@ -3,9 +3,9 @@ name: Far Dorocha
 size: medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 82
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

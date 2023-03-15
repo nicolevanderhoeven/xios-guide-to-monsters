@@ -3,9 +3,9 @@ name: Wendigo
 size: Tiny
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 150
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

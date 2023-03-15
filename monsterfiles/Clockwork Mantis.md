@@ -3,9 +3,9 @@ name: Clockwork Mantis
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 68
+ac: 15
+initiative: 4
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Inkling
 size: Tiny
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 10
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

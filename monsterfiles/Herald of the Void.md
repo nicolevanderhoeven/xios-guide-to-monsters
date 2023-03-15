@@ -3,11 +3,11 @@ name: Herald of the Void
 size: Large
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 123
+ac: 17
+initiative: 5
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 11

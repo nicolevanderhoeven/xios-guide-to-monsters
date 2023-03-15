@@ -2,15 +2,16 @@
 name: Ghoul - Iron
 size: Medium
 type: Undead
-environment: ruins,underground
+environment: 
 hp: 143
 ac: 16
 initiative: 3
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Tome of Beasts: 221"
+source: "Tome of Beasts: 220"
+url: "https://open5e.com/monsters/ghoul-iron"
 ---

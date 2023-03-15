@@ -3,9 +3,9 @@ name: Timingila
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 232
+ac: 18
+initiative: -2
 alignment: 
 legendary: 
 lair: 

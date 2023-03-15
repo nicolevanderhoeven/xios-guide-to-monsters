@@ -3,11 +3,11 @@ name: Venom Maw Hydra
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 231
+ac: 15
+initiative: 4
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 12

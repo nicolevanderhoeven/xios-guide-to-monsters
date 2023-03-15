@@ -3,9 +3,9 @@ name: Magma Octopus
 size: Large
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 147
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

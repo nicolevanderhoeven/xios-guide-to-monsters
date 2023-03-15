@@ -3,9 +3,9 @@ name: Lunarian
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 97
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

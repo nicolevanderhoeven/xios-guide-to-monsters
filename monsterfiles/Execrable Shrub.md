@@ -3,9 +3,9 @@ name: Execrable Shrub
 size: Medium
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 40
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

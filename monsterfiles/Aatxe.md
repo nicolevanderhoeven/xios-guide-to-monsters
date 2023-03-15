@@ -3,11 +3,11 @@ name: Aatxe
 size: Large
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 105
+ac: 14
+initiative: 1
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 5

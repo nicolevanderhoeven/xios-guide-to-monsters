@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3im98d/day_11_myr_battlesphere/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3im98d/day_11_myr_battlesphere/"
 ---

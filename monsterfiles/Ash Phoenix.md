@@ -3,9 +3,9 @@ name: Ash Phoenix
 size: Large
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 105
+ac: 15
+initiative: 5
 alignment: 
 legendary: 
 lair: 

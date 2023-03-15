@@ -3,9 +3,9 @@ name: Chatterlome
 size: Medium
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 93
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

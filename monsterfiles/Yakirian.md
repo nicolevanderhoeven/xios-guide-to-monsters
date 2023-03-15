@@ -3,9 +3,9 @@ name: Yakirian
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 67
+ac: 13
+initiative: 0
 alignment: 
 legendary: 
 lair: 

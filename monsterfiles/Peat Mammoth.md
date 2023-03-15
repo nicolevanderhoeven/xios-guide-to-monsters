@@ -3,9 +3,9 @@ name: Peat Mammoth
 size: Huge
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 172
+ac: 16
+initiative: -2
 alignment: 
 legendary: 
 lair: 

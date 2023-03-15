@@ -3,9 +3,9 @@ name: Pestilence swarm
 size: Medium Swarm
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 14
+initiative: 3
 alignment: 
 legendary: 
 lair: 

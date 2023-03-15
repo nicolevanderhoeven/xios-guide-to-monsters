@@ -3,9 +3,9 @@ name: Butatsch
 size: Gargantuan
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 248
+ac: 17
+initiative: 2
 alignment: 
 legendary: 
 lair: 

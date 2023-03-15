@@ -3,9 +3,9 @@ name: Derro Guard
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 18
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

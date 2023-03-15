@@ -3,9 +3,9 @@ name: Pal-Rai-Yuk
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 133
+ac: 16
+initiative: 0
 alignment: 
 legendary: 
 lair: 

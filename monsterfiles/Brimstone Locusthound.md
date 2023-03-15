@@ -3,9 +3,9 @@ name: Brimstone Locusthound
 size: Medium
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 60
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

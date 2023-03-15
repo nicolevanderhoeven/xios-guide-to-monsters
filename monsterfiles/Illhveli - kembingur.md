@@ -3,9 +3,9 @@ name: Illhveli - kembingur
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 210
+ac: 17
+initiative: 1
 alignment: 
 legendary: 
 lair: 

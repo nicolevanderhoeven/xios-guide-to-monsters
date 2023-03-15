@@ -3,9 +3,9 @@ name: Roachling Scout
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 63
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

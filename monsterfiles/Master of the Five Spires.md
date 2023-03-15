@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 8
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3icp48/day_9_monks_of_the_five_spires/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3icp48day_9_monks_of_the_five_spires/"
 ---

@@ -3,9 +3,9 @@ name: Woodwose
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 27
+ac: 13
+initiative: 1
 alignment: 
 legendary: 
 lair: 

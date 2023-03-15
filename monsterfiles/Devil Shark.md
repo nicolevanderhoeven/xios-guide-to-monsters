@@ -3,9 +3,9 @@ name: Devil Shark
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 198
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

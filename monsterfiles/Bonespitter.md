@@ -3,9 +3,9 @@ name: Bonespitter
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 217
+ac: 17
+initiative: -2
 alignment: 
 legendary: 
 lair: 

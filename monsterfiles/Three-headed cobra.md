@@ -3,9 +3,9 @@ name: Three-headed cobra
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

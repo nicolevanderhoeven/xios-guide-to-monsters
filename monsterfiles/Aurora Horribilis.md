@@ -3,9 +3,9 @@ name: Aurora Horribilis
 size: Large
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 119
+ac: 15
+initiative: 5
 alignment: 
 legendary: 
 lair: 

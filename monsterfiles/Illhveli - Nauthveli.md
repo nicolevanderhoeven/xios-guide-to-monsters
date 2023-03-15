@@ -3,9 +3,9 @@ name: Illhveli - Nauthveli
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 280
+ac: 18
+initiative: 0
 alignment: 
 legendary: 
 lair: 

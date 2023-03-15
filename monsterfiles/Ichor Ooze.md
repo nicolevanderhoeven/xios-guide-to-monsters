@@ -3,9 +3,9 @@ name: Ichor Ooze
 size: Meidum
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 39
+ac: 8
+initiative: -2
 alignment: 
 legendary: 
 lair: 

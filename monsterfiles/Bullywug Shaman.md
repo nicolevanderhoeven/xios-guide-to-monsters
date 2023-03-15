@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3s5md9/day_85_bullywug_shaman/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3s5md9day_85_bullywug_shaman/"
 ---

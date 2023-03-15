@@ -3,9 +3,9 @@ name: Quoreq
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 93
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

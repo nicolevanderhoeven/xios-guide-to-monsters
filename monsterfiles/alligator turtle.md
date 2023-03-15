@@ -3,9 +3,9 @@ name: alligator turtle
 size: Medium
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 11
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

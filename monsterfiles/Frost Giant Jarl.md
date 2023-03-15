@@ -3,15 +3,15 @@ name: Frost Giant Jarl
 size: Huge
 type: Giant
 environment: Mountains, Shadowfell, Tundra
-hp: 184
-ac: 15
-initiative: -1
-alignment: 
-legendary: 
+hp: 187
+ac: 16
+initiative: 0
+alignment: neutral evil
+legendary: legendary
 lair: 
 unique: 
-cr: 12
+cr: 11
 tags: 
-source: "Monstrous Menagerie"
-url: "https://a5e.tools/node/1638"
+source: "Monster-A-Day"
+url: ""
 ---

@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 4
 tags: kobold
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kkb95/day_26_kobold_hero/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteradaycomments/3kkb95/day_26_kobold_hero/"
 ---

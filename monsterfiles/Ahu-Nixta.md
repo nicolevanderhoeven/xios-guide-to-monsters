@@ -3,9 +3,9 @@ name: Ahu-Nixta
 size: Large
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 67
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

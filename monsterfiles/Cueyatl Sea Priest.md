@@ -3,9 +3,9 @@ name: Cueyatl Sea Priest
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 12
+initiative: 1
 alignment: 
 legendary: 
 lair: 

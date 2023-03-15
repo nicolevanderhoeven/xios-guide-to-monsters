@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 9
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kxhr5/day_29_pact_devil/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3kxhr5/day_29_pact_devil/"
 ---

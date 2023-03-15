@@ -3,9 +3,9 @@ name: Nharyth
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 168
+ac: 17
+initiative: 2
 alignment: 
 legendary: 
 lair: 

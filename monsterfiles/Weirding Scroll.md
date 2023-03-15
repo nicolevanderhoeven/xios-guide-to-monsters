@@ -3,9 +3,9 @@ name: Weirding Scroll
 size: Tiny
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 27
+ac: 10
+initiative: 0
 alignment: 
 legendary: 
 lair: 

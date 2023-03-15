@@ -3,9 +3,9 @@ name: Pustulent Shambler
 size: Gargantuan
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 232
+ac: 10
+initiative: -2
 alignment: 
 legendary: 
 lair: 

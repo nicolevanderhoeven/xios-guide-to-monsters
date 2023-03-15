@@ -3,9 +3,9 @@ name: Winterghast
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 78
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

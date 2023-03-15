@@ -3,9 +3,9 @@ name: Serpentfolk of Yig
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 40
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

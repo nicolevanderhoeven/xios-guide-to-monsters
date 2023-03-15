@@ -3,9 +3,9 @@ name: Grave Behemoth
 size: Huge
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 210
+ac: 9
+initiative: -1
 alignment: 
 legendary: 
 lair: 

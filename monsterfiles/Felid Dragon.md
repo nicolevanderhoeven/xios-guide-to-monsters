@@ -3,9 +3,9 @@ name: Felid Dragon
 size: Huge
 type: Dragon
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 275
+ac: 18
+initiative: 8
 alignment: 
 legendary: 
 lair: 

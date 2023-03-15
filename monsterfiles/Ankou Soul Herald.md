@@ -3,11 +3,11 @@ name: Ankou Soul Herald
 size: Gargantuan
 type: Dragon
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 407
+ac: 18
+initiative: 0
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 21

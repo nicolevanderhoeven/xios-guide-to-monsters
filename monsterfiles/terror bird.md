@@ -3,9 +3,9 @@ name: terror bird
 size: Large
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 65
+ac: 12
+initiative: 1
 alignment: 
 legendary: 
 lair: 

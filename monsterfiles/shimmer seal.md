@@ -3,9 +3,9 @@ name: shimmer seal
 size: Medium
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 105
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

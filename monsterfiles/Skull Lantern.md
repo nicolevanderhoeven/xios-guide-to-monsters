@@ -3,9 +3,9 @@ name: Skull Lantern
 size: Tiny
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 14
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

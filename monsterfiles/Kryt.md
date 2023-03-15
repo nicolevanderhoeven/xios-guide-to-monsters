@@ -3,9 +3,9 @@ name: Kryt
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 120
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

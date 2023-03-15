@@ -3,9 +3,9 @@ name: Ahuizotl
 size: Small
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 71
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

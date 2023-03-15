@@ -3,9 +3,9 @@ name: Simurg
 size: Gargantuan
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 108
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

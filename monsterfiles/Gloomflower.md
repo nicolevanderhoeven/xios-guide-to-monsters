@@ -3,9 +3,9 @@ name: Gloomflower
 size: Tiny
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 44
+ac: 12
+initiative: -2
 alignment: 
 legendary: 
 lair: 

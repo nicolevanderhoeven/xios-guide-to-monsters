@@ -3,9 +3,9 @@ name: Stormboar
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 95
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

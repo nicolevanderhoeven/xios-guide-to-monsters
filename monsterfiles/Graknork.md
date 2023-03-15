@@ -3,9 +3,9 @@ name: Graknork
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 201
+ac: 20
+initiative: 4
 alignment: 
 legendary: 
 lair: 

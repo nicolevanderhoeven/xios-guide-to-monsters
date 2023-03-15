@@ -3,9 +3,9 @@ name: Astral Devourer
 size: Medium Swarm
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 90
+ac: 16
+initiative: 3
 alignment: 
 legendary: 
 lair: 

@@ -2,15 +2,16 @@
 name: Giant Sea Horse
 size: Large
 type: Beast
-environment: aquatic
+environment: 
 hp: 16
 ac: 13
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Basic Rules v1: 27, Monster Manual: 328"
+source: "5e SRD"
+url: "https://open5e.com/monsters/giant-sea-horse"
 ---

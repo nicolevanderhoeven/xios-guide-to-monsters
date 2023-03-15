@@ -2,15 +2,16 @@
 name: Warhorse Skeleton
 size: Large
 type: Undead
-environment: grassland, ruins
+environment: 
 hp: 22
 ac: 13
 initiative: 1
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monster Manual: 273"
+source: "5e SRD"
+url: "https://open5e.com/monsters/warhorse-skeleton"
 ---

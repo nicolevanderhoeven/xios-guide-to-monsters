@@ -3,9 +3,9 @@ name: Corrupted Pixie
 size: Tiny
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 5
+ac: 15
+initiative: 5
 alignment: 
 legendary: 
 lair: 

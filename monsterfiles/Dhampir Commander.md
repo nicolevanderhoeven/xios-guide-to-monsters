@@ -3,9 +3,9 @@ name: Dhampir Commander
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 97
+ac: 17
+initiative: 4
 alignment: 
 legendary: 
 lair: 

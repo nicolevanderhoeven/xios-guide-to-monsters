@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 6
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3qf9kq/day_72_gillman/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3qf9kq/day_72_gillman/"
 ---

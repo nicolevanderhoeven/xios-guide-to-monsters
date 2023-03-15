@@ -3,9 +3,9 @@ name: Carnivorous ship
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 186
+ac: 17
+initiative: -2
 alignment: 
 legendary: 
 lair: 

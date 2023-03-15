@@ -3,9 +3,9 @@ name: Ice Bogie
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 10
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

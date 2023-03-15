@@ -3,9 +3,9 @@ name: Snake with a Hundred Mage Hands
 size: Small
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 67
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

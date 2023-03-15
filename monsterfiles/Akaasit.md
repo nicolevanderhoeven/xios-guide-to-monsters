@@ -3,9 +3,9 @@ name: Akaasit
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 91
+ac: 15
+initiative: 4
 alignment: 
 legendary: 
 lair: 

@@ -1,17 +1,17 @@
 ---
 name: Hundun
 size: Large
-type: Aberration
+type: Celestial
 environment: 
-hp: 420
-ac: 19
-initiative: 7
-alignment: chaotic evil
+hp: 153
+ac: 18
+initiative: 1
+alignment: chaotic good
 legendary: legendary
 lair: lair
 unique: 
-cr: 26
-tags: 
-source: "Asian Monsters: 44"
+cr: 10
+tags: Chinese
+source: "Tome of Beasts: 253"
 url: ""
 ---

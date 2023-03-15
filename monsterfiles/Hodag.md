@@ -3,9 +3,9 @@ name: Hodag
 size: Large
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 52
+ac: 13
+initiative: 1
 alignment: 
 legendary: 
 lair: 

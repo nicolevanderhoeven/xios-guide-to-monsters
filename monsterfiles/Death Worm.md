@@ -1,17 +1,17 @@
 ---
-name: Death worm
-size: S
+name: Death Worm
+size: Large
 type: Monstrosity
 environment: badlands, desert, mountains
-hp: 44
-ac: 13
-initiative: 2
+hp: 59
+ac: 15
+initiative: 1
 alignment: unaligned
 legendary: 
 lair: 
 unique: 
-cr: 1
+cr: 3
 tags: 
-source: "Tome of Beasts 3: 106"
+source: "Fifth Edition Foes: 78"
 url: ""
 ---

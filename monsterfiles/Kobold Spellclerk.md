@@ -3,9 +3,9 @@ name: Kobold Spellclerk
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 21
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

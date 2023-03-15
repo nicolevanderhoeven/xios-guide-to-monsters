@@ -3,9 +3,9 @@ name: Ghost Dwarf
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 81
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

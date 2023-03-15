@@ -3,9 +3,9 @@ name: quickserpent
 size: Large
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 102
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

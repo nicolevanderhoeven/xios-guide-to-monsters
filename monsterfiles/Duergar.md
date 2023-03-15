@@ -2,15 +2,16 @@
 name: Duergar
 size: Medium
 type: Humanoid
-environment: dungeon, underground
+environment: 
 hp: 26
 ac: 16
 initiative: 0
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Monster Manual: 122, Princes of the Apocalypse Online Supplement v1.0: 16"
+source: "5e SRD"
+url: "https://open5e.com/monsters/duergar"
 ---

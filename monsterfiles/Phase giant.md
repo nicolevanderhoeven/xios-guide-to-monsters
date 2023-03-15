@@ -3,9 +3,9 @@ name: Phase giant
 size: Huge
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 136
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

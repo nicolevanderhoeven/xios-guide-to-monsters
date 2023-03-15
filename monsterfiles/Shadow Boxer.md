@@ -3,9 +3,9 @@ name: Shadow Boxer
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 55
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

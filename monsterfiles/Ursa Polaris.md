@@ -3,9 +3,9 @@ name: Ursa Polaris
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 133
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

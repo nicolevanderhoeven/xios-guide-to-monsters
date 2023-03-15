@@ -3,9 +3,9 @@ name: Graveyard Dragon
 size: Large
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 16
+initiative: 0
 alignment: 
 legendary: 
 lair: 

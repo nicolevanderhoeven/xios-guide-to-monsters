@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 8
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3ovbhb/day_60_ice_golem/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3ovbhb/day_60_ice_golem/"
 ---

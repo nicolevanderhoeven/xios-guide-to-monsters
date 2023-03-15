@@ -3,9 +3,9 @@ name: sporous crab
 size: Small
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 33
+ac: 14
+initiative: -1
 alignment: 
 legendary: 
 lair: 

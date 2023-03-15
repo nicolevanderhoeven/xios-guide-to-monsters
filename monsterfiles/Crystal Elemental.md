@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 3
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3ssksc/day_90_crystal_elemental/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3ssksc/day_90_crystal_elemental/"
 ---

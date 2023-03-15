@@ -3,9 +3,9 @@ name: Suppurating Ooze
 size: Medium
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 30
+ac: 8
+initiative: -2
 alignment: 
 legendary: 
 lair: 

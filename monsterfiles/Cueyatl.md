@@ -3,9 +3,9 @@ name: Cueyatl
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 21
+ac: 11
+initiative: 1
 alignment: 
 legendary: 
 lair: 

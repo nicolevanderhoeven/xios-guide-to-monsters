@@ -3,9 +3,9 @@ name: Ghoulsteed
 size: Large
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 85
+ac: 13
+initiative: 0
 alignment: 
 legendary: 
 lair: 

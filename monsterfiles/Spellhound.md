@@ -3,9 +3,9 @@ name: Spellhound
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 102
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

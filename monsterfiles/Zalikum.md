@@ -3,9 +3,9 @@ name: Zalikum
 size: Huge
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 103
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

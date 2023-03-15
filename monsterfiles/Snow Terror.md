@@ -3,9 +3,9 @@ name: Snow Terror
 size: Large
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 16
+initiative: 6
 alignment: 
 legendary: 
 lair: 

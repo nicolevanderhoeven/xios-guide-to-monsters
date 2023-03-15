@@ -2,15 +2,16 @@
 name: Young Copper Dragon
 size: Large
 type: Dragon
-environment: cave, desert, grassland
+environment: 
 hp: 119
 ac: 17
 initiative: 1
-alignment: chaotic good
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 7
 tags: 
-source: "Monster Manual: 112"
+source: "5e SRD"
+url: "https://open5e.com/monsters/young-copper-dragon"
 ---

@@ -3,9 +3,9 @@ name: Zeitgeist
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 82
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

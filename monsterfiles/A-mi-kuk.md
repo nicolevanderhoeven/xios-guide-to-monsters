@@ -3,9 +3,9 @@ name: A-mi-kuk
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 115
+ac: 14
+initiative: -1
 alignment: 
 legendary: 
 lair: 

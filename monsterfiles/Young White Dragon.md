@@ -2,15 +2,16 @@
 name: Young White Dragon
 size: Large
 type: Dragon
-environment: arctic, cave, underground
+environment: 
 hp: 133
 ac: 17
 initiative: 0
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 6
 tags: 
-source: "Monster Manual: 101"
+source: "5e SRD"
+url: "https://open5e.com/monsters/young-white-dragon"
 ---

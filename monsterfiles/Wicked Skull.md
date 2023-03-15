@@ -3,9 +3,9 @@ name: Wicked Skull
 size: Tiny
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 7
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

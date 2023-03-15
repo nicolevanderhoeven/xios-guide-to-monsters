@@ -3,9 +3,9 @@ name: Gulon
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 110
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

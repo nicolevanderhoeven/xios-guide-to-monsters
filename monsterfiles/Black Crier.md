@@ -3,9 +3,9 @@ name: Black Crier
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 150
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

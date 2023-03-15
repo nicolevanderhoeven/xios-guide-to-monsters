@@ -3,9 +3,9 @@ name: Tusked Crimson Ogre
 size: Large
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 93
+ac: 14
+initiative: -1
 alignment: 
 legendary: 
 lair: 

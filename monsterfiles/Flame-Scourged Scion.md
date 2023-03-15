@@ -3,9 +3,9 @@ name: Flame-Scourged Scion
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 125
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

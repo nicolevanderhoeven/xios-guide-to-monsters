@@ -3,9 +3,9 @@ name: Incarnate Gloom
 size: Gargantuan
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 184
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Rotsam
 size: Tiny
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

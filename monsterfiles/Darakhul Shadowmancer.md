@@ -3,9 +3,9 @@ name: Darakhul Shadowmancer
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 52
+ac: 12
+initiative: 3
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Conjoined Queen
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 168
+ac: 18
+initiative: 3
 alignment: 
 legendary: 
 lair: 

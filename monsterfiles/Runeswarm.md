@@ -3,9 +3,9 @@ name: Runeswarm
 size: Large swarm
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 150
+ac: 15
+initiative: 5
 alignment: 
 legendary: 
 lair: 

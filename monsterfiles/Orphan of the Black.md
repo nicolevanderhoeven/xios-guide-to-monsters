@@ -3,9 +3,9 @@ name: Orphan of the Black
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 49
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

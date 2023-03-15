@@ -3,9 +3,9 @@ name: Bar Brawl
 size: Huge Swarm
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 67
+ac: 12
+initiative: 1
 alignment: 
 legendary: 
 lair: 

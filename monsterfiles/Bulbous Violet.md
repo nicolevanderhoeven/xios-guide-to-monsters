@@ -3,9 +3,9 @@ name: Bulbous Violet
 size: Medium
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 38
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

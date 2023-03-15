@@ -3,9 +3,9 @@ name: Kezai
 size: Medium
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 67
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

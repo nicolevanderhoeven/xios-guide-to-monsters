@@ -3,9 +3,9 @@ name: Wanyudo
 size: Large
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 115
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

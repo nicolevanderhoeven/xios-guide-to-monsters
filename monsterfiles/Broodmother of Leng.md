@@ -3,9 +3,9 @@ name: Broodmother of Leng
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 161
+ac: 17
+initiative: 2
 alignment: 
 legendary: 
 lair: 

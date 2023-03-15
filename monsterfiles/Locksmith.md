@@ -3,9 +3,9 @@ name: Locksmith
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 102
+ac: 18
+initiative: 4
 alignment: 
 legendary: 
 lair: 

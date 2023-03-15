@@ -3,9 +3,9 @@ name: Angel - Chained
 size: Medium
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 88
+ac: 16
+initiative: 3
 alignment: 
 legendary: 
 lair: 

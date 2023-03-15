@@ -3,9 +3,9 @@ name: Dracotaur
 size: Large
 type: Dragon
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 110
+ac: 17
+initiative: 4
 alignment: 
 legendary: 
 lair: 

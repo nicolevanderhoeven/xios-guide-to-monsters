@@ -3,9 +3,9 @@ name: Jiangshi
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 117
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

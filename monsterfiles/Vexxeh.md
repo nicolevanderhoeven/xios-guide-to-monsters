@@ -3,9 +3,9 @@ name: Vexxeh
 size: Huge
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 94
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

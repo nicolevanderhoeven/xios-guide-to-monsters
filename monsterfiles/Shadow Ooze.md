@@ -3,9 +3,9 @@ name: Shadow Ooze
 size: Medium
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 76
+ac: 8
+initiative: -2
 alignment: 
 legendary: 
 lair: 

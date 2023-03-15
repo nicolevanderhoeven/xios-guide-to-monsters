@@ -3,9 +3,9 @@ name: Hverhuldra
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 120
+ac: 15
+initiative: 3
 alignment: 
 legendary: 
 lair: 

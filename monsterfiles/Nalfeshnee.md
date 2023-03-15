@@ -13,5 +13,5 @@ unique:
 cr: 13
 tags: 
 source: "Monstrous Menagerie"
-url: "https://a5e.tools/node/1506"
+url: ""
 ---

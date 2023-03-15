@@ -3,9 +3,9 @@ name: Xenabsorber
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 65
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

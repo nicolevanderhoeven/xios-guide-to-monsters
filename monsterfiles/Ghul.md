@@ -3,9 +3,9 @@ name: Ghul
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 105
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

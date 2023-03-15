@@ -7,7 +7,7 @@ hp: 231
 ac: 15
 initiative: -1
 alignment: unaligned
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 13

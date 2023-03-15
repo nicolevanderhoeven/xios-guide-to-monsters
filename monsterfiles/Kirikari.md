@@ -3,9 +3,9 @@ name: Kirikari
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 142
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

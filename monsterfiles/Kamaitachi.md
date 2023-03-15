@@ -3,9 +3,9 @@ name: Kamaitachi
 size: Small
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 84
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Flayed Wraith
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 67
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

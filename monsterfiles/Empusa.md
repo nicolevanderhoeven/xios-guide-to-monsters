@@ -3,9 +3,9 @@ name: Empusa
 size: Medium
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 102
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

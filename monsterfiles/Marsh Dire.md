@@ -3,9 +3,9 @@ name: Marsh Dire
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 142
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

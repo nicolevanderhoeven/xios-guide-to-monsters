@@ -3,9 +3,9 @@ name: Ziphius
 size: Gargantuan
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 135
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

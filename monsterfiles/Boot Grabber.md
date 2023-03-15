@@ -3,9 +3,9 @@ name: Boot Grabber
 size: Small
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 11
+initiative: 1
 alignment: 
 legendary: 
 lair: 

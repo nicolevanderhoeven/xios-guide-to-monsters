@@ -3,9 +3,9 @@ name: Blood Elemental
 size: Large
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 95
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

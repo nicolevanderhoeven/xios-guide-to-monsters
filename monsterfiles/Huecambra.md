@@ -3,9 +3,9 @@ name: Huecambra
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 136
+ac: 17
+initiative: 1
 alignment: 
 legendary: 
 lair: 

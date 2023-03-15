@@ -3,9 +3,9 @@ name: Yann-An-Oed
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 47
+ac: 12
+initiative: 0
 alignment: 
 legendary: 
 lair: 

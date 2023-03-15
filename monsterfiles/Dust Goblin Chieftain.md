@@ -3,9 +3,9 @@ name: Dust Goblin Chieftain
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 44
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

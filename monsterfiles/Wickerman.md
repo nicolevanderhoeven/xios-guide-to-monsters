@@ -3,9 +3,9 @@ name: Wickerman
 size: Huge
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 138
+ac: 8
+initiative: -1
 alignment: 
 legendary: 
 lair: 

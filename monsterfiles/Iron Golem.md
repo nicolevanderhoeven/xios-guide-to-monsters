@@ -2,15 +2,16 @@
 name: Iron Golem
 size: Large
 type: Construct
-environment: dungeon, ruins, urban
+environment: 
 hp: 210
 ac: 20
-initiative: -1
-alignment: unaligned
+initiative: 0
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 16
 tags: 
-source: "Monster Manual: 170"
+source: "5e SRD"
+url: "https://open5e.com/monsters/iron-golem"
 ---

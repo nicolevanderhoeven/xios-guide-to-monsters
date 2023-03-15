@@ -7,11 +7,11 @@ hp: 85
 ac: 14
 initiative: 4
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 5
 tags: 
 source: "Monstrous Menagerie"
-url: "https://a5e.tools/node/1811"
+url: ""
 ---

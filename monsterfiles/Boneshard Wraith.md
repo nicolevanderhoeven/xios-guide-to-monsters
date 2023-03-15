@@ -3,9 +3,9 @@ name: Boneshard Wraith
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Thuellai
 size: Huge
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 149
+ac: 17
+initiative: 7
 alignment: 
 legendary: 
 lair: 

@@ -2,15 +2,16 @@
 name: Will-o'-Wisp
 size: Tiny
 type: Undead
-environment: swamp
+environment: 
 hp: 22
 ac: 19
 initiative: 9
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "HotDQ supplement: 22, Monster Manual: 301, Princes of the Apocalypse Online Supplement v1.0: 37"
+source: "5e SRD"
+url: "https://open5e.com/monsters/will-o-wisp"
 ---

@@ -2,15 +2,16 @@
 name: Wight
 size: Medium
 type: Undead
-environment: arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban
+environment: 
 hp: 45
 ac: 14
 initiative: 2
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Basic Rules v1: 50, Monster Manual: 300"
+source: "5e SRD"
+url: "https://open5e.com/monsters/wight"
 ---

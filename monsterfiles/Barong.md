@@ -3,11 +3,11 @@ name: Barong
 size: Large
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 225
+ac: 20
+initiative: 5
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 17

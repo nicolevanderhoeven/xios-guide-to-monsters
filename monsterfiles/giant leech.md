@@ -3,9 +3,9 @@ name: giant leech
 size: Small
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 7
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

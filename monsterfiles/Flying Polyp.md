@@ -3,9 +3,9 @@ name: Flying Polyp
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 171
+ac: 17
+initiative: 1
 alignment: 
 legendary: 
 lair: 

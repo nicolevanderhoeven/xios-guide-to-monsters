@@ -3,9 +3,9 @@ name: Dvarapala
 size: Huge
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 136
+ac: 14
+initiative: -1
 alignment: 
 legendary: 
 lair: 

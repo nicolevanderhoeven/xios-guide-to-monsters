@@ -3,9 +3,9 @@ name: Living Star
 size: Huge
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 207
+ac: 19
+initiative: 6
 alignment: 
 legendary: 
 lair: 

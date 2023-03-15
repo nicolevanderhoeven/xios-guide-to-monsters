@@ -3,9 +3,9 @@ name: Fulminar
 size: Large
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 112
+ac: 15
+initiative: 5
 alignment: 
 legendary: 
 lair: 

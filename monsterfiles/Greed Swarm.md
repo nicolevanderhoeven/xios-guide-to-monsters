@@ -3,9 +3,9 @@ name: Greed Swarm
 size: Medium swarm
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

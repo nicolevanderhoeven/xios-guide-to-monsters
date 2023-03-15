@@ -3,9 +3,9 @@ name: Moonkite
 size: Large
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 93
+ac: 15
+initiative: 4
 alignment: 
 legendary: 
 lair: 

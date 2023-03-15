@@ -3,9 +3,9 @@ name: Avalanche Screamer
 size: Large
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 133
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

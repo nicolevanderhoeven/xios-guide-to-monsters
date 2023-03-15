@@ -3,9 +3,9 @@ name: Righteous Sentinel
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 104
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Rageipede
 size: Small
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 55
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

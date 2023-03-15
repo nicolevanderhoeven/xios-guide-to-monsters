@@ -3,9 +3,9 @@ name: Manggus
 size: Large
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

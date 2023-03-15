@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3rin2p/day_80_hawkfox/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3rin2p/day_80_hawkfox/"
 ---

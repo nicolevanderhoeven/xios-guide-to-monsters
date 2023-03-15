@@ -2,15 +2,16 @@
 name: Wolf
 size: Medium
 type: Beast
-environment: arctic, cave, forest, grassland
+environment: 
 hp: 11
 ac: 13
 initiative: 2
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Basic Rules v1: 50, Monster Manual: 341, Player's Handbook: 311"
+source: "5e SRD"
+url: "https://open5e.com/monsters/wolf"
 ---

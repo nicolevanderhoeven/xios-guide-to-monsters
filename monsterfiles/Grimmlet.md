@@ -3,9 +3,9 @@ name: Grimmlet
 size: Tiny
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 28
+ac: 11
+initiative: 1
 alignment: 
 legendary: 
 lair: 

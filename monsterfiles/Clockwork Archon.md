@@ -3,9 +3,9 @@ name: Clockwork Archon
 size: Gargantuan
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 201
+ac: 18
+initiative: 0
 alignment: 
 legendary: 
 lair: 

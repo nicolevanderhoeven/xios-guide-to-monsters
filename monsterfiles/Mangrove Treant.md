@@ -3,9 +3,9 @@ name: Mangrove Treant
 size: Huge
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 136
+ac: 15
+initiative: -2
 alignment: 
 legendary: 
 lair: 

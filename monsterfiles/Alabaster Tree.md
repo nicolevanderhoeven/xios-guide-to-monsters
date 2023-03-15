@@ -3,9 +3,9 @@ name: Alabaster Tree
 size: Huge
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 105
+ac: 18
+initiative: 0
 alignment: 
 legendary: 
 lair: 

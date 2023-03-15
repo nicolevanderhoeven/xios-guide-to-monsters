@@ -3,9 +3,9 @@ name: Yavalnoi
 size: Large
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 126
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

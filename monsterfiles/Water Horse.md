@@ -3,9 +3,9 @@ name: Water Horse
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 77
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

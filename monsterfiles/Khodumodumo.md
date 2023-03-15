@@ -3,9 +3,9 @@ name: Khodumodumo
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 186
+ac: 18
+initiative: 5
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Spawn of Chernobog
 size: Large
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 95
+ac: 14
+initiative: 1
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Goliath Longlegs
 size: Gargantuan
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 162
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

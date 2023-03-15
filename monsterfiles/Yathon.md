@@ -3,9 +3,9 @@ name: Yathon
 size: Large
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 152
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

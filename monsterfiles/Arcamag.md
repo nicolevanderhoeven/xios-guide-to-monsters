@@ -3,9 +3,9 @@ name: Arcamag
 size: Tiny
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 13
+initiative: 0
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Animated Bearskin Rug
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 65
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

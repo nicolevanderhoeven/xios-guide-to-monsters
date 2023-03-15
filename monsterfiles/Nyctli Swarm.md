@@ -3,9 +3,9 @@ name: Nyctli Swarm
 size: Large Swarm
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 110
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

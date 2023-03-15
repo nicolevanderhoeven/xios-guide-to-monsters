@@ -1,6 +1,6 @@
 ---
 name: Abaasy
-size: H
+size: Huge
 type: Giant
 environment: badlands
 hp: 126

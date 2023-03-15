@@ -3,9 +3,9 @@ name: Fabricator
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 147
+ac: 13
+initiative: -2
 alignment: 
 legendary: 
 lair: 

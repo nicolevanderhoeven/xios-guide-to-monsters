@@ -3,9 +3,9 @@ name: Forest Emperor
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 161
+ac: 18
+initiative: 1
 alignment: 
 legendary: 
 lair: 

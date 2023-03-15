@@ -2,16 +2,16 @@
 name: Death Dog
 size: Medium
 type: Monstrosity
-environment: Abyss, Desert, Grassland, Hell, Shadowfell
-hp: 32
-ac: 12
+environment: desert
+hp: 26
+ac: 13
 initiative: 2
-alignment: 
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
-cr: 1
+cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
-url: "https://a5e.tools/node/1925"
+source: "Fifth Edition Foes: 77"
+url: ""
 ---

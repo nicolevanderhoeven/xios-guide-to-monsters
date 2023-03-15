@@ -3,9 +3,9 @@ name: Morko
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 17
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

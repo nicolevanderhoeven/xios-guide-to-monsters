@@ -3,9 +3,9 @@ name: Spirit Lamp
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 82
+ac: 17
+initiative: 4
 alignment: 
 legendary: 
 lair: 

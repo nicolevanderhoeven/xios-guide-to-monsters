@@ -3,9 +3,9 @@ name: Shriekbat
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 178
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

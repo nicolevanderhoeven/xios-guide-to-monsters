@@ -3,9 +3,9 @@ name: Ammut
 size: Large
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 172
+ac: 17
+initiative: 1
 alignment: 
 legendary: 
 lair: 

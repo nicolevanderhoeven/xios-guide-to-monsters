@@ -3,9 +3,9 @@ name: Gargoctopus
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 104
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

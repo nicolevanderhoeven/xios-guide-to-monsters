@@ -3,9 +3,9 @@ name: Walled Horror
 size: Large
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 114
+ac: 17
+initiative: -4
 alignment: 
 legendary: 
 lair: 

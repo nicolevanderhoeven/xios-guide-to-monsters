@@ -5,12 +5,13 @@ type: Fiend
 environment: 
 hp: 378
 ac: 20
-initiative: 1
-alignment: lawful evil
-legendary: legendary
-lair: lair
-unique: unique
+initiative: 2
+alignment: 
+legendary: Legendary
+lair: 
+unique: 
 cr: 25
 tags: 
-source: "Tome of Beasts: 99"
+source: "Tome of Beasts: 289"
+url: "https://open5e.com/monsters/mammon"
 ---

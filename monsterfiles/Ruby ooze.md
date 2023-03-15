@@ -3,9 +3,9 @@ name: Ruby ooze
 size: Medium
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 93
+ac: 9
+initiative: -1
 alignment: 
 legendary: 
 lair: 

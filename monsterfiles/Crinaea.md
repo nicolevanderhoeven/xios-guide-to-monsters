@@ -3,9 +3,9 @@ name: Crinaea
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 44
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

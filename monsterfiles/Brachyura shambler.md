@@ -3,9 +3,9 @@ name: Brachyura shambler
 size: Medium
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 71
+ac: 14
+initiative: 1
 alignment: 
 legendary: 
 lair: 

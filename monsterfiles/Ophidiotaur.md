@@ -3,9 +3,9 @@ name: Ophidiotaur
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 95
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

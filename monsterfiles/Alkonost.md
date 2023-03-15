@@ -3,9 +3,9 @@ name: Alkonost
 size: Small
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 17
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

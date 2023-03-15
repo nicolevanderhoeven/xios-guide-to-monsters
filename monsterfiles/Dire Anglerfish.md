@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3t1u2d/day_92_dire_anglerfish/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3t1u2d/day_92_dire_anglerfish/"
 ---

@@ -3,9 +3,9 @@ name: Chimeric Phantom
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 36
+ac: 11
+initiative: 2
 alignment: 
 legendary: 
 lair: 

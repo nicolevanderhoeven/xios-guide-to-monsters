@@ -3,9 +3,9 @@ name: Astri
 size: Small
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 112
+ac: 15
+initiative: 6
 alignment: 
 legendary: 
 lair: 

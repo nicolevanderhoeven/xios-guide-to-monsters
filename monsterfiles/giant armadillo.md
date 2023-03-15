@@ -3,9 +3,9 @@ name: giant armadillo
 size: Small
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 10
+ac: 12
+initiative: -1
 alignment: 
 legendary: 
 lair: 

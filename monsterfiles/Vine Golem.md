@@ -3,9 +3,9 @@ name: Vine Golem
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 67
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

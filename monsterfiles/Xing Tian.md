@@ -3,9 +3,9 @@ name: Xing Tian
 size: Huge
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 168
+ac: 16
+initiative: 1
 alignment: 
 legendary: 
 lair: 

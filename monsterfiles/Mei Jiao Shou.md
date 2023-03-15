@@ -3,9 +3,9 @@ name: Mei Jiao Shou
 size: Gargantuan
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 139
+ac: 14
+initiative: -2
 alignment: 
 legendary: 
 lair: 

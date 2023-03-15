@@ -3,9 +3,9 @@ name: Iron Sphere
 size: Small
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 60
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

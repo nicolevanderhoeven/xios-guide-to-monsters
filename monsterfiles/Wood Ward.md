@@ -3,9 +3,9 @@ name: Wood Ward
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 19
+ac: 13
+initiative: 1
 alignment: 
 legendary: 
 lair: 

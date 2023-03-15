@@ -3,9 +3,9 @@ name: Zouyu
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 114
+ac: 17
+initiative: 7
 alignment: 
 legendary: 
 lair: 

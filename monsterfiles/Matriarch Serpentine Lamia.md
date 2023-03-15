@@ -3,9 +3,9 @@ name: Matriarch Serpentine Lamia
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 90
+ac: 15
+initiative: 4
 alignment: 
 legendary: 
 lair: 

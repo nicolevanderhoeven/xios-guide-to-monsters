@@ -3,9 +3,9 @@ name: Fey Revenant
 size: Large
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 161
+ac: 19
+initiative: 4
 alignment: 
 legendary: 
 lair: 

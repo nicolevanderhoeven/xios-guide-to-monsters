@@ -3,9 +3,9 @@ name: Mytholabe
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 152
+ac: 18
+initiative: 2
 alignment: 
 legendary: 
 lair: 

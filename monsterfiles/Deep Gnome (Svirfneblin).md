@@ -2,15 +2,16 @@
 name: Deep Gnome (Svirfneblin)
 size: Small
 type: Humanoid
-environment: cave, dungeon, planar, underground
+environment: 
 hp: 16
 ac: 15
 initiative: 2
-alignment: neutral good
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monster Manual: 164, Princes of the Apocalypse Online Supplement v1.0: 13"
+source: "5e SRD"
+url: "https://open5e.com/monsters/deep-gnome-svirfneblin"
 ---

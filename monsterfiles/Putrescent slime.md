@@ -3,9 +3,9 @@ name: Putrescent slime
 size: Medium
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 8
+initiative: -1
 alignment: 
 legendary: 
 lair: 

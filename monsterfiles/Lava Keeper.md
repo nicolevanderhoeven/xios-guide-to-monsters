@@ -3,9 +3,9 @@ name: Lava Keeper
 size: Huge
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 276
+ac: 18
+initiative: 0
 alignment: 
 legendary: 
 lair: 

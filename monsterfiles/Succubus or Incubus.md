@@ -2,15 +2,16 @@
 name: Succubus or Incubus
 size: Medium
 type: Fiend
-environment: dungeon, planar, urban
+environment: 
 hp: 66
 ac: 15
-initiative: 3
-alignment: neutral evil
+initiative: 4
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monster Manual: 285"
+source: "5e SRD"
+url: "https://open5e.com/monsters/succubusincubus"
 ---

@@ -3,9 +3,9 @@ name: Nalusa Falaya
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 33
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

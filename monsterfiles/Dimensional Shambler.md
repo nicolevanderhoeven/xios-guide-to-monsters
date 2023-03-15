@@ -3,9 +3,9 @@ name: Dimensional Shambler
 size: Large
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 102
+ac: 16
+initiative: 6
 alignment: 
 legendary: 
 lair: 

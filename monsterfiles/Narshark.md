@@ -3,9 +3,9 @@ name: Narshark
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 25
+ac: 14
+initiative: 1
 alignment: 
 legendary: 
 lair: 

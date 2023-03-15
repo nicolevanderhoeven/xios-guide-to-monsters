@@ -3,9 +3,9 @@ name: Death Vulture
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 76
+ac: 12
+initiative: 0
 alignment: 
 legendary: 
 lair: 

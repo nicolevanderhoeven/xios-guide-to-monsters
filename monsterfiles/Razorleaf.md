@@ -3,9 +3,9 @@ name: Razorleaf
 size: Medium
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 112
+ac: 14
+initiative: 1
 alignment: 
 legendary: 
 lair: 

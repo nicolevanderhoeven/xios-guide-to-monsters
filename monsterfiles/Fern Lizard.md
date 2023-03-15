@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 0.5
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3jr66s/day_20_fern_lizard/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3jr66s/day_20_fern_lizard/"
 ---

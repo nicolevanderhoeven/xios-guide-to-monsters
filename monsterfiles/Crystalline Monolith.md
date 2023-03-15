@@ -3,11 +3,11 @@ name: Crystalline Monolith
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 123
+ac: 15
+initiative: 0
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 7

@@ -3,9 +3,9 @@ name: Mandriano
 size: Large
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 60
+ac: 13
+initiative: -2
 alignment: 
 legendary: 
 lair: 

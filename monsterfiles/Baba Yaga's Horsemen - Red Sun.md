@@ -6,12 +6,12 @@ environment:
 hp: 171
 ac: 20
 initiative: 0
-alignment: lawful neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 11
 tags: 
 source: "Tome of Beasts: 29"
-url: ""
+url: "https://open5e.com/monsters/baba-yagas-horsemen-red-sun"
 ---

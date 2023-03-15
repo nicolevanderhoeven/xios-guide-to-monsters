@@ -3,9 +3,9 @@ name: Apaxrusl
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 60
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

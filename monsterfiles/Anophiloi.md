@@ -3,9 +3,9 @@ name: Anophiloi
 size: Small
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 33
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Wintergrim
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 26
+ac: 13
+initiative: 1
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Haleshi
 size: Large
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 123
+ac: 17
+initiative: 3
 alignment: 
 legendary: 
 lair: 

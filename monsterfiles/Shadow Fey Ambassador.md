@@ -3,9 +3,9 @@ name: Shadow Fey Ambassador
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 161
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

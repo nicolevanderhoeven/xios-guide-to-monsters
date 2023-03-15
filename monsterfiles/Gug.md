@@ -7,7 +7,7 @@ hp: 270
 ac: 17
 initiative: 0
 alignment: neutral evil
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 12

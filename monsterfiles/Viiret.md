@@ -3,9 +3,9 @@ name: Viiret
 size: Large
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 85
+ac: 13
+initiative: -2
 alignment: 
 legendary: 
 lair: 

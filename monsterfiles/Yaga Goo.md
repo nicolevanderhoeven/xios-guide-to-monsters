@@ -3,9 +3,9 @@ name: Yaga Goo
 size: Small
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 85
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

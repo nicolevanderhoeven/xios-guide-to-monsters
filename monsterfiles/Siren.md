@@ -1,17 +1,17 @@
 ---
 name: Siren
 size: Medium
-type: Monstrosity
+type: Fey
 environment: Desert, Forest, Grassland, Hills, Jungle, Mountains, Swamp, Tundra
 hp: 38
-ac: 11
-initiative: 1
-alignment: 
+ac: 14
+initiative: 4
+alignment: chaotic good
 legendary: 
 lair: 
 unique: 
-cr: 1
+cr: 3
 tags: 
-source: "Monstrous Menagerie"
-url: "https://a5e.tools/node/1686"
+source: "Tales from the Yawning Portal: 243"
+url: ""
 ---

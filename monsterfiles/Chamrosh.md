@@ -3,9 +3,9 @@ name: Chamrosh
 size: Medium
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 39
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

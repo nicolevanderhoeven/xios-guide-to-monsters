@@ -3,9 +3,9 @@ name: Vines of Nemthyr
 size: Large
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 133
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

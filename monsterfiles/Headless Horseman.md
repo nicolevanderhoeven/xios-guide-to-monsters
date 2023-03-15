@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 8
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3qq341/day_74_headless_horseman/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3qq341/day_74_headless_horseman/"
 ---

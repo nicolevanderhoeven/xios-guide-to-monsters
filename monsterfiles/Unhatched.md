@@ -3,9 +3,9 @@ name: Unhatched
 size: Small
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 71
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Clockwork Servant
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 11
+initiative: 1
 alignment: 
 legendary: 
 lair: 

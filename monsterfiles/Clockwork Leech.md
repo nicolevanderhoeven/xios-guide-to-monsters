@@ -3,9 +3,9 @@ name: Clockwork Leech
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 13
+initiative: 1
 alignment: 
 legendary: 
 lair: 

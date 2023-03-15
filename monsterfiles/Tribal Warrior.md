@@ -2,15 +2,16 @@
 name: Tribal Warrior
 size: Medium
 type: Humanoid
-environment: arctic, cave, desert, forest, grassland, mountain, swamp
+environment: 
 hp: 11
 ac: 12
 initiative: 0
-alignment: any
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Monster Manual: 350, Princes of the Apocalypse Online Supplement v1.0: 34"
+source: "5e SRD"
+url: "https://open5e.com/monsters/tribal-warrior"
 ---

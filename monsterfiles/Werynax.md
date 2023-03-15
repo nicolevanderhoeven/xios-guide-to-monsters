@@ -3,9 +3,9 @@ name: Werynax
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 114
+ac: 15
+initiative: 3
 alignment: 
 legendary: 
 lair: 

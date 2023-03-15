@@ -3,9 +3,9 @@ name: Arborcyte
 size: Large
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 16
+initiative: 1
 alignment: 
 legendary: 
 lair: 

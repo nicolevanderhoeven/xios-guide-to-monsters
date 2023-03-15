@@ -3,9 +3,9 @@ name: Ramag Portal Master
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 71
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

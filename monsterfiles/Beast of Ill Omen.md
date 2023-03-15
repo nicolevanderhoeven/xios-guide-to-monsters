@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3tplf0/day_97_beast_of_ill_omen/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3tplf0/day_97_beast_of_ill_omen/"
 ---

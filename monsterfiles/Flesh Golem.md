@@ -2,15 +2,16 @@
 name: Flesh Golem
 size: Medium
 type: Construct
-environment: dungeon, ruins
+environment: 
 hp: 93
 ac: 9
-initiative: -1
-alignment: unaligned
+initiative: 0
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Basic Rules v1: 20, Monster Manual: 169"
+source: "5e SRD"
+url: "https://open5e.com/monsters/flesh-golem"
 ---

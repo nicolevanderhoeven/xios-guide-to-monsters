@@ -3,9 +3,9 @@ name: Bilwis
 size: Medium
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 49
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

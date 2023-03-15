@@ -2,15 +2,16 @@
 name: Wraith
 size: Medium
 type: Undead
-environment: dungeon, ruins, swamp, urban
+environment: 
 hp: 67
 ac: 13
 initiative: 3
-alignment: neutral evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Monster Manual: 302"
+source: "5e SRD"
+url: "https://open5e.com/monsters/wraith"
 ---

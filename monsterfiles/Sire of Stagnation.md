@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 17
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3n4hkn/day_46_sire_of_stagnation/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3n4hknday_46_sire_of_stagnation/"
 ---

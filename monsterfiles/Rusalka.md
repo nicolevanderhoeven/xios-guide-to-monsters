@@ -1,17 +1,17 @@
 ---
 name: Rusalka
 size: Medium
-type: Undead
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+type: Fey
+environment: aquatic
+hp: 97
+ac: 17
+initiative: 4
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 4
 tags: 
-source: "Tome of Beasts: 331"
+source: "Monster-A-Day"
 url: ""
 ---

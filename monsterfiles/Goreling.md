@@ -3,9 +3,9 @@ name: Goreling
 size: Small
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 11
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

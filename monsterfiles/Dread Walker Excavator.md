@@ -3,9 +3,9 @@ name: Dread Walker Excavator
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 75
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

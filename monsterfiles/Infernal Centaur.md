@@ -3,9 +3,9 @@ name: Infernal Centaur
 size: Medium
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 60
+ac: 15
+initiative: 1
 alignment: 
 legendary: 
 lair: 

@@ -2,15 +2,16 @@
 name: Androsphinx
 size: Large
 type: Monstrosity
-environment: dungeon, ruins
+environment: 
 hp: 199
 ac: 17
 initiative: 0
-alignment: lawful neutral
-legendary: legendary
-lair: lair
+alignment: 
+legendary: Legendary
+lair: 
 unique: 
 cr: 17
 tags: 
-source: "Monster Manual: 281"
+source: "5e SRD"
+url: "https://open5e.com/monsters/androsphinx"
 ---

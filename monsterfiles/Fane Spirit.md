@@ -3,9 +3,9 @@ name: Fane Spirit
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 52
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

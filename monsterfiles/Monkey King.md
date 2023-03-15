@@ -3,11 +3,11 @@ name: Monkey King
 size: Medium
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 262
+ac: 21
+initiative: 7
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 21

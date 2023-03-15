@@ -3,9 +3,9 @@ name: Fleshpod Hornet
 size: Large
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 120
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

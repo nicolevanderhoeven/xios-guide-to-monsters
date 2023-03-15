@@ -3,9 +3,9 @@ name: Giant Mongoose
 size: Medium
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 13
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

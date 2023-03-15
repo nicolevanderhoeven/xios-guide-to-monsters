@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 3
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3hhz8l/day_2_rat_hermit/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3hhz8l/day_2_rat_hermit/"
 ---

@@ -3,11 +3,11 @@ name: Derendian Moth Abomination
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 210
+ac: 14
+initiative: 5
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 12

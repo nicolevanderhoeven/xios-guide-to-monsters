@@ -3,9 +3,9 @@ name: Keelbreaker crab
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 157
+ac: 16
+initiative: 0
 alignment: 
 legendary: 
 lair: 

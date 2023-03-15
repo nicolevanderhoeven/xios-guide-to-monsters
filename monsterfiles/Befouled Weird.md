@@ -3,9 +3,9 @@ name: Befouled Weird
 size: Medium
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 75
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

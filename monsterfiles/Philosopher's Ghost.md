@@ -3,9 +3,9 @@ name: Philosopher's Ghost
 size: Medium
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 77
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

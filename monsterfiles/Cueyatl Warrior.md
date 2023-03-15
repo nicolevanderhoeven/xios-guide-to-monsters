@@ -3,9 +3,9 @@ name: Cueyatl Warrior
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 36
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

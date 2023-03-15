@@ -3,9 +3,9 @@ name: alligator
 size: Medium
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 11
+ac: 13
+initiative: 0
 alignment: 
 legendary: 
 lair: 

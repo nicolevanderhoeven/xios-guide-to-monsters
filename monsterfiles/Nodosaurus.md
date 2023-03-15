@@ -3,9 +3,9 @@ name: Nodosaurus
 size: Large
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 13
+initiative: 0
 alignment: 
 legendary: 
 lair: 

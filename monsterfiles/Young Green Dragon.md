@@ -2,15 +2,16 @@
 name: Young Green Dragon
 size: Large
 type: Dragon
-environment: forest
+environment: 
 hp: 136
 ac: 18
 initiative: 1
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 8
 tags: 
-source: "Basic Rules v1: 52, Monster Manual: 94"
+source: "5e SRD"
+url: "https://open5e.com/monsters/young-green-dragon"
 ---

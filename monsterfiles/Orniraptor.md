@@ -3,9 +3,9 @@ name: Orniraptor
 size: Small
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 16
+ac: 11
+initiative: 2
 alignment: 
 legendary: 
 lair: 

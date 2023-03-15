@@ -2,15 +2,16 @@
 name: Stone Golem
 size: Large
 type: Construct
-environment: dungeon, ruins, urban
+environment: 
 hp: 178
 ac: 17
-initiative: -1
-alignment: unaligned
+initiative: 0
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 10
 tags: 
-source: "Basic Rules v1: 45, HotDQ supplement: 18, Monster Manual: 170"
+source: "5e SRD"
+url: "https://open5e.com/monsters/stone-golem"
 ---

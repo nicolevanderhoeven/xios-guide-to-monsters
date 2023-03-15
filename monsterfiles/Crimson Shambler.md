@@ -3,9 +3,9 @@ name: Crimson Shambler
 size: Medium
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 32
+ac: 12
+initiative: 0
 alignment: 
 legendary: 
 lair: 

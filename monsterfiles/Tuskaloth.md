@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 10
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3lboj2/day_32_tuskaloth/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3lboj2/day_32_tuskaloth/"
 ---

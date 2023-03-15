@@ -3,9 +3,9 @@ name: Deathspeaker
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 97
+ac: 14
+initiative: 3
 alignment: 
 legendary: 
 lair: 

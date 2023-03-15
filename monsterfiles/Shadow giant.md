@@ -3,9 +3,9 @@ name: Shadow giant
 size: Huge
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 209
+ac: 17
+initiative: 8
 alignment: 
 legendary: 
 lair: 

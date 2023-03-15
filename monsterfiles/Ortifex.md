@@ -3,9 +3,9 @@ name: Ortifex
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 78
+ac: 12
+initiative: 0
 alignment: 
 legendary: 
 lair: 

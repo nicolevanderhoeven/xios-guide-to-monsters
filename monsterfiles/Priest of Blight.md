@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 8
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3i7xyy/day_8_priest_of_blight/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3i7xyy/day_8_priest_of_blight/"
 ---

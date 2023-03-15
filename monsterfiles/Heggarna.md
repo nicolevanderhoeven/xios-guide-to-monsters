@@ -3,9 +3,9 @@ name: Heggarna
 size: Tiny
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 40
+ac: 16
+initiative: 3
 alignment: 
 legendary: 
 lair: 

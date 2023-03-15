@@ -2,15 +2,16 @@
 name: Wyvern
 size: Large
 type: Dragon
-environment: arctic, coast, grassland
+environment: 
 hp: 110
 ac: 13
 initiative: 0
-alignment: unaligned
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 6
 tags: 
-source: "Basic Rules v1: 51, HotDQ supplement: 23, Monster Manual: 303"
+source: "5e SRD"
+url: "https://open5e.com/monsters/wyvern"
 ---

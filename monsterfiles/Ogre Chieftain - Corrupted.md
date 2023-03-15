@@ -3,9 +3,9 @@ name: Ogre Chieftain - Corrupted
 size: Large
 type: Giant
 environment: badlands,hills,ruins,underground
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 17
+initiative: -1
 alignment: 
 legendary: 
 lair: 

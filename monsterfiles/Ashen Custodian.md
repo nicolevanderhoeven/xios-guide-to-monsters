@@ -3,9 +3,9 @@ name: Ashen Custodian
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 99
+ac: 15
+initiative: 6
 alignment: 
 legendary: 
 lair: 

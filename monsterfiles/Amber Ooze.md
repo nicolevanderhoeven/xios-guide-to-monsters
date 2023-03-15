@@ -3,9 +3,9 @@ name: Amber Ooze
 size: Large
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 76
+ac: 7
+initiative: -2
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Kobold War Machine
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 114
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

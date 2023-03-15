@@ -3,9 +3,9 @@ name: Pixiu
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 112
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

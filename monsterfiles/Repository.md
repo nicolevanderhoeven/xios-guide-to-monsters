@@ -3,9 +3,9 @@ name: Repository
 size: Medium
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 110
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

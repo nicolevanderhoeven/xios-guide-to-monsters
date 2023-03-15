@@ -3,9 +3,9 @@ name: Cherufe
 size: Huge
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 161
+ac: 19
+initiative: 0
 alignment: 
 legendary: 
 lair: 

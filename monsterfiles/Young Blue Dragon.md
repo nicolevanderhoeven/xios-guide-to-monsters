@@ -2,15 +2,16 @@
 name: Young Blue Dragon
 size: Large
 type: Dragon
-environment: desert
+environment: 
 hp: 152
 ac: 18
 initiative: 0
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 9
 tags: 
-source: "Monster Manual: 91"
+source: "5e SRD"
+url: "https://open5e.com/monsters/young-blue-dragon"
 ---

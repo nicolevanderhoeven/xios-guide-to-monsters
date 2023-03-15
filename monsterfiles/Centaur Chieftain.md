@@ -3,9 +3,9 @@ name: Centaur Chieftain
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 110
+ac: 16
+initiative: 1
 alignment: 
 legendary: 
 lair: 

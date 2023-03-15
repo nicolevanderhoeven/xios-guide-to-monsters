@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 9
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3mh4se/day_41_coven_horror/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3mh4se/day_41_coven_horror/"
 ---

@@ -3,9 +3,9 @@ name: Shantak
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 123
+ac: 16
+initiative: 1
 alignment: 
 legendary: 
 lair: 

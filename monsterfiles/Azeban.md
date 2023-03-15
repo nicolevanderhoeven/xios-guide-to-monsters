@@ -3,9 +3,9 @@ name: Azeban
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 78
+ac: 16
+initiative: 3
 alignment: 
 legendary: 
 lair: 

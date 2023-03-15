@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: kobold
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3kfc3r/day_25_kobold_shaman/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3kfc3r/day_25_kobold_shaman/"
 ---

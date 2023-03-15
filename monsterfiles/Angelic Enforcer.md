@@ -3,9 +3,9 @@ name: Angelic Enforcer
 size: Large
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 152
+ac: 18
+initiative: 4
 alignment: 
 legendary: 
 lair: 

@@ -1,7 +1,7 @@
 ---
 name: Kappa
 size: Small
-type: Humanoid (Kappa)
+type: Fey
 environment: coastal
 hp: 54
 ac: 13
@@ -10,8 +10,8 @@ alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 
-cr: 3
+cr: 2
 tags: 
-source: "Asian Monsters: 56"
+source: "Creature Codex: 234"
 url: ""
 ---

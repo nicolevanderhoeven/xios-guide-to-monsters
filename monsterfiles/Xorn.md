@@ -2,15 +2,16 @@
 name: Xorn
 size: Medium
 type: Elemental
-environment: dungeon, planar, underground
+environment: 
 hp: 73
 ac: 19
 initiative: 0
-alignment: neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Monster Manual: 304, Princes of the Apocalypse Online Supplement v1.0: 38"
+source: "5e SRD"
+url: "https://open5e.com/monsters/xorn"
 ---

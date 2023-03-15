@@ -3,9 +3,9 @@ name: Derro Shadowseeker
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 112
+ac: 17
+initiative: 5
 alignment: 
 legendary: 
 lair: 

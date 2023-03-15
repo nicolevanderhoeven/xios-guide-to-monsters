@@ -3,9 +3,9 @@ name: Shukankor
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 115
+ac: 17
+initiative: 1
 alignment: 
 legendary: 
 lair: 

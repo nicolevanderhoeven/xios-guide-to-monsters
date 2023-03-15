@@ -3,9 +3,9 @@ name: Alpha Fish
 size: Large
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 59
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

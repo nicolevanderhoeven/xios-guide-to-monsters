@@ -3,9 +3,9 @@ name: Ghoul Bat
 size: Small
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 14
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

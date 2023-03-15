@@ -3,9 +3,9 @@ name: Hooden Horse
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 117
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

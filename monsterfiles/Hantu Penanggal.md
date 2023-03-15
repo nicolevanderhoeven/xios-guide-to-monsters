@@ -3,9 +3,9 @@ name: Hantu Penanggal
 size: Medium
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 123
+ac: 14
+initiative: 3
 alignment: 
 legendary: 
 lair: 

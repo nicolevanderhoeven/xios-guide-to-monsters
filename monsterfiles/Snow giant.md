@@ -3,9 +3,9 @@ name: Snow giant
 size: Huge
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 138
+ac: 11
+initiative: 1
 alignment: 
 legendary: 
 lair: 

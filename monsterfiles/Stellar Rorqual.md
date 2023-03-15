@@ -3,9 +3,9 @@ name: Stellar Rorqual
 size: Gargantuan
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 165
+ac: 14
+initiative: -1
 alignment: 
 legendary: 
 lair: 

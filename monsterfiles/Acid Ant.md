@@ -3,9 +3,9 @@ name: Acid Ant
 size: Small
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 13
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

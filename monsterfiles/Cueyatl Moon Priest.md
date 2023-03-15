@@ -3,9 +3,9 @@ name: Cueyatl Moon Priest
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 81
+ac: 13
+initiative: 1
 alignment: 
 legendary: 
 lair: 

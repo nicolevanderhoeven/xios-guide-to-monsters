@@ -3,9 +3,9 @@ name: Dark Voice
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 91
+ac: 16
+initiative: 0
 alignment: 
 legendary: 
 lair: 

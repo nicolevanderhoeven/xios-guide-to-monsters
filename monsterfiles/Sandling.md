@@ -1,17 +1,17 @@
 ---
 name: Sandling
-size: Medium
-type: Construct
-environment: Grassland, Hills, Settlement, Shadowfell, Swamp
-hp: 31
-ac: 12
-initiative: 2
-alignment: 
+size: Large
+type: Elemental
+environment: planar
+hp: 26
+ac: 15
+initiative: 1
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Monstrous Menagerie"
-url: "https://a5e.tools/node/2255"
+source: "Fifth Edition Foes: 196"
+url: ""
 ---

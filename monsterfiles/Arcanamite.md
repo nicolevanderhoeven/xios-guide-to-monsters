@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 1
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3lkpfr/day_34_arcanamite/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3lkpfr/day_34_arcanamite/"
 ---

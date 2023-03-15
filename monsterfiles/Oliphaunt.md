@@ -3,9 +3,9 @@ name: Oliphaunt
 size: Gargantuan
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 148
+ac: 14
+initiative: 0
 alignment: 
 legendary: 
 lair: 

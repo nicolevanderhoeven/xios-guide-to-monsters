@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 16
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3o41vx/day_54_ginormous_squirrel/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3o41vx/day_54_ginormous_squirrel/"
 ---

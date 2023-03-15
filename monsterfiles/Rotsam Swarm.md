@@ -3,9 +3,9 @@ name: Rotsam Swarm
 size: Large swarm
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 142
+ac: 9
+initiative: -1
 alignment: 
 legendary: 
 lair: 

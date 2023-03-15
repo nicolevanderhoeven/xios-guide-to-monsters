@@ -3,9 +3,9 @@ name: Barometz
 size: Large
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 95
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

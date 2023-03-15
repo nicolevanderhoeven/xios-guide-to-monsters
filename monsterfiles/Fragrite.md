@@ -3,9 +3,9 @@ name: Fragrite
 size: Medium
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 91
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

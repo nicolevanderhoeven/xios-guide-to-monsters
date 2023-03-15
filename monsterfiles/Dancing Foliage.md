@@ -3,9 +3,9 @@ name: Dancing Foliage
 size: Medium
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 66
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

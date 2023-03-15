@@ -3,9 +3,9 @@ name: Tveirherjar
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 102
+ac: 18
+initiative: 1
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Lystrosaurus
 size: Medium
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 14
+initiative: 0
 alignment: 
 legendary: 
 lair: 

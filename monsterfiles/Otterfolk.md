@@ -3,9 +3,9 @@ name: Otterfolk
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 18
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

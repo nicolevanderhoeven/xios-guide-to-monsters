@@ -3,9 +3,9 @@ name: Gaunt One
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 75
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

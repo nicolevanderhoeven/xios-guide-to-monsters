@@ -3,9 +3,9 @@ name: Eldritch Ooze
 size: Large
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 153
+ac: 8
+initiative: -2
 alignment: 
 legendary: 
 lair: 

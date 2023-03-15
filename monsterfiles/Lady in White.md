@@ -3,9 +3,9 @@ name: Lady in White
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 49
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

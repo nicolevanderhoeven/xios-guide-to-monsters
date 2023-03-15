@@ -3,9 +3,9 @@ name: Snow cat
 size: Medium
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 13
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

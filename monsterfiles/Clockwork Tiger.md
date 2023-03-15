@@ -3,9 +3,9 @@ name: Clockwork Tiger
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 112
+ac: 16
+initiative: 3
 alignment: 
 legendary: 
 lair: 

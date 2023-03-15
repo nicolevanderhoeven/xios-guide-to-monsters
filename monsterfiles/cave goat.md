@@ -3,9 +3,9 @@ name: cave goat
 size: Small
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 11
+initiative: 2
 alignment: 
 legendary: 
 lair: 

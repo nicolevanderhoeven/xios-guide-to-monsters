@@ -3,9 +3,9 @@ name: Aalpamac
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 136
+ac: 16
+initiative: 0
 alignment: 
 legendary: 
 lair: 

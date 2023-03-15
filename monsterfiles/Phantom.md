@@ -3,9 +3,9 @@ name: Phantom
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 11
+initiative: 1
 alignment: 
 legendary: 
 lair: 

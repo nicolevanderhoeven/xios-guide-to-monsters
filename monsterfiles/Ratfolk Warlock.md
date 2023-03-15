@@ -3,9 +3,9 @@ name: Ratfolk Warlock
 size: Small
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 27
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

@@ -3,11 +3,11 @@ name: Lamassu
 size: Large
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 147
+ac: 17
+initiative: 2
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 10

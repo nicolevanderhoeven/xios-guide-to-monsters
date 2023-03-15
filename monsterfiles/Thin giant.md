@@ -3,9 +3,9 @@ name: Thin giant
 size: Huge
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 168
+ac: 16
+initiative: 3
 alignment: 
 legendary: 
 lair: 

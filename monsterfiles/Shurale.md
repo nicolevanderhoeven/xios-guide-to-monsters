@@ -3,9 +3,9 @@ name: Shurale
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 105
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

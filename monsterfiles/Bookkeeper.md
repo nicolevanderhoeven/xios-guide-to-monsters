@@ -3,9 +3,9 @@ name: Bookkeeper
 size: Tiny
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 5
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

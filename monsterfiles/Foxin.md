@@ -3,9 +3,9 @@ name: Foxin
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 16
+ac: 14
+initiative: 3
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Void Giant
 size: huge
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 210
+ac: 14
+initiative: 0
 alignment: 
 legendary: 
 lair: 

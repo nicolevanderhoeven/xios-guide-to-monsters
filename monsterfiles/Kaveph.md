@@ -3,9 +3,9 @@ name: Kaveph
 size: Huge
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 136
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

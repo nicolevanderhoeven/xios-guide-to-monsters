@@ -3,9 +3,9 @@ name: Sentinel in Darkness
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 13
+initiative: 0
 alignment: 
 legendary: 
 lair: 

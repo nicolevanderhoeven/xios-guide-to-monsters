@@ -2,15 +2,16 @@
 name: Young Black Dragon
 size: Large
 type: Dragon
-environment: swamp
+environment: 
 hp: 127
 ac: 18
 initiative: 2
-alignment: chaotic evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 7
 tags: 
-source: "Monster Manual: 88"
+source: "5e SRD"
+url: "https://open5e.com/monsters/young-black-dragon"
 ---

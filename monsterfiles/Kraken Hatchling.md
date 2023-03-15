@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 12
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3hvcf6/day_5_kraken_hatchling/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments3hvcf6/day_5_kraken_hatchling/"
 ---

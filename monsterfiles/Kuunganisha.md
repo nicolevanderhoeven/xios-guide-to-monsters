@@ -3,9 +3,9 @@ name: Kuunganisha
 size: Small
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 17
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

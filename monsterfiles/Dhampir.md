@@ -3,9 +3,9 @@ name: Dhampir
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 32
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

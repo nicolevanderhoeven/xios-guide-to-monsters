@@ -3,9 +3,9 @@ name: Ghost Boar
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 68
+ac: 13
+initiative: 0
 alignment: 
 legendary: 
 lair: 

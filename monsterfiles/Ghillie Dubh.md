@@ -3,9 +3,9 @@ name: Ghillie Dubh
 size: Medium
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 52
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

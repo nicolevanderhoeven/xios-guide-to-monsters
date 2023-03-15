@@ -3,9 +3,9 @@ name: Quickstep
 size: Small
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 49
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

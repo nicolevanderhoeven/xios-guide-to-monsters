@@ -3,9 +3,9 @@ name: Irid
 size: Tiny
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 20
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

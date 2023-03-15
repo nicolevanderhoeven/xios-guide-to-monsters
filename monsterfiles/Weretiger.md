@@ -2,15 +2,16 @@
 name: Weretiger
 size: Medium
 type: Humanoid
-environment: forest, urban
+environment: 
 hp: 120
 ac: 12
 initiative: 2
-alignment: neutral
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monster Manual: 210"
+source: "5e SRD"
+url: "https://open5e.com/monsters/weretiger"
 ---

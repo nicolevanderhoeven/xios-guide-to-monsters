@@ -3,9 +3,9 @@ name: Piasa
 size: Large
 type: Dragon
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 144
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

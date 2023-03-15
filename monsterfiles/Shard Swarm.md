@@ -3,9 +3,9 @@ name: Shard Swarm
 size: Medium swarm
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

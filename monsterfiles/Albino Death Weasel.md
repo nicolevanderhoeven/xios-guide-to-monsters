@@ -3,9 +3,9 @@ name: Albino Death Weasel
 size: Large
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

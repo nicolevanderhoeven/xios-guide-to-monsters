@@ -3,9 +3,9 @@ name: Salamander Monarch
 size: Large
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 161
+ac: 17
+initiative: 4
 alignment: 
 legendary: 
 lair: 

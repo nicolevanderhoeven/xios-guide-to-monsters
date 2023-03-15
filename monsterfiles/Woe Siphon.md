@@ -3,9 +3,9 @@ name: Woe Siphon
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 45
+ac: 14
+initiative: 4
 alignment: 
 legendary: 
 lair: 

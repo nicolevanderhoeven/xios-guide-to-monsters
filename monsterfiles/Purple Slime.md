@@ -3,9 +3,9 @@ name: Purple Slime
 size: Large
 type: Ooze
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 76
+ac: 7
+initiative: -1
 alignment: 
 legendary: 
 lair: 

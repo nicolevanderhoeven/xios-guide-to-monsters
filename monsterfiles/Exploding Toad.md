@@ -3,9 +3,9 @@ name: Exploding Toad
 size: Tiny
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 2
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

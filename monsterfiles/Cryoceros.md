@@ -3,9 +3,9 @@ name: Cryoceros
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 133
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

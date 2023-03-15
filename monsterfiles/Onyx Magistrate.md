@@ -3,9 +3,9 @@ name: Onyx Magistrate
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 123
+ac: 16
+initiative: 0
 alignment: 
 legendary: 
 lair: 

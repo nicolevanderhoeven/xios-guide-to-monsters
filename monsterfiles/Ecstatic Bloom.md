@@ -3,9 +3,9 @@ name: Ecstatic Bloom
 size: Huge
 type: Celestial
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 171
+ac: 15
+initiative: 0
 alignment: 
 legendary: 
 lair: 

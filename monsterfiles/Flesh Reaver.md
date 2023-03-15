@@ -3,9 +3,9 @@ name: Flesh Reaver
 size: Medium
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 19
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

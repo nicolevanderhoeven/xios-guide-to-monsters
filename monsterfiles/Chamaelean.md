@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 0.5
 tags: 
-source: "Monster-A-Day: https://www.reddit.com/r/monsteraday/comments/3tubf2/day_98_chamaelean/"
-url: ""
+source: "Monster-A-Day"
+url: "https://www.reddit.com/r/monsteraday/comments/3tubf2/day_98_chamaelean/"
 ---

@@ -3,9 +3,9 @@ name: Gumienniki
 size: Small
 type: Fiend
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 22
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

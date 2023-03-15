@@ -3,9 +3,9 @@ name: Scarlet Ibis
 size: Medium
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 135
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

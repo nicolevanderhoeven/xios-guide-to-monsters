@@ -3,9 +3,9 @@ name: Corpse Worm
 size: Large
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 76
+ac: 14
+initiative: 1
 alignment: 
 legendary: 
 lair: 

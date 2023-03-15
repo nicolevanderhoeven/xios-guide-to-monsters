@@ -3,9 +3,9 @@ name: Dark Eye
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 71
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

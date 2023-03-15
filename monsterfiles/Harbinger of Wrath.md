@@ -3,9 +3,9 @@ name: Harbinger of Wrath
 size: Gargantuan
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 297
+ac: 21
+initiative: -1
 alignment: 
 legendary: 
 lair: 

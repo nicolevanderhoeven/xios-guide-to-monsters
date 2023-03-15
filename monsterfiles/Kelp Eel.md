@@ -3,9 +3,9 @@ name: Kelp Eel
 size: Huge
 type: Plant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 157
+ac: 17
+initiative: 2
 alignment: 
 legendary: 
 lair: 

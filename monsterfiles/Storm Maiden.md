@@ -3,9 +3,9 @@ name: Storm Maiden
 size: Medium
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 78
+ac: 15
+initiative: 3
 alignment: 
 legendary: 
 lair: 

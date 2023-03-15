@@ -3,9 +3,9 @@ name: Shadow Fey poisoner
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 112
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

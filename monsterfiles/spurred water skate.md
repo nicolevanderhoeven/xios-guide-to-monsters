@@ -3,9 +3,9 @@ name: spurred water skate
 size: Large
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 60
+ac: 13
+initiative: 4
 alignment: 
 legendary: 
 lair: 

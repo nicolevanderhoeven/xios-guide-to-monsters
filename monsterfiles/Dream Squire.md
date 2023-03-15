@@ -3,9 +3,9 @@ name: Dream Squire
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 71
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

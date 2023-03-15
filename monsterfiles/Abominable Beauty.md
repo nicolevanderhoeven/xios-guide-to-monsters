@@ -2,11 +2,11 @@
 name: Abominable Beauty
 size: Medium
 type: Fey
-environment: 
-hp: 
-ac: 
-initiative: 
-alignment: 
+environment: any
+hp: 187
+ac: 18
+initiative: 4
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 

@@ -3,9 +3,9 @@ name: Zoog
 size: Tiny
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 3
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

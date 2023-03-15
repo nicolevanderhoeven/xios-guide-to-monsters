@@ -3,9 +3,9 @@ name: Vallowex
 size: Large
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 123
+ac: 14
+initiative: 0
 alignment: 
 legendary: 
 lair: 

@@ -3,9 +3,9 @@ name: Gnoll Slaver
 size: Medium
 type: Humanoid
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 71
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

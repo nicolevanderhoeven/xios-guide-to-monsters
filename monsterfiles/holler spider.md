@@ -3,9 +3,9 @@ name: holler spider
 size: Tiny
 type: Beast
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 14
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 

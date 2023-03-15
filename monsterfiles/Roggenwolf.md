@@ -3,9 +3,9 @@ name: Roggenwolf
 size: Medium
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 60
+ac: 13
+initiative: 3
 alignment: 
 legendary: 
 lair: 

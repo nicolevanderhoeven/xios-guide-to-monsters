@@ -3,9 +3,9 @@ name: Thornheart Guardian
 size: Large
 type: Construct
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 133
+ac: 18
+initiative: 0
 alignment: 
 legendary: 
 lair: 

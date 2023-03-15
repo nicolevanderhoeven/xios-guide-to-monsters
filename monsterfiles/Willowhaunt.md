@@ -3,9 +3,9 @@ name: Willowhaunt
 size: Huge
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 90
+ac: 14
+initiative: 0
 alignment: 
 legendary: 
 lair: 

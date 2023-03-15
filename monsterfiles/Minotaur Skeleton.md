@@ -2,15 +2,16 @@
 name: Minotaur Skeleton
 size: Large
 type: Undead
-environment: dungeon, underground, urban
+environment: 
 hp: 67
 ac: 12
 initiative: 0
-alignment: lawful evil
+alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monster Manual: 273"
+source: "5e SRD"
+url: "https://open5e.com/monsters/minotaur-skeleton"
 ---

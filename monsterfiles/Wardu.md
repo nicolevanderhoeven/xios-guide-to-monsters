@@ -3,9 +3,9 @@ name: Wardu
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 105
+ac: 16
+initiative: 4
 alignment: 
 legendary: 
 lair: 

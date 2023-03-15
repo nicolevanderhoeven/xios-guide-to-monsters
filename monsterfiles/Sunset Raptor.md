@@ -3,9 +3,9 @@ name: Sunset Raptor
 size: Medium
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 32
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

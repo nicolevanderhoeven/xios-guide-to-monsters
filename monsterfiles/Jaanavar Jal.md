@@ -3,9 +3,9 @@ name: Jaanavar Jal
 size: Huge
 type: Monstrosity
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 172
+ac: 15
+initiative: 2
 alignment: 
 legendary: 
 lair: 

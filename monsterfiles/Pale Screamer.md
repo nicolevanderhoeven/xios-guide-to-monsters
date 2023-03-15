@@ -3,9 +3,9 @@ name: Pale Screamer
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 52
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

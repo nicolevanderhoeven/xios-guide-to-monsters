@@ -3,9 +3,9 @@ name: Cacus giant
 size: Huge
 type: Giant
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 138
+ac: 16
+initiative: 0
 alignment: 
 legendary: 
 lair: 

@@ -2,15 +2,16 @@
 name: Gynosphinx
 size: Large
 type: Monstrosity
-environment: dungeon, ruins
+environment: 
 hp: 136
 ac: 17
 initiative: 2
-alignment: lawful neutral
-legendary: legendary
-lair: lair
+alignment: 
+legendary: Legendary
+lair: 
 unique: 
 cr: 11
 tags: 
-source: "Monster Manual: 282"
+source: "5e SRD"
+url: "https://open5e.com/monsters/gynosphinx"
 ---

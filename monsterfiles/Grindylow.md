@@ -3,9 +3,9 @@ name: Grindylow
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 27
+ac: 13
+initiative: 2
 alignment: 
 legendary: 
 lair: 

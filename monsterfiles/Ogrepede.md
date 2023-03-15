@@ -3,9 +3,9 @@ name: Ogrepede
 size: Huge
 type: Undead
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 142
+ac: 13
+initiative: 0
 alignment: 
 legendary: 
 lair: 

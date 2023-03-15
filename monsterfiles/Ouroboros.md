@@ -3,11 +3,11 @@ name: Ouroboros
 size: Huge
 type: Dragon
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 94
+ac: 15
+initiative: 0
 alignment: 
-legendary: 
+legendary: Legendary
 lair: 
 unique: 
 cr: 6

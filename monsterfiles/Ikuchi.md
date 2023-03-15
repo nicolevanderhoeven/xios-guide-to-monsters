@@ -3,9 +3,9 @@ name: Ikuchi
 size: Gargantuan
 type: Elemental
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 116
+ac: 16
+initiative: 2
 alignment: 
 legendary: 
 lair: 

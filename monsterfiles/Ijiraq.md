@@ -3,9 +3,9 @@ name: Ijiraq
 size: Medium
 type: Fey
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 127
+ac: 14
+initiative: 2
 alignment: 
 legendary: 
 lair: 

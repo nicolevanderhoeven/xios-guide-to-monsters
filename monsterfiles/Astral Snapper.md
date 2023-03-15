@@ -3,9 +3,9 @@ name: Astral Snapper
 size: Medium
 type: Aberration
 environment: 
-hp: 
-ac: 
-initiative: 
+hp: 78
+ac: 12
+initiative: 2
 alignment: 
 legendary: 
 lair: 
