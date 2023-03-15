@@ -2,16 +2,16 @@
 name: Lemure
 size: Medium
 type: Fiend
-environment: Hell
+environment: dungeon, planar
 hp: 13
 ac: 7
 initiative: -3
-alignment: 
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 0.125
+cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 76"
 url: ""
 ---

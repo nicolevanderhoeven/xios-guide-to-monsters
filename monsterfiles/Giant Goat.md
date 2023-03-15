@@ -2,16 +2,16 @@
 name: Giant Goat
 size: Large
 type: Beast
-environment: Hills, Mountains
-hp: 22
+environment: forest, grassland, mountain
+hp: 19
 ac: 11
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 25, Monster Manual: 326"
 url: ""
 ---

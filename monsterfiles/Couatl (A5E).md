@@ -2,7 +2,7 @@
 name: Couatl (A5E)
 size: Medium
 type: Celestial
-environment: forests
+environment: Astral Plane, Desert, Jungle
 hp: 85
 ac: 16
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 4
 tags: 
-source: "Monstrous Menagerie: 56"
+source: "Monstrous Menagerie"
 url: ""
 ---

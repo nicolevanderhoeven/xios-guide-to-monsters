@@ -1,0 +1,17 @@
+---
+name: Faerie Dragon (indigo)
+size: Tiny
+type: Dragon
+environment: forest, grassland, mountain, ruins, swamp
+hp: 14
+ac: 15
+initiative: 5
+alignment: chaotic good
+legendary: 
+lair: 
+unique: 
+cr: 2
+tags: 
+source: "Monster Manual: 133"
+url: ""
+---

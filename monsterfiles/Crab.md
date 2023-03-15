@@ -2,16 +2,16 @@
 name: Crab
 size: Tiny
 type: Beast
-environment: Water
+environment: aquatic, coast
 hp: 2
-ac: 12
+ac: 11
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 15, Monster Manual: 320"
 url: ""
 ---

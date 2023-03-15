@@ -2,7 +2,7 @@
 name: Drainpipe Gargoyle (A5E)
 size: Medium
 type: Elemental
-environment: urban, underground, ruins, mountains
+environment: Hills, Laboratory, Mountains, Plane of Earth, Ruin, Settlement, Temple, Tomb
 hp: 45
 ac: 15
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie: 214"
+source: "Monstrous Menagerie"
 url: ""
 ---

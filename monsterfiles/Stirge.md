@@ -2,16 +2,16 @@
 name: Stirge
 size: Tiny
 type: Beast
-environment: Caverns, Desert, Hills, Swamp
+environment: forest, swamp
 hp: 2
-ac: 13
+ac: 14
 initiative: 3
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 44, HotDQ supplement: 17, Monster Manual: 284"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Shield Guardian
 size: Large
 type: Construct
-environment: Laboratory, Ruin, Temple, Tomb
-hp: 133
+environment: dungeon, ruins, urban
+hp: 142
 ac: 17
-initiative: 0
-alignment: 
+initiative: -1
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 7
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 271, Princes of the Apocalypse Online Supplement v1.0: 32"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Flying Sword (A5E)
 size: Small
 type: Construct
-environment: 
+environment: Laboratory, Ruin
 hp: 10
 ac: 17
 initiative: 1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 0.25
 tags: animated objects
-source: "Monstrous Menagerie: 23"
+source: "Monstrous Menagerie"
 url: ""
 ---

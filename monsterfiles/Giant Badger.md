@@ -2,16 +2,16 @@
 name: Giant Badger
 size: Medium
 type: Beast
-environment: Forest, Grassland
-hp: 19
+environment: forest, grassland
+hp: 13
 ac: 10
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 23, Monster Manual: 323"
 url: ""
 ---

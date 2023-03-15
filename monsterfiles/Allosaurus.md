@@ -1,17 +1,17 @@
 ---
 name: Allosaurus
-size: Huge
+size: Large
 type: Beast
-environment: Grassland, Jungle, Mountains, Swamp
-hp: 57
-ac: 14
-initiative: 4
-alignment: 
+environment: coast, grassland, swamp
+hp: 51
+ac: 13
+initiative: 1
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
-cr: 3
+cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 9, Monster Manual: 79"
 url: ""
 ---

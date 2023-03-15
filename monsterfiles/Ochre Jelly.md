@@ -2,16 +2,16 @@
 name: Ochre Jelly
 size: Large
 type: Ooze
-environment: Caverns, Ruin, Sewer, Water
+environment: dungeon
 hp: 45
 ac: 8
 initiative: -2
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 38, Monster Manual: 243"
 url: ""
 ---

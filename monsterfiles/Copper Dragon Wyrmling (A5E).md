@@ -2,7 +2,7 @@
 name: Copper Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: mountains
+environment: Hills, Mountains
 hp: 44
 ac: 16
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 2
 tags: dragon
-source: "Monstrous Menagerie: 168"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Raptor (A5E)
 size: Medium
 type: Beast
-environment: forests, plains, desert
+environment: Grassland, Jungle, Mountains, Swamp
 hp: 32
 ac: 13
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 1
 tags: dinosaur
-source: "Monstrous Menagerie: 91"
+source: "Monstrous Menagerie"
 url: ""
 ---

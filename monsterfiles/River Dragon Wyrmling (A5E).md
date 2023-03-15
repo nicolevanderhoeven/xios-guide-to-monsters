@@ -2,7 +2,7 @@
 name: River Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: rivers
+environment: Grassland, Water
 hp: 44
 ac: 16
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 2
 tags: dragon
-source: "Monstrous Menagerie: 133"
+source: "Monstrous Menagerie"
 url: ""
 ---

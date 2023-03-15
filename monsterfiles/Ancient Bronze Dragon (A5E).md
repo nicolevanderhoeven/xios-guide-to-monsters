@@ -2,7 +2,7 @@
 name: Ancient Bronze Dragon (A5E)
 size: Gargantuan
 type: Dragon
-environment: caves, aquatic, coastal
+environment: Water
 hp: 425
 ac: 21
 initiative: 0
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 24
 tags: dragon
-source: "Monstrous Menagerie: 160"
+source: "Monstrous Menagerie"
 url: ""
 ---

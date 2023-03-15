@@ -2,16 +2,16 @@
 name: Air Elemental
 size: Large
 type: Elemental
-environment: Laboratory, Plane of Air
+environment: arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground
 hp: 90
-ac: 14
-initiative: 4
-alignment: 
+ac: 15
+initiative: 5
+alignment: neutral
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 9, HotDQ supplement: 5, Monster Manual: 124"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Red Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: Mountains
+environment: mountain
 hp: 75
 ac: 17
-initiative: 1
-alignment: 
+initiative: 0
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 98"
 url: ""
 ---

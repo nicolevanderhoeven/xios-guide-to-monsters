@@ -2,16 +2,16 @@
 name: Cockatrice
 size: Small
 type: Monstrosity
-environment: Desert, Grassland, Hills, Jungle, Mountains, Ruin, Swamp
+environment: forest, grassland, swamp
 hp: 27
-ac: 12
-initiative: 2
-alignment: 
+ac: 11
+initiative: 1
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 15, Monster Manual: 42"
 url: ""
 ---

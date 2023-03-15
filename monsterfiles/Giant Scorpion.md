@@ -2,16 +2,16 @@
 name: Giant Scorpion
 size: Large
 type: Beast
-environment: Desert, Shadowfell
+environment: cave, coast, desert, dungeon, grassland, ruins, swamp, underground
 hp: 52
 ac: 15
 initiative: 1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 27, Monster Manual: 327"
 url: ""
 ---

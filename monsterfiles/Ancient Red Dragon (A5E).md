@@ -2,7 +2,7 @@
 name: Ancient Red Dragon (A5E)
 size: Gargantuan
 type: Dragon
-environment: volcano, mountains
+environment: Mountains
 hp: 448
 ac: 22
 initiative: 0
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 26
 tags: dragon
-source: "Monstrous Menagerie: 116"
+source: "Monstrous Menagerie"
 url: ""
 ---

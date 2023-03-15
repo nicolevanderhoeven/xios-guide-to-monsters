@@ -2,16 +2,16 @@
 name: Stegosaurus
 size: Huge
 type: Beast
-environment: Grassland, Jungle, Mountains, Swamp
-hp: 63
-ac: 16
-initiative: 0
-alignment: 
+environment: forest, grassland
+hp: 76
+ac: 13
+initiative: -1
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
-cr: 3
+cr: 4
 tags: 
-source: "Monstrous Menagerie"
+source: "Volo's Guide to Monsters: 140"
 url: ""
 ---

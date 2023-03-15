@@ -1,8 +1,8 @@
 ---
 name: Green Dragon Wyrmling (A5E)
-size: Medium
+size: Huge
 type: Dragon
-environment: forests
+environment: Forest, Jungle
 hp: 55
 ac: 16
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 3
 tags: dragon
-source: "Monstrous Menagerie: 114"
+source: "Monstrous Menagerie"
 url: ""
 ---

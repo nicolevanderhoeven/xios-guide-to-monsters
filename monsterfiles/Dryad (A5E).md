@@ -2,7 +2,7 @@
 name: Dryad (A5E)
 size: Medium
 type: Fey
-environment: forests
+environment: Forest, Jungle
 hp: 22
 ac: 15
 initiative: 1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie: 188"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Goblin Boss
 size: Small
 type: Humanoid
-environment: Caverns, Desert, Feywild, Forest, Grassland, Hills, Jungle, Mountains, Ruin, Settlement, Sewer, Swamp, Tundra
-hp: 24
-ac: 16
+environment: cave, dungeon, forest, grassland, mountain, ruins, urban
+hp: 21
+ac: 17
 initiative: 2
-alignment: 
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 166"
 url: ""
 ---

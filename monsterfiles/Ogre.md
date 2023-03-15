@@ -2,16 +2,16 @@
 name: Ogre
 size: Large
 type: Giant
-environment: Caverns, Desert, Feywild, Forest, Grassland, Hills, Jungle, Mountains, Plane of Earth, Ruin, Swamp, Tundra
+environment: dungeon, forest, mountain, swamp
 hp: 59
-ac: 12
+ac: 11
 initiative: -1
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 38, HotDQ supplement: 14, Monster Manual: 237"
 url: ""
 ---

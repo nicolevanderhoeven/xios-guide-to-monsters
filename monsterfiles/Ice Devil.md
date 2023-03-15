@@ -2,16 +2,16 @@
 name: Ice Devil
 size: Large
 type: Fiend
-environment: Hell
+environment: dungeon, planar
 hp: 180
 ac: 18
 initiative: 2
-alignment: 
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 12
+cr: 14
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 75"
 url: ""
 ---

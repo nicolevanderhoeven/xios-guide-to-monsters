@@ -2,16 +2,16 @@
 name: Adult Gold Dragon
 size: Huge
 type: Dragon
-environment: Astral Plane, Grassland, Ruin, Water
-hp: 324
+environment: mountain, ruins
+hp: 256
 ac: 19
 initiative: 2
-alignment: 
+alignment: lawful good
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 20
+cr: 17
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 114"
 url: ""
 ---

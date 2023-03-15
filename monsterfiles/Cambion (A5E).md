@@ -2,7 +2,7 @@
 name: Cambion (A5E)
 size: Medium
 type: Fiend
-environment: 
+environment: Abyss, Desert, Hell, Hills, Ruin, Settlement, Temple
 hp: 93
 ac: 16
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: demon, devil
-source: "Monstrous Menagerie: 42"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Chuul (A5E)
 size: Large
 type: Aberration
-environment: 
+environment: Caverns, Plane of Water, Water
 hp: 93
 ac: 16
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: 
-source: "Monstrous Menagerie: 47"
+source: "Monstrous Menagerie"
 url: ""
 ---

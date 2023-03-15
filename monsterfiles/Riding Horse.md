@@ -2,16 +2,16 @@
 name: Riding Horse
 size: Large
 type: Beast
-environment: Settlement
-hp: 19
+environment: urban
+hp: 13
 ac: 10
-initiative: 1
-alignment: 
+initiative: 0
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 42, Monster Manual: 336, Player's Handbook: 310"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Ankylosaurus (A5E)
 size: Huge
 type: Beast
-environment: forests, plains, desert
+environment: Grassland, Jungle, Mountains, Swamp
 hp: 63
 ac: 16
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 3
 tags: dinosaur
-source: "Monstrous Menagerie: 90"
+source: "Monstrous Menagerie"
 url: ""
 ---

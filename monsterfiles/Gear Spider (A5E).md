@@ -2,7 +2,7 @@
 name: Gear Spider (A5E)
 size: Tiny
 type: Construct
-environment: 
+environment: Laboratory, Ruin, Sewer
 hp: 28
 ac: 13
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 0.5
 tags: clockwork
-source: "Monstrous Menagerie: 53"
+source: "Monstrous Menagerie"
 url: ""
 ---

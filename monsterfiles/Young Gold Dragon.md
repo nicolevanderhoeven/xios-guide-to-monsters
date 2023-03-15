@@ -2,16 +2,16 @@
 name: Young Gold Dragon
 size: Large
 type: Dragon
-environment: 
+environment: mountain, ruins
 hp: 178
 ac: 18
 initiative: 2
-alignment: 
+alignment: lawful good
 legendary: 
 lair: 
 unique: 
 cr: 10
 tags: 
 source: "5e SRD"
-url: "https://open5e.com/monsters/young-gold-dragon"
+url: ""
 ---

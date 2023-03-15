@@ -2,16 +2,16 @@
 name: Quasit
 size: Tiny
 type: Fiend
-environment: Abyss
-hp: 14
+environment: dungeon, planar
+hp: 7
 ac: 13
 initiative: 3
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 0.5
+cr: 1
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 63, Player's Handbook: 309"
 url: ""
 ---

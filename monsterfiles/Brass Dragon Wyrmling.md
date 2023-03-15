@@ -2,16 +2,16 @@
 name: Brass Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: Desert
-hp: 38
+environment: cave, underground
+hp: 16
 ac: 16
-initiative: 1
-alignment: 
+initiative: 0
+alignment: chaotic good
 legendary: 
 lair: 
 unique: 
-cr: 2
+cr: 1
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 106"
 url: ""
 ---

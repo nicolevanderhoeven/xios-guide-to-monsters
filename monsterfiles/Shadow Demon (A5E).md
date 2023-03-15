@@ -1,8 +1,8 @@
 ---
 name: Shadow Demon (A5E)
 size: Medium
-type: Fiend (Demon)
-environment: 
+type: Fiend
+environment: Abyss
 hp: 45
 ac: 13
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 4
 tags: 
-source: "Monstrous Menagerie: 74"
+source: "Monstrous Menagerie"
 url: ""
 ---

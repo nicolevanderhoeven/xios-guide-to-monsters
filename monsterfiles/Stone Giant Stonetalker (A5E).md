@@ -2,7 +2,7 @@
 name: Stone Giant Stonetalker (A5E)
 size: Huge
 type: Giant
-environment: mountains, caves
+environment: Hills, Mountains, Plane of Earth
 hp: 126
 ac: 17
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 8
 tags: 
-source: "Monstrous Menagerie: 241"
+source: "Monstrous Menagerie"
 url: ""
 ---

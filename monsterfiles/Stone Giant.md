@@ -2,16 +2,16 @@
 name: Stone Giant
 size: Huge
 type: Giant
-environment: Hills, Mountains, Plane of Earth
+environment: cave, mountain, underground
 hp: 126
 ac: 17
 initiative: 2
-alignment: 
+alignment: neutral
 legendary: 
 lair: 
 unique: 
-cr: 8
+cr: 7
 tags: 
-source: "Monstrous Menagerie"
+source: "HotDQ supplement: 18, Monster Manual: 156"
 url: ""
 ---

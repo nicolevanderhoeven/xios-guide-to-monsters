@@ -2,16 +2,16 @@
 name: Hyena
 size: Medium
 type: Beast
-environment: Desert, Grassland, Ruin, Shadowfell
-hp: 4
+environment: forest, grassland
+hp: 5
 ac: 11
 initiative: 1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 33, Monster Manual: 331"
 url: ""
 ---

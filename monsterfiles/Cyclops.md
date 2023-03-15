@@ -2,16 +2,16 @@
 name: Cyclops
 size: Huge
 type: Giant
-environment: Desert, Grassland, Hills, Mountains, Plane of Earth, Ruin, Swamp
-hp: 126
-ac: 13
+environment: cave, coast, grassland, mountain, ruins, swamp
+hp: 138
+ac: 14
 initiative: 0
-alignment: 
+alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 
-cr: 7
+cr: 6
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 16, Monster Manual: 45"
 url: ""
 ---

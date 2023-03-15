@@ -2,16 +2,16 @@
 name: Archmage
 size: Medium
 type: Humanoid
-environment: Forest, Laboratory, Settlement
-hp: 117
-ac: 12
+environment: ruins, urban
+hp: 99
+ac: 12 (15 with mage armor)
 initiative: 2
-alignment: 
+alignment: any
 legendary: 
 lair: 
 unique: 
-cr: 11
+cr: 12
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 342"
 url: ""
 ---

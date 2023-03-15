@@ -2,16 +2,16 @@
 name: Werebear
 size: Medium
 type: Humanoid
-environment: Feywild, Forest, Hills, Mountains, Settlement, Shadowfell, Tundra
+environment: cave, forest, mountain, urban
 hp: 135
-ac: 11
+ac: 10 in humanoid form, 11 in bear and hybrid form
 initiative: 0
-alignment: 
+alignment: neutral good
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 208"
 url: ""
 ---

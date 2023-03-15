@@ -2,16 +2,16 @@
 name: Awakened Shrub
 size: Small
 type: Plant
-environment: Forest, Jungle, Laboratory, Swamp
-hp: 7
+environment: forest, grassland
+hp: 10
 ac: 9
 initiative: -1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 10, Monster Manual: 317"
 url: ""
 ---

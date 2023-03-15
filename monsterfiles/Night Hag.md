@@ -1,17 +1,17 @@
 ---
 name: Night Hag
 size: Medium
-type: Fey
-environment: Caverns, Feywild, Forest, Hell, Jungle, Ruin, Settlement, Shadowfell, Swamp
-hp: 105
+type: Fiend
+environment: planar, underground
+hp: 112
 ac: 17
 initiative: 2
-alignment: 
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 178"
 url: ""
 ---

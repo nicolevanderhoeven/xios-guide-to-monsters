@@ -2,16 +2,16 @@
 name: Priest
 size: Medium
 type: Humanoid
-environment: Desert, Hills, Settlement, Temple
-hp: 32
-ac: 14
+environment: urban
+hp: 27
+ac: 13
 initiative: 0
-alignment: 
+alignment: any
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 55, HotDQ supplement: 15, Monster Manual: 348"
 url: ""
 ---

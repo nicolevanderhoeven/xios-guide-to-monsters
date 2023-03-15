@@ -2,16 +2,16 @@
 name: Grick
 size: Medium
 type: Monstrosity
-environment: Caverns, Mountains, Plane of Earth, Ruin, Sewer, Tomb
-hp: 33
+environment: cave, dungeon, underground
+hp: 27
 ac: 14
 initiative: 2
-alignment: 
+alignment: neutral
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 30, Monster Manual: 173"
 url: ""
 ---

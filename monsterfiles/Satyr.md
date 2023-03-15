@@ -2,16 +2,16 @@
 name: Satyr
 size: Medium
 type: Fey
-environment: Feywild, Forest, Hills, Jungle
-hp: 22
-ac: 13
-initiative: 2
-alignment: 
+environment: forest, grassland, urban
+hp: 31
+ac: 14
+initiative: 3
+alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 43, Monster Manual: 267338"
 url: ""
 ---

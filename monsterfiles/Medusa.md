@@ -2,16 +2,16 @@
 name: Medusa
 size: Medium
 type: Monstrosity
-environment: Caverns, Desert, Forest, Jungle, Mountains, Plane of Earth, Settlement, Tundra
-hp: 120
-ac: 14
-initiative: 4
-alignment: 
+environment: cave, dungeon, mountain, ruins, urban
+hp: 127
+ac: 15
+initiative: 2
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 7
+cr: 6
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 36, Monster Manual: 214"
 url: ""
 ---

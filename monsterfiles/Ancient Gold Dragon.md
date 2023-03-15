@@ -2,16 +2,16 @@
 name: Ancient Gold Dragon
 size: Gargantuan
 type: Dragon
-environment: Astral Plane, Grassland, Ruin, Water
-hp: 487
+environment: mountain, ruins
+hp: 546
 ac: 22
 initiative: 2
-alignment: 
+alignment: lawful good
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 26
+cr: 24
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 113"
 url: ""
 ---

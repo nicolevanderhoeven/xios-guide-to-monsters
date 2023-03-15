@@ -2,7 +2,7 @@
 name: Ancient Blue Dragon (A5E)
 size: Gargantuan
 type: Dragon
-environment: caves, coastal, desert, oasis
+environment: Desert
 hp: 407
 ac: 22
 initiative: 0
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 25
 tags: dragon
-source: "Monstrous Menagerie: 106"
+source: "Monstrous Menagerie"
 url: ""
 ---

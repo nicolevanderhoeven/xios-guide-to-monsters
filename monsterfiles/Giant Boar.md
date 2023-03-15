@@ -2,16 +2,16 @@
 name: Giant Boar
 size: Large
 type: Beast
-environment: Feywild, Forest
-hp: 47
+environment: forest, grassland
+hp: 42
 ac: 12
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 23, Monster Manual: 323"
 url: ""
 ---

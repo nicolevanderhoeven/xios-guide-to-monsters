@@ -2,16 +2,16 @@
 name: Giant Ape
 size: Huge
 type: Beast
-environment: Forest, Jungle
-hp: 115
-ac: 14
+environment: forest
+hp: 157
+ac: 12
 initiative: 2
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 7
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 22, Monster Manual: 323"
 url: ""
 ---

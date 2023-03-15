@@ -2,16 +2,16 @@
 name: Doppelganger
 size: Medium
 type: Monstrosity
-environment: Caverns, Forest, Grassland, Hills, Laboratory, Ruin, Settlement, Sewer, Shadowfell
+environment: dungeon, ruins, urban
 hp: 52
 ac: 14
 initiative: 4
-alignment: 
+alignment: neutral
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 17, HotDQ supplement: 8, Monster Manual: 82"
 url: ""
 ---

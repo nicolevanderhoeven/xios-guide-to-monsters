@@ -2,7 +2,7 @@
 name: Emerald Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: 
+environment: Caverns, Ruin, Sewer
 hp: 45
 ac: 16
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 2
 tags: dragon
-source: "Monstrous Menagerie: 147"
+source: "Monstrous Menagerie"
 url: ""
 ---

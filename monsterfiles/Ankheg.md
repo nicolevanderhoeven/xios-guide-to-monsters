@@ -2,16 +2,16 @@
 name: Ankheg
 size: Large
 type: Monstrosity
-environment: Desert, Grassland, Hills, Settlement
-hp: 45
-ac: 14
+environment: coast, forest, grassland, underground
+hp: 39
+ac: 14, 11 while prone
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 21, Princes of the Apocalypse Online Supplement v1.0: 8"
 url: ""
 ---

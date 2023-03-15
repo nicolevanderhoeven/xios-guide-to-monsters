@@ -1,8 +1,8 @@
 ---
 name: Adult Black Dragon Lich (A5E)
 size: Huge
-type: Undead (Dragon)
-environment: 
+type: Undead
+environment: Swamp
 hp: 253
 ac: 19
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 17
 tags: dragon
-source: "Monstrous Menagerie: 96"
+source: "Monstrous Menagerie"
 url: ""
 ---

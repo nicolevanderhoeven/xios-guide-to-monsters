@@ -2,16 +2,16 @@
 name: Treant
 size: Huge
 type: Plant
-environment: Forest, Jungle, Swamp
+environment: forest, swamp
 hp: 138
-ac: 18
+ac: 16
 initiative: -1
-alignment: 
+alignment: chaotic good
 legendary: 
 lair: 
 unique: 
 cr: 9
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 289"
 url: ""
 ---

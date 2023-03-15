@@ -2,7 +2,7 @@
 name: Ancient Amethyst Dragon (A5E)
 size: Gargantuan
 type: Dragon
-environment: 
+environment: Caverns
 hp: 313
 ac: 20
 initiative: 7
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 23
 tags: dragon
-source: "Monstrous Menagerie: 140"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Copper Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: Hills, Mountains
-hp: 44
+environment: cave, desert, grassland
+hp: 22
 ac: 16
 initiative: 1
-alignment: 
+alignment: chaotic good
 legendary: 
 lair: 
 unique: 
-cr: 2
+cr: 1
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 111"
 url: ""
 ---

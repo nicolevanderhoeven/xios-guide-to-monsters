@@ -2,16 +2,16 @@
 name: Drider
 size: Large
 type: Monstrosity
-environment: Feywild, Ruin
-hp: 114
-ac: 17
+environment: dungeon, underground
+hp: 123
+ac: 19
 initiative: 3
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 6
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 120"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Sahuagin
 size: Medium
 type: Humanoid
-environment: Water
+environment: aquatic, coast
 hp: 22
 ac: 12
 initiative: 0
-alignment: 
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 263"
 url: ""
 ---

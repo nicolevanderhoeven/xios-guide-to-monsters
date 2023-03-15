@@ -1,8 +1,8 @@
 ---
 name: Vrock (A5E)
 size: Large
-type: Fiend (Demon)
-environment: 
+type: Fiend
+environment: Abyss
 hp: 104
 ac: 15
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 6
 tags: 
-source: "Monstrous Menagerie: 76"
+source: "Monstrous Menagerie"
 url: ""
 ---

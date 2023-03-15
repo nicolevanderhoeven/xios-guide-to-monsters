@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 6
 tags: 
-source: "Monster Module: 13"
+source: "Monster Manual: 13"
 url: ""
 ---

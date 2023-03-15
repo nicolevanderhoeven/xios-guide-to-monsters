@@ -2,16 +2,16 @@
 name: Bandit
 size: Medium
 type: Humanoid
-environment: Caverns, Desert, Forest, Grassland, Hills, Jungle, Laboratory, Mountains, Ruin, Settlement, Sewer, Swamp, Tundra
-hp: 9
+environment: arctic, coast, desert, forest, grassland, mountain, ruins, urban
+hp: 11
 ac: 12
-initiative: 0
-alignment: 
+initiative: 1
+alignment: non-lawful
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 53, HotDQ supplement: 6, Monster Manual: 343"
 url: ""
 ---

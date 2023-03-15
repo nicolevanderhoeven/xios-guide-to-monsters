@@ -2,16 +2,16 @@
 name: Elephant
 size: Huge
 type: Beast
-environment: Desert, Forest, Grassland, Jungle
+environment: grassland
 hp: 76
 ac: 12
 initiative: -1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 4
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 18, Monster Manual: 322"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Bugbear
 size: Medium
 type: Humanoid
-environment: Desert, Forest, Grassland, Hills, Jungle, Mountains, Swamp
-hp: 30
-ac: 12
+environment: cave, dungeon, forest, mountain, ruins, urban
+hp: 27
+ac: 16
 initiative: 2
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 13, Monster Manual: 33"
 url: ""
 ---

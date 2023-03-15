@@ -1,8 +1,8 @@
 ---
 name: Bearded Devil (A5E)
 size: Medium
-type: Fiend (Devil)
-environment: 
+type: Fiend
+environment: Hell
 hp: 52
 ac: 13
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 3
 tags: devil
-source: "Monstrous Menagerie: 79"
+source: "Monstrous Menagerie"
 url: ""
 ---

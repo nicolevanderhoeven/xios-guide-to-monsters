@@ -2,7 +2,7 @@
 name: Divi (A5E)
 size: Large
 type: Elemental
-environment: 
+environment: Caverns, Plane of Earth
 hp: 172
 ac: 18
 initiative: 1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 11
 tags: 
-source: "Monstrous Menagerie: 217"
+source: "Monstrous Menagerie"
 url: ""
 ---

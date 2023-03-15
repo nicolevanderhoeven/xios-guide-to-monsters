@@ -2,7 +2,7 @@
 name: Rug of Smothering (A5E)
 size: Large
 type: Construct
-environment: 
+environment: Laboratory, Ruin
 hp: 45
 ac: 12
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: animated objects
-source: "Monstrous Menagerie: 24"
+source: "Monstrous Menagerie"
 url: ""
 ---

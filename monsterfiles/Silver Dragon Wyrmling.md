@@ -2,16 +2,16 @@
 name: Silver Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: Feywild, Mountains
-hp: 60
+environment: arctic, mountain
+hp: 45
 ac: 17
-initiative: 2
-alignment: 
+initiative: 0
+alignment: lawful good
 legendary: 
 lair: 
 unique: 
-cr: 3
+cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 118"
 url: ""
 ---

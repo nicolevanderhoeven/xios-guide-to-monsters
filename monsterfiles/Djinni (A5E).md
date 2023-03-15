@@ -2,7 +2,7 @@
 name: Djinni (A5E)
 size: Large
 type: Elemental
-environment: 
+environment: Desert, Plane of Air
 hp: 172
 ac: 16
 initiative: 6
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 11
 tags: 
-source: "Monstrous Menagerie: 219"
+source: "Monstrous Menagerie"
 url: ""
 ---

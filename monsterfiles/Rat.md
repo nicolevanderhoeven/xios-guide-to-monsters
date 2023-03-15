@@ -2,16 +2,16 @@
 name: Rat
 size: Tiny
 type: Beast
-environment: Caverns, Forest, Ruin, Settlement, Sewer, Swamp
+environment: arctic, cave, coast, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban
 hp: 1
-ac: 11
-initiative: 1
-alignment: 
+ac: 10
+initiative: 0
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 41, Monster Manual: 335, Player's Handbook: 309"
 url: ""
 ---

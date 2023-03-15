@@ -2,7 +2,7 @@
 name: Cloaker (A5E)
 size: Large
 type: Aberration
-environment: caves, underground
+environment: Caverns, Laboratory, Sewer
 hp: 97
 ac: 13
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 8
 tags: 
-source: "Monstrous Menagerie: 50"
+source: "Monstrous Menagerie"
 url: ""
 ---

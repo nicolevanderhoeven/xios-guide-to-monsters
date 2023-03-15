@@ -1,17 +1,17 @@
 ---
 name: Jackalwere
 size: Medium
-type: Fiend
-environment: Desert, Grassland, Hills
+type: Humanoid
+environment: desert, grassland, urban
 hp: 18
 ac: 12
 initiative: 2
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 193, Princes of the Apocalypse Online Supplement v1.0: 21"
 url: ""
 ---

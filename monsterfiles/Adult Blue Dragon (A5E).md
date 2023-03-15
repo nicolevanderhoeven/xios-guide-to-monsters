@@ -2,7 +2,7 @@
 name: Adult Blue Dragon (A5E)
 size: Huge
 type: Dragon
-environment: caves, coastal, desert, oasis
+environment: Desert
 hp: 275
 ac: 19
 initiative: 0
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 19
 tags: dragon
-source: "Monstrous Menagerie: 107"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Ancient Earth Dragon (A5E)
 size: Gargantuan
 type: Dragon
-environment: mountains, hills, deserts
+environment: Desert, Hills, Mountains
 hp: 425
 ac: 22
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 24
 tags: dragon
-source: "Monstrous Menagerie: 126"
+source: "Monstrous Menagerie"
 url: ""
 ---

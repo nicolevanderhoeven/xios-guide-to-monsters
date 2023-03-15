@@ -2,16 +2,16 @@
 name: Xorn
 size: Medium
 type: Elemental
-environment: 
+environment: dungeon, planar, underground
 hp: 73
 ac: 19
 initiative: 0
-alignment: 
+alignment: neutral
 legendary: 
 lair: 
 unique: 
 cr: 5
 tags: 
 source: "5e SRD"
-url: "https://open5e.com/monsters/xorn"
+url: ""
 ---

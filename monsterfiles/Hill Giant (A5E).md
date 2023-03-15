@@ -2,7 +2,7 @@
 name: Hill Giant (A5E)
 size: Huge
 type: Giant
-environment: hills, mountains
+environment: Feywild, Forest, Mountains, Plane of Earth, Ruin
 hp: 105
 ac: 13
 initiative: -1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 6
 tags: 
-source: "Monstrous Menagerie: 238"
+source: "Monstrous Menagerie"
 url: ""
 ---

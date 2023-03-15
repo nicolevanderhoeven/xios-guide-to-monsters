@@ -2,7 +2,7 @@
 name: Fire Elemental (A5E)
 size: Large
 type: Elemental
-environment: 
+environment: Laboratory, Plane of Fire
 hp: 90
 ac: 14
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: 
-source: "Monstrous Menagerie: 193"
+source: "Monstrous Menagerie"
 url: ""
 ---

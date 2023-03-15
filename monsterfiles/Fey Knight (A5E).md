@@ -2,7 +2,7 @@
 name: Fey Knight (A5E)
 size: Medium
 type: Fey
-environment: forests, swamps
+environment: Feywild, Forest, Swamp
 hp: 58
 ac: 16
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 4
 tags: 
-source: "Monstrous Menagerie: 201"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Animated Armor (A5E)
 size: Medium
 type: Construct
-environment: 
+environment: Laboratory, Ruin, Temple
 hp: 31
 ac: 18
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 1
 tags: animated objects
-source: "Monstrous Menagerie: 23"
+source: "Monstrous Menagerie"
 url: ""
 ---

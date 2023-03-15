@@ -1,8 +1,8 @@
 ---
 name: Lemure Band (A5E)
 size: Large
-type: Group of Medium Fiends (Devils)
-environment: 
+type: Fiend
+environment: Hell
 hp: 67
 ac: 7
 initiative: -3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: devil
-source: "Monstrous Menagerie: 86"
+source: "Monstrous Menagerie"
 url: ""
 ---

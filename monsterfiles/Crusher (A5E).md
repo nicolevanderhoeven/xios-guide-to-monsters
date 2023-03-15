@@ -2,7 +2,7 @@
 name: Crusher (A5E)
 size: Large
 type: Construct
-environment: 
+environment: Laboratory, Ruin, Sewer
 hp: 115
 ac: 20
 initiative: -1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 10
 tags: clockwork
-source: "Monstrous Menagerie: 53"
+source: "Monstrous Menagerie"
 url: ""
 ---

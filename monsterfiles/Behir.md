@@ -2,16 +2,16 @@
 name: Behir
 size: Huge
 type: Monstrosity
-environment: Caverns, Plane of Earth, Ruin
+environment: cave, mountain, underground
 hp: 168
-ac: 16
-initiative: 2
-alignment: 
+ac: 17
+initiative: 3
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
 cr: 11
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 25"
 url: ""
 ---

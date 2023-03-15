@@ -2,16 +2,16 @@
 name: Ettercap
 size: Medium
 type: Monstrosity
-environment: Forest, Jungle, Swamp
+environment: cave, dungeon, forest, ruins, swamp, underground
 hp: 44
 ac: 13
-initiative: 3
-alignment: 
+initiative: 2
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "HotDQ supplement: 9, Monster Manual: 131"
 url: ""
 ---

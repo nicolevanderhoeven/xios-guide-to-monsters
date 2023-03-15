@@ -2,16 +2,16 @@
 name: Quipper
 size: Tiny
 type: Beast
-environment: Sewer, Water
+environment: aquatic
 hp: 1
 ac: 13
 initiative: 3
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 41, Monster Manual: 335"
 url: ""
 ---

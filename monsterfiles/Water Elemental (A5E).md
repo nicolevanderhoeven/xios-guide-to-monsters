@@ -2,7 +2,7 @@
 name: Water Elemental (A5E)
 size: Large
 type: Elemental
-environment: 
+environment: Laboratory, Plane of Water, Water
 hp: 114
 ac: 14
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: 
-source: "Monstrous Menagerie: 194"
+source: "Monstrous Menagerie"
 url: ""
 ---

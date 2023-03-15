@@ -1,8 +1,8 @@
 ---
 name: Dragon Turtle (A5E)
 size: Gargantuan
-type: Dragon (Titan)
-environment: aquatic, coastal
+type: Dragon
+environment: Plane of Water, Water
 hp: 264
 ac: 21
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 17
 tags: dragon
-source: "Monstrous Menagerie: 181"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Giant Toad
 size: Large
 type: Beast
-environment: Jungle, Swamp, Water
-hp: 33
+environment: aquatic, coast, forest, swamp
+hp: 39
 ac: 11
 initiative: 1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 28, Monster Manual: 329221"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Mummy
 size: Medium
 type: Undead
-environment: Desert, Ruin, Shadowfell, Temple, Tomb
-hp: 67
+environment: desert, dungeon
+hp: 58
 ac: 11
 initiative: -1
-alignment: 
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 37, Monster Manual: 228"
 url: ""
 ---

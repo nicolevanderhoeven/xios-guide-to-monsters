@@ -2,16 +2,16 @@
 name: Solar
 size: Large
 type: Celestial
-environment: Astral Plane, Temple
-hp: 319
+environment: planar
+hp: 241
 ac: 21
 initiative: 6
-alignment: 
+alignment: lawful good
 legendary: legendary
 lair: 
 unique: 
 cr: 21
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 18"
 url: ""
 ---

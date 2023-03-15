@@ -2,7 +2,7 @@
 name: Darkmantle (A5E)
 size: Small
 type: Monstrosity
-environment: caves, underground
+environment: Caverns, Shadowfell
 hp: 22
 ac: 11
 initiative: 1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie: 60"
+source: "Monstrous Menagerie"
 url: ""
 ---

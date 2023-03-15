@@ -1,8 +1,8 @@
 ---
 name: Marilith (A5E)
 size: Large
-type: Fiend (Demon)
-environment: 
+type: Fiend
+environment: Abyss
 hp: 220
 ac: 18
 initiative: 6
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 16
 tags: demon
-source: "Monstrous Menagerie: 71"
+source: "Monstrous Menagerie"
 url: ""
 ---

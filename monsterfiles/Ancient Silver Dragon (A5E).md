@@ -1,8 +1,8 @@
 ---
 name: Ancient Silver Dragon (A5E)
 size: Gargantuan
-type: Dragon (Shapechanger)
-environment: caves, mountains
+type: Dragon
+environment: Feywild, Mountains
 hp: 429
 ac: 22
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 25
 tags: dragon
-source: "Monstrous Menagerie: 176"
+source: "Monstrous Menagerie"
 url: ""
 ---

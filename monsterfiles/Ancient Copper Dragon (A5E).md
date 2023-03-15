@@ -1,8 +1,8 @@
 ---
 name: Ancient Copper Dragon (A5E)
 size: Gargantuan
-type: Dragon (shapechanger)
-environment: mountains
+type: Dragon
+environment: Hills, Mountains
 hp: 367
 ac: 21
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 23
 tags: dragon, shapechanger
-source: "Monstrous Menagerie: 164"
+source: "Monstrous Menagerie"
 url: ""
 ---

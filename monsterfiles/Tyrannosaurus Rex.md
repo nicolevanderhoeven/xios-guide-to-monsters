@@ -2,16 +2,16 @@
 name: Tyrannosaurus Rex
 size: Huge
 type: Beast
-environment: Grassland, Jungle, Mountains, Swamp
-hp: 126
+environment: grassland
+hp: 136
 ac: 13
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 8
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 48, Monster Manual: 80"
 url: ""
 ---

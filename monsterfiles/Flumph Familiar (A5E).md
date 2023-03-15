@@ -2,7 +2,7 @@
 name: Flumph Familiar (A5E)
 size: Small
 type: Aberration
-environment: aquatic, caves, coastal
+environment: Caverns, Water
 hp: 7
 ac: 12
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 0.125
 tags: 
-source: "Monstrous Menagerie: 207"
+source: "Monstrous Menagerie"
 url: ""
 ---

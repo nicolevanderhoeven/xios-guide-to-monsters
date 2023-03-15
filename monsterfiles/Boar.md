@@ -2,16 +2,16 @@
 name: Boar
 size: Medium
 type: Beast
-environment: Forest
+environment: forest, grassland
 hp: 11
 ac: 11
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 13, Monster Manual: 319, Player's Handbook: 304"
 url: ""
 ---

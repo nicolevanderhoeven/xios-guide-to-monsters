@@ -2,7 +2,7 @@
 name: Ettercap (A5E)
 size: Medium
 type: Monstrosity
-environment: forests, swamps
+environment: Forest, Jungle, Swamp
 hp: 44
 ac: 13
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie: 196"
+source: "Monstrous Menagerie"
 url: ""
 ---

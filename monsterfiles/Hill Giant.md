@@ -2,16 +2,16 @@
 name: Hill Giant
 size: Huge
 type: Giant
-environment: Feywild, Forest, Mountains, Plane of Earth, Ruin
+environment: arctic, coast, grassland
 hp: 105
 ac: 13
 initiative: -1
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 5
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 32, Monster Manual: 155"
 url: ""
 ---

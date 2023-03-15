@@ -2,7 +2,7 @@
 name: Adult Bronze Dragon (A5E)
 size: Huge
 type: Dragon
-environment: caves, aquatic, coastal
+environment: Water
 hp: 287
 ac: 18
 initiative: 0
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 18
 tags: dragon
-source: "Monstrous Menagerie: 161"
+source: "Monstrous Menagerie"
 url: ""
 ---

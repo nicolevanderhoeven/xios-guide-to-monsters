@@ -2,16 +2,16 @@
 name: Walking Statue (A5E)
 size: Large
 type: Construct
-environment: 
+environment: Laboratory, Ruin
 hp: 66
 ac: 16
-initiative: 3
+initiative: -1
 alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: animated objects
-source: "Monstrous Menagerie: 24"
+source: "Monstrous Menagerie"
 url: ""
 ---

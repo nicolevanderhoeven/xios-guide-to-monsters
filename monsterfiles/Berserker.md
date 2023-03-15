@@ -2,16 +2,16 @@
 name: Berserker
 size: Medium
 type: Humanoid
-environment: Desert, Forest, Grassland, Hills, Jungle, Mountains, Swamp, Tundra
-hp: 45
+environment: arctic, cave, desert, forest, grassland, mountain, swamp, urban
+hp: 67
 ac: 13
-initiative: 0
-alignment: 
+initiative: 1
+alignment: any chaotic
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 53, HotDQ supplement: 6, Monster Manual: 344"
 url: ""
 ---

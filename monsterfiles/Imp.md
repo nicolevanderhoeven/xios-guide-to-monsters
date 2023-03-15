@@ -2,16 +2,16 @@
 name: Imp
 size: Tiny
 type: Fiend
-environment: Hell
-hp: 14
+environment: dungeon, planar
+hp: 10
 ac: 13
 initiative: 3
-alignment: 
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 0.5
+cr: 1
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 76, Player's Handbook: 306"
 url: ""
 ---

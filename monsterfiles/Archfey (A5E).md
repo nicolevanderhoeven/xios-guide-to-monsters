@@ -2,7 +2,7 @@
 name: Archfey (A5E)
 size: Medium
 type: Fey
-environment: forests, swamps
+environment: Feywild, Forest, Swamp
 hp: 330
 ac: 16
 initiative: 5
@@ -10,8 +10,8 @@ alignment:
 legendary: 
 lair: 
 unique: 
-cr: 24
+cr: 12
 tags: 
-source: "Monstrous Menagerie: 201"
+source: "Monstrous Menagerie"
 url: ""
 ---

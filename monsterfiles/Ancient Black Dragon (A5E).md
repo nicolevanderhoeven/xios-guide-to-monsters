@@ -2,7 +2,7 @@
 name: Ancient Black Dragon (A5E)
 size: Gargantuan
 type: Dragon
-environment: swamps, ruins
+environment: Swamp
 hp: 367
 ac: 22
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 23
 tags: dragon
-source: "Monstrous Menagerie: 100"
+source: "Monstrous Menagerie"
 url: ""
 ---

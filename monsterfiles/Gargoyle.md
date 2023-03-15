@@ -2,16 +2,16 @@
 name: Gargoyle
 size: Medium
 type: Elemental
-environment: Hills, Laboratory, Mountains, Plane of Earth, Ruin, Settlement, Temple, Tomb
-hp: 45
+environment: dungeon, urban
+hp: 52
 ac: 15
 initiative: 0
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 21, HotDQ supplement: 9, Monster Manual: 140"
 url: ""
 ---

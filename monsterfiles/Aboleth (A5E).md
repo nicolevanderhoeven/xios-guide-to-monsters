@@ -2,7 +2,7 @@
 name: Aboleth (A5E)
 size: Large
 type: Aberration
-environment: aquatic, coastal
+environment: Caverns, Plane of Water, Sewer, Water
 hp: 171
 ac: 17
 initiative: 1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 11
 tags: 
-source: "Monstrous Menagerie: 16"
+source: "Monstrous Menagerie"
 url: ""
 ---

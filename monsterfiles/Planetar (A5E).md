@@ -2,7 +2,7 @@
 name: Planetar (A5E)
 size: Large
 type: Celestial
-environment: 
+environment: Astral Plane, Temple
 hp: 250
 ac: 19
 initiative: 6
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 16
 tags: planetar
-source: "Monstrous Menagerie: 20"
+source: "Monstrous Menagerie"
 url: ""
 ---

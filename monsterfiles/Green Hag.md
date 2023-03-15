@@ -2,16 +2,16 @@
 name: Green Hag
 size: Medium
 type: Fey
-environment: Caverns, Feywild, Forest, Jungle, Ruin, Settlement, Shadowfell, Swamp
-hp: 71
-ac: 14
-initiative: 2
-alignment: 
+environment: forest, swamp
+hp: 82
+ac: 17
+initiative: 1
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 177"
 url: ""
 ---

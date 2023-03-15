@@ -1,17 +1,17 @@
 ---
 name: Centaur
 size: Large
-type: Fey
-environment: Feywild, Forest, Grassland
+type: Monstrosity
+environment: coast, desert, grassland
 hp: 45
-ac: 13
-initiative: 3
-alignment: 
+ac: 12
+initiative: 2
+alignment: neutral good
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 14, Monster Manual: 38"
 url: ""
 ---

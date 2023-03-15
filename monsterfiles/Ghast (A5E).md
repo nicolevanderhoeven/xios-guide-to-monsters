@@ -2,7 +2,7 @@
 name: Ghast (A5E)
 size: Medium
 type: Undead
-environment: 
+environment: Abyss, Caverns, Desert, Forest, Grassland, Hills, Mountains, Ruin, Sewer, Shadowfell, Swamp, Temple, Tomb, Tundra
 hp: 36
 ac: 13
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie: 230"
+source: "Monstrous Menagerie"
 url: ""
 ---

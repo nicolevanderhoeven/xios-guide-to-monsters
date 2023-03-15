@@ -2,7 +2,7 @@
 name: Divi Noble (A5E)
 size: Large
 type: Elemental
-environment: 
+environment: Caverns, Plane of Earth
 hp: 345
 ac: 18
 initiative: 1
@@ -10,8 +10,8 @@ alignment:
 legendary: 
 lair: 
 unique: 
-cr: 22
+cr: 11
 tags: 
-source: "Monstrous Menagerie: 217"
+source: "Monstrous Menagerie"
 url: ""
 ---

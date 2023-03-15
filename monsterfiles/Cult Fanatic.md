@@ -2,16 +2,16 @@
 name: Cult Fanatic
 size: Medium
 type: Humanoid
-environment: Desert, Forest, Hills, Jungle, Ruin, Settlement, Sewer, Temple
-hp: 39
-ac: 12
+environment: dungeon, urban
+hp: 33
+ac: 13
 initiative: 2
-alignment: 
+alignment: non-good
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 345, Princes of the Apocalypse Online Supplement v1.0: 12Campaign Setting: 239"
 url: ""
 ---

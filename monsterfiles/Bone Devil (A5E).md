@@ -1,8 +1,8 @@
 ---
 name: Bone Devil (A5E)
 size: Large
-type: Fiend (Devil)
-environment: 
+type: Fiend
+environment: Hell
 hp: 142
 ac: 19
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 9
 tags: devil
-source: "Monstrous Menagerie: 80"
+source: "Monstrous Menagerie"
 url: ""
 ---

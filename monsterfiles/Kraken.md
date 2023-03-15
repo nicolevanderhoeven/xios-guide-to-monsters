@@ -2,16 +2,16 @@
 name: Kraken
 size: Gargantuan
 type: Monstrosity
-environment: Plane of Water, Water
-hp: 444
-ac: 20
+environment: aquatic, coast
+hp: 472
+ac: 18
 initiative: 0
-alignment: 
+alignment: chaotic evil
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 25
+cr: 23
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 197"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Tyrannosaurus Rex (A5E)
 size: Huge
 type: Beast
-environment: forests, plains, desert
+environment: Grassland, Jungle, Mountains, Swamp
 hp: 126
 ac: 13
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 8
 tags: dinosaur
-source: "Monstrous Menagerie: 92"
+source: "Monstrous Menagerie"
 url: ""
 ---

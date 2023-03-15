@@ -2,7 +2,7 @@
 name: Doppelganger (A5E)
 size: Medium
 type: Monstrosity
-environment: 
+environment: Caverns, Forest, Grassland, Hills, Laboratory, Ruin, Settlement, Sewer, Shadowfell
 hp: 52
 ac: 14
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie: 94"
+source: "Monstrous Menagerie"
 url: ""
 ---

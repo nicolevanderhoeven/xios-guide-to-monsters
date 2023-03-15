@@ -1,8 +1,8 @@
 ---
 name: Chain Devil (A5E)
 size: Medium
-type: Fiend (Devil)
-environment: 
+type: Fiend
+environment: Hell
 hp: 127
 ac: 17
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 9
 tags: devil
-source: "Monstrous Menagerie: 80"
+source: "Monstrous Menagerie"
 url: ""
 ---

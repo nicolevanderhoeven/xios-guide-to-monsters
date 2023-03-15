@@ -2,16 +2,16 @@
 name: Chuul
 size: Large
 type: Aberration
-environment: Caverns, Plane of Water, Water
+environment: aquatic, coast
 hp: 93
 ac: 16
 initiative: 0
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 4
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 40, Princes of the Apocalypse Online Supplement v1.0: 11"
 url: ""
 ---

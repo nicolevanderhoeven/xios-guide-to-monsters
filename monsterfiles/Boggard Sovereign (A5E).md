@@ -2,7 +2,7 @@
 name: Boggard Sovereign (A5E)
 size: Large
 type: Humanoid
-environment: swamps, marshes, forests
+environment: Jungle, Plane of Water, Sewer, Swamp
 hp: 67
 ac: 13
 initiative: 1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie: 36"
+source: "Monstrous Menagerie"
 url: ""
 ---

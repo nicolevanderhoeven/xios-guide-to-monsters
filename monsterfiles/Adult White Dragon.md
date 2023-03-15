@@ -2,16 +2,16 @@
 name: Adult White Dragon
 size: Huge
 type: Dragon
-environment: Tundra
-hp: 250
+environment: arctic, cave, underground
+hp: 200
 ac: 18
-initiative: 1
-alignment: 
+initiative: 0
+alignment: chaotic evil
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 16
+cr: 13
 tags: 
-source: "Monstrous Menagerie"
+source: "HotDQ supplement: 5, Monster Manual: 101"
 url: ""
 ---

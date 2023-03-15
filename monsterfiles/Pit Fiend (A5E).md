@@ -1,8 +1,8 @@
 ---
 name: Pit Fiend (A5E)
 size: Large
-type: Fiend (Devil)
-environment: 
+type: Fiend
+environment: Hell
 hp: 300
 ac: 19
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 20
 tags: devil
-source: "Monstrous Menagerie: 86"
+source: "Monstrous Menagerie"
 url: ""
 ---

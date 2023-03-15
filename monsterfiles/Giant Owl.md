@@ -2,16 +2,16 @@
 name: Giant Owl
 size: Large
 type: Beast
-environment: Feywild, Forest
+environment: forest, grassland, urban
 hp: 19
 ac: 12
 initiative: 2
-alignment: 
+alignment: neutral
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 26, Monster Manual: 327"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Aboleth
 size: Large
 type: Aberration
-environment: Caverns, Plane of Water, Sewer, Water
-hp: 171
+environment: aquatic, coast
+hp: 135
 ac: 17
-initiative: 1
-alignment: 
+initiative: -1
+alignment: lawful evil
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 11
+cr: 10
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 13, Princes of the Apocalypse Online Supplement v1.0: 6"
 url: ""
 ---

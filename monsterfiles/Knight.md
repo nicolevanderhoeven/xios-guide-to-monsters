@@ -2,16 +2,16 @@
 name: Knight
 size: Medium
 type: Humanoid
-environment: Grassland, Hills, Mountains, Settlement, Temple
+environment: urban
 hp: 52
 ac: 18
-initiative: 1
-alignment: 
+initiative: 0
+alignment: any
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 54, HotDQ supplement: 12, Monster Manual: 347"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Goat
 size: Medium
 type: Beast
-environment: Hills, Mountains, Settlement
+environment: grassland, urban
 hp: 4
 ac: 10
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 30, Monster Manual: 330"
 url: ""
 ---

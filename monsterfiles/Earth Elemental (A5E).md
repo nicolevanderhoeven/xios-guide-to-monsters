@@ -2,7 +2,7 @@
 name: Earth Elemental (A5E)
 size: Large
 type: Elemental
-environment: 
+environment: Laboratory, Plane of Earth
 hp: 114
 ac: 17
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: 
-source: "Monstrous Menagerie: 192"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Azer (A5E)
 size: Medium
 type: Elemental
-environment: 
+environment: Caverns, Plane of Fire
 hp: 39
 ac: 16
 initiative: 1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie: 28"
+source: "Monstrous Menagerie"
 url: ""
 ---

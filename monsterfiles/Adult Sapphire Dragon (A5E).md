@@ -1,8 +1,8 @@
 ---
 name: Adult Sapphire Dragon (A5E)
-size: Gargantuan
+size: Huge
 type: Dragon
-environment: 
+environment: Caverns
 hp: 304
 ac: 19
 initiative: 6
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 19
 tags: dragon
-source: "Monstrous Menagerie: 150"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -1,8 +1,8 @@
 ---
 name: Bugbear Chief (A5E)
 size: Medium
-type: Humanoid (Goblinoid)
-environment: 
+type: Humanoid
+environment: Desert, Forest, Grassland, Hills, Jungle, Mountains, Swamp
 hp: 71
 ac: 15
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 4
 tags: 
-source: "Monstrous Menagerie: 38"
+source: "Monstrous Menagerie"
 url: ""
 ---

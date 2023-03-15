@@ -2,16 +2,16 @@
 name: Mummy Lord
 size: Medium
 type: Undead
-environment: Desert, Ruin, Shadowfell, Temple, Tomb
-hp: 221
+environment: desert, dungeon
+hp: 97
 ac: 17
 initiative: 0
-alignment: 
+alignment: lawful evil
 legendary: legendary
-lair: 
+lair: lair
 unique: 
 cr: 15
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 229"
 url: ""
 ---

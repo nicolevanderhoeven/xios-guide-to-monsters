@@ -2,16 +2,16 @@
 name: Owlbear
 size: Large
 type: Monstrosity
-environment: Feywild, Forest, Hills, Jungle, Mountains
+environment: forest, mountain
 hp: 59
 ac: 13
 initiative: 1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 39, Monster Manual: 249"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Blackguard
 size: Medium
 type: Humanoid
-environment: Grassland, Hills, Mountains, Settlement, Temple
-hp: 82
+environment: underground, urban
+hp: 153
 ac: 18
-initiative: 1
-alignment: 
+initiative: 0
+alignment: non-good
 legendary: 
 lair: 
 unique: 
-cr: 5
+cr: 8
 tags: 
-source: "Monstrous Menagerie"
+source: "Volo's Guide to Monsters: 211"
 url: ""
 ---

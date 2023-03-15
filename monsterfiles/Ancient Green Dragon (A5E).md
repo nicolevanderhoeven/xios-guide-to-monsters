@@ -2,7 +2,7 @@
 name: Ancient Green Dragon (A5E)
 size: Gargantuan
 type: Dragon
-environment: forests
+environment: Forest, Jungle
 hp: 420
 ac: 21
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 24
 tags: dragon
-source: "Monstrous Menagerie: 111"
+source: "Monstrous Menagerie"
 url: ""
 ---

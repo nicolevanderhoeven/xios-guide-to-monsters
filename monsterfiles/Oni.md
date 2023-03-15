@@ -2,16 +2,16 @@
 name: Oni
 size: Large
 type: Giant
-environment: 
+environment: dungeon, grassland, ruins, urban
 hp: 110
 ac: 16
 initiative: 0
-alignment: 
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
 cr: 7
 tags: 
 source: "5e SRD"
-url: "https://open5e.com/monsters/oni"
+url: ""
 ---

@@ -2,16 +2,16 @@
 name: Basilisk
 size: Medium
 type: Monstrosity
-environment: Caverns, Desert, Hills, Jungle, Mountains, Plane of Earth, Ruin
+environment: arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground
 hp: 52
 ac: 15
 initiative: -1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 12, Monster Manual: 24"
 url: ""
 ---

@@ -7,8 +7,8 @@ hp: 45
 ac: 12
 initiative: 2
 alignment: lawful evil
-legendary: 
-lair: 
+legendary: 1
+lair: neutral evil
 unique: 
 cr: 6
 tags: 

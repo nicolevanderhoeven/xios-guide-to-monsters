@@ -2,16 +2,16 @@
 name: Hell Hound
 size: Medium
 type: Fiend
-environment: Astral Plane, Desert, Hell, Laboratory, Mountains, Plane of Fire, Shadowfell
-hp: 52
+environment: dungeon, planar, urban
+hp: 45
 ac: 15
-initiative: 2
-alignment: 
+initiative: 1
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 32, Monster Manual: 182"
 url: ""
 ---

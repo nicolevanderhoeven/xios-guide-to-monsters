@@ -1,8 +1,8 @@
 ---
 name: Lemure (A5E)
 size: Medium
-type: Fiend (Devil)
-environment: 
+type: Fiend
+environment: Hell
 hp: 13
 ac: 7
 initiative: -3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 0.125
 tags: devil
-source: "Monstrous Menagerie: 86"
+source: "Monstrous Menagerie"
 url: ""
 ---

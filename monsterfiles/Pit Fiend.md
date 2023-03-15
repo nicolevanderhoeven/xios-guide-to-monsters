@@ -2,16 +2,16 @@
 name: Pit Fiend
 size: Large
 type: Fiend
-environment: Hell
+environment: dungeon, planar
 hp: 300
 ac: 19
-initiative: 3
-alignment: 
+initiative: 2
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
 cr: 20
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 77"
 url: ""
 ---

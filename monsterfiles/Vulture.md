@@ -2,16 +2,16 @@
 name: Vulture
 size: Medium
 type: Beast
-environment: Desert
-hp: 4
+environment: desert, grassland, ruins
+hp: 5
 ac: 10
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 48, Monster Manual: 339"
 url: ""
 ---

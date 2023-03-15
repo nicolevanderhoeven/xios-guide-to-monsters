@@ -1,8 +1,8 @@
 ---
 name: Adult Black Dragon (A5E)
-size: Gargantuan
+size: Huge
 type: Dragon
-environment: swamps, ruins
+environment: Swamp
 hp: 253
 ac: 19
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 17
 tags: dragon
-source: "Monstrous Menagerie: 102"
+source: "Monstrous Menagerie"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Awakened Tree
 size: Huge
 type: Plant
-environment: Forest, Jungle, Swamp
-hp: 51
+environment: forest
+hp: 59
 ac: 13
 initiative: -2
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 10, Monster Manual: 317"
 url: ""
 ---

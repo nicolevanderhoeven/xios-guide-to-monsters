@@ -2,16 +2,16 @@
 name: Bugbear Chief
 size: Medium
 type: Humanoid
-environment: Desert, Forest, Grassland, Hills, Jungle, Mountains, Swamp
-hp: 71
-ac: 15
+environment: cave, dungeon, forest, mountain, ruins, urban
+hp: 65
+ac: 17
 initiative: 2
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 4
+cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 33"
 url: ""
 ---

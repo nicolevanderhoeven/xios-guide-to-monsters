@@ -2,7 +2,7 @@
 name: Diplodocus (A5E)
 size: Gargantuan
 type: Beast
-environment: forests, plains, desert
+environment: Grassland, Jungle, Mountains, Swamp
 hp: 139
 ac: 14
 initiative: -1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 7
 tags: dinosaur
-source: "Monstrous Menagerie: 90"
+source: "Monstrous Menagerie"
 url: ""
 ---

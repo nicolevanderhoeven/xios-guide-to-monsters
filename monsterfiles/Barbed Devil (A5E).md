@@ -1,8 +1,8 @@
 ---
 name: Barbed Devil (A5E)
 size: Medium
-type: Fiend (Devil)
-environment: 
+type: Fiend
+environment: Hell
 hp: 102
 ac: 15
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: devil
-source: "Monstrous Menagerie: 78"
+source: "Monstrous Menagerie"
 url: ""
 ---

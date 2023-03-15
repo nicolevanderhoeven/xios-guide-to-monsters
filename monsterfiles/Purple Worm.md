@@ -2,16 +2,16 @@
 name: Purple Worm
 size: Gargantuan
 type: Monstrosity
-environment: Caverns, Mountains
+environment: underground
 hp: 247
 ac: 18
-initiative: -1
-alignment: 
+initiative: -2
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 15
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 255, Princes of the Apocalypse Online Supplement v1.0: 29"
 url: ""
 ---

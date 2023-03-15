@@ -2,16 +2,16 @@
 name: Adult Silver Dragon
 size: Huge
 type: Dragon
-environment: Feywild, Mountains
-hp: 283
+environment: arctic, mountain
+hp: 243
 ac: 19
-initiative: 2
-alignment: 
+initiative: 0
+alignment: lawful good
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 19
+cr: 16
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 117"
 url: ""
 ---

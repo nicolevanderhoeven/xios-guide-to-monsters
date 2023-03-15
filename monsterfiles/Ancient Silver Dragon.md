@@ -2,16 +2,16 @@
 name: Ancient Silver Dragon
 size: Gargantuan
 type: Dragon
-environment: Feywild, Mountains
-hp: 429
+environment: arctic, mountain
+hp: 487
 ac: 22
-initiative: 2
-alignment: 
+initiative: 0
+alignment: lawful good
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 25
+cr: 23
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 116380"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Cloud Giant
 size: Huge
 type: Giant
-environment: Mountains, Plane of Air
-hp: 187
+environment: mountain, planar
+hp: 200
 ac: 14
 initiative: 0
-alignment: 
+alignment: neutral good (50%) or neutral evil (50%)
 legendary: 
 lair: 
 unique: 
-cr: 10
+cr: 9
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 154, Princes of the Apocalypse Online Supplement v1.0: 12"
 url: ""
 ---

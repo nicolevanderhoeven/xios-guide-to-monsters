@@ -2,7 +2,7 @@
 name: Brass Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: caves
+environment: Desert
 hp: 38
 ac: 16
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 2
 tags: dragon
-source: "Monstrous Menagerie: 157"
+source: "Monstrous Menagerie"
 url: ""
 ---

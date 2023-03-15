@@ -2,16 +2,16 @@
 name: Flumph
 size: Small
 type: Aberration
-environment: Caverns, Water
+environment: dungeon, underground
 hp: 7
 ac: 12
 initiative: 2
-alignment: 
+alignment: lawful good
 legendary: 
 lair: 
 unique: 
 cr: 0.125
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 135"
 url: ""
 ---

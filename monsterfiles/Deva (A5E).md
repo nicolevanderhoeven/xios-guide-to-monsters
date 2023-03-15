@@ -2,7 +2,7 @@
 name: Deva (A5E)
 size: Medium
 type: Celestial
-environment: 
+environment: Astral Plane, Temple
 hp: 153
 ac: 17
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 10
 tags: angel
-source: "Monstrous Menagerie: 19"
+source: "Monstrous Menagerie"
 url: ""
 ---

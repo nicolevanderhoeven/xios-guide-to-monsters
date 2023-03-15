@@ -2,7 +2,7 @@
 name: Cyclops (A5E)
 size: Huge
 type: Giant
-environment: forests, caves
+environment: Desert, Grassland, Hills, Mountains, Plane of Earth, Ruin, Swamp
 hp: 126
 ac: 13
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 7
 tags: 
-source: "Monstrous Menagerie: 58"
+source: "Monstrous Menagerie"
 url: ""
 ---

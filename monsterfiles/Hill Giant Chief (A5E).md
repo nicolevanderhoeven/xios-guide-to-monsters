@@ -2,7 +2,7 @@
 name: Hill Giant Chief (A5E)
 size: Huge
 type: Giant
-environment: hills, mountains
+environment: Feywild, Forest, Mountains, Plane of Earth, Ruin
 hp: 126
 ac: 13
 initiative: -1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 8
 tags: 
-source: "Monstrous Menagerie: 238"
+source: "Monstrous Menagerie"
 url: ""
 ---

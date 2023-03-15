@@ -2,7 +2,7 @@
 name: Fire Giant (A5E)
 size: Huge
 type: Giant
-environment: underground, mountains, caves
+environment: Desert, Mountains, Plane of Fire, Settlement
 hp: 162
 ac: 18
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 11
 tags: 
-source: "Monstrous Menagerie: 234"
+source: "Monstrous Menagerie"
 url: ""
 ---

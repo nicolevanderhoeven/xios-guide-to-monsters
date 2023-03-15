@@ -2,16 +2,16 @@
 name: Raven
 size: Tiny
 type: Beast
-environment: Forest, Swamp
+environment: forest, grassland
 hp: 1
 ac: 12
 initiative: 2
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 42, Monster Manual: 335, Player's Handbook: 309"
 url: ""
 ---

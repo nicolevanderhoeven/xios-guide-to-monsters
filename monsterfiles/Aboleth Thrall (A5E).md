@@ -2,7 +2,7 @@
 name: Aboleth Thrall (A5E)
 size: Medium
 type: Humanoid
-environment: aquatic, coastal
+environment: Caverns, Settlement, Water
 hp: 45
 ac: 12
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie:17"
+source: "Monstrous Menagerie"
 url: ""
 ---

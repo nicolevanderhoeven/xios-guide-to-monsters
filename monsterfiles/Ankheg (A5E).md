@@ -2,7 +2,7 @@
 name: Ankheg (A5E)
 size: Large
 type: Monstrosity
-environment: 
+environment: Desert, Grassland, Hills, Settlement
 hp: 45
 ac: 14
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: ankheg
-source: "Monstrous Menagerie: 26"
+source: "Monstrous Menagerie"
 url: ""
 ---

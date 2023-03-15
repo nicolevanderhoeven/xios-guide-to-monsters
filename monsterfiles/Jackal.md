@@ -2,16 +2,16 @@
 name: Jackal
 size: Small
 type: Beast
-environment: Desert, Grassland, Ruin, Shadowfell
+environment: desert, grassland
 hp: 3
 ac: 12
 initiative: 2
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 33, Monster Manual: 331"
 url: ""
 ---

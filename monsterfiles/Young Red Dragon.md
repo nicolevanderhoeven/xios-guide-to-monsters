@@ -2,16 +2,16 @@
 name: Young Red Dragon
 size: Large
 type: Dragon
-environment: 
+environment: mountain
 hp: 178
 ac: 18
 initiative: 0
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 10
 tags: 
 source: "5e SRD"
-url: "https://open5e.com/monsters/young-red-dragon"
+url: ""
 ---

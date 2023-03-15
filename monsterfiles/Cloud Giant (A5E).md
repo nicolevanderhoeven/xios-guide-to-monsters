@@ -2,7 +2,7 @@
 name: Cloud Giant (A5E)
 size: Huge
 type: Giant
-environment: mountains
+environment: Mountains, Plane of Air
 hp: 187
 ac: 14
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 10
 tags: 
-source: "Monstrous Menagerie: 232"
+source: "Monstrous Menagerie"
 url: ""
 ---

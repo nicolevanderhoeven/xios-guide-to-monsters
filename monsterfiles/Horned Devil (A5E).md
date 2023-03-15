@@ -1,8 +1,8 @@
 ---
 name: Horned Devil (A5E)
 size: Large
-type: Fiend (Devil)
-environment: 
+type: Fiend
+environment: Hell
 hp: 168
 ac: 18
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 11
 tags: devil
-source: "Monstrous Menagerie: 83"
+source: "Monstrous Menagerie"
 url: ""
 ---

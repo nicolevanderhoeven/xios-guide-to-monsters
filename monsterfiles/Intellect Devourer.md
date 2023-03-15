@@ -2,16 +2,16 @@
 name: Intellect Devourer
 size: Tiny
 type: Aberration
-environment: Astral Plane, Caverns, Laboratory, Ruin, Sewer
-hp: 36
-ac: 14
-initiative: 3
-alignment: 
+environment: dungeon, underground
+hp: 21
+ac: 12
+initiative: 2
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 3
+cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 191"
 url: ""
 ---

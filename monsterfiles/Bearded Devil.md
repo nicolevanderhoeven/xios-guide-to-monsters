@@ -2,16 +2,16 @@
 name: Bearded Devil
 size: Medium
 type: Fiend
-environment: Hell
+environment: dungeon, planar
 hp: 52
 ac: 13
 initiative: 2
-alignment: 
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 70"
 url: ""
 ---

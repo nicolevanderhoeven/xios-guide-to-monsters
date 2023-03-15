@@ -2,7 +2,7 @@
 name: Ettin (A5E)
 size: Large
 type: Giant
-environment: hills, ruins
+environment: Hills, Ruin
 hp: 85
 ac: 12
 initiative: -1
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 4
 tags: 
-source: "Monstrous Menagerie: 197"
+source: "Monstrous Menagerie"
 url: ""
 ---

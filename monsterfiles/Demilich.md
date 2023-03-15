@@ -2,16 +2,16 @@
 name: Demilich
 size: Tiny
 type: Undead
-environment: Laboratory, Ruin, Shadowfell, Tomb
-hp: 159
+environment: dungeon
+hp: 80
 ac: 20
-initiative: 7
-alignment: 
+initiative: 5
+alignment: neutral evil
 legendary: legendary
 lair: 
 unique: 
 cr: 18
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 48"
 url: ""
 ---

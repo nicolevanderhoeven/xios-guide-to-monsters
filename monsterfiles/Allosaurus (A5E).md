@@ -2,7 +2,7 @@
 name: Allosaurus (A5E)
 size: Huge
 type: Beast
-environment: forests, plains, desert
+environment: Grassland, Jungle, Mountains, Swamp
 hp: 57
 ac: 14
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 3
 tags: dinosaur
-source: "Monstrous Menagerie: 89"
+source: "Monstrous Menagerie"
 url: ""
 ---

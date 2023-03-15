@@ -2,7 +2,7 @@
 name: Bulette (A5E)
 size: Large
 type: Monstrosity
-environment: underground, forests
+environment: Desert, Forest, Grassland, Hills, Mountains, Plane of Earth, Ruin, Settlement
 hp: 95
 ac: 17
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 6
 tags: 
-source: "Monstrous Menagerie: 40"
+source: "Monstrous Menagerie"
 url: ""
 ---

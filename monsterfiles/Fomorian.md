@@ -1,17 +1,17 @@
 ---
 name: Fomorian
 size: Huge
-type: Fey
-environment: Caverns, Feywild
-hp: 138
-ac: 15
+type: Giant
+environment: cave, underground
+hp: 149
+ac: 14
 initiative: 0
-alignment: 
-legendary: legendary
+alignment: chaotic evil
+legendary: 
 lair: 
 unique: 
 cr: 8
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 136"
 url: ""
 ---

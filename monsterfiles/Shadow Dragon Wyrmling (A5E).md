@@ -2,7 +2,7 @@
 name: Shadow Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: swamps, ruins
+environment: Caverns, Shadowfell
 hp: 52
 ac: 16
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 3
 tags: dragon
-source: "Monstrous Menagerie: 137"
+source: "Monstrous Menagerie"
 url: ""
 ---

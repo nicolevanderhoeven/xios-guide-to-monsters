@@ -2,7 +2,7 @@
 name: Ghoul (A5E)
 size: Medium
 type: Undead
-environment: 
+environment: Abyss, Caverns, Desert, Forest, Grassland, Hills, Mountains, Ruin, Sewer, Shadowfell, Swamp, Temple, Tomb, Tundra
 hp: 22
 ac: 12
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 1
 tags: 
-source: "Monstrous Menagerie: 229"
+source: "Monstrous Menagerie"
 url: ""
 ---

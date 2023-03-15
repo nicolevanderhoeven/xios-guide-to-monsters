@@ -2,16 +2,16 @@
 name: Eagle
 size: Small
 type: Beast
-environment: Hills, Mountains
+environment: arctic, grassland, mountain
 hp: 3
 ac: 12
 initiative: 2
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 17, Monster Manual: 322"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Black Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: swamps, ruins
+environment: Swamp
 hp: 44
 ac: 17
 initiative: 3
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 2
 tags: dragon
-source: "Monstrous Menagerie: 103"
+source: "Monstrous Menagerie"
 url: ""
 ---

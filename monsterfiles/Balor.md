@@ -2,16 +2,16 @@
 name: Balor
 size: Huge
 type: Fiend
-environment: Abyss
-hp: 299
+environment: dungeon, planar
+hp: 262
 ac: 19
-initiative: 4
-alignment: 
+initiative: 2
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 19
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 55"
 url: ""
 ---

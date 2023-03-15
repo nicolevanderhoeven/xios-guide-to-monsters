@@ -2,16 +2,16 @@
 name: Cloaker
 size: Large
 type: Aberration
-environment: Caverns, Laboratory, Sewer
-hp: 97
-ac: 13
-initiative: 3
-alignment: 
+environment: cave, dungeon, underground
+hp: 78
+ac: 14
+initiative: 2
+alignment: chaotic neutral
 legendary: 
 lair: 
 unique: 
 cr: 8
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 41, Princes of the Apocalypse Online Supplement v1.0: 1159"
 url: ""
 ---

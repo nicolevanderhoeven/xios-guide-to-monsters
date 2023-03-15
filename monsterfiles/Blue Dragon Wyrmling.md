@@ -2,16 +2,16 @@
 name: Blue Dragon Wyrmling
 size: Medium
 type: Dragon
-environment: Desert
-hp: 58
+environment: desert
+hp: 52
 ac: 17
-initiative: 1
-alignment: 
+initiative: 0
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 91"
 url: ""
 ---

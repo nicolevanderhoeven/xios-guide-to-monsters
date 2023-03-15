@@ -2,7 +2,7 @@
 name: Adult River Dragon (A5E)
 size: Huge
 type: Dragon
-environment: rivers
+environment: Grassland, Water
 hp: 252
 ac: 18
 initiative: 5
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 17
 tags: dragon
-source: "Monstrous Menagerie: 132"
+source: "Monstrous Menagerie"
 url: ""
 ---

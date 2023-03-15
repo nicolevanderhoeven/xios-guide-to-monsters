@@ -2,7 +2,7 @@
 name: Adult Green Dragon (A5E)
 size: Huge
 type: Dragon
-environment: forests
+environment: Forest, Jungle
 hp: 287
 ac: 18
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 18
 tags: dragon
-source: "Monstrous Menagerie: 113"
+source: "Monstrous Menagerie"
 url: ""
 ---

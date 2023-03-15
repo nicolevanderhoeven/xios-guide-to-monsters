@@ -2,7 +2,7 @@
 name: Earth Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: mountains, hills, deserts
+environment: Desert, Hills, Mountains
 hp: 58
 ac: 17
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 3
 tags: dragon
-source: "Monstrous Menagerie: 128"
+source: "Monstrous Menagerie"
 url: ""
 ---

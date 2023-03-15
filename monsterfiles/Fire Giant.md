@@ -2,16 +2,16 @@
 name: Fire Giant
 size: Huge
 type: Giant
-environment: Desert, Mountains, Plane of Fire, Settlement
+environment: mountain, planar
 hp: 162
 ac: 18
-initiative: 0
-alignment: 
+initiative: -1
+alignment: lawful evil
 legendary: 
 lair: 
 unique: 
-cr: 11
+cr: 9
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 19, Monster Manual: 154"
 url: ""
 ---

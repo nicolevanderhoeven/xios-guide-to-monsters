@@ -1,8 +1,8 @@
 ---
 name: Adult Gold Dragon (A5E)
 size: Huge
-type: Dragon (Shapechanger)
-environment: ruins
+type: Dragon
+environment: Astral Plane, Grassland, Ruin, Water
 hp: 324
 ac: 19
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 20
 tags: dragon
-source: "Monstrous Menagerie: 172"
+source: "Monstrous Menagerie"
 url: ""
 ---

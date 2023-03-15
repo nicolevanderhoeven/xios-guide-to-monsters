@@ -2,16 +2,16 @@
 name: Guardian Naga
 size: Large
 type: Monstrosity
-environment: Astral Plane, Caverns, Desert, Forest, Jungle, Mountains, Ruin, Temple
-hp: 136
-ac: 18
-initiative: 4
-alignment: 
+environment: cave, coast, forest, ruins
+hp: 75
+ac: 15
+initiative: 3
+alignment: lawful good
 legendary: 
 lair: 
 unique: 
 cr: 10
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 234"
 url: ""
 ---

@@ -2,16 +2,16 @@
 name: Ancient Brass Dragon
 size: Gargantuan
 type: Dragon
-environment: Desert
-hp: 367
+environment: cave, underground
+hp: 297
 ac: 20
 initiative: 0
-alignment: 
+alignment: chaotic good
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 22
+cr: 20
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 104"
 url: ""
 ---

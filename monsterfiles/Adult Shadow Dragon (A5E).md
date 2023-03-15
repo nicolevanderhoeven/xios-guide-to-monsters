@@ -2,7 +2,7 @@
 name: Adult Shadow Dragon (A5E)
 size: Huge
 type: Dragon
-environment: swamps, ruins
+environment: Caverns, Shadowfell
 hp: 212
 ac: 18
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 19
 tags: dragon
-source: "Monstrous Menagerie: 136"
+source: "Monstrous Menagerie"
 url: ""
 ---

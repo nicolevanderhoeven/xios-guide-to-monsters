@@ -2,7 +2,7 @@
 name: Chimera (A5E)
 size: Large
 type: Monstrosity
-environment: 
+environment: Desert, Feywild, Forest, Grassland, Hills, Mountains, Sewer, Swamp, Tundra, Water
 hp: 114
 ac: 13
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 7
 tags: 
-source: "Monstrous Menagerie: 45"
+source: "Monstrous Menagerie"
 url: ""
 ---

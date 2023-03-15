@@ -2,7 +2,7 @@
 name: Centaur (A5E)
 size: Large
 type: Fey
-environment: 
+environment: Feywild, Forest, Grassland
 hp: 45
 ac: 13
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie: 44"
+source: "Monstrous Menagerie"
 url: ""
 ---

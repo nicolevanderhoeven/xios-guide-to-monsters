@@ -1,8 +1,8 @@
 ---
 name: Glabrezu (A5E)
 size: Large
-type: Fiend (Demon)
-environment: 
+type: Fiend
+environment: Abyss
 hp: 157
 ac: 17
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 10
 tags: demon
-source: "Monstrous Menagerie: 68"
+source: "Monstrous Menagerie"
 url: ""
 ---

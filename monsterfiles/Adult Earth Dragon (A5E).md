@@ -1,8 +1,8 @@
 ---
 name: Adult Earth Dragon (A5E)
-size: Gargantuan
+size: Huge
 type: Dragon
-environment: mountains, hills, deserts
+environment: Desert, Hills, Mountains
 hp: 287
 ac: 19
 initiative: 2
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 18
 tags: dragon
-source: "Monstrous Menagerie: 127"
+source: "Monstrous Menagerie"
 url: ""
 ---

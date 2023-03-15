@@ -2,16 +2,16 @@
 name: Ape
 size: Medium
 type: Beast
-environment: Jungle
+environment: forest
 hp: 19
 ac: 12
 initiative: 2
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 10, Monster Manual: 317"
 url: ""
 ---

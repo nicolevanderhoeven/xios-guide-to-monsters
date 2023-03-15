@@ -1,17 +1,17 @@
 ---
 name: Horde Demon (A5E)
 size: Medium
-type: Fiend (Demon)
-environment: 
+type: Fiend
+environment: Abyss
 hp: 52
 ac: 13
-initiative: 3
+initiative: 1
 alignment: 
 legendary: 
 lair: 
 unique: 
 cr: 3
 tags: demon
-source: "Monstrous Menagerie: 70"
+source: "Monstrous Menagerie"
 url: ""
 ---

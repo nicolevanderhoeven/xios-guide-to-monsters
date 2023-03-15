@@ -2,7 +2,7 @@
 name: Storm Giant (A5E)
 size: Huge
 type: Giant
-environment: mountains, aquatic, caves
+environment: Mountains, Plane of Air, Plane of Water, Water
 hp: 230
 ac: 16
 initiative: 2
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 14
 tags: 
-source: "Monstrous Menagerie: 242"
+source: "Monstrous Menagerie"
 url: ""
 ---

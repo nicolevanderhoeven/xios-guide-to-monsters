@@ -2,7 +2,7 @@
 name: Drider (A5E)
 size: Large
 type: Monstrosity
-environment: underground, forests
+environment: Feywild, Ruin
 hp: 114
 ac: 17
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 6
 tags: 
-source: "Monstrous Menagerie: 187"
+source: "Monstrous Menagerie"
 url: ""
 ---

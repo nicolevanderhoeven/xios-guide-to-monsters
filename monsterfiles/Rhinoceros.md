@@ -2,16 +2,16 @@
 name: Rhinoceros
 size: Large
 type: Beast
-environment: Desert, Grassland
+environment: grassland
 hp: 45
-ac: 12
+ac: 11
 initiative: -1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 2
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 42, Monster Manual: 336"
 url: ""
 ---

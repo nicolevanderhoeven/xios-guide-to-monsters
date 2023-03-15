@@ -2,16 +2,16 @@
 name: Rust Monster
 size: Medium
 type: Monstrosity
-environment: Caverns
+environment: dungeon, underground
 hp: 27
-ac: 15
+ac: 14
 initiative: 1
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 262, Princes of the Apocalypse Online Supplement v1.0: 30Campaign Setting: 255Setting: 222"
 url: ""
 ---

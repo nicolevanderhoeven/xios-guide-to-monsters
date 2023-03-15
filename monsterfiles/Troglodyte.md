@@ -2,16 +2,16 @@
 name: Troglodyte
 size: Medium
 type: Humanoid
-environment: Caverns
-hp: 19
+environment: cave, dungeon, underground
+hp: 13
 ac: 11
-initiative: 1
-alignment: 
+initiative: 0
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 0.5
+cr: 0.25
 tags: 
-source: "Monstrous Menagerie"
+source: "HotDQ supplement: 19, Monster Manual: 290, Princes of the Apocalypse Online Supplement v1.0: 34"
 url: ""
 ---

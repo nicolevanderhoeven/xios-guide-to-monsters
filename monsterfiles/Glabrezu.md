@@ -2,16 +2,16 @@
 name: Glabrezu
 size: Large
 type: Fiend
-environment: Abyss
+environment: dungeon, planar
 hp: 157
 ac: 17
-initiative: 3
-alignment: 
+initiative: 2
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 10
+cr: 9
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 58"
 url: ""
 ---

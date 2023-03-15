@@ -1,8 +1,8 @@
 ---
 name: Erinyes (A5E)
 size: Medium
-type: Fiend (Devil)
-environment: 
+type: Fiend
+environment: Hell
 hp: 161
 ac: 18
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 12
 tags: devil
-source: "Monstrous Menagerie: 82"
+source: "Monstrous Menagerie"
 url: ""
 ---

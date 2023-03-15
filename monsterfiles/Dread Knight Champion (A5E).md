@@ -2,8 +2,8 @@
 name: Dread Knight Champion (A5E)
 size: Medium
 type: Undead
-environment: ruins
-hp: 364
+environment: Mountains, Ruin, Shadowfell, Tomb
+hp: 346
 ac: 18
 initiative: 3
 alignment: 
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 23
 tags: 
-source: "Monstrous Menagerie: 185"
+source: "Monstrous Menagerie"
 url: ""
 ---

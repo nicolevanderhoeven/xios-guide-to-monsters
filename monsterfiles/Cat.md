@@ -2,16 +2,16 @@
 name: Cat
 size: Tiny
 type: Beast
-environment: Settlement
+environment: urban
 hp: 2
 ac: 12
 initiative: 2
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 14, Monster Manual: 320, Player's Handbook: 305"
 url: ""
 ---

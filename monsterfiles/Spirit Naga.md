@@ -2,16 +2,16 @@
 name: Spirit Naga
 size: Large
 type: Monstrosity
-environment: Astral Plane, Caverns, Desert, Forest, Jungle, Mountains, Ruin, Temple
-hp: 85
-ac: 16
-initiative: 3
-alignment: 
+environment: cave, dungeon, ruins, underground
+hp: 127
+ac: 18
+initiative: 4
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 8
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 234"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Ancient River Dragon (A5E)
 size: Gargantuan
 type: Dragon
-environment: rivers
+environment: Grassland, Water
 hp: 372
 ac: 20
 initiative: 7
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 23
 tags: dragon
-source: "Monstrous Menagerie: 131"
+source: "Monstrous Menagerie"
 url: ""
 ---

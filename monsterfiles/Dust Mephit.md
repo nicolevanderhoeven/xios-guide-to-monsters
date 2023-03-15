@@ -2,16 +2,16 @@
 name: Dust Mephit
 size: Small
 type: Elemental
-environment: Desert, Mountains, Plane of Air, Plane of Earth
+environment: dungeon, planar, ruins, urban
 hp: 17
 ac: 12
 initiative: 2
-alignment: 
+alignment: neutral evil
 legendary: 
 lair: 
 unique: 
 cr: 0.5
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 215, Princes of the Apocalypse Online Supplement v1.0: 16"
 url: ""
 ---

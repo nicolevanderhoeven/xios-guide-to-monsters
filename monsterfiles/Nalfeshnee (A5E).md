@@ -1,8 +1,8 @@
 ---
 name: Nalfeshnee (A5E)
 size: Large
-type: Fiend (Demon)
-environment: 
+type: Fiend
+environment: Abyss
 hp: 184
 ac: 18
 initiative: 3
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 13
 tags: demon
-source: "Monstrous Menagerie: 72"
+source: "Monstrous Menagerie"
 url: ""
 ---

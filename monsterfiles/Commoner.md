@@ -2,16 +2,16 @@
 name: Commoner
 size: Medium
 type: Humanoid
-environment: Settlement
+environment: urban
 hp: 4
 ac: 10
 initiative: 0
-alignment: 
+alignment: any
 legendary: 
 lair: 
 unique: 
 cr: 0
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 54, HotDQ supplement: 7, Monster Manual: 345"
 url: ""
 ---

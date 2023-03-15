@@ -2,16 +2,16 @@
 name: Hydra
 size: Huge
 type: Monstrosity
-environment: Caverns, Plane of Water, Swamp, Water
+environment: aquatic, cave, coast, dungeon, forest, mountain, ruins, swamp, underground
 hp: 172
-ac: 16
+ac: 15
 initiative: 1
-alignment: 
-legendary: legendary
+alignment: unaligned
+legendary: 
 lair: 
 unique: 
-cr: 9
+cr: 8
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 33, Monster Manual: 190"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Blue Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: caves, coastal, desert, oasis
+environment: Desert
 hp: 58
 ac: 17
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 3
 tags: dragon
-source: "Monstrous Menagerie: 109"
+source: "Monstrous Menagerie"
 url: ""
 ---

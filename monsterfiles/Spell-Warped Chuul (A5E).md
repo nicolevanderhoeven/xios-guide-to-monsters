@@ -1,8 +1,8 @@
 ---
-name: Spell-Warped Chuul (A5E)
+name: Spell-warped Chuul (A5E)
 size: Large
 type: Aberration
-environment: 
+environment: Caverns, Plane of Water, Water
 hp: 127
 ac: 16
 initiative: 0
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 7
 tags: 
-source: "Monstrous Menagerie: 48"
+source: "Monstrous Menagerie"
 url: ""
 ---

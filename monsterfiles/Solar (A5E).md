@@ -2,7 +2,7 @@
 name: Solar (A5E)
 size: Large
 type: Celestial
-environment: 
+environment: Astral Plane, Temple
 hp: 319
 ac: 21
 initiative: 6
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 21
 tags: planetar
-source: "Monstrous Menagerie: 20"
+source: "Monstrous Menagerie"
 url: ""
 ---

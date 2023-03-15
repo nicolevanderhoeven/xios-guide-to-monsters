@@ -2,16 +2,16 @@
 name: Swarm of Quippers
 size: Medium
 type: Beast
-environment: Sewer, Water
+environment: aquatic
 hp: 28
 ac: 13
 initiative: 3
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
 cr: 1
 tags: 
-source: "Monstrous Menagerie"
+source: "Basic Rules v1: 46, Monster Manual: 338"
 url: ""
 ---

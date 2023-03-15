@@ -2,16 +2,16 @@
 name: Dretch
 size: Small
 type: Fiend
-environment: Abyss
+environment: dungeon, planar
 hp: 18
-ac: 10
+ac: 11
 initiative: 0
-alignment: 
+alignment: chaotic evil
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 57"
 url: ""
 ---

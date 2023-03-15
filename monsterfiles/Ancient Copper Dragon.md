@@ -2,16 +2,16 @@
 name: Ancient Copper Dragon
 size: Gargantuan
 type: Dragon
-environment: Hills, Mountains
-hp: 367
+environment: cave, desert, grassland
+hp: 350
 ac: 21
 initiative: 1
-alignment: 
+alignment: chaotic good
 legendary: legendary
-lair: 
+lair: lair
 unique: 
-cr: 23
+cr: 21
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 110"
 url: ""
 ---

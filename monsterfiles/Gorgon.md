@@ -2,16 +2,16 @@
 name: Gorgon
 size: Large
 type: Monstrosity
-environment: Desert, Forest, Grassland, Hills, Plane of Earth
-hp: 110
+environment: mountain, ruins
+hp: 114
 ac: 19
 initiative: 0
-alignment: 
+alignment: unaligned
 legendary: 
 lair: 
 unique: 
-cr: 6
+cr: 5
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 171"
 url: ""
 ---

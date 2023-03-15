@@ -2,7 +2,7 @@
 name: Air Elemental (A5E)
 size: Large
 type: Elemental
-environment: 
+environment: Laboratory, Plane of Air
 hp: 90
 ac: 14
 initiative: 4
@@ -12,6 +12,6 @@ lair:
 unique: 
 cr: 5
 tags: 
-source: "Monstrous Menagerie: 191"
+source: "Monstrous Menagerie"
 url: ""
 ---

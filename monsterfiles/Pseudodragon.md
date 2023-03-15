@@ -2,16 +2,16 @@
 name: Pseudodragon
 size: Tiny
 type: Dragon
-environment: Desert, Forest, Jungle, Mountains, Swamp
+environment: urban
 hp: 7
 ac: 13
 initiative: 2
-alignment: 
+alignment: neutral good
 legendary: 
 lair: 
 unique: 
 cr: 0.25
 tags: 
-source: "Monstrous Menagerie"
+source: "Monster Manual: 254, Player's Handbook: 308"
 url: ""
 ---

@@ -2,7 +2,7 @@
 name: Red Dragon Wyrmling (A5E)
 size: Medium
 type: Dragon
-environment: volcano, mountains
+environment: Mountains
 hp: 75
 ac: 17
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 4
 tags: dragon
-source: "Monstrous Menagerie: 119"
+source: "Monstrous Menagerie"
 url: ""
 ---

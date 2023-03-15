@@ -2,7 +2,7 @@
 name: Adult White Dragon (A5E)
 size: Huge
 type: Dragon
-environment: snow
+environment: Tundra
 hp: 250
 ac: 18
 initiative: 1
@@ -12,6 +12,6 @@ lair: lair
 unique: 
 cr: 16
 tags: dragon
-source: "Monstrous Menagerie: 122"
+source: "Monstrous Menagerie"
 url: ""
 ---
